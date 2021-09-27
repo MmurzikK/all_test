@@ -1,0 +1,1 @@
+https://test.05.ru/api/v2/service/delete/users/79996666667?access_token=gy5QKmD9Kx67Hn4R

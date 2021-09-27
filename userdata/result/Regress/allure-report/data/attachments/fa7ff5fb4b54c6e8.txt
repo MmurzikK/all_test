@@ -1,0 +1,1 @@
+https://stage.05.ru/api/v2/favorite/623277?show_entity=возврат_добавленного_товара

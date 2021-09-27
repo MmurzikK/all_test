@@ -1,0 +1,60 @@
+{
+    "success": true,
+    "result": {
+        "scope": "all client",
+        "token_type": "bearer",
+        "expires": {
+            "access_token": 2262320075,
+            "refresh_token": 2262320075
+        },
+        "user_id": 179534,
+        "access_token": "34a6d12c-1135-11ec-8649-f2dfe89e1ff8",
+        "refresh_token": "34a744f8-1135-11ec-8649-f2dfe89e1ff8",
+        "success": true,
+        "user": {
+            "ID": "179534",
+            "PERSONAL_PHOTO": null,
+            "NAME": "Test",
+            "LAST_NAME": "Test",
+            "SECOND_NAME": "Test",
+            "LOGIN": "79996666666",
+            "EMAIL": "test1101111@yandex.ru",
+            "PERSONAL_PHONE": "79996666666",
+            "UF_SOCIAL_NETWORK_EVENTS": false,
+            "UF_INSTAGRAM_LINK": null,
+            "UF_TELEGRAM_LINK": null,
+            "UF_FACEBOOK_LINK": null,
+            "PERSONAL_GENDER": null,
+            "PERSONAL_BIRTHDAY": null,
+            "UF_EMAIL_CONFIRMED": false,
+            "UF_USER_PROVEREN": "1",
+            "UF_TMP_EMAIL": "test1101111@yandex.ru",
+            "BONUS_CARD": null,
+            "EVENTS_AMOUNT": 0,
+            "ORDERS_AMOUNT": 0,
+            "BASKET_AMOUNT": 0,
+            "BASKET_TOTAL_AMOUNT": 0,
+            "BASKET_PRODUCTS": null,
+            "FAVORITE_AMOUNT": 0,
+            "FAVORITE_PRODUCTS": null,
+            "COMPARE_AMOUNT": 0,
+            "COMPARE_PRODUCTS": null,
+            "UF_PHONE_CONFIRMED": true,
+            "LOCATION": {
+                "ID": "1359",
+                "CODE": "0000495241",
+                "TYPE_NAME": "Город",
+                "LEFT_MARGIN": "3645",
+                "RIGHT_MARGIN": "3654",
+                "CITY_ID": "1359",
+                "REGION_ID": "37",
+                "COUNTRY_ID": "1",
+                "PARENT_ID": "37",
+                "PARENT_NAME": "Республика Дагестан",
+                "PARENT_TYPE": "REGION",
+                "NAME": "Махачкала",
+                "TYPE": "CITY"
+            }
+        }
+    }
+}

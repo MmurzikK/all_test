@@ -1,0 +1,119 @@
+access_token: 8185faa3-ceb4-11eb-a645-0242ac150004
+client_id: ios
+client_secret: 1a418dbe-b9f3-11ea-a96b-b42e9981f624
+headers:
+  Host: 05.ru
+  User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
+  Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+  Accept-Encoding: gzip, deflate, br
+  Connection: keep-alive
+  Cookie: carrotquest_device_guid=606823c7-74b8-4ae4-98ec-c77d8a24b0b4; carrotquest_uid=932906732076666112; carrotquest_auth_token=user.932906732076666112.20197-d95cab7c3c3e82bf041c14e19e.d050924e6c35601555db6ec513dcaefcb5e2acd418337f74; loc_data=MTM1OTox; BITRIX_03700c7bdcf2da0cc80201fd99f6a8fc=YTo2OntzOjU6InNjb3BlIjtzOjEwOiJhbGwgY2xpZW50IjtzOjEwOiJ0b2tlbl90eXBlIjtzOjY6ImJlYXJlciI7czo3OiJleHBpcmVzIjthOjI6e3M6MTI6ImFjY2Vzc190b2tlbiI7aToxNjI0MTA2NzcyO3M6MTM6InJlZnJlc2hfdG9rZW4iO2k6MTYyOTExNzk3Mjt9czo3OiJ1c2VyX2lkIjtpOjA7czoxMjoiYWNjZXNzX3Rva2VuIjtzOjM2OiJmZjViMGMwZi1jZjY5LTExZWItYjczZS1mYTc0M2QzODI4ODUiO3M6MTM6InJlZnJlc2hfdG9rZW4iO3M6MzY6ImZmNWI5OTJjLWNmNjktMTFlYi1iNzNlLWZhNzQzZDM4Mjg4NSI7fQ%3D%3D; LIVECHAT_GUEST_HASH=e2f7d6456652a81ccc47e62432676c0f; BITRIX_SALE_UID=4fb9bebde974137d21bd51b36f287461; BITRIX_CONVERSION_CONTEXT_s1=%7B%22ID%22%3A250%2C%22EXPIRE%22%3A1623963540%2C%22UNIQUE%22%3A%5B%22conversion_visit_day%22%5D%7D; ct_static_user_id=858175; compare[18117]=18117; PHPSESSID=137smfp0knejr1c7btjehrduih; carrotquest_realtime_services_transport=wss; carrotquest_session=7jmn8wp4n7afltl5c01488pwk7fgy0vy; carrotquest_session_started=1
+  Upgrade-Insecure-Requests: "1"
+  Cache-Control: max-age=0
+  TE: Trailers
+host: https://05.ru/api/v2
+refresh_token: 81874fb4-ceb4-11eb-a645-0242ac150004
+variables:
+  TestAboutRecomendDeveloper: {}
+  TestAuthUser: {}
+  TestBonusCodeSend: {}
+  TestBonusFields: {}
+  TestBonusInfo: {}
+  TestBrand: {}
+  TestBrandGroupped: {}
+  TestBrandPopulars: {}
+  TestCatalog: {}
+  TestCatalogBanners: {}
+  TestCatalogCategories: {}
+  TestCatalogPanel: {}
+  TestCatalogPaths: {}
+  TestCatalogProductsViewed: {}
+  TestChangePersonalDataUser: {}
+  TestCompare: {}
+  TestCompareAllProducts: {}
+  TestCompareSections: {}
+  TestCompareStruct: {}
+  TestComplaint: {}
+  TestConfirmCode: {}
+  TestDelBasketAll: {}
+  TestDelBasketProductId: {}
+  TestDelCompare: {}
+  TestDelCompareProducts: {}
+  TestDelCompareSection: {}
+  TestDelOrderCoupon: {}
+  TestDelPush: {}
+  TestDeleteUser: {}
+  TestEventsViewed: {}
+  TestFavorite: {}
+  TestFavoriteList: {}
+  TestFavoriteProduct: {}
+  TestFavoriteProductAllDel: {}
+  TestFavoriteProductDel: {}
+  TestFavoriteProductDouble: {}
+  TestFeedbackParagraphs: {}
+  TestFeedbacks: {}
+  TestFeedbacksRequest: {}
+  TestFoundCheaper: {}
+  TestGetBasket: {}
+  TestHomeScreen: {}
+  TestInstallment: {}
+  TestLocations: {}
+  TestLocationsCurrent: {}
+  TestOauthToken: {}
+  TestOrderBasket: {}
+  TestOrderBasketDouble: {}
+  TestOrderCancel: {}
+  TestOrderCoupon: {}
+  TestOrderCreate:
+    ORDER_ID: 78620
+  TestOrderDelivery: {}
+  TestOrderGifts: {}
+  TestOrderOneclick: {}
+  TestOrderPayment: {}
+  TestPersonalArea: {}
+  TestProductCard: {}
+  TestProductViewed: {}
+  TestPushEvents: {}
+  TestQuantityBasket: {}
+  TestQuestionAnswer: {}
+  TestQuestionAnswerDislike: {}
+  TestQuestionAnswerFields: {}
+  TestQuestionAnswerLike: {}
+  TestQuestionDislikeQuestionId: {}
+  TestQuestionFields: {}
+  TestQuestionLikeQuestionId: {}
+  TestQuestionProductId: {}
+  TestQuestionQuestionId: {}
+  TestRecOrderCreation: {}
+  TestRecommendDeveloper: {}
+  TestRecoverChange: {}
+  TestRecoverSend: {}
+  TestRegBonus: {}
+  TestRegisterCode: {}
+  TestRegisterFields: {}
+  TestRegisterUser: {}
+  TestReviewComment: {}
+  TestReviewCommentDislike: {}
+  TestReviewCommentFields: {}
+  TestReviewCommentLike: {}
+  TestReviewDislike: {}
+  TestReviewFields: {}
+  TestReviewLike: {}
+  TestReviewProductId: {}
+  TestReviewidComments: {}
+  TestSearch: {}
+  TestSearchHints: {}
+  TestSearchPhrases: {}
+  TestSetLocation: {}
+  TestSliders: {}
+  TestSubscribeDevice: {}
+  TestSupportInformation: {}
+  TestSupportStores: {}
+  TestUnsubscribe: {}
+  TestUserExist: {}
+  TestUserOrders: {}
+  TestUserVerifyEmail: {}
+  TestVacancy: {}
+  TestVacancyId: {}
+  TestVueCatalog: {}

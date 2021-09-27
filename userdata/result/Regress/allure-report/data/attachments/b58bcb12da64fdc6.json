@@ -1,0 +1,54 @@
+{
+    "success": true,
+    "result": {
+        "ID": "05-149053",
+        "ORDER_ID": 149053,
+        "PAY_SYSTEM_LINK": "https://stage.05.ru/personal/payment/?ORDER_ID=149053&PAYMENT_ID=1&STATUS=N",
+        "PUBLIC_URL": "https://05.ru/personal/orders/?ID=05-149053&access=c3e23b82c861a6303aa06b51798b051d",
+        "REFER_URL": null,
+        "DATE": "23.09.2021",
+        "TIME": "14:43:54",
+        "DESCRIPTION": "Внимание! Дождитесь звонка оператора - менеджер проверит наличие товара и подтвердит заказ. Отследить статус заказа можно в Личном кабинете.\nОстались вопросы? 8 (800) 511-05-05 (работаем с 09 до 19).",
+        "USER": {
+            "BONUS_CARD": null,
+            "PERSONAL_PHOTO": null,
+            "EVENTS_AMOUNT": 0,
+            "PERSONAL_GENDER": null,
+            "PERSONAL_BIRTHDAY": null,
+            "UF_INSTAGRAM_LINK": null,
+            "UF_TELEGRAM_LINK": null,
+            "UF_FACEBOOK_LINK": null,
+            "UF_SOCIAL_NETWORK_EVENTS": false,
+            "ORDERS_AMOUNT": 0,
+            "BASKET_AMOUNT": 1,
+            "BASKET_TOTAL_AMOUNT": 2,
+            "BASKET_PRODUCTS": {
+                "618523": 2
+            },
+            "FAVORITE_AMOUNT": 1,
+            "FAVORITE_PRODUCTS": {
+                "587870": 587870
+            },
+            "COMPARE_AMOUNT": 0,
+            "COMPARE_PRODUCTS": null,
+            "UF_PHONE_CONFIRMED": false,
+            "UF_EMAIL_CONFIRMED": false,
+            "EMAIL": null,
+            "LOCATION": {
+                "ID": "1359",
+                "CODE": "0000495241",
+                "TYPE_NAME": "Город",
+                "LEFT_MARGIN": "3645",
+                "RIGHT_MARGIN": "3654",
+                "CITY_ID": "1359",
+                "REGION_ID": "37",
+                "COUNTRY_ID": "1",
+                "PARENT_ID": "37",
+                "PARENT_NAME": "Республика Дагестан",
+                "PARENT_TYPE": "REGION",
+                "NAME": "Махачкала",
+                "TYPE": "CITY"
+            }
+        }
+    }
+}

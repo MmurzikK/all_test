@@ -1,0 +1,62 @@
+{
+    "success": true,
+    "result": {
+        "BONUS_CARD": null,
+        "BASKET": 0,
+        "BASKET_TOTAL_AMOUNT": 0,
+        "BASKET_PRODUCTS": null,
+        "COMPARE": 0,
+        "COMPARE_PRODUCTS": null,
+        "EVENTS_AMOUNT": 0,
+        "FAVORITES": 1,
+        "FAVORITE_PRODUCTS": {
+            "587870": 587870
+        },
+        "APPEAL_TYPES": [
+            {
+                "ID": "1",
+                "NAME": "Жалоба"
+            },
+            {
+                "ID": "2",
+                "NAME": "Отзыв"
+            },
+            {
+                "ID": "3",
+                "NAME": "Пожелание"
+            },
+            {
+                "ID": "9",
+                "NAME": "Узнать цену"
+            },
+            {
+                "ID": "10",
+                "NAME": "Консультация"
+            },
+            {
+                "ID": "11",
+                "NAME": "Гарантийное обслуживание"
+            },
+            {
+                "ID": "12",
+                "NAME": "Хочу сделать заказ"
+            },
+            {
+                "ID": "15",
+                "NAME": "Нашли дешевле"
+            },
+            {
+                "ID": "23",
+                "NAME": "Проблема с активацией бонусной карты"
+            },
+            {
+                "ID": "24",
+                "NAME": "Не нашли, что искали?"
+            },
+            {
+                "ID": "57",
+                "NAME": "Заявка на рассрочку"
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+Started by user [8mha:////4DRpa0kXQGGYEuvzHr4UTCyIOAqVnu6LLAYerEmt6IPiAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/jmeter
+[jmeter] $ /bin/sh -xe /tmp/jenkins13796498144988216062.sh
++ curl -d ["rm -rf /result/jmeter", "cd /apache_jmeter/bin", "python -m pytest -s /apache_jmeter/bin/start.py --alluredir /result/jmeter/results", "chmod -R 777 /result/jmeter"] -X POST http://jmeter
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   167    0     0  100   167      0    138  0:00:01  0:00:01 --:--:--   138100   167    0     0  100   167      0     75  0:00:02  0:00:02 --:--:--    75100   167    0     0  100   167      0     52  0:00:03  0:00:03 --:--:--    52100   167    0     0  100   167      0     39  0:00:04  0:00:04 --:--:--    39100   167    0     0  100   167      0     32  0:00:05  0:00:05 --:--:--    32100   167    0     0  100   167      0     26  0:00:06  0:00:06 --:--:--     0100   167    0     0  100   167      0     23  0:00:07  0:00:07 --:--:--     0100   167    0     0  100   167      0     20  0:00:08  0:00:08 --:--:--     0100   167    0     0  100   167      0     19  0:00:08  0:00:08 --:--:--     0100   167    0     0  100   167      0     19  0:00:08  0:00:08 --:--:--     0
+[jmeter] $ /var/jenkins_home/tools/ru.yandex.qatools.allure.jenkins.tools.AllureCommandlineInstallation/Allure/bin/allure generate /var/jenkins_home/workspace/jmeter/results -c -o /var/jenkins_home/workspace/jmeter/allure-report
+Report successfully generated to /var/jenkins_home/workspace/jmeter/allure-report
+Allure report was successfully generated.
+Creating artifact for the build.
+Artifact was added to the build.
+Finished: SUCCESS

@@ -1,0 +1,2107 @@
+{
+    "success": true,
+    "result": [
+        {
+            "GROUP_NAME": "Популярные товары",
+            "TITLE": "Популярные товары",
+            "ITEMS": [
+                {
+                    "ID": "621476",
+                    "NAME": "Смартфон Apple iPhone 11 MHDH3RU/A NEW 128 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/116069/",
+                    "IMAGE": "https://img.dev.05.ru/resize/vXo8fkQduPDaQhHExVJlG8eH3q4yQx8jDH_Y64yssbY//rs:fit:600:600:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE2MDY5LzQuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/wsTs5sXYlZ-1Yb3Ht6PXKasOzNHognXICss2fN04toE//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE2MDY5LzQuanBn",
+                        "2X": "https://img.dev.05.ru/resize/RdMX_fmbupMSO-xFHS8sEJGZxtTQ-wtlJb65hR5t0AQ//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE2MDY5LzQuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 49750,
+                            "PRINT_PRICE": "49 750₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 49750,
+                    "PRINT_PRICE": "49 750₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "619045",
+                    "NAME": "Смартфон Apple iPhone 12 Pro 128 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/113970/",
+                    "IMAGE": "https://img.dev.05.ru/resize/sVPuD_2sHg8QDwZWSPdct3VNlGyQBvrFDx-c4KGgmIs//rs:fit:529:725:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTcwLzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/eufvj5uun1mOBYk_2s6vRp2MjeyL9qnTGDz3aFd8EkI//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTcwLzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/jSmFnTckxSgx1yfraWHYeHL1-Z9K4MGMBmxp8x1fyjM//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTcwLzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 87990,
+                            "PRINT_PRICE": "87 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 87990,
+                    "PRINT_PRICE": "87 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "619033",
+                    "NAME": "Смартфон Apple iPhone 12 128 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/113961/",
+                    "IMAGE": "https://img.dev.05.ru/resize/9MCKbF0cNbKh6b7t8gtMqzCKTB5mO47RtNem-6ya0Rg//rs:fit:533:725:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTYxLzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/Yc08wnFO_JOo9kiaHSqCL64PQhPhuna2bL5Oi22bhA4//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTYxLzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/d7-VPEAwiSMwWkKQjVtFuwZfxGWt5XeOCK0xw3b26LY//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTYxLzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 67990,
+                            "PRINT_PRICE": "67 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 67990,
+                    "PRINT_PRICE": "67 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "619019",
+                    "NAME": "Смартфон Apple iPhone 12 mini 128 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/113943/",
+                    "IMAGE": "https://img.dev.05.ru/resize/KwTr5H_AbKjk-TVsD7u2uSfRI-IM8HWxMRzs5LUiCGY//rs:fit:533:725:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTQzLzQuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/PQZUFjtcq7hw-vy_wN-3a-eWt21QBuHYPGEhwrLBVh4//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTQzLzQuanBn",
+                        "2X": "https://img.dev.05.ru/resize/HRZBwT6-n-vjeNG02-bbaW8iKY_eX0DbfphQh51_heY//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTQzLzQuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 57990,
+                            "PRINT_PRICE": "57 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 57990,
+                    "PRINT_PRICE": "57 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "619048",
+                    "NAME": "Смартфон Apple iPhone 12 Pro 128 Гб синий",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/113974/",
+                    "IMAGE": "https://img.dev.05.ru/resize/k1Z_YJPeIjUfrs4Yc7we_EKYThOJPeeWWG7gUkzP770//rs:fit:529:725:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTc0LzIuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/r_QzV3SLCBawN9tNihX9LJUopMnOSk5Px8rtJPtmq-g//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTc0LzIuanBn",
+                        "2X": "https://img.dev.05.ru/resize/Ka2h5BkKFLPEEXMaOeFhITJnveYh8mxvo3WGPESBf_s//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTc0LzIuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 87990,
+                            "PRINT_PRICE": "87 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 87990,
+                    "PRINT_PRICE": "87 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "623285",
+                    "NAME": "Смартфон Apple iPhone 11 MHDA3RU/A NEW 64 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/119284/",
+                    "IMAGE": "https://img.dev.05.ru/resize/0Dc6YPBLIY1ItiaLLBeOwj46RuUI-Mji4shKhxc8AH8//rs:fit:600:600:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE5Mjg0LzMuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/Wa0hCG9V1mU7r-NnGdwtW_kAr-m7lo2dqUBohef_2EU//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE5Mjg0LzMuanBn",
+                        "2X": "https://img.dev.05.ru/resize/kXPCzCoZmepfAqTtolDC3K2G8seJBER5lYtJNHZ9xYA//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE5Mjg0LzMuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 44190,
+                            "PRINT_PRICE": "44 190₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 44190,
+                    "PRINT_PRICE": "44 190₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "650869",
+                    "NAME": "Смартфон Xiaomi Redmi Note 10 Pro 128 Гб серебристый",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/134595/",
+                    "IMAGE": "https://img.dev.05.ru/resize/MHFxuJj4PFJ-B6wj1UsVAcGsozHQOLwP9XiqMPO7Qmg//rs:fit:664:879:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM0NTk1LzUuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/feCOONMOnzkG10KyD7jziQRxykD5thQgucz36e__3X8//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM0NTk1LzUuanBn",
+                        "2X": "https://img.dev.05.ru/resize/iEz2tQvHsyjhOALXkQGDoSbKtD8xTGaeEPzQG11I6L4//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM0NTk1LzUuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 275,
+                            "PRICE": 24950,
+                            "PRINT_PRICE": "24 950₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 24950,
+                    "PRINT_PRICE": "24 950₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "619029",
+                    "NAME": "Смартфон Apple iPhone 12 64 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/113955/",
+                    "IMAGE": "https://img.dev.05.ru/resize/SvvsEM4T5DM2yzEzzb2w8gs7T0VQDONnXkQ0vsdKwcM//rs:fit:533:725:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTU1LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/-6mPrU_21jVe76Zd3ZL0P5dPH-qSvRdqUICMgICZw3s//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTU1LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/NYnNBA2CuQCSZb2q4pS622vklQGDtYPowhTyx51g4YY//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTU1LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 61490,
+                            "PRINT_PRICE": "61 490₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 61490,
+                    "PRINT_PRICE": "61 490₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "619051",
+                    "NAME": "Смартфон Apple iPhone 12 Pro 256 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/113977/",
+                    "IMAGE": "https://img.dev.05.ru/resize/2wEfTo7G2Eo5L7DSKswlBvnXd36k6AVPLTqRZCE9ET8//rs:fit:529:725:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTc3LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/rcFXftAxNEWvzdVTBOIg7aoTmTEoroDiPrX2FWMQki0//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTc3LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/Vm8nv2KDSc6khtiWcTORX_PhYWksxRoTh_rcereLwVA//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTc3LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 97990,
+                            "PRINT_PRICE": "97 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 97990,
+                    "PRINT_PRICE": "97 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "623278",
+                    "NAME": "Смартфон Apple iPhone 11 MHDM3RU/A NEW 128 Гб фиолетовый",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/117846/",
+                    "IMAGE": "https://img.dev.05.ru/resize/YryioRpIJJ0w79u5xwJJtQ8DcAnc7X5E1nJSdzcnDIw//rs:fit:600:600:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE3ODQ2LzMuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/-xpNPZy-lL8C5fm73yGQ0c41fwgBmbc80WykIiKvgn0//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE3ODQ2LzMuanBn",
+                        "2X": "https://img.dev.05.ru/resize/YWzKoHG1g2JbUTg8VlsQecer_EdQH7qAIIFtVTXsFRQ//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE3ODQ2LzMuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 49750,
+                            "PRINT_PRICE": "49 750₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 49750,
+                    "PRINT_PRICE": "49 750₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "619097",
+                    "NAME": "Смартфон Apple iPhone 12 Pro Max 256 Гб синий",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/113988/",
+                    "IMAGE": "https://img.dev.05.ru/resize/urW5ErNBu5XhhbblD6ZfVzfIOasxtv_U9rsvRe3RZGU//rs:fit:528:725:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTg4LzIuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/W5ZTxwEuFnWFelxUANqL62FktDTjMi9FtUzh9jjC28A//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTg4LzIuanBn",
+                        "2X": "https://img.dev.05.ru/resize/s8Tfthg9FbY8im9YbKhA22pnVJgYa9mEKmC6-ObaM0Q//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTg4LzIuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 104590,
+                            "PRINT_PRICE": "104 590₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 104590,
+                    "PRINT_PRICE": "104 590₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "626255",
+                    "NAME": "Смартфон Apple iPhone 11 MHDJ3RU/A NEW 128 Гб белый",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/122046/",
+                    "IMAGE": "https://img.dev.05.ru/resize/NBANyakNREgeL3Chupe-deRk5uE0XYwWOcZw-luXVUQ//rs:fit:436:597:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTIyMDQ2LzIuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/Zykg5N7glCHm-0qE5wznH_lwGhsZ0uOmEFaaLh4zyhY//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTIyMDQ2LzIuanBn",
+                        "2X": "https://img.dev.05.ru/resize/IFd71Nh1KC5ER3s3zJYasI1ELXGttYWbQ7RpJAiZXtY//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTIyMDQ2LzIuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 49750,
+                            "PRINT_PRICE": "49 750₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 49750,
+                    "PRINT_PRICE": "49 750₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "601559",
+                    "NAME": "Смартфон Samsung Galaxy A51 128 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/98594/",
+                    "IMAGE": "https://img.dev.05.ru/resize/rPOEsjOfWdvrk4cdHe93c4UB1BnLgotcCjLvwA0xy9w//rs:fit:721:953:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDk4NTk0LzEyLmpwZw",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/koHhsO_TPHaAzVC-Aoe0tCDf8u_26SCJ0zrF9AyFIZY//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDk4NTk0LzEyLmpwZw",
+                        "2X": "https://img.dev.05.ru/resize/g_HGYUff4oKw3d6-zTslfWGZbpcxDSmOZWWVLYUUDxQ//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDk4NTk0LzEyLmpwZw"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": "С учетом бонусов",
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 20990,
+                            "PRINT_PRICE": "20 990₽",
+                            "CURRENCY": "RUB"
+                        },
+                        {
+                            "CODE": "RRC",
+                            "NAME": "Обычная цена",
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 8,
+                            "BONUS": 0,
+                            "PRICE": 24990,
+                            "PRINT_PRICE": "24 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 20990,
+                    "PRINT_PRICE": "20 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "619038",
+                    "NAME": "Смартфон Apple iPhone 12 256 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/113966/",
+                    "IMAGE": "https://img.dev.05.ru/resize/Pyi2j6As3bsBWwgB2TQaDPNUvvrQuTaK83FzNwjBDxc//rs:fit:533:725:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTY2LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/ABYsJVtRBJc-odo_Yh0UfOBHjNAdPn9hPhTaqolSYKc//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTY2LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/REhAWmMPUO6iLdPoxTe33nmMgVvh2lnkUAMJzRNDyrs//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTY2LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 76990,
+                            "PRINT_PRICE": "76 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 76990,
+                    "PRINT_PRICE": "76 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "619035",
+                    "NAME": "Смартфон Apple iPhone 12 128 Гб синий",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/113963/",
+                    "IMAGE": "https://img.dev.05.ru/resize/hvOlDpWv0cFFHjxmBjvwzAd5hXReT34yNZRCRu8Z8ec//rs:fit:532:725:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTYzLzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/yp3b2pa9-n2uFGh6iAqELYqRGbDqsQgQ7Yn_j7DCLRg//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTYzLzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/T_DPO-O7JYdMb0fXJn6E8Cmx5Nrs32C36xy-hRjHD44//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTYzLzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 67990,
+                            "PRINT_PRICE": "67 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 67990,
+                    "PRINT_PRICE": "67 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "648179",
+                    "NAME": "Смартфон Samsung Galaxy A32 64 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/133832/",
+                    "IMAGE": "https://img.dev.05.ru/resize/I0HSKuuWfSPKa8ChxgQE5DhqJz5bOIWoAHecv8ve3D4//rs:fit:788:997:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTMzODMyLzguanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/jargbJarjuTOvdrUZRbdza_WD6Tu_MQBq3MmLKJt9cA//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTMzODMyLzguanBn",
+                        "2X": "https://img.dev.05.ru/resize/xxWKr0o0eVLrlxwV3nsLvGG-kFa7OnMAi0wvA5mYx30//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTMzODMyLzguanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": "С учетом бонусов",
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 15990,
+                            "PRINT_PRICE": "15 990₽",
+                            "CURRENCY": "RUB"
+                        },
+                        {
+                            "CODE": "RRC",
+                            "NAME": "Обычная цена",
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 8,
+                            "BONUS": 0,
+                            "PRICE": 19990,
+                            "PRINT_PRICE": "19 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 15990,
+                    "PRINT_PRICE": "15 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "614147",
+                    "NAME": "Смартфон Xiaomi Redmi 9A 32 Гб серый",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/109561/",
+                    "IMAGE": "https://img.dev.05.ru/resize/fA7wPhAiRXZNaH0o8MHcFizxiAd2NW39WYbsTMV4nck//rs:fit:725:999:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA5NTYxLzEyLmpwZw",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/0t4DiVC8X2RHS89qicIeG6IV6kbiSflu5p_XhoskKiQ//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA5NTYxLzEyLmpwZw",
+                        "2X": "https://img.dev.05.ru/resize/uVLxWCKOlJ2aS7e1ACpSk3CGYQOFiA-h68xLcBX13Kk//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA5NTYxLzEyLmpwZw"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 7450,
+                            "PRINT_PRICE": "7 450₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 7450,
+                    "PRINT_PRICE": "7 450₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "623276",
+                    "NAME": "Смартфон Apple iPhone 11 MHDN3RU/A NEW 128 Гб зеленый",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/117845/",
+                    "IMAGE": "https://img.dev.05.ru/resize/rdJtjyeLuIYnjMjjZsSbVMJ4p_NkgI1SCUQAfxsU5so//rs:fit:600:600:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE3ODQ1LzMuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/yG6yuePYehYdcwO0HBSGR_cmJfAeupZgg4ZmZRrV-LY//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE3ODQ1LzMuanBn",
+                        "2X": "https://img.dev.05.ru/resize/TtCJHejDd48XMY1SA8H11qdnbcvGIFJHM8JXYuJGSKM//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE3ODQ1LzMuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 49750,
+                            "PRINT_PRICE": "49 750₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 49750,
+                    "PRINT_PRICE": "49 750₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "623282",
+                    "NAME": "Смартфон Apple iPhone XR MH6M3RU/A NEW 64 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/118734/",
+                    "IMAGE": "https://img.dev.05.ru/resize/bnnKwMF3fbMmjjBIsN-fzaWxzMvp3YWDq9vO24YLG7A//rs:fit:480:732:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE4NzM0LzYuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/6jA-jTkw-iF8Xfi-gWkUEtyKW5VuwZENI_UwP7D9xqM//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE4NzM0LzYuanBn",
+                        "2X": "https://img.dev.05.ru/resize/vTBIQp2wSYRGqCMZo6XNRKNqwm1xkl7NEJ5wSGJTnXo//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE4NzM0LzYuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 39990,
+                            "PRINT_PRICE": "39 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 39990,
+                    "PRINT_PRICE": "39 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "606600",
+                    "NAME": "Смартфон Samsung Galaxy A41 64 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/102603/",
+                    "IMAGE": "https://img.dev.05.ru/resize/QWvC0me319UZNXkTizyH2z1J0O7jKwuTSXj1snliz_o//rs:fit:741:1000:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTAyNjAzLzI5LmpwZw",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/F5H9Qla2P-l_Y6P5JS92anjVU-UrIF5IpRTvNey0kmU//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTAyNjAzLzI5LmpwZw",
+                        "2X": "https://img.dev.05.ru/resize/BytOqhnlqjLHF8HG3VyCFUdKj5yTg7qoH1BrGs76UCQ//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTAyNjAzLzI5LmpwZw"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": "С учетом бонусов",
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 16990,
+                            "PRINT_PRICE": "16 990₽",
+                            "CURRENCY": "RUB"
+                        },
+                        {
+                            "CODE": "RRC",
+                            "NAME": "Обычная цена",
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 8,
+                            "BONUS": 0,
+                            "PRICE": 20490,
+                            "PRINT_PRICE": "20 490₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 16990,
+                    "PRINT_PRICE": "16 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "GROUP_NAME": "Успей купить",
+            "TITLE": "Успей купить",
+            "ITEMS": [
+                {
+                    "ID": "577605",
+                    "NAME": "Игра на PS4 Detroit: Стать человеком [PS4, русская версия]",
+                    "DETAIL_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/78086/",
+                    "IMAGE": "https://img.dev.05.ru/resize/N5VMZgO-nbRpUKpfdgrhxE49cHWJrqJrli28IIS2gD0//rs:fit:508:701:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc4MDg2LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/SvetHO33NGBzwbM-hEaFpIAIxQkpwtjLUHl4G1nsQug//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc4MDg2LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/I15YPA1hz3bD-rgJnEzdlxSrWk7v-ZkMHctt7qHshvU//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc4MDg2LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 21,
+                            "PRICE": 2450,
+                            "PRINT_PRICE": "2 450₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 2450,
+                    "PRINT_PRICE": "2 450₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "3377",
+                        "NAME": "Игры для PS4",
+                        "CODE": "igry_dlya_ps4",
+                        "PARENT_NAME": "Видеоигры",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/",
+                        "IMAGE": "https://img.dev.05.ru/resize/IhuviWKox0wmL3Jl1DbDQo6pnE1IIBw5rRbmwl0GJoM//rs:fit:560:694:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/EHI4VSJDqdnerYf0-ndxmH-t_VXyR_wJwoxuKMsQFmk//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                            "2X": "https://img.dev.05.ru/resize/koE89n6gRMz2HaUlmDXsLZACvJqegCB2zgM_dwnEmCA//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "554422",
+                    "NAME": "Игра на PS4 Tekken 7 [PS4, русские субтитры]",
+                    "DETAIL_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/52924/",
+                    "IMAGE": "https://img.dev.05.ru/resize/6vqbxX_CXsPpQD9KPaCyQW75gWVEuIiV-HLdvNfK3cM//rs:fit:295:368:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDUyOTI0LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/sXUnBseL5yzbBBEQR2mjU6Bgj4JOHmjLsfkXa1xPeww//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDUyOTI0LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/Xsa8l9OB1db9ExCs4bYGpir6V0lKUFoN7lC-mINhxRc//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDUyOTI0LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 35,
+                            "PRICE": 2950,
+                            "PRINT_PRICE": "2 950₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 2950,
+                    "PRINT_PRICE": "2 950₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "3377",
+                        "NAME": "Игры для PS4",
+                        "CODE": "igry_dlya_ps4",
+                        "PARENT_NAME": "Видеоигры",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/",
+                        "IMAGE": "https://img.dev.05.ru/resize/IhuviWKox0wmL3Jl1DbDQo6pnE1IIBw5rRbmwl0GJoM//rs:fit:560:694:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/EHI4VSJDqdnerYf0-ndxmH-t_VXyR_wJwoxuKMsQFmk//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                            "2X": "https://img.dev.05.ru/resize/koE89n6gRMz2HaUlmDXsLZACvJqegCB2zgM_dwnEmCA//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "570675",
+                    "NAME": "Портативное ЗУ Asus ZenPower ABTU005 10 050 mAh серебристый",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/aksessuary_dlya_gadghetov/zaryadnye_ustroystva_i_kabeli/portativnye_zu/70924/",
+                    "IMAGE": "https://img.dev.05.ru/resize/cRPaaH2WtbvSrtLyH_2B5gTGfV_b3oPiJeUkaiR52xQ//rs:fit:750:750:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDcwOTI0LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/VlL01eme7846okU8TLq99ZFf6cV9SAlXKwUOF8DAmrU//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDcwOTI0LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/LZIao3En1NiifSuIMzUBJrAr5jxj-dlKwy-jkzqiyfo//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDcwOTI0LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 34,
+                            "PRICE": 1690,
+                            "PRINT_PRICE": "1 690₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 1690,
+                    "PRINT_PRICE": "1 690₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "3015",
+                        "NAME": "Портативные зарядные устройства",
+                        "CODE": "portativnye_zu",
+                        "PARENT_NAME": "Зарядные устройства и кабели",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/portativ/aksessuary_dlya_gadghetov/zaryadnye_ustroystva_i_kabeli/portativnye_zu/",
+                        "IMAGE": "https://img.dev.05.ru/resize/rxZ8xC-ulr-uphecAz_1IW5kVe5YxR8zmrD_eT520t0//rs:fit:295:590:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9hMzEvYTMxM2Q0NTgzMWY3YzhlODAyMDA2YWVlNmMxNmJhNjAuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/JnvzGoSa6m7oczrXyigYbv1ubc3ovJ5CMSf2gK9EgDw//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9hMzEvYTMxM2Q0NTgzMWY3YzhlODAyMDA2YWVlNmMxNmJhNjAuanBn",
+                            "2X": "https://img.dev.05.ru/resize/0x9edO4NhRNuoNT38u_Smwyphl2zbe_GTh86Wh9bMXU//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9hMzEvYTMxM2Q0NTgzMWY3YzhlODAyMDA2YWVlNmMxNmJhNjAuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "542728",
+                    "NAME": "Стиральная машина Samsung WW65K52E69S серебристый",
+                    "DETAIL_PAGE_PATH": "/catalog/appliance/kbt/washing_machine/39611/",
+                    "IMAGE": "https://img.dev.05.ru/resize/bNFuRCeagIByi5kgO1MGd3ZkRqx8u_KRBAJEE1m2NJc//rs:fit:781:1036:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDM5NjExLzEzLmpwZw",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/0fcbpKU4i1ae-qvaKi0ld1ClYjraxF7OJekWYZRnNKo//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDM5NjExLzEzLmpwZw",
+                        "2X": "https://img.dev.05.ru/resize/iv3NW2tTRFOL7-IEzinYJqkJXAlOmHSd9XT0V_B_AOA//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDM5NjExLzEzLmpwZw"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 395,
+                            "PRICE": 32950,
+                            "PRINT_PRICE": "32 950₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 32950,
+                    "PRINT_PRICE": "32 950₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "756",
+                        "NAME": "Стиральные машины",
+                        "CODE": "washing_machine",
+                        "PARENT_NAME": "Крупная бытовая техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/appliance/kbt/washing_machine/",
+                        "IMAGE": "https://img.dev.05.ru/resize/JLr6fGDJIDCVLGvG8hiahmzJP5yezabA_vuYVAUnVDw//rs:fit:480:697:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wM2IvMDNiODNhZjA5NGNjYjAwZmU2MTJkNDM1ZmU2ZTM3NmEuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/NNMV4Vxq3uOl6WQ05keXQ40PoHCP5laSf7OxRq9qb4s//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wM2IvMDNiODNhZjA5NGNjYjAwZmU2MTJkNDM1ZmU2ZTM3NmEuanBn",
+                            "2X": "https://img.dev.05.ru/resize/qTdG7683SYdMLvlRer9nARy4JJ_JT7aCPukeewVOQEo//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wM2IvMDNiODNhZjA5NGNjYjAwZmU2MTJkNDM1ZmU2ZTM3NmEuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "580385",
+                    "NAME": "Игра на PS4 Fallout 76 [PS4, русские субтитры]",
+                    "DETAIL_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/81225/",
+                    "IMAGE": "https://img.dev.05.ru/resize/RCgYBCb-NI-CBs-B3fZ4Ya1HgZUxhajr_KZSsGm5neE//rs:fit:600:465:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDgxMjI1LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/LQZiMOUSuOZBx1VvnZBKP5IC-CnFkXtxmLDll3xhpoM//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDgxMjI1LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/7uLO_WW5icOauz0pDzQY6DlaE2NMrKlk2Iirkrciwvg//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDgxMjI1LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 47,
+                            "PRICE": 3990,
+                            "PRINT_PRICE": "3 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 3990,
+                    "PRINT_PRICE": "3 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "3377",
+                        "NAME": "Игры для PS4",
+                        "CODE": "igry_dlya_ps4",
+                        "PARENT_NAME": "Видеоигры",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/",
+                        "IMAGE": "https://img.dev.05.ru/resize/IhuviWKox0wmL3Jl1DbDQo6pnE1IIBw5rRbmwl0GJoM//rs:fit:560:694:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/EHI4VSJDqdnerYf0-ndxmH-t_VXyR_wJwoxuKMsQFmk//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                            "2X": "https://img.dev.05.ru/resize/koE89n6gRMz2HaUlmDXsLZACvJqegCB2zgM_dwnEmCA//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "576407",
+                    "NAME": "Игра на PS4 The Crew 2 [PS4, русская версия]",
+                    "DETAIL_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/76291/",
+                    "IMAGE": "https://img.dev.05.ru/resize/Rk0XClthP8JSB2R1HY-o-yOjiUsfLf-yMpIx7f-sCe4//rs:fit:600:465:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc2MjkxLzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/t4DgqRwPTmkpDcsTZ-DLGidNGezcWE9MNsM-sZYrDwA//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc2MjkxLzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/bG0up7iZHTUMi7xVirDb-njQtw2PvcfInUOZE2XRv28//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc2MjkxLzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 23,
+                            "PRICE": 1990,
+                            "PRINT_PRICE": "1 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 1990,
+                    "PRINT_PRICE": "1 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "3377",
+                        "NAME": "Игры для PS4",
+                        "CODE": "igry_dlya_ps4",
+                        "PARENT_NAME": "Видеоигры",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/",
+                        "IMAGE": "https://img.dev.05.ru/resize/IhuviWKox0wmL3Jl1DbDQo6pnE1IIBw5rRbmwl0GJoM//rs:fit:560:694:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/EHI4VSJDqdnerYf0-ndxmH-t_VXyR_wJwoxuKMsQFmk//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                            "2X": "https://img.dev.05.ru/resize/koE89n6gRMz2HaUlmDXsLZACvJqegCB2zgM_dwnEmCA//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "32374",
+                    "NAME": "Стиральная машина LG F-10B8MD белый",
+                    "DETAIL_PAGE_PATH": "/catalog/appliance/kbt/washing_machine/39196/",
+                    "IMAGE": "https://img.dev.05.ru/resize/krD9prU53dLUYDl3q9k-Ex3w121PikhfC-vsdILiOTs//rs:fit:575:830:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDM5MTk2LzMuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/OqgdaybsotAzGzNVHfBJ_uWQah1DX1eyWwxhn-R9DTE//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDM5MTk2LzMuanBn",
+                        "2X": "https://img.dev.05.ru/resize/njlo0jioHQaRgw-DGNQD1IgsyhP0KNU9_h6KQHK9uas//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDM5MTk2LzMuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 250,
+                            "PRICE": 23950,
+                            "PRINT_PRICE": "23 950₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 23950,
+                    "PRINT_PRICE": "23 950₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "756",
+                        "NAME": "Стиральные машины",
+                        "CODE": "washing_machine",
+                        "PARENT_NAME": "Крупная бытовая техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/appliance/kbt/washing_machine/",
+                        "IMAGE": "https://img.dev.05.ru/resize/JLr6fGDJIDCVLGvG8hiahmzJP5yezabA_vuYVAUnVDw//rs:fit:480:697:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wM2IvMDNiODNhZjA5NGNjYjAwZmU2MTJkNDM1ZmU2ZTM3NmEuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/NNMV4Vxq3uOl6WQ05keXQ40PoHCP5laSf7OxRq9qb4s//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wM2IvMDNiODNhZjA5NGNjYjAwZmU2MTJkNDM1ZmU2ZTM3NmEuanBn",
+                            "2X": "https://img.dev.05.ru/resize/qTdG7683SYdMLvlRer9nARy4JJ_JT7aCPukeewVOQEo//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wM2IvMDNiODNhZjA5NGNjYjAwZmU2MTJkNDM1ZmU2ZTM3NmEuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "563769",
+                    "NAME": "Игра на PS4 Knack 2 [PS4, русская версия]",
+                    "DETAIL_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/64708/",
+                    "IMAGE": "https://img.dev.05.ru/resize/LOeLlBHNHiTXE7vj05dRtxkmO1SXZGRjowuz9n5evqY//rs:fit:250:311:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDY0NzA4LzQuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/YK4JNa2-TTw7o9mu7YQvgSobgBz4F8HwvKBeCHRuk8g//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDY0NzA4LzQuanBn",
+                        "2X": "https://img.dev.05.ru/resize/Ih--jsoeVpy-5zXJkhNuUNbMQu_qnrFbocyyQ7nbZf8//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDY0NzA4LzQuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 16,
+                            "PRICE": 1350,
+                            "PRINT_PRICE": "1 350₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 1350,
+                    "PRINT_PRICE": "1 350₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "3377",
+                        "NAME": "Игры для PS4",
+                        "CODE": "igry_dlya_ps4",
+                        "PARENT_NAME": "Видеоигры",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/",
+                        "IMAGE": "https://img.dev.05.ru/resize/IhuviWKox0wmL3Jl1DbDQo6pnE1IIBw5rRbmwl0GJoM//rs:fit:560:694:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/EHI4VSJDqdnerYf0-ndxmH-t_VXyR_wJwoxuKMsQFmk//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                            "2X": "https://img.dev.05.ru/resize/koE89n6gRMz2HaUlmDXsLZACvJqegCB2zgM_dwnEmCA//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "573996",
+                    "NAME": "Духовой шкаф SMEG SF800AO черный",
+                    "DETAIL_PAGE_PATH": "/catalog/appliance/built_in/oven/74035/",
+                    "IMAGE": "https://img.dev.05.ru/resize/HEvy0o4roVvIB7pD50fPfuDMeBWDeSrIn-2Yr3M8OsQ//rs:fit:606:569:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc0MDM1LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/_KB2BEtnRkAxw-4S6c1-ln9ud0tFT1HT5fS1OaDs_AY//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc0MDM1LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/Ch4KixmUfkkGYNYOcjiQ-HD49w1QoaPxGUP94vNihi0//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc0MDM1LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": "С учетом бонусов",
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 54450,
+                            "PRINT_PRICE": "54 450₽",
+                            "CURRENCY": "RUB"
+                        },
+                        {
+                            "CODE": "RRC",
+                            "NAME": "Обычная цена",
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 8,
+                            "BONUS": 0,
+                            "PRICE": 55850,
+                            "PRINT_PRICE": "55 850₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 54450,
+                    "PRINT_PRICE": "54 450₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "794",
+                        "NAME": "Духовые шкафы",
+                        "CODE": "oven",
+                        "PARENT_NAME": "Встраиваемая техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/appliance/built_in/oven/",
+                        "IMAGE": "https://img.dev.05.ru/resize/00Bwqwl7xKYwTkYkZnVNETCy-K9LMp50oSrQ1entiEg//rs:fit:430:420:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay81Y2UvNWNlM2QxOTQ3OTJmNTZiNGNlMDE3MWMzMjQwNDUwZDcucG5n",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/5aA4iFR5e1Dp24N5uSKApTIUfqoyLR_MqglHSFZThEY//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay81Y2UvNWNlM2QxOTQ3OTJmNTZiNGNlMDE3MWMzMjQwNDUwZDcucG5n",
+                            "2X": "https://img.dev.05.ru/resize/GV04aMbdOA3eEUZ9p3GK9QP1HE1XSiB8bw9DrDVSbq0//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay81Y2UvNWNlM2QxOTQ3OTJmNTZiNGNlMDE3MWMzMjQwNDUwZDcucG5n"
+                        }
+                    }
+                },
+                {
+                    "ID": "540426",
+                    "NAME": "Игра на PS4 Watch_Dogs 2 [PS4, русская версия]",
+                    "DETAIL_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/37449/",
+                    "IMAGE": "https://img.dev.05.ru/resize/vFI_H__LsfOX3OgI6MFNOLN0CXAuE0bvm1_d_kK6F5A//rs:fit:450:572:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDM3NDQ5LzIuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/sOIFFFse5iw_9cS3TU5UkKBTumHmM7FAndrTtXF5zo4//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDM3NDQ5LzIuanBn",
+                        "2X": "https://img.dev.05.ru/resize/RDBrEY21qIMRHedC4eexoT1YnA3n3n4N4lpiVh6gfEE//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDM3NDQ5LzIuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 23,
+                            "PRICE": 1990,
+                            "PRINT_PRICE": "1 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 1990,
+                    "PRINT_PRICE": "1 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "3377",
+                        "NAME": "Игры для PS4",
+                        "CODE": "igry_dlya_ps4",
+                        "PARENT_NAME": "Видеоигры",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/",
+                        "IMAGE": "https://img.dev.05.ru/resize/IhuviWKox0wmL3Jl1DbDQo6pnE1IIBw5rRbmwl0GJoM//rs:fit:560:694:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/EHI4VSJDqdnerYf0-ndxmH-t_VXyR_wJwoxuKMsQFmk//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                            "2X": "https://img.dev.05.ru/resize/koE89n6gRMz2HaUlmDXsLZACvJqegCB2zgM_dwnEmCA//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "576388",
+                    "NAME": "Игра на PS4 LEGO Суперсемейка [PS4, русские субтитры]",
+                    "DETAIL_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/76290/",
+                    "IMAGE": "https://img.dev.05.ru/resize/Vc5sdUDnH8G0aCyMdDixHSpqOvA66nI1mz5koa_5Qps//rs:fit:600:465:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc2MjkwLzIuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/R0_L5eRL-BOS4KJhdpzZKenryKFKvFL1Tpbbl5F7hRI//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc2MjkwLzIuanBn",
+                        "2X": "https://img.dev.05.ru/resize/-0_5BSXh8D1XJER4dJUBx1qeUqmg6kspDXvbyc8NCpo//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc2MjkwLzIuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 35,
+                            "PRICE": 2990,
+                            "PRINT_PRICE": "2 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 2990,
+                    "PRINT_PRICE": "2 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "3377",
+                        "NAME": "Игры для PS4",
+                        "CODE": "igry_dlya_ps4",
+                        "PARENT_NAME": "Видеоигры",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/",
+                        "IMAGE": "https://img.dev.05.ru/resize/IhuviWKox0wmL3Jl1DbDQo6pnE1IIBw5rRbmwl0GJoM//rs:fit:560:694:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/EHI4VSJDqdnerYf0-ndxmH-t_VXyR_wJwoxuKMsQFmk//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                            "2X": "https://img.dev.05.ru/resize/koE89n6gRMz2HaUlmDXsLZACvJqegCB2zgM_dwnEmCA//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "573527",
+                    "NAME": "Игра на PS4 Far Cry 5 [PS4, русская версия]",
+                    "DETAIL_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/73462/",
+                    "IMAGE": "https://img.dev.05.ru/resize/Bruss80LwXaaZFTQMN4DtL-ecpVKbEv2MUsrcNpflAk//rs:fit:295:368:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDczNDYyLzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/nFZyU9ZGE1HiXje5kXFbz8L7WPAc8WcxQEuc4fIdjZU//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDczNDYyLzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/IpJjm-tNVFzbfE6Ynj2DTHriMRP0zCk6ftjy8M6GOSI//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDczNDYyLzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 23,
+                            "PRICE": 1990,
+                            "PRINT_PRICE": "1 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 1990,
+                    "PRINT_PRICE": "1 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "3377",
+                        "NAME": "Игры для PS4",
+                        "CODE": "igry_dlya_ps4",
+                        "PARENT_NAME": "Видеоигры",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/",
+                        "IMAGE": "https://img.dev.05.ru/resize/IhuviWKox0wmL3Jl1DbDQo6pnE1IIBw5rRbmwl0GJoM//rs:fit:560:694:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/EHI4VSJDqdnerYf0-ndxmH-t_VXyR_wJwoxuKMsQFmk//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                            "2X": "https://img.dev.05.ru/resize/koE89n6gRMz2HaUlmDXsLZACvJqegCB2zgM_dwnEmCA//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "576674",
+                    "NAME": "Портативное ЗУ Asus ZenPower ABTU012 10 050 mAh серебристый",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/aksessuary_dlya_gadghetov/zaryadnye_ustroystva_i_kabeli/portativnye_zu/76777/",
+                    "IMAGE": "https://img.dev.05.ru/resize/9rji9ekw3gY71_OoOl_T71KsVjWqo--C4KnMkInOpks//rs:fit:256:528:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc2Nzc3LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/o9Z0MUTQ9ED3j9JUzafHY8puNaxaybdWlhu2T8RJgX0//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc2Nzc3LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/rMZ05KwO1N179U__iT_wurFPkLudoufr6HgYvr0gaIg//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc2Nzc3LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 70,
+                            "PRICE": 2590,
+                            "PRINT_PRICE": "2 590₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 2590,
+                    "PRINT_PRICE": "2 590₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "3015",
+                        "NAME": "Портативные зарядные устройства",
+                        "CODE": "portativnye_zu",
+                        "PARENT_NAME": "Зарядные устройства и кабели",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/portativ/aksessuary_dlya_gadghetov/zaryadnye_ustroystva_i_kabeli/portativnye_zu/",
+                        "IMAGE": "https://img.dev.05.ru/resize/rxZ8xC-ulr-uphecAz_1IW5kVe5YxR8zmrD_eT520t0//rs:fit:295:590:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9hMzEvYTMxM2Q0NTgzMWY3YzhlODAyMDA2YWVlNmMxNmJhNjAuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/JnvzGoSa6m7oczrXyigYbv1ubc3ovJ5CMSf2gK9EgDw//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9hMzEvYTMxM2Q0NTgzMWY3YzhlODAyMDA2YWVlNmMxNmJhNjAuanBn",
+                            "2X": "https://img.dev.05.ru/resize/0x9edO4NhRNuoNT38u_Smwyphl2zbe_GTh86Wh9bMXU//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9hMzEvYTMxM2Q0NTgzMWY3YzhlODAyMDA2YWVlNmMxNmJhNjAuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "570586",
+                    "NAME": "Игра на PS4 Gran Turismo Sport (поддержка VR) [PS4, русская версия]",
+                    "DETAIL_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/70830/",
+                    "IMAGE": "https://img.dev.05.ru/resize/Ptf9Yef70WYbiEccmmNqnH8aAPvCGUDUnF6TxMBYDK8//rs:fit:577:612:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDcwODMwLzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/pCgHp40ueUj4a8HTcpAdHlqARY9wVNX7fF_WBb5ZIRk//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDcwODMwLzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/uokBx9f33qW3E1QrybqHBHjXkLX9BLR1uCkTaLaviss//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDcwODMwLzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 16,
+                            "PRICE": 1350,
+                            "PRINT_PRICE": "1 350₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 1350,
+                    "PRINT_PRICE": "1 350₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "3377",
+                        "NAME": "Игры для PS4",
+                        "CODE": "igry_dlya_ps4",
+                        "PARENT_NAME": "Видеоигры",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/",
+                        "IMAGE": "https://img.dev.05.ru/resize/IhuviWKox0wmL3Jl1DbDQo6pnE1IIBw5rRbmwl0GJoM//rs:fit:560:694:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/EHI4VSJDqdnerYf0-ndxmH-t_VXyR_wJwoxuKMsQFmk//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                            "2X": "https://img.dev.05.ru/resize/koE89n6gRMz2HaUlmDXsLZACvJqegCB2zgM_dwnEmCA//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "580401",
+                    "NAME": "Игра на PS4 Call of Cthulhu [PS4, русские субтитры]",
+                    "DETAIL_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/81217/",
+                    "IMAGE": "https://img.dev.05.ru/resize/K7k7a0fA82tvr2E7xmcfZ82-bg81yFZ2rPVZ8dJxzuc//rs:fit:811:1024:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDgxMjE3LzIuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/mtlhp0Jp4f3Yzm08dty5c5jR8QVRFPmSdjagSWwobE0//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDgxMjE3LzIuanBn",
+                        "2X": "https://img.dev.05.ru/resize/EY9ZZtk_kK860DjhXLgTAhpTvX46AwkeGCO6XgAhmTk//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDgxMjE3LzIuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 1590,
+                            "PRINT_PRICE": "1 590₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 1590,
+                    "PRINT_PRICE": "1 590₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "3377",
+                        "NAME": "Игры для PS4",
+                        "CODE": "igry_dlya_ps4",
+                        "PARENT_NAME": "Видеоигры",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/",
+                        "IMAGE": "https://img.dev.05.ru/resize/IhuviWKox0wmL3Jl1DbDQo6pnE1IIBw5rRbmwl0GJoM//rs:fit:560:694:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/EHI4VSJDqdnerYf0-ndxmH-t_VXyR_wJwoxuKMsQFmk//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                            "2X": "https://img.dev.05.ru/resize/koE89n6gRMz2HaUlmDXsLZACvJqegCB2zgM_dwnEmCA//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "568635",
+                    "NAME": "Игра на PS4  Assassin's Creed: Истоки [PS4, русская версия]",
+                    "DETAIL_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/68995/",
+                    "IMAGE": "https://img.dev.05.ru/resize/tqZFddSnL5_SjPXh-_0vql7DObaERzkeK7EOepBeDc4//rs:fit:480:600:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDY4OTk1LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/jJaeo3EnaRsAj5ChGV0zsBHOzMYhIfxBtUlCQ4axt9k//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDY4OTk1LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/_1zmcjiBZG4Xsc1c3kwVRkluSNXrB9drzi_-IHQA2do//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDY4OTk1LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 23,
+                            "PRICE": 1990,
+                            "PRINT_PRICE": "1 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 1990,
+                    "PRINT_PRICE": "1 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "3377",
+                        "NAME": "Игры для PS4",
+                        "CODE": "igry_dlya_ps4",
+                        "PARENT_NAME": "Видеоигры",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/",
+                        "IMAGE": "https://img.dev.05.ru/resize/IhuviWKox0wmL3Jl1DbDQo6pnE1IIBw5rRbmwl0GJoM//rs:fit:560:694:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/EHI4VSJDqdnerYf0-ndxmH-t_VXyR_wJwoxuKMsQFmk//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                            "2X": "https://img.dev.05.ru/resize/koE89n6gRMz2HaUlmDXsLZACvJqegCB2zgM_dwnEmCA//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "557911",
+                    "NAME": "Игра на PS4 Crash Bandicoot N’sane Trilogy",
+                    "DETAIL_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/57375/",
+                    "IMAGE": "https://img.dev.05.ru/resize/hOcBCtwv5G5FC10LYJ2Ig6rcN45HohU-cwMtPqtwmVY//rs:fit:1188:1500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDU3Mzc1LzMuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/Ca5DwzgJSMJP_U12yUaGfBtLhEfUfwk1Q6yrBJHsFgA//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDU3Mzc1LzMuanBn",
+                        "2X": "https://img.dev.05.ru/resize/oBbpnozNgnrKqD0qD9ura1OLyIStImKJZJnzaKc_Wmk//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDU3Mzc1LzMuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 34,
+                            "PRICE": 2900,
+                            "PRINT_PRICE": "2 900₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 2900,
+                    "PRINT_PRICE": "2 900₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "3377",
+                        "NAME": "Игры для PS4",
+                        "CODE": "igry_dlya_ps4",
+                        "PARENT_NAME": "Видеоигры",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/",
+                        "IMAGE": "https://img.dev.05.ru/resize/IhuviWKox0wmL3Jl1DbDQo6pnE1IIBw5rRbmwl0GJoM//rs:fit:560:694:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/EHI4VSJDqdnerYf0-ndxmH-t_VXyR_wJwoxuKMsQFmk//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                            "2X": "https://img.dev.05.ru/resize/koE89n6gRMz2HaUlmDXsLZACvJqegCB2zgM_dwnEmCA//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "580403",
+                    "NAME": "Игра на PS4 SoulCalibur VI [PS4, русские субтитры]",
+                    "DETAIL_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/81220/",
+                    "IMAGE": "https://img.dev.05.ru/resize/URVJR4N8fpNNJ4hVvxyJOjAaMEKcXSTMBT_anfYCqVQ//rs:fit:600:465:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDgxMjIwLzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/21NfCx6HPS7ZiA5ZqJVlx5XpJU4mI-gJeqQN1qnnZa0//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDgxMjIwLzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/VCJ38U5NYVIWO9WGJ5TzTYTZanjjWVDPe4_GnhSG9Mk//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDgxMjIwLzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 1900,
+                            "PRINT_PRICE": "1 900₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 1900,
+                    "PRINT_PRICE": "1 900₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "3377",
+                        "NAME": "Игры для PS4",
+                        "CODE": "igry_dlya_ps4",
+                        "PARENT_NAME": "Видеоигры",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/",
+                        "IMAGE": "https://img.dev.05.ru/resize/IhuviWKox0wmL3Jl1DbDQo6pnE1IIBw5rRbmwl0GJoM//rs:fit:560:694:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/EHI4VSJDqdnerYf0-ndxmH-t_VXyR_wJwoxuKMsQFmk//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                            "2X": "https://img.dev.05.ru/resize/koE89n6gRMz2HaUlmDXsLZACvJqegCB2zgM_dwnEmCA//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "580351",
+                    "NAME": "Игра на PS4 LEGO CITY Undercover [PS4, русская версия]",
+                    "DETAIL_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/81214/",
+                    "IMAGE": "https://img.dev.05.ru/resize/rJ5jd8f-mXKck-zZSOJ18bwvUsgVcyTZ48d45dLcx68//rs:fit:600:600:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDgxMjE0LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/05GUL8CU4FbrDoPm6179rHVcicH6TPPXcZsQCfsZsFs//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDgxMjE0LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/54zw3PNBvZ99r79wapaLZDO1kDu1fRyS6nVhw2fsJH4//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDgxMjE0LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 42,
+                            "PRICE": 3520,
+                            "PRINT_PRICE": "3 520₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 3520,
+                    "PRINT_PRICE": "3 520₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "3377",
+                        "NAME": "Игры для PS4",
+                        "CODE": "igry_dlya_ps4",
+                        "PARENT_NAME": "Видеоигры",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/",
+                        "IMAGE": "https://img.dev.05.ru/resize/IhuviWKox0wmL3Jl1DbDQo6pnE1IIBw5rRbmwl0GJoM//rs:fit:560:694:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/EHI4VSJDqdnerYf0-ndxmH-t_VXyR_wJwoxuKMsQFmk//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                            "2X": "https://img.dev.05.ru/resize/koE89n6gRMz2HaUlmDXsLZACvJqegCB2zgM_dwnEmCA//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "578693",
+                    "NAME": "Игра на PS4 FIFA 19 [PS4, русская версия]",
+                    "DETAIL_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/79200/",
+                    "IMAGE": "https://img.dev.05.ru/resize/2AvQpVKxzWsoHpI2B0LfQY9VDMCRqVnt9sxG_iz1Svg//rs:fit:800:1009:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc5MjAwLzIuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/_Xhi_Bj7nqX3_afEUWyRkDspRC18gpUSyqxcPTZl4Vo//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc5MjAwLzIuanBn",
+                        "2X": "https://img.dev.05.ru/resize/nMBwAQ4WOusIt645uHYWfGm7RqcmFB_nv1SehqXb9q0//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDc5MjAwLzIuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 2500,
+                            "PRINT_PRICE": "2 500₽",
+                            "CURRENCY": "RUB"
+                        },
+                        {
+                            "CODE": "PROMO",
+                            "NAME": null,
+                            "CROSSED": true,
+                            "PRICE_TYPE_ID": 9,
+                            "BONUS": 0,
+                            "PRICE": 4720,
+                            "PRINT_PRICE": "4 720₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 4720,
+                    "PRINT_PRICE": "4 720₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "3377",
+                        "NAME": "Игры для PS4",
+                        "CODE": "igry_dlya_ps4",
+                        "PARENT_NAME": "Видеоигры",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/games/game/igry_dlya_ps4/",
+                        "IMAGE": "https://img.dev.05.ru/resize/IhuviWKox0wmL3Jl1DbDQo6pnE1IIBw5rRbmwl0GJoM//rs:fit:560:694:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/EHI4VSJDqdnerYf0-ndxmH-t_VXyR_wJwoxuKMsQFmk//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn",
+                            "2X": "https://img.dev.05.ru/resize/koE89n6gRMz2HaUlmDXsLZACvJqegCB2zgM_dwnEmCA//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84MTcvODE3N2M3M2U5ZDlmMjdmZmU5NDcxOWMwODEzZDIxODAuanBn"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "GROUP_NAME": "Сейчас покупают",
+            "TITLE": "Сейчас покупают",
+            "ITEMS": [
+                {
+                    "ID": "621476",
+                    "NAME": "Смартфон Apple iPhone 11 MHDH3RU/A NEW 128 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/116069/",
+                    "IMAGE": "https://img.dev.05.ru/resize/vXo8fkQduPDaQhHExVJlG8eH3q4yQx8jDH_Y64yssbY//rs:fit:600:600:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE2MDY5LzQuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/wsTs5sXYlZ-1Yb3Ht6PXKasOzNHognXICss2fN04toE//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE2MDY5LzQuanBn",
+                        "2X": "https://img.dev.05.ru/resize/RdMX_fmbupMSO-xFHS8sEJGZxtTQ-wtlJb65hR5t0AQ//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE2MDY5LzQuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 49750,
+                            "PRINT_PRICE": "49 750₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 49750,
+                    "PRINT_PRICE": "49 750₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "623285",
+                    "NAME": "Смартфон Apple iPhone 11 MHDA3RU/A NEW 64 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/119284/",
+                    "IMAGE": "https://img.dev.05.ru/resize/0Dc6YPBLIY1ItiaLLBeOwj46RuUI-Mji4shKhxc8AH8//rs:fit:600:600:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE5Mjg0LzMuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/Wa0hCG9V1mU7r-NnGdwtW_kAr-m7lo2dqUBohef_2EU//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE5Mjg0LzMuanBn",
+                        "2X": "https://img.dev.05.ru/resize/kXPCzCoZmepfAqTtolDC3K2G8seJBER5lYtJNHZ9xYA//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTE5Mjg0LzMuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 44190,
+                            "PRINT_PRICE": "44 190₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 44190,
+                    "PRINT_PRICE": "44 190₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "619053",
+                    "NAME": "Смартфон Apple iPhone 12 Pro Max 128 Гб золотой",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/113982/",
+                    "IMAGE": "https://img.dev.05.ru/resize/fFNmNqEm2RbOP7SnUvijNdnE5oyBJKTe4UT3DYPS8-U//rs:fit:528:725:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTgyLzIuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/Zf5m2rQ-oKq-2uD5CAD199wW2ifJ1SHZ0DP-jcpesOk//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTgyLzIuanBn",
+                        "2X": "https://img.dev.05.ru/resize/aU178XXAQ59tdcncW7u900dJoPekhWLzxYN4c-OaGtA//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzOTgyLzIuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 97990,
+                            "PRINT_PRICE": "97 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 97990,
+                    "PRINT_PRICE": "97 990₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "651010",
+                    "NAME": "Смартфон Samsung Galaxy A72 256 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/135540/",
+                    "IMAGE": "https://img.dev.05.ru/resize/v_n3WNdphymL0sitBsdB4NIc-gG_R1xwMxrHI2wFCqI//rs:fit:802:1000:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1NTQwLzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/tN2c9N8nIUZwqC6ubyxZqYvY6KM2v5ECbyN75FWT1_k//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1NTQwLzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/0S8tyxhZZ19IaVu_DnbnnAgx3e3e8mcQ5vW4DMiZLHA//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1NTQwLzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": "С учетом бонусов",
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 33890,
+                            "PRINT_PRICE": "33 890₽",
+                            "CURRENCY": "RUB"
+                        },
+                        {
+                            "CODE": "RRC",
+                            "NAME": "Обычная цена",
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 8,
+                            "BONUS": 0,
+                            "PRICE": 41990,
+                            "PRINT_PRICE": "41 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 33890,
+                    "PRINT_PRICE": "33 890₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "649600",
+                    "NAME": "Смартфон Xiaomi Redmi 9T 128 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/134271/",
+                    "IMAGE": "https://img.dev.05.ru/resize/w5P-u9UTfQGxm3lY4y7SupNmt7rNNKFDAWYnEElCGiM//rs:fit:591:700:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM0MjcxLzIyLmpwZw",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/6Q-XzMW0TwhdT2g1CDxkDuWqoEvJpcAGCdmwt6IYFo8//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM0MjcxLzIyLmpwZw",
+                        "2X": "https://img.dev.05.ru/resize/VanJxd5mq80vL4HKi8FZ41LqQxfphWflh2lUjDxPk08//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM0MjcxLzIyLmpwZw"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 139,
+                            "PRICE": 15350,
+                            "PRINT_PRICE": "15 350₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 15350,
+                    "PRINT_PRICE": "15 350₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "643478",
+                    "NAME": "Смартфон POCO M3 128 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/130642/",
+                    "IMAGE": "https://img.dev.05.ru/resize/7xgtXWo1snN26uo9Rm51B5HZT0okY4OQP36dg7v6evY//rs:fit:611:690:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTMwNjQyLzI1LmpwZw",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/KOQavrOKNUgGowfUoT-HcYEVSbxrOeVkVRbuEcMLsIU//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTMwNjQyLzI1LmpwZw",
+                        "2X": "https://img.dev.05.ru/resize/Gtf3Wm5LbtqiTDriSFny8v9vDNV7UI54hbI1hiCIky8//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTMwNjQyLzI1LmpwZw"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 166,
+                            "PRICE": 13890,
+                            "PRINT_PRICE": "13 890₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 13890,
+                    "PRINT_PRICE": "13 890₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "615592",
+                    "NAME": "Ручка шариковая MESHU \"Unicorn\" синяя, 0,7мм, большой корпус, софтач",
+                    "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/ruchki_karandashi/ruchki/110991/",
+                    "IMAGE": "https://img.dev.05.ru/resize/Rfd8Ae-mU0CBk-xK8PCrQ05YEHU8nZODDTCE0eq7CzM//rs:fit:800:800:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEwOTkxLzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/BJx-U_Q4lHGVaSLybu6S4w7nEKySurAe_X0-LlN8gEg//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEwOTkxLzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/oP45n8YoJQUoTanL_Wdqojy_eMGJJQcraTMMbrxiQLg//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEwOTkxLzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 120,
+                            "PRINT_PRICE": "120₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 120,
+                    "PRINT_PRICE": "120₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "4718",
+                        "NAME": "Ручки",
+                        "CODE": "ruchki",
+                        "PARENT_NAME": "Письменные принадлежности",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/knigi_i_kanctovary/ruchki_karandashi/ruchki/",
+                        "IMAGE": "https://img.dev.05.ru/resize/5uOBfcGVc-AHgB-8c-LFze__Ao6RH6rpR6DS4vV7IdE//rs:fit:1023:589:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay83M2YvNzNmMmY5MjgyM2JmNmM4NDU3YjdmNTMwYTg2NWViZWMuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/Ey56_zf0lnP70Vq88GHpGj78doyD9Mvy35g2hM0FdmE//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay83M2YvNzNmMmY5MjgyM2JmNmM4NDU3YjdmNTMwYTg2NWViZWMuanBn",
+                            "2X": "https://img.dev.05.ru/resize/tUyJ2ZFOPlEuOQ9iqy__zimmf4UIexMrjQOJIXn1vb8//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay83M2YvNzNmMmY5MjgyM2JmNmM4NDU3YjdmNTMwYTg2NWViZWMuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "626792",
+                    "NAME": "Ручка шариковая Berlingo \"City Style\" синяя, 0,7мм",
+                    "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/ruchki_karandashi/ruchki/122834/",
+                    "IMAGE": "https://img.dev.05.ru/resize/zebYib7Vlsu87Rh2tzKFMWFQ7vPFqe4k5Y-_NQgwAsI//rs:fit:800:800:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTIyODM0LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/ewYv6oWOzQFh47OGl-QjbvOV8VH1y0KvQRameiGvX9k//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTIyODM0LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/wmTFD-YRSb52NJIabfVjYvcONXHPezuRsXDJJ_4S7-c//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTIyODM0LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 20,
+                            "PRINT_PRICE": "20₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 20,
+                    "PRINT_PRICE": "20₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "4718",
+                        "NAME": "Ручки",
+                        "CODE": "ruchki",
+                        "PARENT_NAME": "Письменные принадлежности",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/knigi_i_kanctovary/ruchki_karandashi/ruchki/",
+                        "IMAGE": "https://img.dev.05.ru/resize/5uOBfcGVc-AHgB-8c-LFze__Ao6RH6rpR6DS4vV7IdE//rs:fit:1023:589:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay83M2YvNzNmMmY5MjgyM2JmNmM4NDU3YjdmNTMwYTg2NWViZWMuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/Ey56_zf0lnP70Vq88GHpGj78doyD9Mvy35g2hM0FdmE//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay83M2YvNzNmMmY5MjgyM2JmNmM4NDU3YjdmNTMwYTg2NWViZWMuanBn",
+                            "2X": "https://img.dev.05.ru/resize/tUyJ2ZFOPlEuOQ9iqy__zimmf4UIexMrjQOJIXn1vb8//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay83M2YvNzNmMmY5MjgyM2JmNmM4NDU3YjdmNTMwYTg2NWViZWMuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "585323",
+                    "NAME": "Ручка шариковая Berlingo \"xGold\" синяя, 0,7мм, игольчатый стержень, грип",
+                    "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/ruchki_karandashi/ruchki/85970/",
+                    "IMAGE": "https://img.dev.05.ru/resize/L1QNJmHA3pvwY0m_SVKZrUEWs1mM15KIV_qJbh8q6PE//rs:fit:346:341:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDg1OTcwLzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/ImOGsttTExYHPVXM3P2XpcwU7MaRrp4UAUdDAavs9Ak//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDg1OTcwLzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/5xjX2eFpt-rVL9a4t2LDknADLQko0W1YywbTBd5SWvQ//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDg1OTcwLzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 40,
+                            "PRINT_PRICE": "40₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 40,
+                    "PRINT_PRICE": "40₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "4718",
+                        "NAME": "Ручки",
+                        "CODE": "ruchki",
+                        "PARENT_NAME": "Письменные принадлежности",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/knigi_i_kanctovary/ruchki_karandashi/ruchki/",
+                        "IMAGE": "https://img.dev.05.ru/resize/5uOBfcGVc-AHgB-8c-LFze__Ao6RH6rpR6DS4vV7IdE//rs:fit:1023:589:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay83M2YvNzNmMmY5MjgyM2JmNmM4NDU3YjdmNTMwYTg2NWViZWMuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/Ey56_zf0lnP70Vq88GHpGj78doyD9Mvy35g2hM0FdmE//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay83M2YvNzNmMmY5MjgyM2JmNmM4NDU3YjdmNTMwYTg2NWViZWMuanBn",
+                            "2X": "https://img.dev.05.ru/resize/tUyJ2ZFOPlEuOQ9iqy__zimmf4UIexMrjQOJIXn1vb8//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay83M2YvNzNmMmY5MjgyM2JmNmM4NDU3YjdmNTMwYTg2NWViZWMuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "729579",
+                    "NAME": "Мелки масляные Мульти-Пульти \"Енот в Китае\", 12цв., шестигранные, картон, европодвес",
+                    "DETAIL_PAGE_PATH": "/catalog/games/tovary_dlya_detey/154998/",
+                    "IMAGE": "https://img.dev.05.ru/resize/s36n03L6AYEDGP8kEzwGZUXb_HR87gUprcZGAEGvFn0//rs:fit:800:569:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wMDAwMDE1NDk5OC8xLmpwZw",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/STEwsJUJctV85Z1O29KgdBrUNkDCUn97AYOAyTb3GgI//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wMDAwMDE1NDk5OC8xLmpwZw",
+                        "2X": "https://img.dev.05.ru/resize/vPMSZRsiiov9m5oECcTq3q236_-lM64-0B5A8hTNggk//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wMDAwMDE1NDk5OC8xLmpwZw"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 70,
+                            "PRINT_PRICE": "70₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 70,
+                    "PRINT_PRICE": "70₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "4002",
+                        "NAME": "Товары для детей",
+                        "CODE": "tovary_dlya_detey",
+                        "PARENT_NAME": "Игры, развлечения, хобби",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/games/tovary_dlya_detey/",
+                        "IMAGE": "https://img.dev.05.ru/resize/9CNxEpJAD7BelxZusm2SiLal-iNKaKJrm-TY3cPsmbg//rs:fit:1200:1200:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8yNzcvMjc3OTJjOGIxMzgyYmEyMTBhMWZlNTAxNjBjZWQ0ZTguanBlZw",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/JvJlNAvDJx3wZtEXu_TjQ2kWnayVTYahJoV5txsg24E//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8yNzcvMjc3OTJjOGIxMzgyYmEyMTBhMWZlNTAxNjBjZWQ0ZTguanBlZw",
+                            "2X": "https://img.dev.05.ru/resize/DKimeO1FKfhEP0ylGrzrPYjebHViYuY8k08xGCGhiMo//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8yNzcvMjc3OTJjOGIxMzgyYmEyMTBhMWZlNTAxNjBjZWQ0ZTguanBlZw"
+                        }
+                    }
+                },
+                {
+                    "ID": "730257",
+                    "NAME": "Корпус компьютерный Game BOOST (192-6 ARGB/G192) Black без БП, 4*RGB fan, 1*USB3.0, закалённое стекло 4мм",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/accessories/tower/155338/",
+                    "IMAGE": "https://img.dev.05.ru/resize/Y4f43o6grnFgwhhr5Nh9JMAHSe83p69qe0Ui39qMKHY//rs:fit:947:1332:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wMDAwMDE1NTMzOC8yLnBuZw",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/8w8kxeibZ8JkefY_y80mY-rb-r_s4AApy-exOdYZQ2w//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wMDAwMDE1NTMzOC8yLnBuZw",
+                        "2X": "https://img.dev.05.ru/resize/AbzY-r5it9ziTVRPkUFjaD1ZpFaXCVkNtPUReNvPET4//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wMDAwMDE1NTMzOC8yLnBuZw"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 53,
+                            "PRICE": 4490,
+                            "PRINT_PRICE": "4 490₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 4490,
+                    "PRINT_PRICE": "4 490₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "674",
+                        "NAME": "Корпуса",
+                        "CODE": "tower",
+                        "PARENT_NAME": "Комплектующие",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/accessories/tower/",
+                        "IMAGE": "https://img.dev.05.ru/resize/w2OxXqu3scTPPX9PGrwdjLPGg2olBOL_Jga-7N10uSM//rs:fit:1801:2399:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9mODMvZjgzODdkNjQwYTUzMmU5ODk0NzA4OWYwMjA5ZjhjNjMuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/GysydIcJy1yUUkEscFnpo4ZAZGQEZicAM8n1706_4xA//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9mODMvZjgzODdkNjQwYTUzMmU5ODk0NzA4OWYwMjA5ZjhjNjMuanBn",
+                            "2X": "https://img.dev.05.ru/resize/IrVY6C2hLYktF2e_hHzR_SVFXZ9Tg_CgxapYFCQFBzc//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9mODMvZjgzODdkNjQwYTUzMmU5ODk0NzA4OWYwMjA5ZjhjNjMuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "618523",
+                    "NAME": "Емкость кухонная Living кремовая 15х12,5 см",
+                    "DETAIL_PAGE_PATH": "/catalog/remont/posuda/hranenie_produktov/113582/",
+                    "IMAGE": "https://img.dev.05.ru/resize/WvQYoVptS8iG0E4uPcgfA_FvF9XTRusPlS3zbO5ek0k//rs:fit:900:900:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL21hcmtldHBsYWNlLzYzNzM3NDkzNzM2ODM0LmpwZWc",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/OJkan9H40NhG_3cSZEglVcy0jgKagOxIoyoYUlPqvpo//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL21hcmtldHBsYWNlLzYzNzM3NDkzNzM2ODM0LmpwZWc",
+                        "2X": "https://img.dev.05.ru/resize/ILAUqRkV_pThV622V9LOOmTWCG5h4bTx3LRj0GmbF1M//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL21hcmtldHBsYWNlLzYzNzM3NDkzNzM2ODM0LmpwZWc"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 950,
+                            "PRINT_PRICE": "950₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 950,
+                    "PRINT_PRICE": "950₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "4582",
+                        "NAME": "Хранение продуктов",
+                        "CODE": "hranenie_produktov",
+                        "PARENT_NAME": "Посуда",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/remont/posuda/hranenie_produktov/",
+                        "IMAGE": "https://img.dev.05.ru/resize/v43PS6q3c82SR1pyFkxDagnFThf2ykzGJZ8d3yDQ6nY//rs:fit:700:700:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMTcvMTE3ZjUwNzJjYmRhNGNiYTkwZGJiNzI0YzMyYjdkOWUuanBlZw",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/MXzb9GzOY6nZvZNnTLVGKlODuz8bdNa3v-DKczI4zPc//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMTcvMTE3ZjUwNzJjYmRhNGNiYTkwZGJiNzI0YzMyYjdkOWUuanBlZw",
+                            "2X": "https://img.dev.05.ru/resize/kYrt2IiQCFxtzwGS2AMXIllYYGlMrtsDY9KGs8uwMQU//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMTcvMTE3ZjUwNzJjYmRhNGNiYTkwZGJiNzI0YzMyYjdkOWUuanBlZw"
+                        }
+                    }
+                },
+                {
+                    "ID": "608332",
+                    "NAME": "Смартфон OPPO A72 128 Гб черный",
+                    "DETAIL_PAGE_PATH": "/catalog/portativ/phones/103987/",
+                    "IMAGE": "https://img.dev.05.ru/resize/OWkQrGCD0Kv0znwu3_Z-JvtPT6hg-h2WfLhFP1lGOT0//rs:fit:0:0:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wMDAwMDEwMzk4Ny8zLmpwZw",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/t0arzI5SDrSIN_8FA7YJpnU_nXEveazuyzgDE2Daa6E//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wMDAwMDEwMzk4Ny8zLmpwZw",
+                        "2X": "https://img.dev.05.ru/resize/7-ZQfC0R7K0pJsTiVG16IG8b20o5-UDaMONKOVJMIyE//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wMDAwMDEwMzk4Ny8zLmpwZw"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "PROMO",
+                            "NAME": "Цена онлайн",
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 9,
+                            "BONUS": 0,
+                            "PRICE": 17991,
+                            "PRINT_PRICE": "17 991₽",
+                            "CURRENCY": "RUB"
+                        },
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": "Цена в магазине",
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 203,
+                            "PRICE": 18990,
+                            "PRINT_PRICE": "18 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 17991,
+                    "PRINT_PRICE": "17 991₽",
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "706",
+                        "NAME": "Смартфоны",
+                        "CODE": "phones",
+                        "PARENT_NAME": "Телефоны и гаджеты",
+                        "CREDIT_BUY_UNAVAILABILITY": "1",
+                        "SECTION_PAGE_PATH": "/catalog/portativ/phones/",
+                        "IMAGE": "https://img.dev.05.ru/resize/xD4BpjsJMVfum4UxP4gQOjo5mx_jtxNUZfc2QsLOTD8//rs:fit:2312:3088:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/H3OFlo3AJYS7NrAN-m2lT5IVWce1DExic0qfR6fHkY4//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn",
+                            "2X": "https://img.dev.05.ru/resize/8Mdqb-EVzDPXj7oM69dxMYrJLT1V6sTvvCotleHK8zY//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84YTgvOGE4YzJkZjgxMGNjODVmMmYwMTE4NWQ4ZTk0MGJlMTguanBn"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

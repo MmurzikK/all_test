@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://localhost:8080/",
+  "buildOrder" : 91,
+  "buildName" : "Regress #91",
+  "buildUrl" : "http://localhost:8080/job/Regress/91/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://localhost:8080/job/Regress/91/allure"
+} ]

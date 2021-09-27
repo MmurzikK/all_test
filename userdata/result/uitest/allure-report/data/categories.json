@@ -1,0 +1,270 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "UnboundLocalError: local variable 'text_for_test' referenced before assignment",
+      "children" : [ {
+        "name" : "Register",
+        "uid" : "36e4767b8ec261f3",
+        "parentUid" : "4d2a33bfa0931c756f0cdadb899008da",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632397633758,
+          "stop" : 1632397643273,
+          "duration" : 9515
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4d2a33bfa0931c756f0cdadb899008da"
+    }, {
+      "name" : "selenium.common.exceptions.TimeoutException: Message:",
+      "children" : [ {
+        "name" : "Autorizationr",
+        "uid" : "7c354a4890ce7b35",
+        "parentUid" : "31bb78a6a95ede3f78b260ed048910d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632397655762,
+          "stop" : 1632397679134,
+          "duration" : 23372
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : " test profile",
+        "uid" : "7b89b0bd840851cd",
+        "parentUid" : "31bb78a6a95ede3f78b260ed048910d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632398083481,
+          "stop" : 1632398112030,
+          "duration" : 28549
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : " test profile Order list",
+        "uid" : "456d5c7aed16dc02",
+        "parentUid" : "31bb78a6a95ede3f78b260ed048910d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632398121858,
+          "stop" : 1632398147170,
+          "duration" : 25312
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : " test profile personal_information",
+        "uid" : "3c2169f40afe5bc9",
+        "parentUid" : "31bb78a6a95ede3f78b260ed048910d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632398159346,
+          "stop" : 1632398196773,
+          "duration" : 37427
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "31bb78a6a95ede3f78b260ed048910d8"
+    }, {
+      "name" : "ValueError: invalid literal for int() with base 10: ''",
+      "children" : [ {
+        "name" : "Sravnenie",
+        "uid" : "3d8525f27c7e3d82",
+        "parentUid" : "b52d132af57373bf7983d639a9504a27",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632397695970,
+          "stop" : 1632397723896,
+          "duration" : 27926
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b52d132af57373bf7983d639a9504a27"
+    }, {
+      "name" : "selenium.common.exceptions.StaleElementReferenceException: Message: The element reference of <a class=\"bem-icon-link bem-icon-link_without-underline bem-icon-link_pseudo bem-icon-link_to-cart bem-icon-link_cart-added\" href=\"/personal/cart/\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed",
+      "children" : [ {
+        "name" : "Добавление в корзину",
+        "uid" : "f2b6893bc7a92a7e",
+        "parentUid" : "c2e861530dd845bbf55d4dce67267544",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632397733434,
+          "stop" : 1632397753984,
+          "duration" : 20550
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c2e861530dd845bbf55d4dce67267544"
+    }, {
+      "name" : "KeyError: 'access_token'",
+      "children" : [ {
+        "name" : "Add to favoutites",
+        "uid" : "55220a7b07ef8272",
+        "parentUid" : "7c4cbec72ba90dadd34e7cfd2c493d54",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632397818625,
+          "stop" : 1632397819013,
+          "duration" : 388
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Add to favoutites",
+        "uid" : "6e50f2a3c7289329",
+        "parentUid" : "7c4cbec72ba90dadd34e7cfd2c493d54",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632397829956,
+          "stop" : 1632397830275,
+          "duration" : 319
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Add to favoutites",
+        "uid" : "ad91bbf5a4bb4a75",
+        "parentUid" : "7c4cbec72ba90dadd34e7cfd2c493d54",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632397842361,
+          "stop" : 1632397843827,
+          "duration" : 1466
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Add to favoutites",
+        "uid" : "c1ddb49f4481ad62",
+        "parentUid" : "7c4cbec72ba90dadd34e7cfd2c493d54",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632398605613,
+          "stop" : 1632398606045,
+          "duration" : 432
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7c4cbec72ba90dadd34e7cfd2c493d54"
+    }, {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: span.cart-item__available",
+      "children" : [ {
+        "name" : "Проверка отображения информации наличия товара",
+        "uid" : "d964bbd9c1001476",
+        "parentUid" : "27e3e42807c9014cf0a5089bd2e52d43",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632398411189,
+          "stop" : 1632398442573,
+          "duration" : 31384
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "27e3e42807c9014cf0a5089bd2e52d43"
+    }, {
+      "name" : "selenium.common.exceptions.StaleElementReferenceException: Message: The element reference of <a class=\"user-panel__el user-panel__el_cart bem-link bem-link_wu\" href=\"/personal/cart/\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed",
+      "children" : [ {
+        "name" : "Проверка удаления товара",
+        "uid" : "9869c6bf2f264efd",
+        "parentUid" : "48395351036230bdd1c9ba213612b7df",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632398452030,
+          "stop" : 1632398479979,
+          "duration" : 27949
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Проверка удаления всех товаров",
+        "uid" : "321c88c08ba08418",
+        "parentUid" : "48395351036230bdd1c9ba213612b7df",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632398489287,
+          "stop" : 1632398516617,
+          "duration" : 27330
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Проверка отображения наименования",
+        "uid" : "4c1e295e5604b70b",
+        "parentUid" : "48395351036230bdd1c9ba213612b7df",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632398809569,
+          "stop" : 1632398837533,
+          "duration" : 27964
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "48395351036230bdd1c9ba213612b7df"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: тест на ссылки на странице магазины не прошел\nassert ['https://05....am.com/05ru/'] == ['https://05....ounts/login/']\n  At index 4 diff: 'https://www.instagram.com/05ru/' != 'https://www.instagram.com/accounts/login/'\n  Use -v to get the full diff",
+      "children" : [ {
+        "name" : "Header shop",
+        "uid" : "79f1ed1e68a45128",
+        "parentUid" : "f5cd6f10c59c8ef4bcf4aa48756a515e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397893111,
+          "stop" : 1632397912677,
+          "duration" : 19566
+        },
+        "flaky" : true,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f5cd6f10c59c8ef4bcf4aa48756a515e"
+    }, {
+      "name" : "AssertionError: Удаление товара из сравнения не работает\nassert 7 == 9",
+      "children" : [ {
+        "name" : "Sravnenie",
+        "uid" : "93f328b216acf01a",
+        "parentUid" : "e6df3b4a4012a3c23db6b59eb894c51c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632398565590,
+          "stop" : 1632398593238,
+          "duration" : 27648
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e6df3b4a4012a3c23db6b59eb894c51c"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}

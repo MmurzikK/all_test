@@ -1,0 +1,26 @@
+{
+    "success": true,
+    "result": {
+        "BASKET": {
+            "TOTAL": {
+                "ROWS": 0,
+                "BONUS_CARD": null,
+                "FREE_DELIVERY_PRICE": 1000,
+                "QUANTITY": 0,
+                "FREE_DELIVERY": false,
+                "BONUSES_RECEIVED": 0,
+                "PRICE_DELIVERY": 0,
+                "DISCOUNT_VALUE": 0,
+                "PRODUCTS_PRICE": 0,
+                "PRODUCTS_PRINT_PRICE": "0₽",
+                "PRICE": 0,
+                "PRINT_DISCOUNT_VALUE": "0₽",
+                "PRINT_PRICE_DELIVERY": "0₽",
+                "PRINT_PRICE": "0₽",
+                "OLD": 0,
+                "DISCOUNT": 0
+            },
+            "WARNINGS": null
+        }
+    }
+}

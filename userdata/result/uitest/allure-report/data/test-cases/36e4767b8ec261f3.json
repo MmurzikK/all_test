@@ -1,0 +1,153 @@
+{
+  "uid" : "36e4767b8ec261f3",
+  "name" : "Register",
+  "fullName" : "test.TestRegister#test_register",
+  "historyId" : "607f078382a144536e5ae65a8a5c4e6d",
+  "time" : {
+    "start" : 1632397633758,
+    "stop" : 1632397643273,
+    "duration" : 9515
+  },
+  "description" : "Проверка на регистрацию",
+  "descriptionHtml" : "<p>Проверка на регистрацию</p>\n",
+  "status" : "broken",
+  "statusMessage" : "UnboundLocalError: local variable 'text_for_test' referenced before assignment",
+  "statusTrace" : "self = <test.TestRegister object at 0x7ff089e92b80>\n\n    @allure.title(\"Register\")\n    @allure.description(\"Проверка на регистрацию\")\n    def test_register(self):\n    \n        self.driver.get(self.base_url)\n        timeout = 30\n        self.close_modal_city()\n        element_present = EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.main-slider__slide-wrapper'))\n        WebDriverWait(self.driver, timeout).until(element_present)\n        register = {\n            'register': {\n                'reg': '.user-panel__registration',\n                'name': 'REGISTER[NAME]',\n                'Phone': 'REGISTER[PHONE_NUMBER]',\n                'add_code': 'span.bem-icon-link__span.b',\n                'code': 'REGISTER[SMS_CODE]',\n                'mail': 'REGISTER[EMAIL]',\n                'password': 'REGISTER[PASSWORD]',\n                'confirm_password': 'REGISTER[CONFIRM_PASSWORD]',\n                'in_register': '.bem-button',\n            }\n        }\n    \n        if  All_base().delete_user_close() == True:\n    \n            self.driver.implicitly_wait(5)\n            register_button = WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, register['register']['reg'])))\n            register_button.click()\n            self.driver.implicitly_wait(5)\n            self.driver.find_element_by_name(register['register']['name']).send_keys('test')\n            self.driver.find_element_by_name(register['register']['Phone']).send_keys('89997777777')\n            time.sleep(5)\n            button = WebDriverWait(self.driver, 20).until(EC.presence_of_element_located((By.CSS_SELECTOR,register['register']['add_code'])))\n            button.click()\n            #self.driver.find_element_by_css_selector(register['register']['add_code']).click()\n            self.driver.find_element_by_name(register['register']['code']).send_keys('111111')\n            self.driver.find_element_by_name(register['register']['mail']).send_keys(f'{self.faker.company_email()}')\n            self.driver.find_element_by_name(register['register']['password']).send_keys('111111')\n            self.driver.find_element_by_name(register['register']['confirm_password']).send_keys('111111')\n            self.driver.find_element_by_css_selector(register['register']['in_register']).click()\n    \n            menu = WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, \"user-panel__wrap\")))\n            text_for_test = menu.find_element_by_class_name(\n                \"user-panel__name\").text\n    \n>       assert  text_for_test  == \"test\"\nE       UnboundLocalError: local variable 'text_for_test' referenced before assignment\n\ntest.py:157: UnboundLocalError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister",
+    "time" : {
+      "start" : 1632397623039,
+      "stop" : 1632397633757,
+      "duration" : 10718
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1632397549230,
+      "stop" : 1632397549249,
+      "duration" : 19
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister::0",
+    "time" : {
+      "start" : 1632397643481,
+      "stop" : 1632397643876,
+      "duration" : 395
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "9d2fc9ee43bb"
+  }, {
+    "name" : "thread",
+    "value" : "13-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "513a2bdef921edab",
+        "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/513a2bdef921edab",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631885692154,
+          "stop" : 1631885705065,
+          "duration" : 12911
+        }
+      }, {
+        "uid" : "d1b521789606c804",
+        "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/d1b521789606c804",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631881067586,
+          "stop" : 1631881081177,
+          "duration" : 13591
+        }
+      }, {
+        "uid" : "bad5f03b0b7f1924",
+        "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/bad5f03b0b7f1924",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631875148832,
+          "stop" : 1631875166147,
+          "duration" : 17315
+        }
+      }, {
+        "uid" : "8a482a27b511540c",
+        "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/8a482a27b511540c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631872910681,
+          "stop" : 1631872930566,
+          "duration" : 19885
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "36e4767b8ec261f3.json",
+  "parameterValues" : [ ]
+}

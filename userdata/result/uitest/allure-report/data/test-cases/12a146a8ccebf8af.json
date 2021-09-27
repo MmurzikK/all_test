@@ -1,0 +1,100 @@
+{
+  "uid" : "12a146a8ccebf8af",
+  "name" : "Проверка удаления всех товаров",
+  "fullName" : "test.TestRegister#test_clever_tovary_in_busket",
+  "historyId" : "670a408acd977ef54ecaf576e39cb999",
+  "time" : {
+    "start" : 1632398526201,
+    "stop" : 1632398556151,
+    "duration" : 29950
+  },
+  "description" : "Проверка удаления всех товаров",
+  "descriptionHtml" : "<p>Проверка удаления всех товаров</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister",
+    "time" : {
+      "start" : 1632398517415,
+      "stop" : 1632398526200,
+      "duration" : 8785
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1632397549230,
+      "stop" : 1632397549249,
+      "duration" : 19
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister::0",
+    "time" : {
+      "start" : 1632398556152,
+      "stop" : 1632398556565,
+      "duration" : 413
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "9d2fc9ee43bb"
+  }, {
+    "name" : "thread",
+    "value" : "13-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "12a146a8ccebf8af.json",
+  "parameterValues" : [ ]
+}

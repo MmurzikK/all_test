@@ -1,0 +1,901 @@
+[ {
+  "uid" : "21051d56a5a99cd8",
+  "name" : "Личный кабинет",
+  "time" : {
+    "start" : 1632397423681,
+    "stop" : 1632397423780,
+    "duration" : 99
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "78ec5225f33a09d9",
+  "name" : "Нашли дешевле?",
+  "time" : {
+    "start" : 1632397430119,
+    "stop" : 1632397430230,
+    "duration" : 111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14a3a48e2bccbf8e",
+  "name" : "Установить количество товара в коризне",
+  "time" : {
+    "start" : 1632397427209,
+    "stop" : 1632397427349,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f334db330e00ab16",
+  "name" : "Удалить PUSH",
+  "time" : {
+    "start" : 1632397431814,
+    "stop" : 1632397431896,
+    "duration" : 82
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "de341fbca6b6adf2",
+  "name" : "Получить поля - Вопросы",
+  "time" : {
+    "start" : 1632397436363,
+    "stop" : 1632397436469,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "e354ecd776d7b6f3",
+  "name" : "Установить статус просмотра",
+  "time" : {
+    "start" : 1632397431957,
+    "stop" : 1632397432055,
+    "duration" : 98
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "4e4d587ff7e6a742",
+  "name" : "Добавление в избранное",
+  "time" : {
+    "start" : 1632397423803,
+    "stop" : 1632397423882,
+    "duration" : 79
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c977d43a4242bc31",
+  "name" : "Получить поля - Ответы",
+  "time" : {
+    "start" : 1632397436571,
+    "stop" : 1632397436655,
+    "duration" : 84
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "bb4af2d7f5e90a58",
+  "name" : "Популярные поисковые фразы",
+  "time" : {
+    "start" : 1632397429643,
+    "stop" : 1632397429749,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5063d721a62a12c0",
+  "name" : "Получить список Вакансий",
+  "time" : {
+    "start" : 1632397435067,
+    "stop" : 1632397435322,
+    "duration" : 255
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "1340d4250f351934",
+  "name" : "Отправить код Бонустная карта",
+  "time" : {
+    "start" : 1632397430545,
+    "stop" : 1632397430650,
+    "duration" : 105
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "bea57560c0917a86",
+  "name" : "Получить список",
+  "time" : {
+    "start" : 1632397431682,
+    "stop" : 1632397431773,
+    "duration" : 91
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "407b32b59320e54a",
+  "name" : "Список категорий",
+  "time" : {
+    "start" : 1632397425087,
+    "stop" : 1632397425239,
+    "duration" : 152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d077c0a96d7b5f49",
+  "name" : "Получить заказы",
+  "time" : {
+    "start" : 1632397434590,
+    "stop" : 1632397434677,
+    "duration" : 87
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd9f2c84607d3ab4",
+  "name" : "Получить поля - Комментарии",
+  "time" : {
+    "start" : 1632397436194,
+    "stop" : 1632397436274,
+    "duration" : 80
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "e5ea1d5055bc49be",
+  "name" : "Отменить подписку",
+  "time" : {
+    "start" : 1632397431589,
+    "stop" : 1632397431680,
+    "duration" : 91
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "735eb0bff7179a08",
+  "name" : "Получить подарки",
+  "time" : {
+    "start" : 1632397428461,
+    "stop" : 1632397428547,
+    "duration" : 86
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51514de9bc72b002",
+  "name" : "Получить данные доставки",
+  "time" : {
+    "start" : 1632397427917,
+    "stop" : 1632397428459,
+    "duration" : 542
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "34a9f93e4a3bbcd5",
+  "name" : "Добавить промокод",
+  "time" : {
+    "start" : 1632397428550,
+    "stop" : 1632397428650,
+    "duration" : 100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edc3487686acc5c9",
+  "name" : "Получить список - Релизы",
+  "time" : {
+    "start" : 1632397436964,
+    "stop" : 1632397437050,
+    "duration" : 86
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "856267d784881edd",
+  "name" : "Получить все ссылки",
+  "time" : {
+    "start" : 1632397426072,
+    "stop" : 1632397426736,
+    "duration" : 664
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "428de593627f20e5",
+  "name" : "Получить текущее местоположение",
+  "time" : {
+    "start" : 1632397429233,
+    "stop" : 1632397429325,
+    "duration" : 92
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4986b3e9fc2f8e6",
+  "name" : "Получить структуру - Сравнение",
+  "time" : {
+    "start" : 1632397431195,
+    "stop" : 1632397431281,
+    "duration" : 86
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+}, {
+  "uid" : "a0197c64c444a7f4",
+  "name" : "Получить карточку бренда",
+  "time" : {
+    "start" : 1632397430656,
+    "stop" : 1632397430770,
+    "duration" : 114
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "8f42bbd14fa1f501",
+  "name" : "Панель каталога",
+  "time" : {
+    "start" : 1632397425880,
+    "stop" : 1632397425980,
+    "duration" : 100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fe2c61640298422",
+  "name" : "Получить ответы - Ответ",
+  "time" : {
+    "start" : 1632397436276,
+    "stop" : 1632397436360,
+    "duration" : 84
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "6610a49ed2b90fda",
+  "name" : "Зарегистрировать бонусную карту",
+  "time" : {
+    "start" : 1632397430326,
+    "stop" : 1632397430417,
+    "duration" : 91
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "537169ecde0f6308",
+  "name" : "Получить информацию о токене",
+  "time" : {
+    "start" : 1632397426942,
+    "stop" : 1632397427047,
+    "duration" : 105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95992a9e68fd47a1",
+  "name" : "Отменить Заказ",
+  "time" : {
+    "start" : 1632397436848,
+    "stop" : 1632397436935,
+    "duration" : 87
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "35197a8c322242fe",
+  "name" : "Установить количество товара в коризне - Заказ",
+  "time" : {
+    "start" : 1632397432092,
+    "stop" : 1632397432243,
+    "duration" : 151
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "345a5fac35a1e924",
+  "name" : "Удалить товар - Сравнение",
+  "time" : {
+    "start" : 1632397430891,
+    "stop" : 1632397430989,
+    "duration" : 98
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "9c873e442ffe856",
+  "name" : "Подписаться",
+  "time" : {
+    "start" : 1632397431487,
+    "stop" : 1632397431586,
+    "duration" : 99
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "fafa5c05b6a8282a",
+  "name" : "Список избранных",
+  "time" : {
+    "start" : 1632397424267,
+    "stop" : 1632397424347,
+    "duration" : 80
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f7b4b1e5f9efa57",
+  "name" : "Получить сгруппированные Бренды",
+  "time" : {
+    "start" : 1632397435577,
+    "stop" : 1632397436015,
+    "duration" : 438
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "318780ddf4db6b2",
+  "name" : "Просмотренные товары",
+  "time" : {
+    "start" : 1632397424986,
+    "stop" : 1632397425084,
+    "duration" : 98
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38fa225c0747e068",
+  "name" : "Проверка существования Пользователя",
+  "time" : {
+    "start" : 1632397426740,
+    "stop" : 1632397426938,
+    "duration" : 198
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52a9a485b7fd44a6",
+  "name" : "Получить все товары - Сравнение",
+  "time" : {
+    "start" : 1632397431377,
+    "stop" : 1632397431485,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "f041ef1707fb2ca0",
+  "name" : "Регистрация пользователя",
+  "time" : {
+    "start" : 1632397422774,
+    "stop" : 1632397422883,
+    "duration" : 109
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "b68402c3de20e1c7",
+  "name" : "Получить отзывы и комментарии товара",
+  "time" : {
+    "start" : 1632397436103,
+    "stop" : 1632397436191,
+    "duration" : 88
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "18c882f7d7afb942",
+  "name" : "Подтвердить электронную почту",
+  "time" : {
+    "start" : 1632397423399,
+    "stop" : 1632397423500,
+    "duration" : 101
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e780ef07233e6e3b",
+  "name" : "Удалить раздел - Сравнение",
+  "time" : {
+    "start" : 1632397430993,
+    "stop" : 1632397431081,
+    "duration" : 88
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "37a5eb8e41a0a1d7",
+  "name" : "Удалить промокод",
+  "time" : {
+    "start" : 1632397428653,
+    "stop" : 1632397428741,
+    "duration" : 88
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82662c7b42e405bb",
+  "name" : "Авторизация пользователя",
+  "time" : {
+    "start" : 1632397422913,
+    "stop" : 1632397423024,
+    "duration" : 111
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "7ec1713deb31ca4e",
+  "name" : "Получить пункты",
+  "time" : {
+    "start" : 1632397430233,
+    "stop" : 1632397430322,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e3ac68173be002b",
+  "name" : "Сделать заказ",
+  "time" : {
+    "start" : 1632397432246,
+    "stop" : 1632397432964,
+    "duration" : 718
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "5ff9ba59df8a843",
+  "name" : "Получить популярные Бренды",
+  "time" : {
+    "start" : 1632397435490,
+    "stop" : 1632397435575,
+    "duration" : 85
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "1717590161ae6382",
+  "name" : "Поиск",
+  "time" : {
+    "start" : 1632397434869,
+    "stop" : 1632397435065,
+    "duration" : 196
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "59abbcebf11adacc",
+  "name" : "Изменение личных данных пользователя",
+  "time" : {
+    "start" : 1632397423532,
+    "stop" : 1632397423649,
+    "duration" : 117
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9a7c894d50f2e01",
+  "name" : "Запрос обратной связи",
+  "time" : {
+    "start" : 1632397430011,
+    "stop" : 1632397430117,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "456f287fc31b7010",
+  "name" : "Поисковик подсказки",
+  "time" : {
+    "start" : 1632397429752,
+    "stop" : 1632397429868,
+    "duration" : 116
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ca8a58e0f7c7d81",
+  "name" : "Получение просмотренных товаров",
+  "time" : {
+    "start" : 1632397424556,
+    "stop" : 1632397424641,
+    "duration" : 85
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c926b4525976e39f",
+  "name" : "Получить список разделов - Сравнение",
+  "time" : {
+    "start" : 1632397431284,
+    "stop" : 1632397431375,
+    "duration" : 91
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "442e61bc97c7cec0",
+  "name" : "Слайдеры",
+  "time" : {
+    "start" : 1632397425242,
+    "stop" : 1632397425350,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ec588fb1613e8b8",
+  "name" : "Получение главного экрана",
+  "time" : {
+    "start" : 1632397424370,
+    "stop" : 1632397424553,
+    "duration" : 183
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "392511f1c2d8d2f8",
+  "name" : "Получить список магазинов",
+  "time" : {
+    "start" : 1632397435325,
+    "stop" : 1632397435406,
+    "duration" : 81
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "978faa9b5bc59f7f",
+  "name" : "Удалить товары - Сравнение",
+  "time" : {
+    "start" : 1632397431084,
+    "stop" : 1632397431192,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "febe0956fb97e70",
+  "name" : "Удалить товар из корзины",
+  "time" : {
+    "start" : 1632397428750,
+    "stop" : 1632397429129,
+    "duration" : 379
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63c80315e44ffe60",
+  "name" : "Список избранных",
+  "time" : {
+    "start" : 1632397434705,
+    "stop" : 1632397434813,
+    "duration" : 108
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "ec87d48988aa3810",
+  "name" : "Установить количество товара в коризне - Заказ - Дубль",
+  "time" : {
+    "start" : 1632397432966,
+    "stop" : 1632397433135,
+    "duration" : 169
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "a6db15d1a4072a32",
+  "name" : "Vue каталог",
+  "time" : {
+    "start" : 1632397425358,
+    "stop" : 1632397425755,
+    "duration" : 397
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7eef0d6f6db12778",
+  "name" : "Список баннеров",
+  "time" : {
+    "start" : 1632397425984,
+    "stop" : 1632397426070,
+    "duration" : 86
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f855ce5a864a5bd",
+  "name" : "Получить вопросы и ответы товара",
+  "time" : {
+    "start" : 1632397436471,
+    "stop" : 1632397436569,
+    "duration" : 98
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "e18909fff866a579",
+  "name" : "Получить Вакансию",
+  "time" : {
+    "start" : 1632397436754,
+    "stop" : 1632397436845,
+    "duration" : 91
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "e8b39aff623b1499",
+  "name" : "Купить в один клик",
+  "time" : {
+    "start" : 1632397433706,
+    "stop" : 1632397434587,
+    "duration" : 881
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "d12ec1b0268cee82",
+  "name" : "Установить местоположение",
+  "time" : {
+    "start" : 1632397429328,
+    "stop" : 1632397429430,
+    "duration" : 102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "febd46bddf73f368",
+  "name" : "Калькулятор рассрочки",
+  "time" : {
+    "start" : 1632397429870,
+    "stop" : 1632397430009,
+    "duration" : 139
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29bc6e1ed0d88e54",
+  "name" : "Удалить все из избранного",
+  "time" : {
+    "start" : 1632397424128,
+    "stop" : 1632397424231,
+    "duration" : 103
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef665165ecc23c6",
+  "name" : "Вакансии для рекомендации разработчика",
+  "time" : {
+    "start" : 1632397436658,
+    "stop" : 1632397436751,
+    "duration" : 93
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "d726c843c70df559",
+  "name" : "Удалить все товары из корзины",
+  "time" : {
+    "start" : 1632397429132,
+    "stop" : 1632397429230,
+    "duration" : 98
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66017ff2be3f2a20",
+  "name" : "Проверка кода подтверждения",
+  "time" : {
+    "start" : 1632397422541,
+    "stop" : 1632397422635,
+    "duration" : 94
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "db7e4f3476a5e067",
+  "name" : "Получить структуру конфигуратора сборок",
+  "time" : {
+    "start" : 1632397437243,
+    "stop" : 1632397437355,
+    "duration" : 112
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "e7e52decace368a4",
+  "name" : "Изменить пароль во время восстановления",
+  "time" : {
+    "start" : 1632397423282,
+    "stop" : 1632397423396,
+    "duration" : 114
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e6c1bea685d936b",
+  "name" : "Отправка кода подтверждения",
+  "time" : {
+    "start" : 1632397423054,
+    "stop" : 1632397423280,
+    "duration" : 226
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a6b2d5b6fb956ea",
+  "name" : "Получить общую информацию",
+  "time" : {
+    "start" : 1632397435409,
+    "stop" : 1632397435488,
+    "duration" : 79
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "8fddd953d03a65ae",
+  "name" : "Получить поля комментарий",
+  "time" : {
+    "start" : 1632397436018,
+    "stop" : 1632397436101,
+    "duration" : 83
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "b736bd8f7f37e136",
+  "name" : "Получить местоположения",
+  "time" : {
+    "start" : 1632397429432,
+    "stop" : 1632397429640,
+    "duration" : 208
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3ca89f46778ce6a",
+  "name" : "Получить корзину",
+  "time" : {
+    "start" : 1632397427050,
+    "stop" : 1632397427205,
+    "duration" : 155
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e995b0fcccf48f2",
+  "name" : "Добавить товар - Сравнение",
+  "time" : {
+    "start" : 1632397430773,
+    "stop" : 1632397430886,
+    "duration" : 113
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "e52021a570bba753",
+  "name" : "Получить данные для создания заказа",
+  "time" : {
+    "start" : 1632397433138,
+    "stop" : 1632397433703,
+    "duration" : 565
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "13a37d7b80d23c4a",
+  "name" : "Отправка кода подтверждения",
+  "time" : {
+    "start" : 1632397422142,
+    "stop" : 1632397422419,
+    "duration" : 277
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f53ece0e8a3d209f",
+  "name" : "Получить способы оплаты",
+  "time" : {
+    "start" : 1632397427352,
+    "stop" : 1632397427912,
+    "duration" : 560
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4139c17cbaeb1fd",
+  "name" : "Получить поля о бонусной карте",
+  "time" : {
+    "start" : 1632397430451,
+    "stop" : 1632397430541,
+    "duration" : 90
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed8e59f4193415d6",
+  "name" : "Получение полей для регистрации",
+  "time" : {
+    "start" : 1632397422686,
+    "stop" : 1632397422772,
+    "duration" : 86
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5dd5db29e35b71eb",
+  "name" : "Карточка товара",
+  "time" : {
+    "start" : 1632397424644,
+    "stop" : 1632397424984,
+    "duration" : 340
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bedb4cbde7cec612",
+  "name" : "Получить сборку конфигуратора сборок",
+  "time" : {
+    "start" : 1632397437148,
+    "stop" : 1632397437240,
+    "duration" : 92
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "249e76e31e7bc72e",
+  "name" : "Получить релиз",
+  "time" : {
+    "start" : 1632397437053,
+    "stop" : 1632397437141,
+    "duration" : 88
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "f729fd51614785a",
+  "name" : "Удаление из избранного",
+  "time" : {
+    "start" : 1632397424015,
+    "stop" : 1632397424101,
+    "duration" : 86
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "218e566de1c66116",
+  "name" : "Добавить в избранное дубль",
+  "time" : {
+    "start" : 1632397423906,
+    "stop" : 1632397423991,
+    "duration" : 85
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee7bb4c347060086",
+  "name" : "Каталог",
+  "time" : {
+    "start" : 1632397425759,
+    "stop" : 1632397425877,
+    "duration" : 118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "224efb3c96c81b69",
+  "name" : "Удаление пользователя",
+  "time" : {
+    "start" : 1632397437357,
+    "stop" : 1632397437560,
+    "duration" : 203
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

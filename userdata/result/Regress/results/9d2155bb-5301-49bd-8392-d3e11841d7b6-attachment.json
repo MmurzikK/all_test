@@ -1,0 +1,10 @@
+{
+    "success": false,
+    "error": {
+        "type": "error",
+        "message": "user_not_authorized",
+        "messages": null,
+        "description": "Требуется авторизация",
+        "fields": null
+    }
+}

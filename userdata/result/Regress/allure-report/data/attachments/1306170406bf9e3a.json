@@ -1,0 +1,1186 @@
+{
+    "success": true,
+    "result": {
+        "PRODUCT": {
+            "ID": "633990",
+            "NAME": "Книга \"Адизес для лидеров\" | Ицхак Адизес",
+            "IBLOCK_ID": "59",
+            "IBLOCK_SECTION_ID": "4281",
+            "DETAIL_PICTURE": "2289503",
+            "DETAIL_TEXT": "",
+            "DETAIL_PAGE_URL": "https://stage.05.ru/catalog/knigi_i_kanctovary/knigi/126505/",
+            "CODE": "126505",
+            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/126505/",
+            "IMAGE": "https://img.dev.05.ru/resize/ckTur0nkDSK7LPsJu2Qvztw96i2m6QQ43jvaVu5OnYQ//rs:fit:1197:1544:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTI2NTA1LzEuanBn",
+            "PRICES": [
+                {
+                    "CODE": "DEFAULT",
+                    "NAME": null,
+                    "CROSSED": false,
+                    "PRICE_TYPE_ID": 5,
+                    "BONUS": 0,
+                    "PRICE": 470,
+                    "PRINT_PRICE": "470₽",
+                    "CURRENCY": "RUB"
+                },
+                {
+                    "CODE": "PROMO",
+                    "NAME": null,
+                    "CROSSED": true,
+                    "PRICE_TYPE_ID": 9,
+                    "BONUS": 0,
+                    "PRICE": 530,
+                    "PRINT_PRICE": "530₽",
+                    "CURRENCY": "RUB"
+                }
+            ],
+            "MAIN_PRICE": 530,
+            "PRICE": 530,
+            "IN_BASKET": false,
+            "IN_FAVORITES": false,
+            "IN_COMPARE": false,
+            "DEFAULT_OFFERS": null,
+            "ACTIONS": null,
+            "CUSTOM_SELLERS": null,
+            "CREDIT_BUY_AVAILABILITY": true,
+            "BRAND": {
+                "ID": "257383",
+                "UF_NAME": "Бомбора",
+                "UF_XML_ID": "6d73a32a-afbe-11ea-bb9e-0cc47a5976ad",
+                "UF_LINK": "bombora",
+                "UF_FILE": "https://img.dev.05.ru/resize/GLuZeMOqByKILVk1JqG0MWrNg5yk_9gguDyk0h__I0s//rs:fit:300:225:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2FmZS9hZmUyMjg0NDQyOWUyNTc5MDE1NWQ3MTM5ZGQwNWFiNi5qcGc",
+                "UF_DESCRIPTION": "",
+                "UF_FULL_DESCRIPTION": "",
+                "IMAGE": "https://img.dev.05.ru/resize/GLuZeMOqByKILVk1JqG0MWrNg5yk_9gguDyk0h__I0s//rs:fit:300:225:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2FmZS9hZmUyMjg0NDQyOWUyNTc5MDE1NWQ3MTM5ZGQwNWFiNi5qcGc",
+                "THUMBNAILS": {
+                    "1X": "https://img.dev.05.ru/resize/QMQYxvBKFYt8hh5nOj22vb4NwmRiPVabHjV3iIjGAYs//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2FmZS9hZmUyMjg0NDQyOWUyNTc5MDE1NWQ3MTM5ZGQwNWFiNi5qcGc",
+                    "2X": "https://img.dev.05.ru/resize/bfvFjBf4Od83tJITQyqw-ON5AaEcah4_UeLHbxrvIqc//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2FmZS9hZmUyMjg0NDQyOWUyNTc5MDE1NWQ3MTM5ZGQwNWFiNi5qcGc"
+                },
+                "NAME": "Бомбора",
+                "CODE": "bombora",
+                "DESCRIPTION": null,
+                "FULL_DESCRIPTION": null,
+                "DETAIL_PAGE_PATH": "https://stage.05.ru/brands/bombora",
+                "DETAIL_PAGE_URL": "https://stage.05.ru/brands/bombora"
+            },
+            "SECTION": "Книги",
+            "IS_PRODUCT_IN_FAVORITES": false,
+            "META": {
+                "ELEMENT_META_TITLE": "Книга &quot;Адизес для лидеров&quot; | Ицхак Адизес - купить в 05.RU, цены, отзывы",
+                "ELEMENT_META_DESCRIPTION": "Купить Книга &quot;Адизес для лидеров&quot; | Ицхак Адизес по доступным ценам в интернет-магазине 05.RU. Книга &quot;Адизес для лидеров&quot; | Ицхак Адизес - аксессуары, отзывы, цены и фото. Заказать можно на сайте или по телефону +7 (8722) 51-51-51",
+                "SECTION_META_TITLE": "Книга &quot;Адизес для лидеров&quot; | Ицхак Адизес —  Купить в интернет-магазине 05.RU по низкой цене",
+                "SECTION_META_DESCRIPTION": "Отличные цены на товары из раздела &quot;Книга &quot;Адизес для лидеров&quot; | Ицхак Адизес&quot; в интернет-магазине 05.RU ✔  В каталоге &quot;Книга &quot;Адизес для лидеров&quot; | Ицхак Адизес&quot; можно ознакомиться с ценами, фотографиями и подробными характеристиками "
+            },
+            "STATUS": {
+                "DEFAULT": 5,
+                "NAME": "мало",
+                "DESCRIPTION_PART": "Осталось",
+                "ICON": false,
+                "TEXT": "Осталось мало",
+                "COLOR": "#E23512",
+                "CODE": "FEW",
+                "CLASS": "bem-pseudo_red",
+                "FREE_DELIVERY": false
+            },
+            "FREE_DELIVERY": false,
+            "ADDITIONAL": {
+                "STATUS": {
+                    "DEFAULT": 5,
+                    "NAME": "мало",
+                    "DESCRIPTION_PART": "Осталось",
+                    "ICON": false,
+                    "TEXT": "Осталось мало",
+                    "COLOR": "#E23512",
+                    "CODE": "FEW",
+                    "CLASS": "bem-pseudo_red",
+                    "FREE_DELIVERY": false
+                },
+                "FREE_DELIVERY": false,
+                "DELIVERIES": {
+                    "NAME": "Способы доставки",
+                    "PHOTO": "http://stage.05.ru/images/app/png/product-info-block__icon-delivery.png",
+                    "IMAGE": "http://stage.05.ru/images/app/png/product-info-block__icon-delivery.png",
+                    "AMOUNT": null,
+                    "COLOR": null,
+                    "ITEMS": [
+                        {
+                            "NAME": "Курьерская доставка 05.ru",
+                            "PRICE": 100,
+                            "PRICE_FORMATED": "100₽",
+                            "PERIOD_TEXT": "сегодня",
+                            "IS_SELFDELIVERY": "N",
+                            "DESCRIPTION": "Курьерская доставка 05.ru",
+                            "VALUE": "100₽",
+                            "STORE_LIST": [],
+                            "SELLERS": null
+                        },
+                        {
+                            "NAME": "Настройка обработчика для г.Казань",
+                            "PRICE": 99,
+                            "PRICE_FORMATED": "99₽",
+                            "PERIOD_TEXT": " от 1 дней ",
+                            "IS_SELFDELIVERY": null,
+                            "DESCRIPTION": "Служба доставки с настраиваемой ценой и сроком доставки",
+                            "VALUE": "99₽",
+                            "STORE_LIST": [],
+                            "SELLERS": null
+                        },
+                        {
+                            "NAME": "Самовывоз",
+                            "PRICE": 0,
+                            "PRICE_FORMATED": "бесплатно",
+                            "PERIOD_TEXT": "сегодня",
+                            "IS_SELFDELIVERY": "Y",
+                            "DESCRIPTION": "Забрать заказ в нашем магазине по адресу пр.Шамиля, 5/ пр.Шамиля 31г",
+                            "VALUE": "бесплатно",
+                            "STORE_LIST": [
+                                "254",
+                                "233",
+                                "245"
+                            ],
+                            "SELLERS": null
+                        }
+                    ]
+                },
+                "PAYMENTS": {
+                    "NAME": "Способы оплаты",
+                    "PHOTO": "http://stage.05.ru/images/app/png/card.png",
+                    "IMAGE": "http://stage.05.ru/images/app/png/card.png",
+                    "AMOUNT": null,
+                    "COLOR": null,
+                    "ITEMS": [
+                        {
+                            "NAME": "Наличными при получении",
+                            "DESCRIPTION": "Оплата наличными при получении заказа курьеру."
+                        }
+                    ]
+                },
+                "REMAINS": {
+                    "NAME": "Осталось",
+                    "IMAGE": null,
+                    "AMOUNT": {
+                        "COLOR": "#E23512",
+                        "VALUE": "мало"
+                    },
+                    "COLOR": "#E23512",
+                    "ITEMS": [
+                        {
+                            "PRODUCT_ID": "633990",
+                            "AMOUNT": "1",
+                            "STORE_ID": "233",
+                            "QUANTITY": "2",
+                            "TITLE": "Махачкала, пр-кт И. Шамиля, 5",
+                            "IMAGE": null,
+                            "ADDRESS": "пр-кт И. Шамиля, 5",
+                            "IS_MARKETPLACE": "0",
+                            "MP_DELIVERY_DAYS": "0",
+                            "XML_ID": "94eb7f6f-216e-11e1-aa32-003048321e2b",
+                            "QUANTITY_STATUS_CODE": "FEW",
+                            "QUANTITY_STATUS": "мало",
+                            "COLOR": "#E23512",
+                            "NAME": "Махачкала, пр-кт И. Шамиля, 5",
+                            "VALUE": "мало",
+                            "IS_CURRENT": true
+                        },
+                        {
+                            "PRODUCT_ID": "633990",
+                            "AMOUNT": "1",
+                            "STORE_ID": "254",
+                            "QUANTITY": "2",
+                            "TITLE": "Махачкала, пр-кт И. Шамиля, 31г",
+                            "IMAGE": null,
+                            "ADDRESS": "пр-кт И. Шамиля, 31г",
+                            "IS_MARKETPLACE": "0",
+                            "MP_DELIVERY_DAYS": "0",
+                            "XML_ID": "6e31745d-ff94-11e9-bb9d-0cc47a5976ac",
+                            "QUANTITY_STATUS_CODE": "FEW",
+                            "QUANTITY_STATUS": "мало",
+                            "COLOR": "#E23512",
+                            "NAME": "Махачкала, пр-кт И. Шамиля, 31г",
+                            "VALUE": "мало",
+                            "IS_CURRENT": true
+                        }
+                    ]
+                },
+                "INSTALLMENT": {
+                    "NAME": "Рассрочка от 133₽",
+                    "PHOTO": "http://stage.05.ru/images/app/png/product-info-block__icon-ruble.png",
+                    "IMAGE": "http://stage.05.ru/images/app/png/product-info-block__icon-ruble.png",
+                    "ITEMS": [
+                        {
+                            "PARAM": "period",
+                            "CURRENT_VALUE_INDEX": 5,
+                            "NAME": "Срок",
+                            "ITEMS": [
+                                {
+                                    "NAME": "1 мес.",
+                                    "VALUE": 1
+                                },
+                                {
+                                    "NAME": "2 мес.",
+                                    "VALUE": 2
+                                },
+                                {
+                                    "NAME": "3 мес.",
+                                    "VALUE": 3
+                                },
+                                {
+                                    "NAME": "4 мес.",
+                                    "VALUE": 4
+                                },
+                                {
+                                    "NAME": "5 мес.",
+                                    "VALUE": 5
+                                },
+                                {
+                                    "NAME": "6 мес.",
+                                    "VALUE": 6
+                                }
+                            ]
+                        },
+                        {
+                            "PARAM": "guarantors",
+                            "CURRENT_VALUE_INDEX": 0,
+                            "NAME": "Поручителей",
+                            "ITEMS": [
+                                {
+                                    "NAME": "Нет",
+                                    "VALUE": 0
+                                },
+                                {
+                                    "NAME": 1,
+                                    "VALUE": 1
+                                }
+                            ]
+                        },
+                        {
+                            "NAME": "Первый взнос",
+                            "VALUE": "133₽"
+                        },
+                        {
+                            "NAME": "Переплата",
+                            "VALUE": "137₽"
+                        },
+                        {
+                            "NAME": "Ежемесячный платёж",
+                            "VALUE": "90₽"
+                        },
+                        {
+                            "NAME": "Итоговая сумма",
+                            "VALUE": "667₽"
+                        }
+                    ]
+                }
+            },
+            "DELIVERIES": {
+                "NAME": "Способы доставки",
+                "PHOTO": "http://stage.05.ru/images/app/png/product-info-block__icon-delivery.png",
+                "IMAGE": "http://stage.05.ru/images/app/png/product-info-block__icon-delivery.png",
+                "AMOUNT": null,
+                "COLOR": null,
+                "ITEMS": [
+                    {
+                        "NAME": "Курьерская доставка 05.ru",
+                        "PRICE": 100,
+                        "PRICE_FORMATED": "100₽",
+                        "PERIOD_TEXT": "сегодня",
+                        "IS_SELFDELIVERY": "N",
+                        "DESCRIPTION": "Курьерская доставка 05.ru",
+                        "VALUE": "100₽",
+                        "STORE_LIST": [],
+                        "SELLERS": null
+                    },
+                    {
+                        "NAME": "Настройка обработчика для г.Казань",
+                        "PRICE": 99,
+                        "PRICE_FORMATED": "99₽",
+                        "PERIOD_TEXT": " от 1 дней ",
+                        "IS_SELFDELIVERY": null,
+                        "DESCRIPTION": "Служба доставки с настраиваемой ценой и сроком доставки",
+                        "VALUE": "99₽",
+                        "STORE_LIST": [],
+                        "SELLERS": null
+                    },
+                    {
+                        "NAME": "Самовывоз",
+                        "PRICE": 0,
+                        "PRICE_FORMATED": "бесплатно",
+                        "PERIOD_TEXT": "сегодня",
+                        "IS_SELFDELIVERY": "Y",
+                        "DESCRIPTION": "Забрать заказ в нашем магазине по адресу пр.Шамиля, 5/ пр.Шамиля 31г",
+                        "VALUE": "бесплатно",
+                        "STORE_LIST": [
+                            "254",
+                            "233",
+                            "245"
+                        ],
+                        "SELLERS": null
+                    }
+                ]
+            },
+            "PAYMENTS": {
+                "NAME": "Способы оплаты",
+                "PHOTO": "http://stage.05.ru/images/app/png/card.png",
+                "IMAGE": "http://stage.05.ru/images/app/png/card.png",
+                "AMOUNT": null,
+                "COLOR": null,
+                "ITEMS": [
+                    {
+                        "NAME": "Наличными при получении",
+                        "DESCRIPTION": "Оплата наличными при получении заказа курьеру."
+                    }
+                ]
+            },
+            "INSTALLMENT": {
+                "NAME": "Рассрочка от 133₽",
+                "PHOTO": "http://stage.05.ru/images/app/png/product-info-block__icon-ruble.png",
+                "IMAGE": "http://stage.05.ru/images/app/png/product-info-block__icon-ruble.png",
+                "ITEMS": [
+                    {
+                        "PARAM": "period",
+                        "CURRENT_VALUE_INDEX": 5,
+                        "NAME": "Срок",
+                        "ITEMS": [
+                            {
+                                "NAME": "1 мес.",
+                                "VALUE": 1
+                            },
+                            {
+                                "NAME": "2 мес.",
+                                "VALUE": 2
+                            },
+                            {
+                                "NAME": "3 мес.",
+                                "VALUE": 3
+                            },
+                            {
+                                "NAME": "4 мес.",
+                                "VALUE": 4
+                            },
+                            {
+                                "NAME": "5 мес.",
+                                "VALUE": 5
+                            },
+                            {
+                                "NAME": "6 мес.",
+                                "VALUE": 6
+                            }
+                        ]
+                    },
+                    {
+                        "PARAM": "guarantors",
+                        "CURRENT_VALUE_INDEX": 0,
+                        "NAME": "Поручителей",
+                        "ITEMS": [
+                            {
+                                "NAME": "Нет",
+                                "VALUE": 0
+                            },
+                            {
+                                "NAME": 1,
+                                "VALUE": 1
+                            }
+                        ]
+                    },
+                    {
+                        "NAME": "Первый взнос",
+                        "VALUE": "133₽"
+                    },
+                    {
+                        "NAME": "Переплата",
+                        "VALUE": "137₽"
+                    },
+                    {
+                        "NAME": "Ежемесячный платёж",
+                        "VALUE": "90₽"
+                    },
+                    {
+                        "NAME": "Итоговая сумма",
+                        "VALUE": "667₽"
+                    }
+                ]
+            },
+            "ACCESSORIES": null,
+            "MORE_PHOTO": [
+                "2289503"
+            ],
+            "IMAGES": [
+                "https://img.dev.05.ru/resize/ckTur0nkDSK7LPsJu2Qvztw96i2m6QQ43jvaVu5OnYQ//rs:fit:1197:1544:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTI2NTA1LzEuanBn"
+            ],
+            "APPEAL_TYPES": [
+                {
+                    "ID": "1",
+                    "NAME": "Жалоба"
+                },
+                {
+                    "ID": "2",
+                    "NAME": "Отзыв"
+                },
+                {
+                    "ID": "3",
+                    "NAME": "Пожелание"
+                },
+                {
+                    "ID": "9",
+                    "NAME": "Узнать цену"
+                },
+                {
+                    "ID": "10",
+                    "NAME": "Консультация"
+                },
+                {
+                    "ID": "11",
+                    "NAME": "Гарантийное обслуживание"
+                },
+                {
+                    "ID": "12",
+                    "NAME": "Хочу сделать заказ"
+                },
+                {
+                    "ID": "13",
+                    "NAME": "Оффлайн сообщение с jivosite"
+                },
+                {
+                    "ID": "15",
+                    "NAME": "Нашли дешевле"
+                },
+                {
+                    "ID": "16",
+                    "NAME": "Обратный звонок из телеграма"
+                },
+                {
+                    "ID": "17",
+                    "NAME": "Отзыв из телеграма"
+                },
+                {
+                    "ID": "18",
+                    "NAME": "Китайский понедельник"
+                },
+                {
+                    "ID": "23",
+                    "NAME": "Проблема с активацией бонусной карты"
+                },
+                {
+                    "ID": "24",
+                    "NAME": "Не нашли, что искали?"
+                },
+                {
+                    "ID": "57",
+                    "NAME": "Заявка на рассрочку"
+                }
+            ],
+            "PROPERTIES": [
+                {
+                    "GROUP_NAME": "",
+                    "PROPERTIES": {
+                        "Жанры/тематика": "деловой бестселлер",
+                        "Год выпуска": "2017",
+                        "Возрастные ограничения": "16+",
+                        "Обложка": "твердая",
+                        "Автор": "Ицхак Адизес",
+                        "Количество страниц": "280",
+                        "Описание": "На протяжении нескольких лет всемирно известный коуч Ицхак Адизес общался с президентами компаний, которые когда-то обратились к нему за помощью: о том, как методология Адизеса помогла им, о секретах лидерства и о том, что изменилось за последние годы."
+                    }
+                }
+            ],
+            "MAIN_PROPERTIES": [
+                {
+                    "NAME": "Артикул",
+                    "CODE": "CML2_ARTICLE",
+                    "ID": "51409",
+                    "VALUE": "05 АДЛИА",
+                    "TYPE": null,
+                    "HTML_NAME": "prop_51409",
+                    "HTML_VALUE": "05+%D0%90%D0%94%D0%9B%D0%98%D0%90"
+                },
+                {
+                    "NAME": "Производитель",
+                    "CODE": "CML2_BRANDS_REF",
+                    "ID": "257383",
+                    "VALUE": "Бомбора",
+                    "TYPE": "BRAND",
+                    "HTML_NAME": "prop_3492",
+                    "HTML_VALUE": "%D0%91%D0%BE%D0%BC%D0%B1%D0%BE%D1%80%D0%B0"
+                },
+                {
+                    "NAME": "Код товара",
+                    "CODE": "CML2_CODE",
+                    "ID": "50959",
+                    "VALUE": "126505",
+                    "TYPE": "CODE",
+                    "HTML_NAME": "prop_50959",
+                    "HTML_VALUE": "126505"
+                },
+                {
+                    "NAME": "Гарантийный срок",
+                    "CODE": "CML2_GARANT",
+                    "ID": "48365",
+                    "VALUE": "",
+                    "TYPE": null,
+                    "HTML_NAME": "prop_48365",
+                    "HTML_VALUE": ""
+                }
+            ],
+            "OFFERS": null,
+            "SECTION_NAV_CHAIN": [
+                {
+                    "ID": "4722",
+                    "NAME": "Книги и канцтовары",
+                    "CODE": "knigi_i_kanctovary",
+                    "UPDATED": "2021-08-16",
+                    "LEFT_MARGIN": "1185",
+                    "RIGHT_MARGIN": "1250",
+                    "UF_CAT_LIST": null,
+                    "PARENT_ID": null,
+                    "PARENT_NAME": null,
+                    "SECTION_PAGE_PATH": "/catalog/knigi_i_kanctovary/",
+                    "IMAGE": "https://img.dev.05.ru/resize/kVGoAbRlIwPIX7pzAUgMGHd36vHHvXlEDIOiJmDaloc//rs:fit:1062:1600:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay85ZDcvOWQ3OGIzYWU2MDQ1MjIyZGJkYzRlMGYzOGYxOTAzYzQuanBn",
+                    "ICON": "https://img.dev.05.ru/resize/NtFbk49SHO_ZpciYCn900txMn-gK3rQXABl62Zra5eA//rs:fit:180:180:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2MyNC9jMjQ4ZDRhNWU4ZGQ1MDQ2MmU4YWVlZGRhZWZmMmU1OS5wbmc",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/xw7VxACb4BeWrx9DXSKQo7Nq-fNqSSkTr_ENNKWvGwc//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay85ZDcvOWQ3OGIzYWU2MDQ1MjIyZGJkYzRlMGYzOGYxOTAzYzQuanBn",
+                        "2X": "https://img.dev.05.ru/resize/l24Ou79eK1YtojFNqk8uBLlT4Cca53IMQIUxDn_AaVM//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay85ZDcvOWQ3OGIzYWU2MDQ1MjIyZGJkYzRlMGYzOGYxOTAzYzQuanBn"
+                    },
+                    "LINK": {
+                        "TYPE": "CATALOG",
+                        "VALUE": "4722"
+                    },
+                    "CHILDREN": [
+                        {
+                            "ID": "4281",
+                            "NAME": "Книги",
+                            "CODE": "knigi",
+                            "UPDATED": "2021-08-16",
+                            "LEFT_MARGIN": "1242",
+                            "RIGHT_MARGIN": "1245",
+                            "UF_CAT_LIST": null,
+                            "PARENT_ID": "4722",
+                            "PARENT_NAME": "Книги и канцтовары",
+                            "SECTION_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/",
+                            "IMAGE": "https://img.dev.05.ru/resize/XkA-vtO__YNsJ5OAtbbPEi6Wn141jQ2dMCalcRtFyLE//rs:fit:1051:1500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9hYzgvYWM4MjcwZTZhODc3YzBkNGE3YmI2OGY4NjhkY2VlOGMuanBn",
+                            "ICON": null,
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/IhaAiizlBeLrDuIyXlLkRJOsvG8V64o8bjy0qFxTN7Y//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9hYzgvYWM4MjcwZTZhODc3YzBkNGE3YmI2OGY4NjhkY2VlOGMuanBn",
+                                "2X": "https://img.dev.05.ru/resize/9qFVPeqyABz9UQEQjuL2v0AjqADURvvbP1RMVuA3oGg//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9hYzgvYWM4MjcwZTZhODc3YzBkNGE3YmI2OGY4NjhkY2VlOGMuanBn"
+                            },
+                            "LINK": {
+                                "TYPE": "CATALOG",
+                                "VALUE": "4281"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "ADDITIONAL_PRODUCTS": [
+                {
+                    "GROUP_NAME": "Похожие товары",
+                    "ITEMS": [
+                        {
+                            "ID": "608773",
+                            "NAME": "Книга \"Магия Утра\" | Хэл Элрод",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104404/",
+                            "IMAGE": "https://img.dev.05.ru/resize/rDOQJTHbMnQbaDw92xME3mURp1hkZGKzH5Izt_XOfBc//rs:fit:1200:1745:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0NDA0LzIuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/6MhBmKZkw44avm9XsqNbWeKQ2XmKOMeVbSf58QUpPOs//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0NDA0LzIuanBn",
+                                "2X": "https://img.dev.05.ru/resize/rXI_pn_d-7UaTiEJc302BZflOIq6zm_mO2GIzORKl48//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0NDA0LzIuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 620,
+                                    "PRINT_PRICE": "620₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 620,
+                            "PRINT_PRICE": "620₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "608774",
+                            "NAME": "Книга \"НЕ ТУПИ\" | Джен Синсеро",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104402/",
+                            "IMAGE": "https://img.dev.05.ru/resize/5BS32DXraB08quc1DlvKAeN7QkE9jE9qbVqcktxlif8//rs:fit:555:795:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0NDAyLzEuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/sQDwRaUT3NO_e69BvmevbP12qdususkJtzsMYOR3bB8//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0NDAyLzEuanBn",
+                                "2X": "https://img.dev.05.ru/resize/I0SWjzS2bc99isBhy8Np3LwNDDPRBC__Rh0aTigm7xQ//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0NDAyLzEuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 500,
+                                    "PRINT_PRICE": "500₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 500,
+                            "PRINT_PRICE": "500₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "608775",
+                            "NAME": "Книга \"Между надо и хочу\" |  Эль Луна",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104413/",
+                            "IMAGE": "https://img.dev.05.ru/resize/eKJfyDQRG5uvYq56iriQRe6YhKe0nS1owzZKKkTNky0//rs:fit:1056:1500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0NDEzLzEuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/MWy4x8s4iKKUwYMAwHuUp8m5MIvuMhCNrTSQ2JkhurE//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0NDEzLzEuanBn",
+                                "2X": "https://img.dev.05.ru/resize/G_EzPmMa0KFmUtt1O65BgUDqs1vxDmE6IByHp6hBnv0//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0NDEzLzEuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 610,
+                                    "PRINT_PRICE": "610₽",
+                                    "CURRENCY": "RUB"
+                                },
+                                {
+                                    "CODE": "PROMO",
+                                    "NAME": null,
+                                    "CROSSED": true,
+                                    "PRICE_TYPE_ID": 9,
+                                    "BONUS": 0,
+                                    "PRICE": 720,
+                                    "PRINT_PRICE": "720₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 720,
+                            "PRINT_PRICE": "720₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "608791",
+                            "NAME": "Книга \"Выйди из зоны комфорта\" | Брайан Трейси",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104387/",
+                            "IMAGE": "https://img.dev.05.ru/resize/tEvurbShgl2ggcre7-ayrJAT5ITrBLBaU0OEcST_TKI//rs:fit:475:537:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0Mzg3LzIuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/H7_NN-qfk9VK176bGQf7Mj9sTlD1bBeYR0et3MukMT8//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0Mzg3LzIuanBn",
+                                "2X": "https://img.dev.05.ru/resize/JWHEqupcfji6fzJ9Y9RlrW68uYWdd9zCGBwUN-xfkcU//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0Mzg3LzIuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 580,
+                                    "PRINT_PRICE": "580₽",
+                                    "CURRENCY": "RUB"
+                                },
+                                {
+                                    "CODE": "PROMO",
+                                    "NAME": null,
+                                    "CROSSED": true,
+                                    "PRICE_TYPE_ID": 9,
+                                    "BONUS": 0,
+                                    "PRICE": 660,
+                                    "PRINT_PRICE": "660₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 660,
+                            "PRINT_PRICE": "660₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "608857",
+                            "NAME": "Книга \"Не работайте с мудаками\" | Роберт Саттон",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104395/",
+                            "IMAGE": "https://img.dev.05.ru/resize/gEXFtfuwu9pMfcHLISeuT_1vHv-0wtG6rx_fI3-dldI//rs:fit:900:1200:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0Mzk1LzEuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/QnmA2NcJDxvwkHE0NaWlXtd5Jsdzf3vcJXEDAhLosU0//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0Mzk1LzEuanBn",
+                                "2X": "https://img.dev.05.ru/resize/TybU6lfAkUjzP8EOs7CMsF3VxSpGpbcrCImaIrDEZUo//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0Mzk1LzEuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 590,
+                                    "PRINT_PRICE": "590₽",
+                                    "CURRENCY": "RUB"
+                                },
+                                {
+                                    "CODE": "PROMO",
+                                    "NAME": null,
+                                    "CROSSED": true,
+                                    "PRICE_TYPE_ID": 9,
+                                    "BONUS": 0,
+                                    "PRICE": 650,
+                                    "PRINT_PRICE": "650₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 650,
+                            "PRINT_PRICE": "650₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "608873",
+                            "NAME": "Книга \"SCRUM Революционный метод управления проектами\" | Джефф Сазерленд",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104405/",
+                            "IMAGE": "https://img.dev.05.ru/resize/CDUNl7uIuyZJkCW1dgpPIHALytUQueUtCJlQ2LqLO44//rs:fit:927:1334:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0NDA1LzIuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/a2AlyJ7j4qeXZlW7pVCle5uy6CGCv2ZfOBz9xtD1Ef4//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0NDA1LzIuanBn",
+                                "2X": "https://img.dev.05.ru/resize/ZBIv5v-Q8Po6jIsG_LjNV7i6x0gORhgBOBYCMqk8xsM//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0NDA1LzIuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 605,
+                                    "PRINT_PRICE": "605₽",
+                                    "CURRENCY": "RUB"
+                                },
+                                {
+                                    "CODE": "PROMO",
+                                    "NAME": null,
+                                    "CROSSED": true,
+                                    "PRICE_TYPE_ID": 9,
+                                    "BONUS": 0,
+                                    "PRICE": 670,
+                                    "PRINT_PRICE": "670₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 670,
+                            "PRINT_PRICE": "670₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "608891",
+                            "NAME": "Книга \"Скорочтение\" | Питер Камп",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104379/",
+                            "IMAGE": "https://img.dev.05.ru/resize/k9nmBujghJZyIJA8mxl6s8jXeK_t74EufQ5jyrkizbg//rs:fit:379:501:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0Mzc5LzEuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/UFnuL2IHm2Qh13Xh8wsvhd6kQW3wWCQ9rgsnShADGhw//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0Mzc5LzEuanBn",
+                                "2X": "https://img.dev.05.ru/resize/H9b16X_GBxg3YkVMr0D1k8kRgI_cZX6PGfjq6c03w1c//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0Mzc5LzEuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 630,
+                                    "PRINT_PRICE": "630₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 630,
+                            "PRINT_PRICE": "630₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "608903",
+                            "NAME": "Книга \"Феномен ZARA\" | О`Ши Ковадонга",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104343/",
+                            "IMAGE": "https://img.dev.05.ru/resize/XQyPEvVwHP01OpTqtorjmwLU7ZQFQGjlm5J-DxlmaCg//rs:fit:301:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzQzLzUuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/1Pox_NoJdOC7MaEsmvc-Ai8QMoPiSPZ9X6mUJN0savg//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzQzLzUuanBn",
+                                "2X": "https://img.dev.05.ru/resize/1OjHDBFhywarOMEwDEWW9Dezp2Oi_JCAH1qlByiTj_A//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzQzLzUuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 485,
+                                    "PRINT_PRICE": "485₽",
+                                    "CURRENCY": "RUB"
+                                },
+                                {
+                                    "CODE": "PROMO",
+                                    "NAME": null,
+                                    "CROSSED": true,
+                                    "PRICE_TYPE_ID": 9,
+                                    "BONUS": 0,
+                                    "PRICE": 590,
+                                    "PRINT_PRICE": "590₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 590,
+                            "PRINT_PRICE": "590₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "608911",
+                            "NAME": "Книга \"45 татуировок продавана\". Правила для тех кто продаёт и управляет продажами | Комбат",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104353/",
+                            "IMAGE": "https://img.dev.05.ru/resize/c6k1U5gkPA_ferLLTvutB89_TBALmps1k2tB11Rcols//rs:fit:1200:1722:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzUzLzIuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/LPpyugPnhRmOaXCBASWahycm7EeiFSrf0eyPdqT6u_o//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzUzLzIuanBn",
+                                "2X": "https://img.dev.05.ru/resize/hOOLFjBdnrR-Zl3hFQRNFaNdAzCL2X48AJwzuzHbew8//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzUzLzIuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 630,
+                                    "PRINT_PRICE": "630₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 630,
+                            "PRINT_PRICE": "630₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "608912",
+                            "NAME": "Книга \"Жить по принципу 80/20\" | Ричард Кох",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104354/",
+                            "IMAGE": "https://img.dev.05.ru/resize/aSrQrydzSTM4ef6QTvPgvE0xrzqDHBo40JJhVRQNn_8//rs:fit:418:597:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzU0LzIuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/DCMyQ9flJydfFmrY1wgBSK3x6l2ZOOVJDzrIcWSJrq0//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzU0LzIuanBn",
+                                "2X": "https://img.dev.05.ru/resize/mIKASFkoEklVAuIMOKdXnCiRqm1pW5n04BRORMLrfQg//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzU0LzIuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 550,
+                                    "PRINT_PRICE": "550₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 550,
+                            "PRINT_PRICE": "550₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "608914",
+                            "NAME": "Книга \"45 татуировок менеджера\" | Комбат",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104357/",
+                            "IMAGE": "https://img.dev.05.ru/resize/QcM7OErsvyIxcVSZcnpEJnsh9SFWdkCgCFYvcjFT7ik//rs:fit:1051:1500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzU3LzMuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/_PXPatTTn3Fyzy2GQKbork119BUtjvSL9Y8qS7L5WE0//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzU3LzMuanBn",
+                                "2X": "https://img.dev.05.ru/resize/eDoDaK7n8frabETJBQ0bNGx31eXNzCp48coWG5-m_k8//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzU3LzMuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 630,
+                                    "PRINT_PRICE": "630₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 630,
+                            "PRINT_PRICE": "630₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "608920",
+                            "NAME": "Книга \"Бизнесхак на каждый день\" | Игорь Манн, Ренат Шагабутдинов ",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104368/",
+                            "IMAGE": "https://img.dev.05.ru/resize/dDwatbutg00HI8luc5oivRGhqUrapEBMP40I8r2_l8c//rs:fit:844:1080:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzY4LzIuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/9NAMXLyYE30Yd0EctN-PXxmU4FAyKVHzpFd-c7Z7YrY//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzY4LzIuanBn",
+                                "2X": "https://img.dev.05.ru/resize/uU9h9Z8pkICi5-yAjhSWqBg9rFh-TL--UvQORcnqBGA//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzY4LzIuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 580,
+                                    "PRINT_PRICE": "580₽",
+                                    "CURRENCY": "RUB"
+                                },
+                                {
+                                    "CODE": "PROMO",
+                                    "NAME": null,
+                                    "CROSSED": true,
+                                    "PRICE_TYPE_ID": 9,
+                                    "BONUS": 0,
+                                    "PRICE": 630,
+                                    "PRINT_PRICE": "630₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 630,
+                            "PRINT_PRICE": "630₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "608921",
+                            "NAME": "Книга \"Дело не в кофе: Корпоративная культура Starbucks\" | Говард Бехар",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104372/",
+                            "IMAGE": "https://img.dev.05.ru/resize/fVtLox17mGjzP_hcjYmOgnjk-WOJjPz0TUmRcn6DHfg//rs:fit:486:722:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzcyLzEuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/WPBZVNAMSFiKPJysU6Blf2CsDMD4mzjfrEN4sAU45SA//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzcyLzEuanBn",
+                                "2X": "https://img.dev.05.ru/resize/Znz66q0P2yhkFz8BHu0Z32moKYaz6YcjpR-qj0lsKMU//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzcyLzEuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 525,
+                                    "PRINT_PRICE": "525₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 525,
+                            "PRINT_PRICE": "525₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "608922",
+                            "NAME": "Книга \"45 татуировок личности\" | Комбат",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104373/",
+                            "IMAGE": "https://img.dev.05.ru/resize/f2WbjjNt-H2H7PhDT383Aw-Io-0k3hJLF1dF8T72a-U//rs:fit:1200:1711:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzczLzIuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/qshDZUKA0E4y4OemqY8yIjo57UHGUL_-UQFgb30oBwo//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzczLzIuanBn",
+                                "2X": "https://img.dev.05.ru/resize/eDfk4_4ZnIGPSHc_CSssHvRpZpf8_R1fjpkzP0JcB90//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzczLzIuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 630,
+                                    "PRINT_PRICE": "630₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 630,
+                            "PRINT_PRICE": "630₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "609057",
+                            "NAME": "Книга \"НЕ НОЙ\" | Джен Синсеро",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104359/",
+                            "IMAGE": "https://img.dev.05.ru/resize/6B6wDDTTyPnPpwSpPK0LX3TRifKxeEmKPW7E5Z43ViY//rs:fit:798:1080:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzU5LzEuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/iYsZtHEb3zBbsHBkiBw2NZibTtItKg5SgiXS4AMwsDA//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzU5LzEuanBn",
+                                "2X": "https://img.dev.05.ru/resize/i6YCBW5ulBzvG9tjlkk3VU1LkClWkF3DkW0aFNMSSNA//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0MzU5LzEuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 500,
+                                    "PRINT_PRICE": "500₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 500,
+                            "PRINT_PRICE": "500₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "609058",
+                            "NAME": "Книга \"Гении и аутсайдеры\" | Гладуэлл Малкольм",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104545/",
+                            "IMAGE": "https://img.dev.05.ru/resize/XszNHxNAHB9ODKjz4aClNyXym0bVCjl9FttLr1GecFU//rs:fit:1354:1920:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0NTQ1LzEuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/3zVQjMOo0l9m99m0RzWgmirOoBvE1bse5qxVPCiwJyI//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0NTQ1LzEuanBn",
+                                "2X": "https://img.dev.05.ru/resize/YmrEm4G44wB5BRWTOsabMix-ZshKGL3IdAQqYwNITLo//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0NTQ1LzEuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 530,
+                                    "PRINT_PRICE": "530₽",
+                                    "CURRENCY": "RUB"
+                                },
+                                {
+                                    "CODE": "PROMO",
+                                    "NAME": null,
+                                    "CROSSED": true,
+                                    "PRICE_TYPE_ID": 9,
+                                    "BONUS": 0,
+                                    "PRICE": 580,
+                                    "PRINT_PRICE": "580₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 580,
+                            "PRINT_PRICE": "580₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "609108",
+                            "NAME": "Книга \"НИ СЫ\" | Джен Синсеро",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104814/",
+                            "IMAGE": "https://img.dev.05.ru/resize/ubxolehUUGsp3ZUDEpQ84PLwiSMbDkniFnpnsv8qW70//rs:fit:366:531:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0ODE0LzEuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/4YLxyCstEqP53v4pRAoVI6KFfs9x9Z3EzGWQASZFuUQ//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0ODE0LzEuanBn",
+                                "2X": "https://img.dev.05.ru/resize/YJr9YnJAKtBRu53KQt-wLHCmgTB0i_G2nyvdLalP3-4//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0ODE0LzEuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 500,
+                                    "PRINT_PRICE": "500₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 500,
+                            "PRINT_PRICE": "500₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "609408",
+                            "NAME": "Книга \"Я вижу, о чем вы думаете\" | Джо Наварро, Марвин Карлинс",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104951/",
+                            "IMAGE": "https://img.dev.05.ru/resize/mug3JQnrwsJg3wv4SsTh1JKf3TlYnFLEtAvfJJJdDNU//rs:fit:373:595:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0OTUxLzEuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/u68VEGZJQ7J7zev9nzUcTw9JwyA1nRiJtPeyuIvkTjk//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0OTUxLzEuanBn",
+                                "2X": "https://img.dev.05.ru/resize/QYg9GwXTLICSXIl5r-VFUSbBVqnkZEFKblmDwTYy1WU//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0OTUxLzEuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 490,
+                                    "PRINT_PRICE": "490₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 490,
+                            "PRINT_PRICE": "490₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "609411",
+                            "NAME": "Книга \"Жить не спеша\" | Брук Макэлри",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104950/",
+                            "IMAGE": "https://img.dev.05.ru/resize/CFrqj-IyWxlwZz8rNZbg10LEoWqv6hro80QZvXwHV58//rs:fit:222:337:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0OTUwLzEuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/tGZmsx7tgnuZAqskz5aoSsqaE3O7Nvq64h9bA0kzhcQ//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0OTUwLzEuanBn",
+                                "2X": "https://img.dev.05.ru/resize/zoMipOdbNUzX6yT4KRNtPW0gFgi_hNyaIAO81YiUQ50//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0OTUwLzEuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 565,
+                                    "PRINT_PRICE": "565₽",
+                                    "CURRENCY": "RUB"
+                                },
+                                {
+                                    "CODE": "PROMO",
+                                    "NAME": null,
+                                    "CROSSED": true,
+                                    "PRICE_TYPE_ID": 9,
+                                    "BONUS": 0,
+                                    "PRICE": 630,
+                                    "PRINT_PRICE": "630₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 630,
+                            "PRINT_PRICE": "630₽",
+                            "ACTIONS": null
+                        },
+                        {
+                            "ID": "609412",
+                            "NAME": "Книга \"Самый богатый человек в Вавилоне\" | Джордж Клейсон",
+                            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/104952/",
+                            "IMAGE": "https://img.dev.05.ru/resize/e8zoGiggmtNi2TUY8ruz3GxkNgMS4D8UdL39NOUgpCE//rs:fit:433:700:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0OTUyLzEuanBn",
+                            "THUMBNAILS": {
+                                "1X": "https://img.dev.05.ru/resize/cRxmEmOVfHB0NuWNoM7lLxkW6h0lQVI4BISPGMp07L8//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0OTUyLzEuanBn",
+                                "2X": "https://img.dev.05.ru/resize/M16qHux9cGLLN0OLdieAjxYhCJkKUNotp4mGJjsis88//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0OTUyLzEuanBn"
+                            },
+                            "PRICES": [
+                                {
+                                    "CODE": "DEFAULT",
+                                    "NAME": null,
+                                    "CROSSED": false,
+                                    "PRICE_TYPE_ID": 5,
+                                    "BONUS": 0,
+                                    "PRICE": 450,
+                                    "PRINT_PRICE": "450₽",
+                                    "CURRENCY": "RUB"
+                                }
+                            ],
+                            "PRICE": 450,
+                            "PRINT_PRICE": "450₽",
+                            "ACTIONS": null
+                        }
+                    ]
+                }
+            ],
+            "BASKET_AMOUNT": 0,
+            "REVIEWS_BLOCK": {
+                "PAGINATION": {
+                    "PARAM": "page",
+                    "COUNT": 0,
+                    "CURRENT": 1,
+                    "ROWS": 0
+                },
+                "ITEMS": null
+            },
+            "REVIEWS": null,
+            "QUESTIONS_BLOCK": {
+                "PAGINATION": {
+                    "PARAM": "page",
+                    "COUNT": 0,
+                    "CURRENT": 1,
+                    "ROWS": 0
+                },
+                "ITEMS": null
+            },
+            "QUESTIONS": null,
+            "RATING": 0,
+            "REVIEWS_COUNT": 0,
+            "QUESTIONS_COUNT": 0
+        }
+    }
+}

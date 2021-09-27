@@ -1,0 +1,156 @@
+{
+  "uid" : "ad91bbf5a4bb4a75",
+  "name" : "Add to favoutites",
+  "fullName" : "test.TestRegister#test_fitler_in_favourites",
+  "historyId" : "633ef12453d40d2f1a4ba39946123052",
+  "time" : {
+    "start" : 1632397842361,
+    "stop" : 1632397843827,
+    "duration" : 1466
+  },
+  "description" : "Test add to favourites in personal ",
+  "descriptionHtml" : "<p>Test add to favourites in personal</p>\n",
+  "status" : "broken",
+  "statusMessage" : "KeyError: 'access_token'",
+  "statusTrace" : "self = <test.TestRegister object at 0x7ff0894b9070>\n\n    @allure.title(\"Add to favoutites\")\n    @allure.description(\"Test add to favourites in personal \")\n    def test_fitler_in_favourites(self):\n>       All_base().close_all_favourites()\n\ntest.py:395: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <all_base_test.All_base object at 0x7ff088da6eb0>\n\n    def close_all_favourites(self):\n        payload={}\n        variable_for_test = self.api_autorization()\n        token = variable_for_test.json()\n        if variable_for_test.status_code == 200:\n>           response = (requests.request(\"DELETE\",url = self.base_url+\"/api/v1/favorite/all\", headers={'Authorization': f'Bearer {token[\"result\"][\"access_token\"]}'}, data=payload)).json()\nE           KeyError: 'access_token'\n\nall_base_test.py:36: KeyError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister",
+    "time" : {
+      "start" : 1632397830839,
+      "stop" : 1632397842360,
+      "duration" : 11521
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1632397549230,
+      "stop" : 1632397549249,
+      "duration" : 19
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister::0",
+    "time" : {
+      "start" : 1632397843897,
+      "stop" : 1632397844266,
+      "duration" : 369
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "9d2fc9ee43bb"
+  }, {
+    "name" : "thread",
+    "value" : "13-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 4,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "61917890fa896725",
+        "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/61917890fa896725",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631885900345,
+          "stop" : 1631885936551,
+          "duration" : 36206
+        }
+      }, {
+        "uid" : "92bcbab44de65326",
+        "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/92bcbab44de65326",
+        "status" : "broken",
+        "statusDetails" : "ValueError: invalid literal for int() with base 10: 'Ценанеуказан'",
+        "time" : {
+          "start" : 1631881272159,
+          "stop" : 1631881305182,
+          "duration" : 33023
+        }
+      }, {
+        "uid" : "5210a35ceac2e15b",
+        "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/5210a35ceac2e15b",
+        "status" : "broken",
+        "statusDetails" : "ValueError: invalid literal for int() with base 10: 'Ценанеуказан'",
+        "time" : {
+          "start" : 1631875381636,
+          "stop" : 1631875418241,
+          "duration" : 36605
+        }
+      }, {
+        "uid" : "255dd9462d3060da",
+        "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/255dd9462d3060da",
+        "status" : "broken",
+        "statusDetails" : "ValueError: invalid literal for int() with base 10: 'Ценанеуказан'",
+        "time" : {
+          "start" : 1631873122215,
+          "stop" : 1631873159918,
+          "duration" : 37703
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ad91bbf5a4bb4a75.json",
+  "parameterValues" : [ ]
+}

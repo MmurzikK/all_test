@@ -1,0 +1,35 @@
+{
+    "data": {
+        "XXX": 4,
+        "ID": 3,
+        "NAME": "dwdwdwdwd",
+        "PRICE": "dwdwd",
+        "STATUS": {
+            "ID": "4434",
+            "NAME": null
+        }
+    },
+    "structure": {
+        "ID": {
+            "type": "integer"
+        },
+        "NAME": {
+            "nullable": true,
+            "type": "string"
+        },
+        "PRICE": {
+            "type": "integer"
+        },
+        "STATUS": {
+            "type": "object",
+            "properties": {
+                "ID": {
+                    "type": "integer"
+                },
+                "NAME": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+Started by user [8mha:////4DRpa0kXQGGYEuvzHr4UTCyIOAqVnu6LLAYerEmt6IPiAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/Regress
+[Regress] $ /bin/sh -xe /tmp/jenkins16250569289310533893.sh
++ curl -d ["rm -rf /result/Regress", "cd /api_test", "python -m pytest -s /api_test/tests/regress/test.py --alluredir /result/Regress/results", "chmod -R 777 /result/Regress"] -X POST http://python
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   165    0     0  100   165      0    313 --:--:-- --:--:-- --:--:--   313
+[Regress] $ /var/jenkins_home/tools/ru.yandex.qatools.allure.jenkins.tools.AllureCommandlineInstallation/Allure/bin/allure generate /var/jenkins_home/workspace/Regress/results -c -o /var/jenkins_home/workspace/Regress/allure-report
+Report successfully generated to /var/jenkins_home/workspace/Regress/allure-report
+Allure report was successfully generated.
+Creating artifact for the build.
+Artifact was added to the build.
+Finished: SUCCESS

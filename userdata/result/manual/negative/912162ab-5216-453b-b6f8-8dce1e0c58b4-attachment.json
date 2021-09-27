@@ -1,0 +1,12 @@
+{
+    "success": false,
+    "error": {
+        "type": "error",
+        "message": "userdata_validate_error",
+        "messages": null,
+        "description": "Пароль должен  быть не менее 6 символов длиной.",
+        "fields": {
+            "password": "Пароль должен  быть не менее 6 символов длиной."
+        }
+    }
+}

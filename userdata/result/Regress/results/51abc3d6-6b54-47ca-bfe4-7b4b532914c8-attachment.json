@@ -1,0 +1,145 @@
+{
+    "success": true,
+    "result": [
+        {
+            "ID": "255701",
+            "UF_NAME": "Apple",
+            "UF_XML_ID": "4ac7e251-9d8f-11e5-8110-003048d70791",
+            "UF_LINK": "apple",
+            "UF_FILE": "https://img.dev.05.ru/resize/nq6trz9VH1Db_6GA5HwYKOXhKMfvIXbukRYXK90AoPo//rs:fit:90:90:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzc3YS83N2FlNTA2OWZhZDNmYTVmZDM5MjllMmZiNzZhN2E0MS5wbmc",
+            "UF_DESCRIPTION": "эпл эйпл aple  aplle",
+            "UF_FULL_DESCRIPTION": "",
+            "IMAGE": "https://img.dev.05.ru/resize/nq6trz9VH1Db_6GA5HwYKOXhKMfvIXbukRYXK90AoPo//rs:fit:90:90:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzc3YS83N2FlNTA2OWZhZDNmYTVmZDM5MjllMmZiNzZhN2E0MS5wbmc",
+            "THUMBNAILS": {
+                "1X": "https://img.dev.05.ru/resize/zbHprwWqNPatJ2tdLVYVCRlRJ3dNr5mSCHbEhjbVfWE//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzc3YS83N2FlNTA2OWZhZDNmYTVmZDM5MjllMmZiNzZhN2E0MS5wbmc",
+                "2X": "https://img.dev.05.ru/resize/LA1-GiJ8iaFaHoqXE3uP6fLVyqyvWtfl6yZdPC3rtgg//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzc3YS83N2FlNTA2OWZhZDNmYTVmZDM5MjllMmZiNzZhN2E0MS5wbmc"
+            },
+            "NAME": "Apple",
+            "CODE": "apple",
+            "DESCRIPTION": "эпл эйпл aple  aplle",
+            "FULL_DESCRIPTION": null,
+            "DETAIL_PAGE_PATH": "https://stage.05.ru/brands/apple",
+            "DETAIL_PAGE_URL": "https://stage.05.ru/brands/apple"
+        },
+        {
+            "ID": "255632",
+            "UF_NAME": "Samsung",
+            "UF_XML_ID": "0db6db2a-8f8a-11e5-8110-003048d70791",
+            "UF_LINK": "samsung",
+            "UF_FILE": "https://img.dev.05.ru/resize/CM8TYFFYCBaTThhxPjdOV5dzQJsOW67gOscnR_P7zsI//rs:fit:219:115:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2U3Ny9lNzdhMjAyNzliN2FlOWRkZmZhNTE2OWUyZGU4NjVhNy5wbmc",
+            "UF_DESCRIPTION": "самсунг ",
+            "UF_FULL_DESCRIPTION": "Сегодня передовое подразделение Samsung Group — Samsung Electronics стал мировым лидером в области производства электроники и бытовой техники. Бренд Samsung немало выиграл от такого решения, ведь те, кто считал продукцию фирмы недостаточно качественной, в последние годы открывают для себя мир бытовой техники и электроники исключительной по сочетанию «цена-качество», а если прибавить сюда и высокий уровень сервисного обслуживания компании, то альтернативы продуктам фирмы практически не остается.",
+            "IMAGE": "https://img.dev.05.ru/resize/CM8TYFFYCBaTThhxPjdOV5dzQJsOW67gOscnR_P7zsI//rs:fit:219:115:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2U3Ny9lNzdhMjAyNzliN2FlOWRkZmZhNTE2OWUyZGU4NjVhNy5wbmc",
+            "THUMBNAILS": {
+                "1X": "https://img.dev.05.ru/resize/T7BPTnUI4LyMhAewoIhycm813rfXyahp40BNjIOLtC8//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2U3Ny9lNzdhMjAyNzliN2FlOWRkZmZhNTE2OWUyZGU4NjVhNy5wbmc",
+                "2X": "https://img.dev.05.ru/resize/l6i3QinEe0nthTcBo9TJ-hE1ShJ4leUhE5cr4PyMwmI//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2U3Ny9lNzdhMjAyNzliN2FlOWRkZmZhNTE2OWUyZGU4NjVhNy5wbmc"
+            },
+            "NAME": "Samsung",
+            "CODE": "samsung",
+            "DESCRIPTION": "самсунг ",
+            "FULL_DESCRIPTION": null,
+            "DETAIL_PAGE_PATH": "https://stage.05.ru/brands/samsung",
+            "DETAIL_PAGE_URL": "https://stage.05.ru/brands/samsung"
+        },
+        {
+            "ID": "255519",
+            "UF_NAME": "Xiaomi",
+            "UF_XML_ID": "40f30ac1-9057-11e5-8110-003048d70791",
+            "UF_LINK": "xiaomi",
+            "UF_FILE": "https://img.dev.05.ru/resize/VpwwEp7G_ufi5Z7ZpwIGKU5r2nqK0CDsGKUc2vpHm-E//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2Q4YS9kOGExMjkyNDhmMTIzMDQ2YjRhNDEwMjk1OWI2MDE1My5wbmc",
+            "UF_DESCRIPTION": "ксиоми ксайоми сайоми хиоми ксяоми ксеоми ксеми ксяоми ксеми",
+            "UF_FULL_DESCRIPTION": "",
+            "IMAGE": "https://img.dev.05.ru/resize/VpwwEp7G_ufi5Z7ZpwIGKU5r2nqK0CDsGKUc2vpHm-E//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2Q4YS9kOGExMjkyNDhmMTIzMDQ2YjRhNDEwMjk1OWI2MDE1My5wbmc",
+            "THUMBNAILS": {
+                "1X": "https://img.dev.05.ru/resize/5B3gWk6CLQwuFk8uSwZqTeWg8JMdsc2T00g_XTIOvcM//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2Q4YS9kOGExMjkyNDhmMTIzMDQ2YjRhNDEwMjk1OWI2MDE1My5wbmc",
+                "2X": "https://img.dev.05.ru/resize/mUeOYzlYkBx4V9o3tZyWbxLPpNOdPW1TE97zm4LtGvs//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2Q4YS9kOGExMjkyNDhmMTIzMDQ2YjRhNDEwMjk1OWI2MDE1My5wbmc"
+            },
+            "NAME": "Xiaomi",
+            "CODE": "xiaomi",
+            "DESCRIPTION": "ксиоми ксайоми сайоми хиоми ксяоми ксеоми ксеми ксяоми ксеми",
+            "FULL_DESCRIPTION": null,
+            "DETAIL_PAGE_PATH": "https://stage.05.ru/brands/xiaomi",
+            "DETAIL_PAGE_URL": "https://stage.05.ru/brands/xiaomi"
+        },
+        {
+            "ID": "255558",
+            "UF_NAME": "Huawei",
+            "UF_XML_ID": "418522d3-9174-11e5-8110-003048d70791",
+            "UF_LINK": "huawei",
+            "UF_FILE": "https://img.dev.05.ru/resize/4xZUiY9C-lersf-fCoonNxIPu3qJp_22CTAGcYe6U0c//rs:fit:1024:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzY0Yy82NGNmZWVjYjNkOTNhZGYyNTk4YjdiMTkxMTU4YzI5NC5wbmc",
+            "UF_DESCRIPTION": "хуавей уавей хайвей",
+            "UF_FULL_DESCRIPTION": "",
+            "IMAGE": "https://img.dev.05.ru/resize/4xZUiY9C-lersf-fCoonNxIPu3qJp_22CTAGcYe6U0c//rs:fit:1024:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzY0Yy82NGNmZWVjYjNkOTNhZGYyNTk4YjdiMTkxMTU4YzI5NC5wbmc",
+            "THUMBNAILS": {
+                "1X": "https://img.dev.05.ru/resize/NskYmKS-nIwTDUg0ABbbS_Zd1G-Ws043Wds5nd1lNZ4//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzY0Yy82NGNmZWVjYjNkOTNhZGYyNTk4YjdiMTkxMTU4YzI5NC5wbmc",
+                "2X": "https://img.dev.05.ru/resize/p6zZ9MbzN7cu76KpFue37VhcUIyV_9tXGjg_IzuKhnM//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzY0Yy82NGNmZWVjYjNkOTNhZGYyNTk4YjdiMTkxMTU4YzI5NC5wbmc"
+            },
+            "NAME": "Huawei",
+            "CODE": "huawei",
+            "DESCRIPTION": "хуавей уавей хайвей",
+            "FULL_DESCRIPTION": null,
+            "DETAIL_PAGE_PATH": "https://stage.05.ru/brands/huawei",
+            "DETAIL_PAGE_URL": "https://stage.05.ru/brands/huawei"
+        },
+        {
+            "ID": "256772",
+            "UF_NAME": "Honor",
+            "UF_XML_ID": "3db1dc31-de78-11e7-810b-003048c130e1",
+            "UF_LINK": "honor",
+            "UF_FILE": "https://img.dev.05.ru/resize/sme4OowfGnnnVlYHNwIoQCgVvMLPlPFG_SbjrNWaJXA//rs:fit:1920:1080:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2I4OC9iODhjNGZhOWFkMWNjOWY0MGI0Njg5ZDkxNmEyYzVkOS5qcGc",
+            "UF_DESCRIPTION": "",
+            "UF_FULL_DESCRIPTION": "",
+            "IMAGE": "https://img.dev.05.ru/resize/sme4OowfGnnnVlYHNwIoQCgVvMLPlPFG_SbjrNWaJXA//rs:fit:1920:1080:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2I4OC9iODhjNGZhOWFkMWNjOWY0MGI0Njg5ZDkxNmEyYzVkOS5qcGc",
+            "THUMBNAILS": {
+                "1X": "https://img.dev.05.ru/resize/ewNAitjm3yignDDdX0u8XR4k__CwDmosCTRFiPMVMEs//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2I4OC9iODhjNGZhOWFkMWNjOWY0MGI0Njg5ZDkxNmEyYzVkOS5qcGc",
+                "2X": "https://img.dev.05.ru/resize/mTI0Yvtw7GnWkALZ-ksH_bJziVKsCJhfGjgw4LQooEk//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2I4OC9iODhjNGZhOWFkMWNjOWY0MGI0Njg5ZDkxNmEyYzVkOS5qcGc"
+            },
+            "NAME": "Honor",
+            "CODE": "honor",
+            "DESCRIPTION": null,
+            "FULL_DESCRIPTION": null,
+            "DETAIL_PAGE_PATH": "https://stage.05.ru/brands/honor",
+            "DETAIL_PAGE_URL": "https://stage.05.ru/brands/honor"
+        },
+        {
+            "ID": "255657",
+            "UF_NAME": "Lenovo",
+            "UF_XML_ID": "38b55b31-91bb-11e5-8110-003048d70791",
+            "UF_LINK": "lenovo",
+            "UF_FILE": "https://img.dev.05.ru/resize/feg2-uj-KbBaEywyZknM2yMq0FaJRhC1VFl0fyQeVBg//rs:fit:1863:460:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzQ2Mi80NjIxYjAxMjJjZGIwOTA3YjA2Yzc1NjgzMmMwNWQ5Yi5wbmc",
+            "UF_DESCRIPTION": "леново ленова",
+            "UF_FULL_DESCRIPTION": "",
+            "IMAGE": "https://img.dev.05.ru/resize/feg2-uj-KbBaEywyZknM2yMq0FaJRhC1VFl0fyQeVBg//rs:fit:1863:460:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzQ2Mi80NjIxYjAxMjJjZGIwOTA3YjA2Yzc1NjgzMmMwNWQ5Yi5wbmc",
+            "THUMBNAILS": {
+                "1X": "https://img.dev.05.ru/resize/LtU_G5QdsbMZKgh7onm5NP_jmR1-pLHlQRojJ7vsE8A//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzQ2Mi80NjIxYjAxMjJjZGIwOTA3YjA2Yzc1NjgzMmMwNWQ5Yi5wbmc",
+                "2X": "https://img.dev.05.ru/resize/vnV8--4bjQyP8tonH3pkx5GkaclieSbYRpHH0huv2C8//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzQ2Mi80NjIxYjAxMjJjZGIwOTA3YjA2Yzc1NjgzMmMwNWQ5Yi5wbmc"
+            },
+            "NAME": "Lenovo",
+            "CODE": "lenovo",
+            "DESCRIPTION": "леново ленова",
+            "FULL_DESCRIPTION": null,
+            "DETAIL_PAGE_PATH": "https://stage.05.ru/brands/lenovo",
+            "DETAIL_PAGE_URL": "https://stage.05.ru/brands/lenovo"
+        },
+        {
+            "ID": "255417",
+            "UF_NAME": "JBL",
+            "UF_XML_ID": "10c5c4ef-91ef-11e5-8110-003048d70791",
+            "UF_LINK": "jbl",
+            "UF_FILE": "https://img.dev.05.ru/resize/tozWRCJqpFew05eQo0kCaf9xmFwV0jsE_tKzFcJt8Rw//rs:fit:1200:800:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzYyMy82MjNiNjJmOWMyYjNhZDRmNzY5ZGM5MWFmNWRlMDNhNC5qcGc",
+            "UF_DESCRIPTION": "",
+            "UF_FULL_DESCRIPTION": "",
+            "IMAGE": "https://img.dev.05.ru/resize/tozWRCJqpFew05eQo0kCaf9xmFwV0jsE_tKzFcJt8Rw//rs:fit:1200:800:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzYyMy82MjNiNjJmOWMyYjNhZDRmNzY5ZGM5MWFmNWRlMDNhNC5qcGc",
+            "THUMBNAILS": {
+                "1X": "https://img.dev.05.ru/resize/HFbrhf_JdJIFP5yCBhkx02VWmT46bs9EE_coLR6GFr8//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzYyMy82MjNiNjJmOWMyYjNhZDRmNzY5ZGM5MWFmNWRlMDNhNC5qcGc",
+                "2X": "https://img.dev.05.ru/resize/X-bkpZFgQkXtPnXftXjlrgaVYL3O286WMpSg8qtpXVo//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzYyMy82MjNiNjJmOWMyYjNhZDRmNzY5ZGM5MWFmNWRlMDNhNC5qcGc"
+            },
+            "NAME": "JBL",
+            "CODE": "jbl",
+            "DESCRIPTION": null,
+            "FULL_DESCRIPTION": null,
+            "DETAIL_PAGE_PATH": "https://stage.05.ru/brands/jbl",
+            "DETAIL_PAGE_URL": "https://stage.05.ru/brands/jbl"
+        }
+    ]
+}

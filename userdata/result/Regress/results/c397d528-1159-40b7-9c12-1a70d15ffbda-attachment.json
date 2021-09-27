@@ -1,0 +1,67 @@
+{
+    "success": true,
+    "result": [
+        {
+            "PARAM": "period",
+            "CURRENT_VALUE_INDEX": 5,
+            "NAME": "Срок",
+            "ITEMS": [
+                {
+                    "NAME": "1 мес.",
+                    "VALUE": 1
+                },
+                {
+                    "NAME": "2 мес.",
+                    "VALUE": 2
+                },
+                {
+                    "NAME": "3 мес.",
+                    "VALUE": 3
+                },
+                {
+                    "NAME": "4 мес.",
+                    "VALUE": 4
+                },
+                {
+                    "NAME": "5 мес.",
+                    "VALUE": 5
+                },
+                {
+                    "NAME": "6 мес.",
+                    "VALUE": 6
+                }
+            ]
+        },
+        {
+            "PARAM": "guarantors",
+            "CURRENT_VALUE_INDEX": null,
+            "NAME": "Поручителей",
+            "ITEMS": [
+                {
+                    "NAME": "Нет",
+                    "VALUE": 0
+                },
+                {
+                    "NAME": 1,
+                    "VALUE": 1
+                }
+            ]
+        },
+        {
+            "NAME": "Первый взнос",
+            "VALUE": "10 200₽"
+        },
+        {
+            "NAME": "Переплата",
+            "VALUE": "7 868₽"
+        },
+        {
+            "NAME": "Ежемесячный платёж",
+            "VALUE": "6 412₽"
+        },
+        {
+            "NAME": "Итоговая сумма",
+            "VALUE": "48 668₽"
+        }
+    ]
+}

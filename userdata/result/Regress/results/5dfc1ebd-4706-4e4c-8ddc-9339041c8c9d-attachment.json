@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "result": [
+        {
+            "TYPE": "TINY_TEXT",
+            "NAME": "Имя",
+            "PARAM": "name",
+            "REQUIRED": true
+        },
+        {
+            "TYPE": "TINY_TEXT",
+            "NAME": "Фамилия",
+            "PARAM": "last_name"
+        },
+        {
+            "TYPE": "TINY_TEXT",
+            "NAME": "Отчество",
+            "PARAM": "second_name"
+        },
+        {
+            "TYPE": "TINY_TEXT",
+            "NAME": "Пароль",
+            "PARAM": "password",
+            "REQUIRED": true
+        },
+        {
+            "TYPE": "EMAIL",
+            "NAME": "Электронная почта",
+            "PARAM": "email"
+        }
+    ]
+}

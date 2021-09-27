@@ -1,0 +1,1 @@
+https://stage.05.ru/api/v2/basket/618523?total=1

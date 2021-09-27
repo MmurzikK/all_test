@@ -1,0 +1,173 @@
+{
+  "uid" : "e9c9041365f4b1ca",
+  "name" : "Close choose sity click no",
+  "fullName" : "test.TestRegister#test_close_sity_click_no",
+  "historyId" : "95fffa88728cf97a26e2a849ec3b6e6f",
+  "time" : {
+    "start" : 1632397607305,
+    "stop" : 1632397622147,
+    "duration" : 14842
+  },
+  "description" : "WTF!&BRO!&",
+  "descriptionHtml" : "<p>WTF!&amp;BRO!&amp;</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1632397549230,
+      "stop" : 1632397549249,
+      "duration" : 19
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "xunit_setup_method_fixture_TestRegister",
+    "time" : {
+      "start" : 1632397596239,
+      "stop" : 1632397607305,
+      "duration" : 11066
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "WTF!&BRO!&",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Проверка чего то",
+      "time" : {
+        "start" : 1632397622147,
+        "stop" : 1632397622147,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister::0",
+    "time" : {
+      "start" : 1632397622147,
+      "stop" : 1632397623036,
+      "duration" : 889
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "9d2fc9ee43bb"
+  }, {
+    "name" : "thread",
+    "value" : "13-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "ee9207e0d8a35535",
+        "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/ee9207e0d8a35535",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631885674405,
+          "stop" : 1631885684592,
+          "duration" : 10187
+        }
+      }, {
+        "uid" : "9e6fe0662215b490",
+        "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/9e6fe0662215b490",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631881050158,
+          "stop" : 1631881058722,
+          "duration" : 8564
+        }
+      }, {
+        "uid" : "9be50503041de5a4",
+        "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/9be50503041de5a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631875123980,
+          "stop" : 1631875136108,
+          "duration" : 12128
+        }
+      }, {
+        "uid" : "944a4f2099386aee",
+        "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/944a4f2099386aee",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631872886863,
+          "stop" : 1631872898561,
+          "duration" : 11698
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e9c9041365f4b1ca.json",
+  "parameterValues" : [ ]
+}

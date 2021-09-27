@@ -1,0 +1,96 @@
+{
+    "success": true,
+    "result": {
+        "PAGINATION": {
+            "PARAM": "page",
+            "COUNT": 1,
+            "CURRENT": 1,
+            "ROWS": 3
+        },
+        "ITEMS": [
+            {
+                "ID": "952",
+                "UF_DATE": "25.05.2020 22:48:50",
+                "UF_USER_NAME": "Магомед",
+                "UF_USER_TEXT": "А у вас есть айфон 7 с 64 Гб с учётом бонусов? \n",
+                "UF_USER_MAIL": "vsjbdbubbn13f@gmail.com",
+                "UF_NEGATIVE_RATES": "0",
+                "UF_POSITIVE_RATES": "0",
+                "UF_PRODUCT_ID": "570829",
+                "UF_QUESTION_ID": "0",
+                "UF_LIKED": false,
+                "UF_DISLIKED": false,
+                "UF_REACTION": {
+                    "LIKES": "0",
+                    "DISLIKES": "0",
+                    "LIKED": false,
+                    "DISLIKED": false
+                },
+                "UF_ANSWERS_COUNT": 0,
+                "UF_QUESTION_ANSWERS": null
+            },
+            {
+                "ID": "953",
+                "UF_DATE": "25.05.2020 22:48:50",
+                "UF_USER_NAME": "Магомед",
+                "UF_USER_TEXT": "А у вас есть айфон 7 с 64 Гб с учётом бонусов? \n",
+                "UF_USER_MAIL": "vsjbdbubbn13f@gmail.com",
+                "UF_NEGATIVE_RATES": "0",
+                "UF_POSITIVE_RATES": "0",
+                "UF_PRODUCT_ID": "570829",
+                "UF_QUESTION_ID": "0",
+                "UF_LIKED": false,
+                "UF_DISLIKED": false,
+                "UF_REACTION": {
+                    "LIKES": "0",
+                    "DISLIKES": "0",
+                    "LIKED": false,
+                    "DISLIKED": false
+                },
+                "UF_ANSWERS_COUNT": 0,
+                "UF_QUESTION_ANSWERS": null
+            },
+            {
+                "ID": "1654",
+                "UF_DATE": "12.01.2021 09:51:08",
+                "UF_USER_NAME": "Малика",
+                "UF_USER_TEXT": "Сколько стоит айфон 7 , 64 Гб и 32гб?",
+                "UF_USER_MAIL": "gaidaevamalika@gmail.com",
+                "UF_NEGATIVE_RATES": "0",
+                "UF_POSITIVE_RATES": "0",
+                "UF_PRODUCT_ID": "570829",
+                "UF_QUESTION_ID": "0",
+                "UF_LIKED": false,
+                "UF_DISLIKED": false,
+                "UF_REACTION": {
+                    "LIKES": "0",
+                    "DISLIKES": "0",
+                    "LIKED": false,
+                    "DISLIKED": false
+                },
+                "UF_ANSWERS_COUNT": 1,
+                "UF_QUESTION_ANSWERS": [
+                    {
+                        "ID": "299",
+                        "UF_DATE": "12.01.2021 11:01:45",
+                        "UF_USER_NAME": "Камила",
+                        "UF_USER_TEXT": "Малика! Данная модель не производится объемом 64Гб. 32/128/256Гб",
+                        "UF_USER_MAIL": "sworld1art1online@gmail.com",
+                        "UF_NEGATIVE_RATES": "0",
+                        "UF_POSITIVE_RATES": "0",
+                        "UF_PRODUCT_ID": "570829",
+                        "UF_QUESTION_ID": "1654",
+                        "UF_LIKED": false,
+                        "UF_DISLIKED": false,
+                        "UF_REACTION": {
+                            "LIKES": "0",
+                            "DISLIKES": "0",
+                            "LIKED": false,
+                            "DISLIKED": false
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

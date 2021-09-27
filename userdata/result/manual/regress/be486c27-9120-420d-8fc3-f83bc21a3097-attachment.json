@@ -1,0 +1,216 @@
+{
+    "success": true,
+    "result": [
+        {
+            "GROUP_NAME": "Основной",
+            "ITEMS": [
+                {
+                    "GROUP_NAME": "Процессор",
+                    "REQUIRED": true,
+                    "MULTIPLE": false,
+                    "SECTION_ID": "670",
+                    "SECTION_PAGE_PATH": "/catalog/computers/accessories/processor/",
+                    "FILTER_CODES": [
+                        "PROP_f8ac19dd_a332_11e5_8111_003048d70791",
+                        "PROP_00c63c8d_9021_11e5_8110_003048d70791",
+                        "PROP_00c63c8a_9021_11e5_8110_003048d70791"
+                    ]
+                },
+                {
+                    "GROUP_NAME": "Материнская плата",
+                    "REQUIRED": true,
+                    "MULTIPLE": false,
+                    "SECTION_ID": "3098",
+                    "SECTION_PAGE_PATH": "/catalog/computers/accessories/motherboard/",
+                    "FILTER_CODES": [
+                        "PROP_078a6c76_a3c7_11e5_8111_003048d70791",
+                        "PROP_00c63c8a_9021_11e5_8110_003048d70791",
+                        "PROP_1578ec69_9024_11e5_8110_003048d70791",
+                        "PROP_626b319d_8f72_11e5_8110_003048d70791",
+                        "PROP_626b31b2_8f72_11e5_8110_003048d70791"
+                    ]
+                },
+                {
+                    "GROUP_NAME": "Видеокарта",
+                    "REQUIRED": false,
+                    "MULTIPLE": true,
+                    "SECTION_ID": "672",
+                    "SECTION_PAGE_PATH": "/catalog/computers/accessories/video_board/",
+                    "FILTER_CODES": [
+                        "PROP_e4a6f8af_a323_11e5_8111_003048d70791",
+                        "PROP_fe1d77c9_a323_11e5_8111_003048d70791"
+                    ]
+                },
+                {
+                    "GROUP_NAME": "ОЗУ",
+                    "REQUIRED": true,
+                    "MULTIPLE": true,
+                    "SECTION_ID": "671",
+                    "SECTION_PAGE_PATH": "/catalog/computers/accessories/system_memory/",
+                    "FILTER_CODES": [
+                        "PROP_60358315_9026_11e5_8110_003048d70791",
+                        "PROP_25dc44f6_9026_11e5_8110_003048d70791",
+                        "PROP_d698fcdc_c11a_11e6_80f4_003048c130e1",
+                        "PROP_1578ec69_9024_11e5_8110_003048d70791",
+                        "PROP_1578ec6c_9024_11e5_8110_003048d70791"
+                    ]
+                },
+                {
+                    "GROUP_NAME": "HDD",
+                    "REQUIRED": false,
+                    "MULTIPLE": true,
+                    "SECTION_ID": "673",
+                    "SECTION_PAGE_PATH": "/catalog/computers/accessories/winchester/",
+                    "FILTER_CODES": [
+                        "PROP_b8049052_9038_11e5_8110_003048d70791",
+                        "PROP_b8049048_9038_11e5_8110_003048d70791"
+                    ]
+                },
+                {
+                    "GROUP_NAME": "SSD",
+                    "REQUIRED": false,
+                    "MULTIPLE": true,
+                    "SECTION_ID": "4216",
+                    "SECTION_PAGE_PATH": "/catalog/computers/accessories/ssd-nakopiteli/",
+                    "FILTER_CODES": [
+                        "PROP_b8049048_9038_11e5_8110_003048d70791",
+                        "PROP_b8049052_9038_11e5_8110_003048d70791"
+                    ]
+                },
+                {
+                    "GROUP_NAME": "Охлаждение",
+                    "REQUIRED": true,
+                    "MULTIPLE": false,
+                    "SECTION_ID": "675",
+                    "SECTION_PAGE_PATH": "/catalog/computers/accessories/cooler/",
+                    "FILTER_CODES": [
+                        "CML2_BRANDS_REF",
+                        "PROP_00c63c8a_9021_11e5_8110_003048d70791",
+                        "PROP_00c63c8a_9021_11e5_8110_003048d70791",
+                        "PROP_f20986d8_9035_11e5_8110_003048d70791"
+                    ]
+                },
+                {
+                    "GROUP_NAME": "Блок питания",
+                    "REQUIRED": false,
+                    "MULTIPLE": false,
+                    "SECTION_ID": "676",
+                    "SECTION_PAGE_PATH": "/catalog/computers/accessories/power_unit/",
+                    "FILTER_CODES": [
+                        "CML2_BRANDS_REF",
+                        "PROP_cdb7ee77_9033_11e5_8110_003048d70791",
+                        "PROP_7b870af8_9033_11e5_8110_003048d70791"
+                    ]
+                },
+                {
+                    "GROUP_NAME": "Корпус",
+                    "REQUIRED": true,
+                    "MULTIPLE": false,
+                    "SECTION_ID": "674",
+                    "SECTION_PAGE_PATH": "/catalog/computers/accessories/tower/",
+                    "FILTER_CODES": [
+                        "CML2_BRANDS_REF",
+                        "PROP_a8d2948d_9052_11e5_8110_003048d70791",
+                        "PROP_8ed28787_a3d8_11e5_8111_003048d70791",
+                        "PROP_a8d294a3_9052_11e5_8110_003048d70791",
+                        "PROP_aadb107c_a3d8_11e5_8111_003048d70791"
+                    ]
+                }
+            ]
+        },
+        {
+            "GROUP_NAME": "Периферия",
+            "ITEMS": [
+                {
+                    "GROUP_NAME": "Монитор",
+                    "REQUIRED": false,
+                    "MULTIPLE": false,
+                    "SECTION_ID": "685",
+                    "SECTION_PAGE_PATH": "/catalog/computers/monitor/",
+                    "FILTER_CODES": [
+                        "CML2_BRANDS_REF",
+                        "PROP_28b72d71_97fb_11e5_8110_003048d70791"
+                    ]
+                },
+                {
+                    "GROUP_NAME": "Клавиатура",
+                    "REQUIRED": false,
+                    "MULTIPLE": false,
+                    "SECTION_ID": "686",
+                    "SECTION_PAGE_PATH": "/catalog/computers/periferiya/keyboard/",
+                    "FILTER_CODES": [
+                        "CML2_BRANDS_REF",
+                        "PROP_20723e2e_929f_11e5_8110_003048d70791"
+                    ]
+                },
+                {
+                    "GROUP_NAME": "Мышь",
+                    "REQUIRED": false,
+                    "MULTIPLE": false,
+                    "SECTION_ID": "687",
+                    "SECTION_PAGE_PATH": "/catalog/computers/periferiya/mouse/",
+                    "FILTER_CODES": [
+                        "CML2_BRANDS_REF"
+                    ]
+                },
+                {
+                    "GROUP_NAME": "Колонки",
+                    "REQUIRED": false,
+                    "MULTIPLE": false,
+                    "SECTION_ID": "683",
+                    "SECTION_PAGE_PATH": "/catalog/computers/periferiya/loudspeaker/",
+                    "FILTER_CODES": [
+                        "CML2_BRANDS_REF"
+                    ]
+                },
+                {
+                    "GROUP_NAME": "Наушники",
+                    "REQUIRED": false,
+                    "MULTIPLE": false,
+                    "SECTION_ID": "684",
+                    "SECTION_PAGE_PATH": "/catalog/computers/periferiya/headphone/",
+                    "FILTER_CODES": [
+                        "CML2_BRANDS_REF"
+                    ]
+                }
+            ]
+        },
+        {
+            "GROUP_NAME": "Дополнительный",
+            "ITEMS": [
+                {
+                    "GROUP_NAME": "Звуковая карта",
+                    "REQUIRED": false,
+                    "MULTIPLE": false,
+                    "SECTION_ID": "679",
+                    "SECTION_PAGE_PATH": "/catalog/computers/accessories/sound_card/",
+                    "FILTER_CODES": null
+                },
+                {
+                    "GROUP_NAME": "Привод",
+                    "REQUIRED": false,
+                    "MULTIPLE": false,
+                    "SECTION_ID": "678",
+                    "SECTION_PAGE_PATH": "/catalog/computers/accessories/gear/",
+                    "FILTER_CODES": null
+                },
+                {
+                    "GROUP_NAME": "Плата видеомонтажа",
+                    "REQUIRED": false,
+                    "MULTIPLE": false,
+                    "SECTION_ID": "837",
+                    "SECTION_PAGE_PATH": "/catalog/computers/accessories/platy_videomontazha/",
+                    "FILTER_CODES": null
+                },
+                {
+                    "GROUP_NAME": "Контроллер",
+                    "REQUIRED": false,
+                    "MULTIPLE": false,
+                    "SECTION_ID": "677",
+                    "SECTION_PAGE_PATH": "/catalog/computers/accessories/controller/",
+                    "FILTER_CODES": null
+                }
+            ]
+        }
+    ]
+}

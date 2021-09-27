@@ -1,0 +1,10 @@
+{
+    "success": false,
+    "error": {
+        "type": "error",
+        "message": "incorrect_userdata",
+        "messages": null,
+        "description": "Некорректные данные",
+        "fields": null
+    }
+}

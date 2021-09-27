@@ -1,0 +1,679 @@
+1632214580718	geckodriver	INFO	Listening on 127.0.0.1:38183
+1632214581722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaKtujk"
+1632214582933	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaKtujk/search.json.mozlz4", (void 0)))
+1632214584207	Marionette	INFO	Listening on port 35035
+1632214584245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.carrotquest.app/api.min.js line 4 > eval, line 78: TypeError: e.target.closest is not a function
+1632214600901	Marionette	INFO	Stopped listening on port 35035
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632214616975	geckodriver	INFO	Listening on 127.0.0.1:50517
+1632214616980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFQ0bK9"
+1632214617675	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFQ0bK9/search.json.mozlz4", (void 0)))
+1632214618887	Marionette	INFO	Listening on port 34939
+1632214619036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/local/templates/.default/js/script.js?hash=2915a4227c2a6a93c41e8fc249a5bebb, line 33: TypeError: Node.appendChild: Argument 1 is not an object.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/local/templates/.default/js/script.js?hash=2915a4227c2a6a93c41e8fc249a5bebb, line 33: TypeError: Node.appendChild: Argument 1 is not an object.
+JavaScript error: https://stage.05.ru/local/templates/.default/js/script.js?hash=2915a4227c2a6a93c41e8fc249a5bebb, line 33: TypeError: Node.appendChild: Argument 1 is not an object.
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://cdn.carrotquest.app/api.min.js line 4 > eval, line 78: TypeError: e.target.closest is not a function
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://cdn.carrotquest.app/api.min.js line 4 > eval, line 78: TypeError: e.target.closest is not a function
+1632214751022	geckodriver	INFO	Listening on 127.0.0.1:46869
+1632214751038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh8inEP"
+1632214752045	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh8inEP/search.json.mozlz4", (void 0)))
+1632214753161	Marionette	INFO	Listening on port 44459
+1632214753268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.carrotquest.app/api.min.js line 4 > eval, line 78: TypeError: e.target.closest is not a function
+1632214754329	Marionette	INFO	Stopped listening on port 34939
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 279: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 279: unreachable code after return statement
+JavaScript error: https://stage.05.ru/personal/cart/ line 314 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 279: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 279: unreachable code after return statement
+JavaScript error: https://stage.05.ru/catalog/portativ/phones/apple/, line 13355: TypeError: window.shared.getToolTooltip(...) is undefined
+JavaScript error: https://stage.05.ru/catalog/portativ/phones/apple/, line 13407: TypeError: window.shared.getToolTooltip(...) is undefined
+JavaScript error: https://stage.05.ru/local/templates/.default/js/script.js?hash=2915a4227c2a6a93c41e8fc249a5bebb, line 33: TypeError: Node.appendChild: Argument 1 is not an object.
+JavaScript error: https://stage.05.ru/local/templates/.default/js/script.js?hash=2915a4227c2a6a93c41e8fc249a5bebb, line 33: TypeError: Node.appendChild: Argument 1 is not an object.
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 279: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 279: unreachable code after return statement
+JavaScript error: https://cdn.carrotquest.app/api.min.js line 4 > eval, line 78: TypeError: e.target.closest is not a function
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/tftmXwdbgCvrXiHxr5HGbIaL/styles__ltr.css without a browsingContextID set
+JavaScript error: https://cdn.carrotquest.app/api.min.js line 4 > eval, line 78: TypeError: e.target.closest is not a function
+1632214848709	geckodriver	INFO	Listening on 127.0.0.1:51927
+1632214848720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileteznSk"
+1632214849483	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileteznSk/search.json.mozlz4", (void 0)))
+1632214850636	Marionette	INFO	Listening on port 42675
+1632214850779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 279: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 279: unreachable code after return statement
+JavaScript error: https://stage.05.ru/personal/cart/ line 314 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 279: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 279: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 279: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 279: unreachable code after return statement
+JavaScript error: https://stage.05.ru/catalog/portativ/phones/113974/ line 314 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 279: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 279: unreachable code after return statement
+JavaScript error: https://cdn.carrotquest.app/api.min.js line 4 > eval, line 78: TypeError: e.target.closest is not a function
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/tftmXwdbgCvrXiHxr5HGbIaL/styles__ltr.css without a browsingContextID set
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632215506510	geckodriver	INFO	Listening on 127.0.0.1:33673
+1632215506515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMpH2nM"
+1632215507430	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMpH2nM/search.json.mozlz4", (void 0)))
+1632215508598	Marionette	INFO	Listening on port 37177
+1632215508637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632215509011	Marionette	INFO	Stopped listening on port 42675
+JavaScript error: https://cdn.carrotquest.app/api.min.js line 4 > eval, line 78: TypeError: e.target.closest is not a function
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/catalog/portativ/phones/apple/, line 13355: TypeError: window.shared.getToolTooltip(...) is undefined
+JavaScript error: https://stage.05.ru/catalog/portativ/phones/apple/, line 13407: TypeError: window.shared.getToolTooltip(...) is undefined
+JavaScript error: https://stage.05.ru/local/templates/.default/js/script.js?hash=2915a4227c2a6a93c41e8fc249a5bebb, line 33: TypeError: Node.appendChild: Argument 1 is not an object.
+JavaScript error: https://stage.05.ru/local/templates/.default/js/script.js?hash=2915a4227c2a6a93c41e8fc249a5bebb, line 33: TypeError: Node.appendChild: Argument 1 is not an object.
+JavaScript error: https://stage.05.ru/local/templates/.default/js/script.js?hash=2915a4227c2a6a93c41e8fc249a5bebb, line 33: TypeError: Node.appendChild: Argument 1 is not an object.
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632235537292	geckodriver	INFO	Listening on 127.0.0.1:47893
+1632235537295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHy8uDY"
+1632235537977	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHy8uDY/search.json.mozlz4", (void 0)))
+1632235539123	Marionette	INFO	Listening on port 33205
+1632235539215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/catalog/portativ/phones/113974/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/catalog/portativ/phones/113970/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+1632235614382	geckodriver	INFO	Listening on 127.0.0.1:47789
+1632235614386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileej85z2"
+1632235615292	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileej85z2/search.json.mozlz4", (void 0)))
+1632235617692	Marionette	INFO	Listening on port 34129
+1632235617847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.carrotquest.app/api.min.js line 4 > eval, line 78: TypeError: e.target.closest is not a function
+1632235618576	Marionette	INFO	Stopped listening on port 33205
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://cdn.carrotquest.app/api.min.js line 4 > eval, line 78: TypeError: e.target.closest is not a function
+1632235626038	Marionette	INFO	Stopped listening on port 37177
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/catalog/portativ/phones/113974/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/catalog/portativ/phones/116069/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+1632235761230	geckodriver	INFO	Listening on 127.0.0.1:40131
+1632235761234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWxmLOC"
+1632235761968	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWxmLOC/search.json.mozlz4", (void 0)))
+1632235763033	Marionette	INFO	Listening on port 35507
+1632235763052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/catalog/portativ/phones/113970/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/catalog/portativ/phones/113963/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/catalog/portativ/phones/113988/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/catalog/portativ/phones/119284/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript error: https://cdn.carrotquest.app/api.min.js line 4 > eval, line 78: TypeError: e.target.closest is not a function
+1632236009990	geckodriver	INFO	Listening on 127.0.0.1:58797
+1632236009993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCHiXQM"
+1632236010632	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCHiXQM/search.json.mozlz4", (void 0)))
+1632236011814	Marionette	INFO	Listening on port 44373
+1632236011951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/catalog/portativ/phones/116069/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/catalog/portativ/phones/113970/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/catalog/portativ/phones/113963/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1632236080185	geckodriver	INFO	Listening on 127.0.0.1:39889
+1632236080189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZR1g2W"
+1632236080788	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZR1g2W/search.json.mozlz4", (void 0)))
+1632236082076	Marionette	INFO	Listening on port 41653
+1632236082115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+1632236209371	geckodriver	INFO	Listening on 127.0.0.1:53825
+1632236209375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSn4lGJ"
+1632236210062	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSn4lGJ/search.json.mozlz4", (void 0)))
+1632236211420	Marionette	INFO	Listening on port 40517
+1632236211496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://stage.05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://stage.05.ru/catalog/portativ/phones/116069/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://cdn.carrotquest.app/api.min.js line 4 > eval, line 78: TypeError: e.target.closest is not a function
+JavaScript error: https://cdn.carrotquest.app/api.min.js line 4 > eval, line 78: TypeError: e.target.closest is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632315687659	geckodriver	INFO	Listening on 127.0.0.1:37861
+1632315688659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuqzhI6"
+1632315690520	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuqzhI6/search.json.mozlz4", (void 0)))
+1632315691722	Marionette	INFO	Listening on port 45737
+1632315691797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://cdn.carrotquest.app/api.min.js line 4 > eval, line 78: TypeError: e.target.closest is not a function
+JavaScript error: resource://devtools/client/framework/devtools.js, line 757: TypeError: inspector is undefined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/tftmXwdbgCvrXiHxr5HGbIaL/styles__ltr.css without a browsingContextID set
+1632315829314	geckodriver	INFO	Listening on 127.0.0.1:45559
+1632315829318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7qLnhA"
+1632315829955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7qLnhA/search.json.mozlz4", (void 0)))
+1632315831044	Marionette	INFO	Listening on port 43399
+1632315831141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+1632316595914	geckodriver	INFO	Listening on 127.0.0.1:54885
+1632316595918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4zaXed"
+1632316596563	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4zaXed/search.json.mozlz4", (void 0)))
+1632316597685	Marionette	INFO	Listening on port 43509
+1632316597747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1632317924888	geckodriver	INFO	Listening on 127.0.0.1:33753
+1632317924891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepRPZQd"
+1632317925672	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepRPZQd/search.json.mozlz4", (void 0)))
+1632317927144	Marionette	INFO	Listening on port 45011
+1632317927232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632317936073	Marionette	INFO	Stopped listening on port 45011
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632317953537	geckodriver	INFO	Listening on 127.0.0.1:45443
+1632317953541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3uIbmW"
+1632317954319	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3uIbmW/search.json.mozlz4", (void 0)))
+1632317955931	Marionette	INFO	Listening on port 43523
+1632317955986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632317968228	Marionette	INFO	Stopped listening on port 43523
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632317997265	geckodriver	INFO	Listening on 127.0.0.1:59783
+1632317998270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLzka7V"
+1632317999529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLzka7V/search.json.mozlz4", (void 0)))
+1632318002164	Marionette	INFO	Listening on port 43113
+1632318002248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632318013276	Marionette	INFO	Stopped listening on port 43113
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632318060687	geckodriver	INFO	Listening on 127.0.0.1:35403
+1632318060690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileViYV0s"
+1632318061328	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileViYV0s/search.json.mozlz4", (void 0)))
+1632318062693	Marionette	INFO	Listening on port 45969
+1632318062728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632318075352	Marionette	INFO	Stopped listening on port 45969
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632318088002	geckodriver	INFO	Listening on 127.0.0.1:39303
+1632318088006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJa4v3i"
+1632318089213	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJa4v3i/search.json.mozlz4", (void 0)))
+1632318092163	Marionette	INFO	Listening on port 34137
+1632318092307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632318129563	Marionette	INFO	Stopped listening on port 34137
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632319224329	geckodriver	INFO	Listening on 127.0.0.1:55459
+1632319224332	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemPugLx"
+1632319224967	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemPugLx/search.json.mozlz4", (void 0)))
+1632319226196	Marionette	INFO	Listening on port 39315
+1632319226250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://05.ru/catalog/portativ/phones/, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1632319261112	geckodriver	INFO	Listening on 127.0.0.1:53587
+1632319261135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileihRydS"
+1632319277223	geckodriver	INFO	Listening on 127.0.0.1:44587
+1632319277232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepxPWzk"
+1632319279975	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepxPWzk/search.json.mozlz4", (void 0)))
+1632319284339	Marionette	INFO	Listening on port 42021
+1632319284380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632320308484	geckodriver	INFO	Listening on 127.0.0.1:50897
+1632320308488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHIw39Z"
+1632320309137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHIw39Z/search.json.mozlz4", (void 0)))
+1632320310326	Marionette	INFO	Listening on port 33419
+1632320310408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+1632320379282	geckodriver	INFO	Listening on 127.0.0.1:44163
+1632320379289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8gHZP4"
+1632320380616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8gHZP4/search.json.mozlz4", (void 0)))
+1632320382978	Marionette	INFO	Listening on port 44823
+1632320383095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://cdn.carrotquest.app/api.min.js line 4 > eval, line 78: TypeError: e.target.closest is not a function
+1632320487490	Marionette	INFO	Stopped listening on port 44823
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1632321180339	geckodriver	INFO	Listening on 127.0.0.1:38879
+1632321180344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexcNEw4"
+1632321181080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexcNEw4/search.json.mozlz4", (void 0)))
+1632321182179	Marionette	INFO	Listening on port 35341
+1632321182267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+1632321379692	geckodriver	INFO	Listening on 127.0.0.1:50939
+1632321380704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecLYQHt"
+1632321381356	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecLYQHt/search.json.mozlz4", (void 0)))
+1632321382548	Marionette	INFO	Listening on port 37141
+1632321382657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://05.ru/catalog/portativ/phones/xiaomi/, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://05.ru/personal/cart/ line 342 > injectedScript, line 1: ReferenceError: yaCounter858663 is not defined
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 101: unreachable code after return statement
+JavaScript warning: https://05.ru/local/templates/.default/ga_script.js, line 131: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGNKSL, line 304: unreachable code after return statement
+JavaScript error: https://cdn.carrotquest.app/api.min.js line 4 > eval, line 78: TypeError: e.target.closest is not a function
+1632321436375	Marionette	INFO	Stopped listening on port 37141
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "result": {
+        "ID": "05-122886",
+        "ORDER_ID": 122886,
+        "PAY_SYSTEM_LINK": "https://stage.05.ru/personal/payment/?ORDER_ID=122886&PAYMENT_ID=1&STATUS=N",
+        "PUBLIC_URL": "https://05.ru/personal/orders/?ID=05-122886&access=0b1ba699c6296bd4c2220e771df6a921",
+        "REFER_URL": null,
+        "DATE": "09.09.2021",
+        "TIME": "09:14:54",
+        "DESCRIPTION": "Внимание! Дождитесь звонка оператора - менеджер проверит наличие товара и подтвердит заказ. Отследить статус заказа можно в Личном кабинете.\nОстались вопросы? 8 (800) 511-05-05 (работаем с 09 до 19)."
+    }
+}

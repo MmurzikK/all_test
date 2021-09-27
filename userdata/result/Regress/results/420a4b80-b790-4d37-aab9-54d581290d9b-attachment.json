@@ -1,0 +1,58 @@
+{
+    "success": true,
+    "result": [
+        {
+            "TYPE": "TINY_TEXT",
+            "NAME": "Имя",
+            "PARAM": "user_name",
+            "REQUIRED": true
+        },
+        {
+            "TYPE": "EMAIL",
+            "NAME": "Электронная почта",
+            "PARAM": "user_email"
+        },
+        {
+            "TYPE": "RATE",
+            "NAME": "Оценка",
+            "MAX": 5,
+            "MIN": 1,
+            "PARAM": "product_rate",
+            "REQUIRED": true,
+            "VALIDATE": [
+                {}
+            ]
+        },
+        {
+            "TYPE": "TEXT",
+            "NAME": "Достоинства",
+            "PARAM": "advantages",
+            "REQUIRED": true
+        },
+        {
+            "TYPE": "TEXT",
+            "NAME": "Недостатки",
+            "PARAM": "limitations",
+            "REQUIRED": true
+        },
+        {
+            "TYPE": "TEXT",
+            "NAME": "Комментарий",
+            "PARAM": "text",
+            "REQUIRED": true
+        },
+        {
+            "TYPE": "TEXT",
+            "NAME": "Тэги",
+            "PARAM": "tags"
+        },
+        {
+            "TYPE": "FILE",
+            "NAME": "Изображения",
+            "PARAM": "images",
+            "VALIDATE": [
+                {}
+            ]
+        }
+    ]
+}

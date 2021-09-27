@@ -1,0 +1,47 @@
+{
+    "success": true,
+    "result": [
+        {
+            "ID": "633990",
+            "NAME": "Книга \"Адизес для лидеров\" | Ицхак Адизес",
+            "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/knigi/126505/",
+            "IMAGE": "https://img.stage.05.ru/resize/DkD-2d3emd2eF6cVAqMYN9HC2BtQq9SL2GrVEjFabXA//rs:fit:1197:1544:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9hZmUvYWZlZTljODVhMmEwMDI2N2VhYTJmY2FhOWY1NTQyMTcuanBn",
+            "THUMBNAILS": {
+                "1X": "https://img.stage.05.ru/resize/m0tt-NGVtVQrC8zicRfzlfM7R_KQt45T4wkUqq06JTw//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9hZmUvYWZlZTljODVhMmEwMDI2N2VhYTJmY2FhOWY1NTQyMTcuanBn",
+                "2X": "https://img.stage.05.ru/resize/r3fwZMwM9e9u1FgsFSEvAQEFahE5VoT2o-3ZXqhtBRo//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9hZmUvYWZlZTljODVhMmEwMDI2N2VhYTJmY2FhOWY1NTQyMTcuanBn"
+            },
+            "PRICES": [
+                {
+                    "CODE": "DEFAULT",
+                    "NAME": null,
+                    "CROSSED": false,
+                    "PRICE_TYPE_ID": 5,
+                    "BONUS": 0,
+                    "PRICE": 470,
+                    "PRINT_PRICE": "470₽",
+                    "CURRENCY": "RUB"
+                },
+                {
+                    "CODE": "PROMO",
+                    "NAME": null,
+                    "CROSSED": true,
+                    "PRICE_TYPE_ID": 9,
+                    "BONUS": 0,
+                    "PRICE": 530,
+                    "PRINT_PRICE": "530₽",
+                    "CURRENCY": "RUB"
+                }
+            ],
+            "PRICE": 530,
+            "PRINT_PRICE": "530₽",
+            "ACTIONS": [
+                {
+                    "ID": 654738,
+                    "NAME": "Развивайся с нами ",
+                    "CODE": "razvivaysya_s_nami_",
+                    "COLOR": "#4B0082"
+                }
+            ]
+        }
+    ]
+}

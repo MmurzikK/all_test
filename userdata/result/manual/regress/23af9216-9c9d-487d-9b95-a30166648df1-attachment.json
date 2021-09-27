@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "result": {
+        "STORES_AMOUNT": 8,
+        "PHONE": "+78005110505",
+        "EMAIL": "info@05.ru",
+        "SOCIAL_LINKS": {
+            "TELEGRAM_BOT": "tg://resolve?domain=online05ru_bot",
+            "WHATSAPP": "https://wa.me/78722515151"
+        },
+        "LINKS": {
+            "DELIVERY": "https://stage.05.ru/about/delivery/?location_id=1359",
+            "BONUSES": "https://stage.05.ru/bonus/?location_id=1359",
+            "GUARANTY": "https://stage.05.ru/about/guaranty/?location_id=1359",
+            "INSTALLMENT": "https://stage.05.ru/about/rassrochka/?location_id=1359",
+            "CREDIT": "https://stage.05.ru/about/kredit/?location_id=1359"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+faker==8.5.0
+pytest==6.2.4
+requests==2.25.1
+allure-pytest==2.9.42
+selenium==3.14.0
+beautifulsoup4==4.9.3
+fake-headers==1.0.2
+pyyaml==5.3.1

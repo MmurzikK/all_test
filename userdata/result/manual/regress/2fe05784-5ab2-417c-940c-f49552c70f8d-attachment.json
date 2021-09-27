@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "result": {
+        "ID": "604945",
+        "NAME": "ТЕТРАДЬ А5, Bruno Viscont \"ЕЖИК С КОРЗИНКОЙ\" 40л. клетка (10129060/291119/0035314)",
+        "DETAIL_PAGE_PATH": "/catalog/knigi_i_kanctovary/shkolynye_prinadleghnosti/tetradi/101377/",
+        "IMAGE": "https://img.stage.05.ru/resize/zHglYU3vZhOyQjYlGUhRmLZi4O4ysplTCPuRAKrhzFM//rs:fit:211:295:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8zZGEvM2RhMzM5NzAzZjI5MmQwNmJiNDBhZDU0MWY0MThjZGEuanBn",
+        "THUMBNAILS": {
+            "1X": "https://img.stage.05.ru/resize/FAakkbDR9tdPu_3f_Hw6QHm4xx5GybOvLkhMgL8lJgc//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8zZGEvM2RhMzM5NzAzZjI5MmQwNmJiNDBhZDU0MWY0MThjZGEuanBn",
+            "2X": "https://img.stage.05.ru/resize/p11djc91eIoWb063sCRAjDyTkIqi2dGKFMQWFVmdna8//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8zZGEvM2RhMzM5NzAzZjI5MmQwNmJiNDBhZDU0MWY0MThjZGEuanBn"
+        },
+        "PRICES": [
+            {
+                "CODE": "DEFAULT",
+                "NAME": null,
+                "CROSSED": false,
+                "PRICE_TYPE_ID": 5,
+                "BONUS": 0,
+                "PRICE": 90,
+                "PRINT_PRICE": "90₽",
+                "CURRENCY": "RUB"
+            }
+        ],
+        "PRICE": 90,
+        "PRINT_PRICE": "90₽",
+        "IN_BASKET": false,
+        "IN_FAVORITES": true,
+        "IN_COMPARE": false,
+        "STATUS": {
+            "NAME": "12 сентября",
+            "DESCRIPTION": "Доставим",
+            "DESCRIPTION_PART": "Доставим",
+            "ICON": true,
+            "TEXT": "Доставим 12 сентября",
+            "COLOR": "#8616B8",
+            "CODE": "UNDER_ORDER",
+            "CLASS": "bem-icon-link_orange",
+            "FREE_DELIVERY": false
+        },
+        "ACTIONS": null,
+        "SECTION": {
+            "ID": "4716",
+            "NAME": "Тетради",
+            "CODE": "tetradi",
+            "PARENT_NAME": "Школьные принадлежности",
+            "CREDIT_BUY_UNAVAILABILITY": null,
+            "SECTION_PAGE_PATH": "/catalog/knigi_i_kanctovary/shkolynye_prinadleghnosti/tetradi/",
+            "IMAGE": "https://img.stage.05.ru/resize/K04swtLatPDKnMRpVRdpWszy_WTLh78xRNuXqTQFQ10//rs:fit:531:799:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9mMDMvZjAzZmUxZGJkYjFmMjA5MDhjOWE2NTZlMDg5YzY3ZWQuanBn",
+            "THUMBNAILS": {
+                "1X": "https://img.stage.05.ru/resize/_2iLU45mReSioaIrStsDauIaBCCPMRUgNyUYSBLI5hk//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9mMDMvZjAzZmUxZGJkYjFmMjA5MDhjOWE2NTZlMDg5YzY3ZWQuanBn",
+                "2X": "https://img.stage.05.ru/resize/kxSKv0anqzxtvDJNkasuGflscha4o0R7iNVZ8h6w4zk//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9mMDMvZjAzZmUxZGJkYjFmMjA5MDhjOWE2NTZlMDg5YzY3ZWQuanBn"
+            }
+        }
+    }
+}

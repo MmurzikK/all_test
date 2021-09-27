@@ -1,0 +1,289 @@
+{
+    "success": true,
+    "result": {
+        "BASKET": {
+            "TOTAL": {
+                "ROWS": 1,
+                "BONUS_CARD": null,
+                "FREE_DELIVERY_PRICE": 1000,
+                "QUANTITY": 2,
+                "FREE_DELIVERY": true,
+                "BONUSES_RECEIVED": 0,
+                "PRICE_DELIVERY": 0,
+                "DISCOUNT_VALUE": 0,
+                "PRODUCTS_PRICE": 1900,
+                "PRODUCTS_PRINT_PRICE": "1 900₽",
+                "PRICE": 1900,
+                "PRINT_DISCOUNT_VALUE": "0₽",
+                "PRINT_PRICE_DELIVERY": "0₽",
+                "PRINT_PRICE": "1 900₽",
+                "OLD": 0,
+                "DISCOUNT": 0
+            },
+            "WARNINGS": null,
+            "ITEMS": [
+                {
+                    "ID": "618523",
+                    "NAME": "Емкость кухонная Living кремовая 15х12,5 см",
+                    "DETAIL_PAGE_PATH": "/catalog/remont/posuda/hranenie_produktov/113582/",
+                    "IMAGE": "https://img.dev.05.ru/resize/WvQYoVptS8iG0E4uPcgfA_FvF9XTRusPlS3zbO5ek0k//rs:fit:900:900:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL21hcmtldHBsYWNlLzYzNzM3NDkzNzM2ODM0LmpwZWc",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/OJkan9H40NhG_3cSZEglVcy0jgKagOxIoyoYUlPqvpo//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL21hcmtldHBsYWNlLzYzNzM3NDkzNzM2ODM0LmpwZWc",
+                        "2X": "https://img.dev.05.ru/resize/ILAUqRkV_pThV622V9LOOmTWCG5h4bTx3LRj0GmbF1M//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL21hcmtldHBsYWNlLzYzNzM3NDkzNzM2ODM0LmpwZWc"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 950,
+                            "PRINT_PRICE": "950₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 950,
+                    "PRINT_PRICE": "950₽",
+                    "IN_BASKET": true,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "DEFAULT_OFFERS": null,
+                    "STATUS": {
+                        "NAME": null,
+                        "DESCRIPTION": "Под заказ",
+                        "DESCRIPTION_PART": "Под заказ",
+                        "ICON": true,
+                        "TEXT": "Под заказ",
+                        "COLOR": "#8616B8",
+                        "CODE": "UNDER_ORDER",
+                        "CLASS": "bem-icon-link_orange",
+                        "FREE_DELIVERY": false
+                    },
+                    "ACTIONS": null,
+                    "SECTION": {
+                        "ID": "4582",
+                        "NAME": "Хранение продуктов",
+                        "CODE": "hranenie_produktov",
+                        "PARENT_NAME": "Посуда",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/remont/posuda/hranenie_produktov/",
+                        "IMAGE": "https://img.dev.05.ru/resize/v43PS6q3c82SR1pyFkxDagnFThf2ykzGJZ8d3yDQ6nY//rs:fit:700:700:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMTcvMTE3ZjUwNzJjYmRhNGNiYTkwZGJiNzI0YzMyYjdkOWUuanBlZw",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/MXzb9GzOY6nZvZNnTLVGKlODuz8bdNa3v-DKczI4zPc//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMTcvMTE3ZjUwNzJjYmRhNGNiYTkwZGJiNzI0YzMyYjdkOWUuanBlZw",
+                            "2X": "https://img.dev.05.ru/resize/kYrt2IiQCFxtzwGS2AMXIllYYGlMrtsDY9KGs8uwMQU//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMTcvMTE3ZjUwNzJjYmRhNGNiYTkwZGJiNzI0YzMyYjdkOWUuanBlZw"
+                        }
+                    },
+                    "DISCOUNT": 0,
+                    "PRINT_DISCOUNT": "0₽",
+                    "FREE_DELIVERY": false,
+                    "QUANTITY": 2,
+                    "PRODUCT_ID": "618523"
+                }
+            ],
+            "ID": 240573862
+        },
+        "DELIVERY": {
+            "PARAM": "DELIVERY_ID",
+            "LIST": [
+                {
+                    "ID": 52,
+                    "NAME": "Курьерская доставка 05.ru",
+                    "DESCRIPTION": "Курьерская доставка 05.ru",
+                    "PRICE": 0,
+                    "LOCATION": "Махачкала",
+                    "ADDRESS": "Test",
+                    "PRINT_PRICE": "0₽",
+                    "IS_SELFDELIVERY": false,
+                    "IS_DPD": false,
+                    "PARENT_NAME": "Дагестан",
+                    "PARENT_CODE": "",
+                    "CHECKED": true,
+                    "PERIOD": "сегодня",
+                    "STORE": null,
+                    "LOGOTIP": null,
+                    "TYPE": "DELIVERY",
+                    "LAST_ADDRESSES": null
+                },
+                {
+                    "ID": 64,
+                    "NAME": "Настройка обработчика для г.Казань",
+                    "DESCRIPTION": "Служба доставки с настраиваемой ценой и сроком доставки",
+                    "PRICE": 0,
+                    "LOCATION": "Махачкала",
+                    "ADDRESS": "Test",
+                    "PRINT_PRICE": "0₽",
+                    "IS_SELFDELIVERY": false,
+                    "IS_DPD": false,
+                    "PARENT_NAME": null,
+                    "PARENT_CODE": null,
+                    "CHECKED": false,
+                    "PERIOD": null,
+                    "STORE": null,
+                    "LOGOTIP": null,
+                    "TYPE": "DELIVERY",
+                    "LAST_ADDRESSES": null
+                },
+                {
+                    "ID": 57,
+                    "NAME": "Самовывоз",
+                    "DESCRIPTION": "Забрать заказ в нашем магазине по адресу пр.Шамиля, 5/ пр.Шамиля 31г",
+                    "PRICE": 0,
+                    "LOCATION": "Махачкала",
+                    "ADDRESS": "Test",
+                    "PRINT_PRICE": "0₽",
+                    "IS_SELFDELIVERY": true,
+                    "IS_DPD": false,
+                    "PARENT_NAME": "Самовывоз",
+                    "PARENT_CODE": "",
+                    "CHECKED": false,
+                    "PERIOD": null,
+                    "STORE": null,
+                    "LOGOTIP": null,
+                    "TYPE": "PICKUP",
+                    "LAST_STORES": null
+                }
+            ]
+        },
+        "STORE_LIST": {
+            "PARAM": "BUYER_STORE",
+            "LIST": [
+                {
+                    "ID": 254,
+                    "GPS_N": 42.968548,
+                    "GPS_S": 47.495564,
+                    "ADDRESS": "пр-кт И. Шамиля, 31г",
+                    "CHECKED": false,
+                    "PHONE": "",
+                    "DESCRIPTION": "",
+                    "IMAGE": null,
+                    "SCHEDULE": "09:00-21:00"
+                },
+                {
+                    "ID": 245,
+                    "GPS_N": 42.971576,
+                    "GPS_S": 47.419809,
+                    "ADDRESS": "ул. Акушинского, 337",
+                    "CHECKED": false,
+                    "PHONE": "Array",
+                    "DESCRIPTION": "",
+                    "IMAGE": null,
+                    "SCHEDULE": "09:00 - 21:00"
+                },
+                {
+                    "ID": 233,
+                    "GPS_N": 42.980142,
+                    "GPS_S": 47.476124,
+                    "ADDRESS": "пр-кт И. Шамиля, 5",
+                    "CHECKED": false,
+                    "PHONE": "",
+                    "DESCRIPTION": "",
+                    "IMAGE": null,
+                    "SCHEDULE": "09:00-21:00"
+                }
+            ]
+        },
+        "PAY_SYSTEM": {
+            "PARAM": "PAY_SYSTEM_ID",
+            "LIST": [
+                {
+                    "ID": 1,
+                    "NAME": "Наличными при получении",
+                    "DESCRIPTION": "Оплата наличными при получении заказа курьеру.",
+                    "PRICE": 0,
+                    "PRINT_PRICE": "0₽",
+                    "CHECKED": true,
+                    "LOGOTIP": "https://img.dev.05.ru/resize/hD9d6Tbebu85-hrPJqRQBTkF-xd53VoOYy-q8qkd5RM//rs:fit:36:31:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3NhbGUvcGF5c3lzdGVtL2xvZ290aXAvMzdhLzM3YTBmZTBkNDdiNGU4ZTJmNzgxYjY0MDU0NzNlYmM0LnBuZw"
+                }
+            ]
+        },
+        "COUPON": {
+            "PARAM": "coupon",
+            "LIST": []
+        },
+        "PROPS": {
+            "PARAM": "ORDER_PROP_#ID#",
+            "LIST": [
+                {
+                    "ID": "1",
+                    "NAME": "Ф.И.О.",
+                    "TYPE": "STRING",
+                    "REQUIRED": true,
+                    "MULTIPLE": false,
+                    "DEFAULT_VALUE": "",
+                    "VALUE": "Test",
+                    "IS_LOCATION": false,
+                    "IS_PHONE": false,
+                    "IS_ADDRESS": false,
+                    "IS_EMAIL": false
+                },
+                {
+                    "ID": "2",
+                    "NAME": "E-Mail",
+                    "TYPE": "STRING",
+                    "REQUIRED": false,
+                    "MULTIPLE": false,
+                    "DEFAULT_VALUE": "",
+                    "VALUE": "test1101111@yandex.ru",
+                    "IS_LOCATION": false,
+                    "IS_PHONE": false,
+                    "IS_ADDRESS": false,
+                    "IS_EMAIL": true
+                },
+                {
+                    "ID": "3",
+                    "NAME": "Телефон",
+                    "TYPE": "STRING",
+                    "REQUIRED": true,
+                    "MULTIPLE": false,
+                    "DEFAULT_VALUE": "",
+                    "VALUE": "Test",
+                    "IS_LOCATION": false,
+                    "IS_PHONE": true,
+                    "IS_ADDRESS": false,
+                    "IS_EMAIL": false
+                },
+                {
+                    "ID": "6",
+                    "NAME": "Местоположение",
+                    "TYPE": "LOCATION",
+                    "REQUIRED": true,
+                    "MULTIPLE": false,
+                    "DEFAULT_VALUE": "",
+                    "VALUE": "0000495241",
+                    "IS_LOCATION": true,
+                    "IS_PHONE": false,
+                    "IS_ADDRESS": false,
+                    "IS_EMAIL": false
+                },
+                {
+                    "ID": "7",
+                    "NAME": "Адрес",
+                    "TYPE": "STRING",
+                    "REQUIRED": true,
+                    "MULTIPLE": false,
+                    "DEFAULT_VALUE": "",
+                    "VALUE": "Test",
+                    "IS_LOCATION": false,
+                    "IS_PHONE": false,
+                    "IS_ADDRESS": true,
+                    "IS_EMAIL": false
+                }
+            ]
+        },
+        "TOTAL": {
+            "TOTAL_PRICE": 1900,
+            "TOTAL_PRINT_RPICE": "1 900₽",
+            "PRICE": 1900,
+            "PRINT_PRICE": "1 900₽",
+            "OLD_PRICE": 1900,
+            "OLD_PRINT_PRICE": "1 900₽",
+            "DISCOUNT_PRICE": 0,
+            "DISCOUNT_PRINT_PRICE": "0₽",
+            "PRODUCTS_PRICE": 1900,
+            "PRODUCTS_PRINT_PRICE": "1 900₽",
+            "DELIVERY_PRICE": 0,
+            "DELIVERY_PRINT_PRICE": "0₽"
+        }
+    }
+}

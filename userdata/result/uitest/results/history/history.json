@@ -1,0 +1,1160 @@
+{
+  "417f77148c68492c4e1b72b973f151ee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "68f9c8761b324b9b",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/68f9c8761b324b9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631885712333,
+        "stop" : 1631885720743,
+        "duration" : 8410
+      }
+    }, {
+      "uid" : "4fa688c3514b1c25",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/4fa688c3514b1c25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631881088386,
+        "stop" : 1631881095981,
+        "duration" : 7595
+      }
+    }, {
+      "uid" : "c5b23665785c3b88",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/c5b23665785c3b88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631875177570,
+        "stop" : 1631875187321,
+        "duration" : 9751
+      }
+    }, {
+      "uid" : "46dfbe4134b6a688",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/46dfbe4134b6a688",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631872941863,
+        "stop" : 1631872953539,
+        "duration" : 11676
+      }
+    } ]
+  },
+  "633ef12453d40d2f1a4ba39946123052" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "61917890fa896725",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/61917890fa896725",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631885900345,
+        "stop" : 1631885936551,
+        "duration" : 36206
+      }
+    }, {
+      "uid" : "92bcbab44de65326",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/92bcbab44de65326",
+      "status" : "broken",
+      "statusDetails" : "ValueError: invalid literal for int() with base 10: 'Ценанеуказан'",
+      "time" : {
+        "start" : 1631881272159,
+        "stop" : 1631881305182,
+        "duration" : 33023
+      }
+    }, {
+      "uid" : "5210a35ceac2e15b",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/5210a35ceac2e15b",
+      "status" : "broken",
+      "statusDetails" : "ValueError: invalid literal for int() with base 10: 'Ценанеуказан'",
+      "time" : {
+        "start" : 1631875381636,
+        "stop" : 1631875418241,
+        "duration" : 36605
+      }
+    }, {
+      "uid" : "255dd9462d3060da",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/255dd9462d3060da",
+      "status" : "broken",
+      "statusDetails" : "ValueError: invalid literal for int() with base 10: 'Ценанеуказан'",
+      "time" : {
+        "start" : 1631873122215,
+        "stop" : 1631873159918,
+        "duration" : 37703
+      }
+    } ]
+  },
+  "95fffa88728cf97a26e2a849ec3b6e6f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "ee9207e0d8a35535",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/ee9207e0d8a35535",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631885674405,
+        "stop" : 1631885684592,
+        "duration" : 10187
+      }
+    }, {
+      "uid" : "9e6fe0662215b490",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/9e6fe0662215b490",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631881050158,
+        "stop" : 1631881058722,
+        "duration" : 8564
+      }
+    }, {
+      "uid" : "9be50503041de5a4",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/9be50503041de5a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631875123980,
+        "stop" : 1631875136108,
+        "duration" : 12128
+      }
+    }, {
+      "uid" : "944a4f2099386aee",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/944a4f2099386aee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631872886863,
+        "stop" : 1631872898561,
+        "duration" : 11698
+      }
+    } ]
+  },
+  "53d7ee80279305a802f636ec9f52cb52" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "64cd4057468ac299",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/64cd4057468ac299",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631885655146,
+        "stop" : 1631885662065,
+        "duration" : 6919
+      }
+    }, {
+      "uid" : "8d28e2bd18dec48b",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/8d28e2bd18dec48b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631881036046,
+        "stop" : 1631881042698,
+        "duration" : 6652
+      }
+    }, {
+      "uid" : "2267d5639005e26",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/2267d5639005e26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631875105804,
+        "stop" : 1631875112947,
+        "duration" : 7143
+      }
+    }, {
+      "uid" : "be2c1f11759c50c4",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/be2c1f11759c50c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631872864655,
+        "stop" : 1631872874558,
+        "duration" : 9903
+      }
+    } ]
+  },
+  "4a0e3bcdef942f9300dc792cf6895da5" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "413e028bdbce9244",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/413e028bdbce9244",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631885971649,
+        "stop" : 1631885987473,
+        "duration" : 15824
+      }
+    }, {
+      "uid" : "a2384875419cc33b",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/a2384875419cc33b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631881337086,
+        "stop" : 1631881352987,
+        "duration" : 15901
+      }
+    }, {
+      "uid" : "4efca1c922f5e2ec",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/4efca1c922f5e2ec",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: True\nassert ['https://sta...om/05ru.shop'] == ['https://05....am.com/05ru/']\n  At index 0 diff: 'https://stage.05.ru/about/contacts/' != 'https://05.ru/about/contacts/'\n  Right contains 2 more items, first extra item: 'https://www.youtube.com/user/The05ru'\n  Use -v to get the full diff",
+      "time" : {
+        "start" : 1631875452195,
+        "stop" : 1631875468720,
+        "duration" : 16525
+      }
+    }, {
+      "uid" : "7b118e14953d0ced",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/7b118e14953d0ced",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: True\nassert ['https://sta...om/05ru.shop'] == ['https://05....am.com/05ru/']\n  At index 0 diff: 'https://stage.05.ru/about/contacts/' != 'https://05.ru/about/contacts/'\n  Right contains 2 more items, first extra item: 'https://www.youtube.com/user/The05ru'\n  Use -v to get the full diff",
+      "time" : {
+        "start" : 1631873198367,
+        "stop" : 1631873213807,
+        "duration" : 15440
+      }
+    } ]
+  },
+  "db6e9bf1f5b3838b78d2abd989014445" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "dac47feec75a1f00",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/dac47feec75a1f00",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.StaleElementReferenceException: Message: The element reference of <input class=\"order-detail__input\" name=\"ORDER_PROP_3\" type=\"text\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed",
+      "time" : {
+        "start" : 1631886051255,
+        "stop" : 1631886070456,
+        "duration" : 19201
+      }
+    }, {
+      "uid" : "8a066a196219c85b",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/8a066a196219c85b",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1631881418344,
+        "stop" : 1631881445188,
+        "duration" : 26844
+      }
+    }, {
+      "uid" : "f5016dd1373f89d5",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/f5016dd1373f89d5",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1631875546608,
+        "stop" : 1631875575198,
+        "duration" : 28590
+      }
+    }, {
+      "uid" : "60c3f0f988712c3d",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/60c3f0f988712c3d",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.StaleElementReferenceException: Message: The element reference of <input class=\"order-detail__input\" name=\"ORDER_PROP_3\" type=\"text\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed",
+      "time" : {
+        "start" : 1631873282133,
+        "stop" : 1631873303067,
+        "duration" : 20934
+      }
+    } ]
+  },
+  "56363445e41b79206b3e1605e1060fd7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "4a0c5f07ec85393f",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/4a0c5f07ec85393f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631885640597,
+        "stop" : 1631885647597,
+        "duration" : 7000
+      }
+    }, {
+      "uid" : "f66cfa772aea8544",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/f66cfa772aea8544",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631881020133,
+        "stop" : 1631881027841,
+        "duration" : 7708
+      }
+    }, {
+      "uid" : "7e4b4a69678cd482",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/7e4b4a69678cd482",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631875088180,
+        "stop" : 1631875096456,
+        "duration" : 8276
+      }
+    }, {
+      "uid" : "fea48591a2911544",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/fea48591a2911544",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631872842201,
+        "stop" : 1631872851245,
+        "duration" : 9044
+      }
+    } ]
+  },
+  "e1a9f789d5de2acc6077193ecf571a6f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "98f923f4e49aa9e",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/98f923f4e49aa9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631885757194,
+        "stop" : 1631885782102,
+        "duration" : 24908
+      }
+    }, {
+      "uid" : "c3b04d7d5485e48e",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/c3b04d7d5485e48e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631881129561,
+        "stop" : 1631881150448,
+        "duration" : 20887
+      }
+    }, {
+      "uid" : "3fa390615867b434",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/3fa390615867b434",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631875226357,
+        "stop" : 1631875251482,
+        "duration" : 25125
+      }
+    }, {
+      "uid" : "f1f739653fba835a",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/f1f739653fba835a",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1631872999335,
+        "stop" : 1631873018992,
+        "duration" : 19657
+      }
+    } ]
+  },
+  "aee55f9a15703590effb5c5c514d83c7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "7d3392eaacad6711",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/7d3392eaacad6711",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631886199235,
+        "stop" : 1631886205203,
+        "duration" : 5968
+      }
+    }, {
+      "uid" : "52704b586318e3b6",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/52704b586318e3b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631881604204,
+        "stop" : 1631881610398,
+        "duration" : 6194
+      }
+    }, {
+      "uid" : "39fa2b88080c7030",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/39fa2b88080c7030",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631875751366,
+        "stop" : 1631875758419,
+        "duration" : 7053
+      }
+    }, {
+      "uid" : "c63cef48036fbb57",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/c63cef48036fbb57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631873517033,
+        "stop" : 1631873526966,
+        "duration" : 9933
+      }
+    } ]
+  },
+  "9a70904e075036beb85014ff3e7d68c5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "fab47712804e8721",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/fab47712804e8721",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.StaleElementReferenceException: Message: The element reference of <a class=\"bem-button bem-button_fluid bem-button_h24 bem-button_red mt-7 mx-auto\" href=\"/personal/compare/\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed",
+      "time" : {
+        "start" : 1631885728153,
+        "stop" : 1631885747503,
+        "duration" : 19350
+      }
+    }, {
+      "uid" : "d26cb50b31de0925",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/d26cb50b31de0925",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631881104825,
+        "stop" : 1631881122225,
+        "duration" : 17400
+      }
+    }, {
+      "uid" : "b5303ab34d1534f0",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/b5303ab34d1534f0",
+      "status" : "broken",
+      "statusDetails" : "ValueError: invalid literal for int() with base 10: ''",
+      "time" : {
+        "start" : 1631875195646,
+        "stop" : 1631875216581,
+        "duration" : 20935
+      }
+    }, {
+      "uid" : "b14faa03fe5706f5",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/b14faa03fe5706f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631872962992,
+        "stop" : 1631872987775,
+        "duration" : 24783
+      }
+    } ]
+  },
+  "c544291590a649f49602a9f9fa18b56a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "77c6dd2c4e22ce06",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/77c6dd2c4e22ce06",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631885789662,
+        "stop" : 1631885811789,
+        "duration" : 22127
+      }
+    }, {
+      "uid" : "415ad173d0b7bfd5",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/415ad173d0b7bfd5",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1631881157304,
+        "stop" : 1631881183715,
+        "duration" : 26411
+      }
+    }, {
+      "uid" : "9c8b1df3cf1ff413",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/9c8b1df3cf1ff413",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1631875260173,
+        "stop" : 1631875285782,
+        "duration" : 25609
+      }
+    }, {
+      "uid" : "b48f749687574c5",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/b48f749687574c5",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.StaleElementReferenceException: Message: The element reference of <a class=\"bem-icon-link bem-icon-link_without-underline bem-icon-link_pseudo bem-icon-link_to-cart bem-icon-link_cart-added\" href=\"/personal/cart/\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed",
+      "time" : {
+        "start" : 1631873026951,
+        "stop" : 1631873040917,
+        "duration" : 13966
+      }
+    } ]
+  },
+  "cb799317b91272378bae10e0f59a521d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "c438e71759b88d2c",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/c438e71759b88d2c",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: Element <input class=\"bem-button bem-button_red bem-button_large bem-button_wide\" type=\"submit\"> is not clickable at point (488,358) because another element <iframe name=\"c-hi3xd2yfb6at\" src=\"https://www.google.com/recaptcha/api2/bframe?hl=en&v=tftmXwdbgCvrXiHxr5HGbIaL&k=6Lds3E8UAAAAAI3xcPwzDeNP-bmLdIxnxBL55Or3&cb=nfcju6am5roj\"> obscures it",
+      "time" : {
+        "start" : 1631886213004,
+        "stop" : 1631886226112,
+        "duration" : 13108
+      }
+    }, {
+      "uid" : "b17f02bd56926665",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/b17f02bd56926665",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: Element <input class=\"bem-button bem-button_red bem-button_large bem-button_wide\" type=\"submit\"> is not clickable at point (488,358) because another element <iframe name=\"c-kj2jrjspsd85\" src=\"https://www.google.com/recaptcha/api2/bframe?hl=en&v=wxAi4AKLXL2kBAvXqI4XLSWS&k=6Lds3E8UAAAAAI3xcPwzDeNP-bmLdIxnxBL55Or3&cb=ykam04mts1cl\"> obscures it",
+      "time" : {
+        "start" : 1631881619205,
+        "stop" : 1631881631718,
+        "duration" : 12513
+      }
+    }, {
+      "uid" : "6a726d4a29959010",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/6a726d4a29959010",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: Element <input class=\"bem-button bem-button_red bem-button_large bem-button_wide\" type=\"submit\"> is not clickable at point (488,358) because another element <iframe name=\"c-26yrw314v5b2\" src=\"https://www.google.com/recaptcha/api2/bframe?hl=en&v=wxAi4AKLXL2kBAvXqI4XLSWS&k=6Lds3E8UAAAAAI3xcPwzDeNP-bmLdIxnxBL55Or3&cb=5ndx3obyvdk2\"> obscures it",
+      "time" : {
+        "start" : 1631875768871,
+        "stop" : 1631875782850,
+        "duration" : 13979
+      }
+    }, {
+      "uid" : "99554503907b45ac",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/99554503907b45ac",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: Element <input class=\"bem-button bem-button_red bem-button_large bem-button_wide\" type=\"submit\"> is not clickable at point (488,358) because another element <iframe name=\"c-r1xqpdx3my2j\" src=\"https://www.google.com/recaptcha/api2/bframe?hl=en&v=wxAi4AKLXL2kBAvXqI4XLSWS&k=6Lds3E8UAAAAAI3xcPwzDeNP-bmLdIxnxBL55Or3&cb=a9yb8gotfyy7\"> obscures it",
+      "time" : {
+        "start" : 1631873535139,
+        "stop" : 1631873550544,
+        "duration" : 15405
+      }
+    } ]
+  },
+  "a4c7795d384ddfeb107ef52e720f6db0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "8582359833d8c061",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/8582359833d8c061",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631886178236,
+        "stop" : 1631886184415,
+        "duration" : 6179
+      }
+    }, {
+      "uid" : "b851e83277a5b9bd",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/b851e83277a5b9bd",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1631881561963,
+        "stop" : 1631881596789,
+        "duration" : 34826
+      }
+    }, {
+      "uid" : "9acc64673a053d20",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/9acc64673a053d20",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1631875703199,
+        "stop" : 1631875739620,
+        "duration" : 36421
+      }
+    }, {
+      "uid" : "6d06586d0de5610f",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/6d06586d0de5610f",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1631873473141,
+        "stop" : 1631873507750,
+        "duration" : 34609
+      }
+    } ]
+  },
+  "f5a022d4724bfe7fff2aa981959b0a57" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "972540a438a0d339",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/972540a438a0d339",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631886077167,
+        "stop" : 1631886090972,
+        "duration" : 13805
+      }
+    }, {
+      "uid" : "a355d637c9360225",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/a355d637c9360225",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631881452523,
+        "stop" : 1631881468629,
+        "duration" : 16106
+      }
+    }, {
+      "uid" : "2546ba5dcf31f96e",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/2546ba5dcf31f96e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631875585879,
+        "stop" : 1631875605898,
+        "duration" : 20019
+      }
+    }, {
+      "uid" : "713537e5b768e142",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/713537e5b768e142",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631873312147,
+        "stop" : 1631873336398,
+        "duration" : 24251
+      }
+    } ]
+  },
+  "4e847471600d1df7c407ed73a3b7ac87" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "9cd3982b88c89056",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/9cd3982b88c89056",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631885944477,
+        "stop" : 1631885957629,
+        "duration" : 13152
+      }
+    }, {
+      "uid" : "c260b113abb6cc7c",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/c260b113abb6cc7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631881313137,
+        "stop" : 1631881329615,
+        "duration" : 16478
+      }
+    }, {
+      "uid" : "d19c59b077a7e1cc",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/d19c59b077a7e1cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631875427781,
+        "stop" : 1631875444784,
+        "duration" : 17003
+      }
+    }, {
+      "uid" : "378946ddc0854cb5",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/378946ddc0854cb5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631873174728,
+        "stop" : 1631873189594,
+        "duration" : 14866
+      }
+    } ]
+  },
+  "4ba46f6dc3de8031d8740d0021fa7f39" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "535f9056bf057b4",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/535f9056bf057b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631886149100,
+        "stop" : 1631886170283,
+        "duration" : 21183
+      }
+    }, {
+      "uid" : "1b280e8fa04e838",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/1b280e8fa04e838",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631881534167,
+        "stop" : 1631881551096,
+        "duration" : 16929
+      }
+    }, {
+      "uid" : "209c0f9d290a8f6c",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/209c0f9d290a8f6c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631875675810,
+        "stop" : 1631875694968,
+        "duration" : 19158
+      }
+    }, {
+      "uid" : "f132bdc7c6d83888",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/f132bdc7c6d83888",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631873437952,
+        "stop" : 1631873460086,
+        "duration" : 22134
+      }
+    } ]
+  },
+  "326e82b2db026146ba0dd26e9a51c688" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "ac1d19a35046c761",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/ac1d19a35046c761",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631885996530,
+        "stop" : 1631886017593,
+        "duration" : 21063
+      }
+    }, {
+      "uid" : "b34267481521bb2e",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/b34267481521bb2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631881359902,
+        "stop" : 1631881375855,
+        "duration" : 15953
+      }
+    }, {
+      "uid" : "a626c26c06957797",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/a626c26c06957797",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631875479177,
+        "stop" : 1631875497905,
+        "duration" : 18728
+      }
+    }, {
+      "uid" : "86c32c8fc8b6acfc",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/86c32c8fc8b6acfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631873223158,
+        "stop" : 1631873243054,
+        "duration" : 19896
+      }
+    } ]
+  },
+  "46fbc4e7fcda408b59b6cb9674f17ada" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "479faca666872b87",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/479faca666872b87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631886233618,
+        "stop" : 1631886239935,
+        "duration" : 6317
+      }
+    }, {
+      "uid" : "a8f788194bd21c0",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/a8f788194bd21c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631881640502,
+        "stop" : 1631881646727,
+        "duration" : 6225
+      }
+    }, {
+      "uid" : "3315a64d29e81f0c",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/3315a64d29e81f0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631875794414,
+        "stop" : 1631875799966,
+        "duration" : 5552
+      }
+    }, {
+      "uid" : "6c6b9cf97f9dc66b",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/6c6b9cf97f9dc66b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631873559602,
+        "stop" : 1631873566750,
+        "duration" : 7148
+      }
+    } ]
+  },
+  "6fa085f4b83852de07d163714921b53d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "dedee7641fc00be4",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/dedee7641fc00be4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631886123695,
+        "stop" : 1631886142883,
+        "duration" : 19188
+      }
+    }, {
+      "uid" : "9cc2957df7e1b670",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/9cc2957df7e1b670",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631881510492,
+        "stop" : 1631881526867,
+        "duration" : 16375
+      }
+    }, {
+      "uid" : "78d444e4d98d278d",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/78d444e4d98d278d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631875641572,
+        "stop" : 1631875666141,
+        "duration" : 24569
+      }
+    }, {
+      "uid" : "9c5eaf07ce7f9700",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/9c5eaf07ce7f9700",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631873387593,
+        "stop" : 1631873410880,
+        "duration" : 23287
+      }
+    } ]
+  },
+  "faf0700ae6258a8ca7431ff04110e52b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "62b6b985fab7a9cc",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/62b6b985fab7a9cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631885861380,
+        "stop" : 1631885893268,
+        "duration" : 31888
+      }
+    }, {
+      "uid" : "5509c5290eb265d0",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/5509c5290eb265d0",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 7 == 9\n +  where 7 = int('7')",
+      "time" : {
+        "start" : 1631881230258,
+        "stop" : 1631881261751,
+        "duration" : 31493
+      }
+    }, {
+      "uid" : "7c9b43bc4e531f28",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/7c9b43bc4e531f28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631875334407,
+        "stop" : 1631875372462,
+        "duration" : 38055
+      }
+    }, {
+      "uid" : "a1306273fa2579f9",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/a1306273fa2579f9",
+      "status" : "broken",
+      "statusDetails" : "ValueError: empty range for randrange() (1, 1, 0)",
+      "time" : {
+        "start" : 1631873097781,
+        "stop" : 1631873111253,
+        "duration" : 13472
+      }
+    } ]
+  },
+  "7596b0af5edfd56f010747e24ac83391" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "18b23377cf87beb4",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/18b23377cf87beb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631885820806,
+        "stop" : 1631885854483,
+        "duration" : 33677
+      }
+    }, {
+      "uid" : "f8432475948eedb2",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/f8432475948eedb2",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 7 == 9\n +  where 7 = int('7')",
+      "time" : {
+        "start" : 1631881190693,
+        "stop" : 1631881223197,
+        "duration" : 32504
+      }
+    }, {
+      "uid" : "4635bb7bf2c1c839",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/4635bb7bf2c1c839",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 7 == 9\n +  where 7 = int('7')",
+      "time" : {
+        "start" : 1631875292576,
+        "stop" : 1631875326158,
+        "duration" : 33582
+      }
+    }, {
+      "uid" : "67994846f5121d58",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/67994846f5121d58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631873050392,
+        "stop" : 1631873085983,
+        "duration" : 35591
+      }
+    } ]
+  },
+  "9722779975b58fec038a751e6032ed3b" : {
+    "statistic" : {
+      "failed" : 4,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "7009125117b45785",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/7009125117b45785",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: False\nassert ['https://sta.../about/corp/'] == ['https://sta.../about/corp/']\n  At index 5 diff: 'https://05.ru/about/corp/' != 'https://stage.05.ru/about/corp/'\n  Use -v to get the full diff",
+      "time" : {
+        "start" : 1631886026957,
+        "stop" : 1631886042918,
+        "duration" : 15961
+      }
+    }, {
+      "uid" : "66a526c9419ea6e0",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/66a526c9419ea6e0",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: False\nassert ['https://sta.../about/corp/'] == ['https://sta.../about/corp/']\n  At index 5 diff: 'https://05.ru/about/corp/' != 'https://stage.05.ru/about/corp/'\n  Use -v to get the full diff",
+      "time" : {
+        "start" : 1631881384794,
+        "stop" : 1631881400302,
+        "duration" : 15508
+      }
+    }, {
+      "uid" : "bd7c826252807b8f",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/bd7c826252807b8f",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: False\nassert ['https://sta.../about/corp/'] == ['https://sta.../about/corp/']\n  At index 5 diff: 'https://05.ru/about/corp/' != 'https://stage.05.ru/about/corp/'\n  Use -v to get the full diff",
+      "time" : {
+        "start" : 1631875514421,
+        "stop" : 1631875531586,
+        "duration" : 17165
+      }
+    }, {
+      "uid" : "e08a3cd20d67d9c9",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/e08a3cd20d67d9c9",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: False\nassert ['https://sta.../about/corp/'] == ['https://05....bout/kredit/']\n  At index 0 diff: 'https://stage.05.ru/about/delivery/' != 'https://05.ru/about/delivery/'\n  Use -v to get the full diff",
+      "time" : {
+        "start" : 1631873253905,
+        "stop" : 1631873271382,
+        "duration" : 17477
+      }
+    } ]
+  },
+  "54d3e9624f81753509d490b08b96d6e4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "2f54547f75464f9b",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/2f54547f75464f9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631886098422,
+        "stop" : 1631886116000,
+        "duration" : 17578
+      }
+    }, {
+      "uid" : "e4e777a005351b95",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/e4e777a005351b95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631881476513,
+        "stop" : 1631881499290,
+        "duration" : 22777
+      }
+    }, {
+      "uid" : "7bbc7707644fdce6",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/7bbc7707644fdce6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631875613981,
+        "stop" : 1631875631584,
+        "duration" : 17603
+      }
+    }, {
+      "uid" : "f9f6e0009a3784b3",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/f9f6e0009a3784b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631873351427,
+        "stop" : 1631873374642,
+        "duration" : 23215
+      }
+    } ]
+  },
+  "607f078382a144536e5ae65a8a5c4e6d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "513a2bdef921edab",
+      "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/513a2bdef921edab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631885692154,
+        "stop" : 1631885705065,
+        "duration" : 12911
+      }
+    }, {
+      "uid" : "d1b521789606c804",
+      "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/d1b521789606c804",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631881067586,
+        "stop" : 1631881081177,
+        "duration" : 13591
+      }
+    }, {
+      "uid" : "bad5f03b0b7f1924",
+      "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/bad5f03b0b7f1924",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631875148832,
+        "stop" : 1631875166147,
+        "duration" : 17315
+      }
+    }, {
+      "uid" : "8a482a27b511540c",
+      "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/8a482a27b511540c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631872910681,
+        "stop" : 1631872930566,
+        "duration" : 19885
+      }
+    } ]
+  }
+}

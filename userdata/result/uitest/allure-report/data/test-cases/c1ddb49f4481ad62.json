@@ -1,0 +1,106 @@
+{
+  "uid" : "c1ddb49f4481ad62",
+  "name" : "Add to favoutites",
+  "fullName" : "test.TestRegister#test_add_and_del_to_favourites_in_personal",
+  "historyId" : "c0bf6bce5f74560cec68496052370525",
+  "time" : {
+    "start" : 1632398605613,
+    "stop" : 1632398606045,
+    "duration" : 432
+  },
+  "description" : "Test add and delete to  favourites in personal ",
+  "descriptionHtml" : "<p>Test add and delete to  favourites in personal</p>\n",
+  "status" : "broken",
+  "statusMessage" : "KeyError: 'access_token'",
+  "statusTrace" : "self = <test.TestRegister object at 0x7ff08a07f820>\n\n    @allure.title(\"Add to favoutites\")\n    @allure.description(\"Test add and delete to  favourites in personal \")\n    def test_add_and_del_to_favourites_in_personal(self):\n>       All_base().close_all_favourites()\n\ntest.py:1078: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <all_base_test.All_base object at 0x7ff0890ed9a0>\n\n    def close_all_favourites(self):\n        payload={}\n        variable_for_test = self.api_autorization()\n        token = variable_for_test.json()\n        if variable_for_test.status_code == 200:\n>           response = (requests.request(\"DELETE\",url = self.base_url+\"/api/v1/favorite/all\", headers={'Authorization': f'Bearer {token[\"result\"][\"access_token\"]}'}, data=payload)).json()\nE           KeyError: 'access_token'\n\nall_base_test.py:36: KeyError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister",
+    "time" : {
+      "start" : 1632398593797,
+      "stop" : 1632398605613,
+      "duration" : 11816
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1632397549230,
+      "stop" : 1632397549249,
+      "duration" : 19
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister::0",
+    "time" : {
+      "start" : 1632398606111,
+      "stop" : 1632398606503,
+      "duration" : 392
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "9d2fc9ee43bb"
+  }, {
+    "name" : "thread",
+    "value" : "13-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c1ddb49f4481ad62.json",
+  "parameterValues" : [ ]
+}

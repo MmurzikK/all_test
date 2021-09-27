@@ -1,0 +1,316 @@
+{
+  "uid" : "f334db330e00ab16",
+  "name" : "Удалить PUSH",
+  "fullName" : "tests.regress.test.Test#test_del_push",
+  "historyId" : "d886c8a0f7698e372f9a9ea3978196fc",
+  "time" : {
+    "start" : 1632397431814,
+    "stop" : 1632397431896,
+    "duration" : 82
+  },
+  "description" : "Удалить PUSH",
+  "descriptionHtml" : "<p>Удалить PUSH</p>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 401 == 200\n +  where 401 = <Response [401]>.status_code\n +    where <Response [401]> = <tests.regress.test_del_push.TestDelPush object at 0x7f65bc0b8a60>.response",
+  "statusTrace" : "self = <test.Test object at 0x7f65bbff5280>\n\n    @allure.title(\"Удалить PUSH\")\n    @allure.description(\"Удалить PUSH\")\n    @allure.severity(\"Minor\")\n    def test_del_push(self):\n>       test_del_push.TestDelPush(\n            self.environment_adapter, self.faker).request().attach().test()\n\ntests/regress/test.py:536: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <tests.regress.test_del_push.TestDelPush object at 0x7f65bc0b8a60>\n\n    def test(self):\n>       assert self.response.status_code == 200\nE       assert 401 == 200\nE        +  where 401 = <Response [401]>.status_code\nE        +    where <Response [401]> = <tests.regress.test_del_push.TestDelPush object at 0x7f65bc0b8a60>.response\n\ntests/test_base.py:59: AssertionError",
+  "flaky" : false,
+  "newFailed" : true,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1632397422109,
+      "stop" : 1632397422140,
+      "duration" : 31
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Удалить PUSH",
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 401 == 200\n +  where 401 = <Response [401]>.status_code\n +    where <Response [401]> = <tests.regress.test_del_push.TestDelPush object at 0x7f65bc0b8a60>.response",
+    "statusTrace" : "self = <test.Test object at 0x7f65bbff5280>\n\n    @allure.title(\"Удалить PUSH\")\n    @allure.description(\"Удалить PUSH\")\n    @allure.severity(\"Minor\")\n    def test_del_push(self):\n>       test_del_push.TestDelPush(\n            self.environment_adapter, self.faker).request().attach().test()\n\ntests/regress/test.py:536: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <tests.regress.test_del_push.TestDelPush object at 0x7f65bc0b8a60>\n\n    def test(self):\n>       assert self.response.status_code == 200\nE       assert 401 == 200\nE        +  where 401 = <Response [401]>.status_code\nE        +    where <Response [401]> = <tests.regress.test_del_push.TestDelPush object at 0x7f65bc0b8a60>.response\n\ntests/test_base.py:59: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c5b247d168cdd6cf",
+      "name" : "Request url",
+      "source" : "c5b247d168cdd6cf.txt",
+      "type" : "text/plain",
+      "size" : 35
+    }, {
+      "uid" : "946ba22937ae3e85",
+      "name" : "Request method",
+      "source" : "946ba22937ae3e85.txt",
+      "type" : "text/plain",
+      "size" : 6
+    }, {
+      "uid" : "58d7276aefc4d630",
+      "name" : "Request headers",
+      "source" : "58d7276aefc4d630.json",
+      "type" : "application/json",
+      "size" : 234
+    }, {
+      "uid" : "e014b2427085abf5",
+      "name" : "Response headers",
+      "source" : "e014b2427085abf5.json",
+      "type" : "application/json",
+      "size" : 649
+    }, {
+      "uid" : "e2f985224565c5a5",
+      "name" : "Response",
+      "source" : "e2f985224565c5a5.json",
+      "type" : "application/json",
+      "size" : 230
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "Minor"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests.regress"
+  }, {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test"
+  }, {
+    "name" : "host",
+    "value" : "233b021353de"
+  }, {
+    "name" : "thread",
+    "value" : "12-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.regress.test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 3,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 45,
+        "unknown" : 0,
+        "total" : 48
+      },
+      "items" : [ {
+        "uid" : "5f65a7539482f5fd",
+        "reportUrl" : "http://localhost:8080/job/Regress/90/allure/#testresult/5f65a7539482f5fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631538819734,
+          "stop" : 1631538819829,
+          "duration" : 95
+        }
+      }, {
+        "uid" : "f7a7716d753f9b54",
+        "reportUrl" : "http://localhost:8080/job/Regress/89/allure/#testresult/f7a7716d753f9b54",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631538149763,
+          "stop" : 1631538149854,
+          "duration" : 91
+        }
+      }, {
+        "uid" : "260e4848a5b0451a",
+        "reportUrl" : "http://localhost:8080/job/Regress/88/allure/#testresult/260e4848a5b0451a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631192659647,
+          "stop" : 1631192659728,
+          "duration" : 81
+        }
+      }, {
+        "uid" : "8590e6973c9d415e",
+        "reportUrl" : "http://localhost:8080/job/Regress/87/allure/#testresult/8590e6973c9d415e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631192659647,
+          "stop" : 1631192659728,
+          "duration" : 81
+        }
+      }, {
+        "uid" : "463868bcc0e2e00d",
+        "reportUrl" : "http://localhost:8080/job/Regress/82/allure/#testresult/463868bcc0e2e00d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631170847878,
+          "stop" : 1631170847969,
+          "duration" : 91
+        }
+      }, {
+        "uid" : "e3c90322bcee6bb",
+        "reportUrl" : "http://localhost:8080/job/Regress/81/allure/#testresult/e3c90322bcee6bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631085131458,
+          "stop" : 1631085131573,
+          "duration" : 115
+        }
+      }, {
+        "uid" : "512887a7992e3693",
+        "reportUrl" : "http://localhost:8080/job/Regress/80/allure/#testresult/512887a7992e3693",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631001706783,
+          "stop" : 1631001706890,
+          "duration" : 107
+        }
+      }, {
+        "uid" : "62c4ddfcb16c6700",
+        "reportUrl" : "http://localhost:8080/job/Regress/79/allure/#testresult/62c4ddfcb16c6700",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630914238494,
+          "stop" : 1630914238625,
+          "duration" : 131
+        }
+      }, {
+        "uid" : "d1a46202c83f5ec1",
+        "reportUrl" : "http://localhost:8080/job/Regress/78/allure/#testresult/d1a46202c83f5ec1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630650734460,
+          "stop" : 1630650734559,
+          "duration" : 99
+        }
+      }, {
+        "uid" : "83f837fc317d2d15",
+        "reportUrl" : "http://localhost:8080/job/Regress/77/allure/#testresult/83f837fc317d2d15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630583695609,
+          "stop" : 1630583696040,
+          "duration" : 431
+        }
+      }, {
+        "uid" : "17f6c75c67ee906c",
+        "reportUrl" : "http://localhost:8080/job/Regress/76/allure/#testresult/17f6c75c67ee906c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630478859251,
+          "stop" : 1630478859344,
+          "duration" : 93
+        }
+      }, {
+        "uid" : "9a04a466409ff40b",
+        "reportUrl" : "http://localhost:8080/job/Regress/75/allure/#testresult/9a04a466409ff40b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630404731208,
+          "stop" : 1630404731285,
+          "duration" : 77
+        }
+      }, {
+        "uid" : "c8fdafd2196c2461",
+        "reportUrl" : "http://localhost:8080/job/Regress/74/allure/#testresult/c8fdafd2196c2461",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630309067517,
+          "stop" : 1630309067599,
+          "duration" : 82
+        }
+      }, {
+        "uid" : "ea717905b934973a",
+        "reportUrl" : "http://localhost:8080/job/Regress/73/allure/#testresult/ea717905b934973a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630049163295,
+          "stop" : 1630049163372,
+          "duration" : 77
+        }
+      }, {
+        "uid" : "6bc272e4eedc3926",
+        "reportUrl" : "http://localhost:8080/job/Regress/72/allure/#testresult/6bc272e4eedc3926",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629965430200,
+          "stop" : 1629965430283,
+          "duration" : 83
+        }
+      }, {
+        "uid" : "bbf10e373ee788f5",
+        "reportUrl" : "http://localhost:8080/job/Regress/71/allure/#testresult/bbf10e373ee788f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629894351080,
+          "stop" : 1629894351181,
+          "duration" : 101
+        }
+      }, {
+        "uid" : "580ae10a612ed532",
+        "reportUrl" : "http://localhost:8080/job/Regress/70/allure/#testresult/580ae10a612ed532",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629807380391,
+          "stop" : 1629807380489,
+          "duration" : 98
+        }
+      }, {
+        "uid" : "9eccfe29e514a9e4",
+        "reportUrl" : "http://localhost:8080/job/Regress/69/allure/#testresult/9eccfe29e514a9e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629704848162,
+          "stop" : 1629704848256,
+          "duration" : 94
+        }
+      }, {
+        "uid" : "2f69a5a0f1441899",
+        "reportUrl" : "http://localhost:8080/job/Regress/68/allure/#testresult/2f69a5a0f1441899",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629468078394,
+          "stop" : 1629468078475,
+          "duration" : 81
+        }
+      }, {
+        "uid" : "18450d9890620cc7",
+        "reportUrl" : "http://localhost:8080/job/Regress/67/allure/#testresult/18450d9890620cc7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629465979175,
+          "stop" : 1629465979258,
+          "duration" : 83
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f334db330e00ab16.json",
+  "parameterValues" : [ ]
+}

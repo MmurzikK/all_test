@@ -1,0 +1,193 @@
+{
+    "success": true,
+    "result": {
+        "PAGINATION": {
+            "PARAM": "page",
+            "COUNT": 2,
+            "CURRENT": 1,
+            "ROWS": 23
+        },
+        "ITEMS": [
+            {
+                "ID": "1",
+                "UF_NAME": "1.4.0",
+                "UF_DESCRIPTION": "  ",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "21.09.2020",
+                "UF_RATE": "0"
+            },
+            {
+                "ID": "2",
+                "UF_NAME": "1.5.0",
+                "UF_DESCRIPTION": "    ",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "13.10.2020",
+                "UF_RATE": "0"
+            },
+            {
+                "ID": "3",
+                "UF_NAME": "1.5.4 ",
+                "UF_DESCRIPTION": "   ",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "27.10.2020",
+                "UF_RATE": "5"
+            },
+            {
+                "ID": "4",
+                "UF_NAME": "1.5.8. ",
+                "UF_DESCRIPTION": "   ",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "06.11.2020",
+                "UF_RATE": "0"
+            },
+            {
+                "ID": "5",
+                "UF_NAME": "1.5.9",
+                "UF_DESCRIPTION": "    ",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "17.11.2020",
+                "UF_RATE": "4"
+            },
+            {
+                "ID": "6",
+                "UF_NAME": "1.6",
+                "UF_DESCRIPTION": " ",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "27.11.2020",
+                "UF_RATE": "5"
+            },
+            {
+                "ID": "7",
+                "UF_NAME": "1.6.4",
+                "UF_DESCRIPTION": "Релиз от 15 декабря 2020",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "15.12.2020",
+                "UF_RATE": null
+            },
+            {
+                "ID": "8",
+                "UF_NAME": "1.6.6",
+                "UF_DESCRIPTION": "Релиз от 15 января 2021",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "15.01.2021",
+                "UF_RATE": "3.7"
+            },
+            {
+                "ID": "9",
+                "UF_NAME": "1.6.8",
+                "UF_DESCRIPTION": "Релиз от 28 января 2020 г.",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "28.01.2021",
+                "UF_RATE": "4"
+            },
+            {
+                "ID": "10",
+                "UF_NAME": "1.6.9",
+                "UF_DESCRIPTION": "Релиз от  07.02.2021",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "07.02.2021",
+                "UF_RATE": "5"
+            },
+            {
+                "ID": "13",
+                "UF_NAME": "1.6.11",
+                "UF_DESCRIPTION": "Релиз от 03.03.2021 г.",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "03.03.2021",
+                "UF_RATE": "2"
+            },
+            {
+                "ID": "15",
+                "UF_NAME": "1.6.12",
+                "UF_DESCRIPTION": "Релиз от 11.03.2021",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "11.03.2021",
+                "UF_RATE": "5"
+            },
+            {
+                "ID": "17",
+                "UF_NAME": "1.6.13",
+                "UF_DESCRIPTION": "Релиз от 31.03.2021",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "31.03.2021",
+                "UF_RATE": "5"
+            },
+            {
+                "ID": "20",
+                "UF_NAME": "Релиз 1.6.14 от 20.04.2021",
+                "UF_DESCRIPTION": "Релиз 1.6.14 от 20.04.2021",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "20.04.2021",
+                "UF_RATE": "5"
+            },
+            {
+                "ID": "25",
+                "UF_NAME": "Релиз 1.6.15 от 21.05.2021",
+                "UF_DESCRIPTION": "Релиз 1.6.15 от 21.05.2021",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "21.05.2021",
+                "UF_RATE": "5"
+            },
+            {
+                "ID": "28",
+                "UF_NAME": "Релиз 1.6.16 от 01.06.2021",
+                "UF_DESCRIPTION": "Релиз 1.6.16 от 01.06.2021",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "01.06.2021",
+                "UF_RATE": "4"
+            },
+            {
+                "ID": "29",
+                "UF_NAME": "Релиз 1.7.0 от 17.06.2021",
+                "UF_DESCRIPTION": "Релиз 1.7.0 от 17.06.2021",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "17.06.2021",
+                "UF_RATE": null
+            },
+            {
+                "ID": "30",
+                "UF_NAME": "Релиз 1.7.1 от 01.07.2021",
+                "UF_DESCRIPTION": "Релиз 1.7.1 от 01.07.2021",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "01.07.2021",
+                "UF_RATE": "3"
+            },
+            {
+                "ID": "32",
+                "UF_NAME": "Релиз 1.7.2 от 13.07.2021",
+                "UF_DESCRIPTION": "Релиз 1.7.2 от 13.07.2021",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "13.07.2021",
+                "UF_RATE": null
+            },
+            {
+                "ID": "33",
+                "UF_NAME": "Релиз 1.7.3 от 21.07.2021",
+                "UF_DESCRIPTION": "Релиз 1.7.3 от 21.07.2021",
+                "UF_ACTIVE": "1",
+                "UF_IMPORTANT": false,
+                "UF_DATE": "21.07.2021",
+                "UF_RATE": "5"
+            }
+        ]
+    }
+}

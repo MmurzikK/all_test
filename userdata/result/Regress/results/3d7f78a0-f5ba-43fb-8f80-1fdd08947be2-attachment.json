@@ -1,0 +1,18 @@
+{
+    "success": true,
+    "result": {
+        "ID": "1359",
+        "CODE": "0000495241",
+        "TYPE_NAME": "Город",
+        "LEFT_MARGIN": "3645",
+        "RIGHT_MARGIN": "3654",
+        "CITY_ID": "1359",
+        "REGION_ID": "37",
+        "COUNTRY_ID": "1",
+        "PARENT_ID": "37",
+        "PARENT_NAME": "Республика Дагестан",
+        "PARENT_TYPE": "REGION",
+        "NAME": "Махачкала",
+        "TYPE": "CITY"
+    }
+}

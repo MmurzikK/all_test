@@ -1,0 +1,71 @@
+{
+    "success": true,
+    "result": [
+        {
+            "TITLE": null,
+            "TYPE": "FILTERS_BLOCK",
+            "FILTERS_BLOCK": {
+                "FILTERS": null,
+                "SORT_TYPES": [
+                    {
+                        "ACTIVE": "Y",
+                        "URL": "/api/v2/snippets/catalog?sort=sort",
+                        "TYPE": "sort",
+                        "NAME": "Популярные",
+                        "SORT": {
+                            "TYPE": "sort",
+                            "BY": "sort"
+                        }
+                    },
+                    {
+                        "ACTIVE": "N",
+                        "URL": "/api/v2/snippets/catalog?sort=price",
+                        "TYPE": "price",
+                        "NAME": "Дешевые",
+                        "SORT": {
+                            "TYPE": "sort",
+                            "BY": "price"
+                        }
+                    },
+                    {
+                        "ACTIVE": "N",
+                        "URL": "/api/v2/snippets/catalog?sort=price_desc",
+                        "TYPE": "price_desc",
+                        "NAME": "Дорогие",
+                        "SORT": {
+                            "TYPE": "sort",
+                            "BY": "price_desc"
+                        }
+                    },
+                    {
+                        "ACTIVE": "N",
+                        "URL": "/api/v2/snippets/catalog?sort=new",
+                        "TYPE": "new",
+                        "NAME": "Новые",
+                        "SORT": {
+                            "TYPE": "sort",
+                            "BY": "new"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "TITLE": null,
+            "TYPE": "PRODUCTS_BLOCK",
+            "PRODUCTS_BLOCK": {
+                "SECTION": {
+                    "ID": 0,
+                    "NAME": null,
+                    "PATH": ""
+                },
+                "ITEMS": null,
+                "PAGINATION": {
+                    "PARAM": null,
+                    "ROWS": null
+                },
+                "COUNT": 0
+            }
+        }
+    ]
+}

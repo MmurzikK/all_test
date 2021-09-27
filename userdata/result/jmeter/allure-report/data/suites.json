@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "bin",
+    "children" : [ {
+      "name" : "start",
+      "children" : [ {
+        "name" : "TestJenkins",
+        "children" : [ {
+          "name" : "test_test",
+          "uid" : "100181f5f0724bff",
+          "parentUid" : "38392542cba9250e9da536f13af04bad",
+          "status" : "passed",
+          "time" : {
+            "start" : 1632397418220,
+            "stop" : 1632397426049,
+            "duration" : 7829
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "38392542cba9250e9da536f13af04bad"
+      } ],
+      "uid" : "f064f88f5b9cd342ea02387d0e58232e"
+    } ],
+    "uid" : "f379983d8aa268d9cda54a9af4ff177f"
+  } ],
+  "name" : "suites"
+}

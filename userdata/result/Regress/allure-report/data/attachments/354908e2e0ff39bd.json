@@ -1,0 +1,129 @@
+{
+    "success": true,
+    "result": [
+        {
+            "ID": "668001",
+            "NAME": "Бесплатная доставка Бытовой химии",
+            "ENTITY_ID": "668001",
+            "TYPE": "uri",
+            "SECTIONS": null,
+            "IMAGE": "https://img.dev.05.ru/resize/QVrdb5uWOKTGGC1QdMs4G11kfVZKr8ecixVPc97ymxI//rs:fit:1263:457:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9lODMvZTgzMWNjYmEwNjhlZTU1MzNhZjJhOTQxNzgzNTkzNmMuanBn",
+            "IMAGE_TYPE": "image/jpeg",
+            "MOBILE_IMAGE": null,
+            "CODE": "bytovaya_himiya_i_gigiena",
+            "LINK": {
+                "TYPE": "CATALOG",
+                "VALUE": "https://05.ru/catalog/bytovaya_himiya_i_gigiena/"
+            }
+        },
+        {
+            "ID": "687422",
+            "NAME": "Жаркие скидки!",
+            "ENTITY_ID": "687425",
+            "TYPE": "sales",
+            "SECTIONS": null,
+            "IMAGE": "https://img.dev.05.ru/resize/8DPPovnwNCgmh3OznERi3fNkP8cNo8shD_QfACDLKG4//rs:fit:1920:690:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9iZjAvYmYwOTEwZDFjNjI3N2M4Nzk0YTE5NTUxYTc3ZTE2ZDguanBn",
+            "IMAGE_TYPE": "image/jpeg",
+            "MOBILE_IMAGE": "https://img.dev.05.ru/resize/slCNxL8bjAkc0hqQvEDffFXEMNB0RNfMscrPUSE8bQ4//rs:fit:440:880:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay81ZDkvNWQ5MTc2ODE3MzEzZWQxY2ZiMDVlN2U5MmI2MTA4OTAuanBn",
+            "CODE": "zharkie_skidki",
+            "LINK": {
+                "TYPE": "BANNER",
+                "VALUE": "687422"
+            }
+        },
+        {
+            "ID": "725336",
+            "NAME": "Подготовься с новому сезону!",
+            "ENTITY_ID": "725338",
+            "TYPE": "sales",
+            "SECTIONS": null,
+            "IMAGE": "https://img.dev.05.ru/resize/itNjz8Zu7jDJ1bK28X_gKZDv1PUPQ10UeVMRa15fqj0//rs:fit:960:345:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay85OGQvOThkMTM4YjU0YmI5ZjBiMTgzNzg1MTgzNDIxMmFhMWQuanBn",
+            "IMAGE_TYPE": "image/jpeg",
+            "MOBILE_IMAGE": "https://img.dev.05.ru/resize/hSKzXoPgbn_miKQRce3JmlfnqdE6dXVXxXjTJ3o4pn0//rs:fit:220:440:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xYzgvMWM4MTQ5ZDc5OTI1MTViZDkyYWE5Zjg1NTQ0OTNiZTcuanBn",
+            "CODE": "podgotovsya_s_novomu_sezonu",
+            "LINK": {
+                "TYPE": "BANNER",
+                "VALUE": "725336"
+            }
+        },
+        {
+            "ID": "726654",
+            "NAME": "Играй как профи",
+            "ENTITY_ID": "726657",
+            "TYPE": "sales",
+            "SECTIONS": null,
+            "IMAGE": "https://img.dev.05.ru/resize/xzOx-NWv97PsDUjnAxIAgcva9p1hvjJiv7kaehzy-SY//rs:fit:960:345:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NTYvNDU2NjliMDA0NzVmYWUwY2VlMzQzMjQ3MGE3Mzg4OGMuanBn",
+            "IMAGE_TYPE": "image/jpeg",
+            "MOBILE_IMAGE": "https://img.dev.05.ru/resize/fN_pKJmYFxjui2-JVcPUMZYpXJtYJe89dCKPut145Yg//rs:fit:220:440:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80ZmUvNGZlYWZjOGMyODM2ZDU5NDllMzEzMmIxMGNmMjdjNGMuanBn",
+            "CODE": "igray_kak_profi",
+            "LINK": {
+                "TYPE": "BANNER",
+                "VALUE": "726654"
+            }
+        },
+        {
+            "ID": "726781",
+            "NAME": "Подарки и скидки от Gigabyte ",
+            "ENTITY_ID": "726784",
+            "TYPE": "sales",
+            "SECTIONS": null,
+            "IMAGE": "https://img.dev.05.ru/resize/sEe57HPPUNTAl_6BQ0EuAA0ohSFha1xGsKNBPGv99H4//rs:fit:960:345:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9lNTQvZTU0YTFlODdjMjk0NjM2YjEzYzY0NTliMWQwMjAyYWQuanBn",
+            "IMAGE_TYPE": "image/jpeg",
+            "MOBILE_IMAGE": "https://img.dev.05.ru/resize/W3a_Uul2qn15MRe2yM2G5idvTR75rTQrH5wmHy3mYp0//rs:fit:220:440:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8zOTUvMzk1MjhlODJjZTViOGYzMzM2YzM1YWQzNmJiY2FkYTAuZ2lm",
+            "CODE": "podarki_i_skidki_ot_gigabyte_",
+            "LINK": {
+                "TYPE": "BANNER",
+                "VALUE": "726781"
+            }
+        },
+        {
+            "ID": "728799",
+            "NAME": "Герои софта и железа",
+            "ENTITY_ID": "728802",
+            "TYPE": "sales",
+            "SECTIONS": [
+                "660"
+            ],
+            "IMAGE": "https://img.dev.05.ru/resize/BlSCYRm6DibH_njEGsqx9_SBNVS54TpvAeOVgMZaLjA//rs:fit:960:345:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay82ODkvNjg5NDYwM2JiNDU5MzIzN2IzZjk3YjZjZWIzZjhhNmUuanBn",
+            "IMAGE_TYPE": "image/jpeg",
+            "MOBILE_IMAGE": "https://img.dev.05.ru/resize/rQRGfEOB7QXUEWMuyQkFXvLPq2eTp4fW5ldmxC3_cdU//rs:fit:220:440:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay83NGIvNzRiMDcxZjBmOGJmZDE4ODVjNDAwNzdlNzI1NDNmODEuanBn",
+            "CODE": "geroi-softa-i-zheleza",
+            "LINK": {
+                "TYPE": "BANNER",
+                "VALUE": "728799"
+            }
+        },
+        {
+            "ID": "729325",
+            "NAME": "Используй промокод!",
+            "ENTITY_ID": "729336",
+            "TYPE": "sales",
+            "SECTIONS": null,
+            "IMAGE": "https://img.dev.05.ru/resize/kzbZJvpH1ivbgfsREOOIOm-u06xZs2CRh94A-XSk8J0//rs:fit:1920:690:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9iMDMvYjAzODI4M2FkNmZhMGM5ZGQxNjE5YTNhMTYzNDM5OTAuanBn",
+            "IMAGE_TYPE": "image/jpeg",
+            "MOBILE_IMAGE": "https://img.dev.05.ru/resize/R7jq-VIkBvIMGCftfr7ac48Pk8pRWV0actBor8mJqg4//rs:fit:440:880:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9iODcvYjg3NDAxZDAzMmU4ZTM2MzhlMDhhNjVhOTc3ZjRlM2QuanBn",
+            "CODE": "ispolzuy-promokod",
+            "LINK": {
+                "TYPE": "BANNER",
+                "VALUE": "729325"
+            }
+        },
+        {
+            "ID": "731640",
+            "NAME": "Снова в школу",
+            "ENTITY_ID": "731643",
+            "TYPE": "sales",
+            "SECTIONS": [
+                "660"
+            ],
+            "IMAGE": "https://img.dev.05.ru/resize/T9IcggES0kisvGz4B4jeqFyqrnSMl19uOfogGOSRKa4//rs:fit:960:345:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9hMzMvYTMzMzE3NDI0MmZjNzQwNjEzZjFlMTAzZjY5YTI0ZjIuanBn",
+            "IMAGE_TYPE": "image/jpeg",
+            "MOBILE_IMAGE": "https://img.dev.05.ru/resize/yvZDhnzRphSAdY-AELMt1mbKzWLKhvWqLBq8DuviMHY//rs:fit:220:440:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9iOGEvYjhhMTAyZTZhODBmZTAxNzNhMWZiM2U5ZGMzN2JlYTMuanBn",
+            "CODE": "snova_v_shkolu",
+            "LINK": {
+                "TYPE": "BANNER",
+                "VALUE": "731640"
+            }
+        }
+    ]
+}

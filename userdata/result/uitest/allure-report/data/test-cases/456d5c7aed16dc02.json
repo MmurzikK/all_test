@@ -1,0 +1,153 @@
+{
+  "uid" : "456d5c7aed16dc02",
+  "name" : " test profile Order list",
+  "fullName" : "test.TestRegister#test_profile_order_list",
+  "historyId" : "6fa085f4b83852de07d163714921b53d",
+  "time" : {
+    "start" : 1632398121858,
+    "stop" : 1632398147170,
+    "duration" : 25312
+  },
+  "description" : "Test test profile Order list",
+  "descriptionHtml" : "<p>Test test profile Order list</p>\n",
+  "status" : "broken",
+  "statusMessage" : "selenium.common.exceptions.TimeoutException: Message:",
+  "statusTrace" : "self = <test.TestRegister object at 0x7ff08842ecd0>\n\n    @allure.title(\" test profile Order list\")\n    @allure.description(\"Test test profile Order list\")\n    def test_profile_order_list(self):\n    \n        self.driver.get(self.base_url)\n        timeout = 30\n        self.close_modal_city()\n        element_present = EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.main-slider__slide-wrapper'))\n        WebDriverWait(self.driver, timeout).until(element_present)\n>       self.test_autorization(ifyouwantautorization =1)\n\ntest.py:680: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \ntest.py:199: in test_autorization\n    WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, \"div.user-panel__wrap\")))\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <selenium.webdriver.support.wait.WebDriverWait (session=\"f3de15ff-0545-4e41-9ab2-7ef4c9ca456f\")>\nmethod = <selenium.webdriver.support.expected_conditions.presence_of_element_located object at 0x7ff08a4aafd0>\nmessage = ''\n\n    def until(self, method, message=''):\n        \"\"\"Calls the method provided with the driver as an argument until the \\\n        return value is not False.\"\"\"\n        screen = None\n        stacktrace = None\n    \n        end_time = time.time() + self._timeout\n        while True:\n            try:\n                value = method(self._driver)\n                if value:\n                    return value\n            except self._ignored_exceptions as exc:\n                screen = getattr(exc, 'screen', None)\n                stacktrace = getattr(exc, 'stacktrace', None)\n            time.sleep(self._poll)\n            if time.time() > end_time:\n                break\n>       raise TimeoutException(message, screen, stacktrace)\nE       selenium.common.exceptions.TimeoutException: Message:\n\n/usr/local/lib/python3.8/site-packages/selenium/webdriver/support/wait.py:80: TimeoutException",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1632397549230,
+      "stop" : 1632397549249,
+      "duration" : 19
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "xunit_setup_method_fixture_TestRegister",
+    "time" : {
+      "start" : 1632398112547,
+      "stop" : 1632398121858,
+      "duration" : 9311
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister::0",
+    "time" : {
+      "start" : 1632398147261,
+      "stop" : 1632398147756,
+      "duration" : 495
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "9d2fc9ee43bb"
+  }, {
+    "name" : "thread",
+    "value" : "13-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "dedee7641fc00be4",
+        "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/dedee7641fc00be4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631886123695,
+          "stop" : 1631886142883,
+          "duration" : 19188
+        }
+      }, {
+        "uid" : "9cc2957df7e1b670",
+        "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/9cc2957df7e1b670",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631881510492,
+          "stop" : 1631881526867,
+          "duration" : 16375
+        }
+      }, {
+        "uid" : "78d444e4d98d278d",
+        "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/78d444e4d98d278d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631875641572,
+          "stop" : 1631875666141,
+          "duration" : 24569
+        }
+      }, {
+        "uid" : "9c5eaf07ce7f9700",
+        "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/9c5eaf07ce7f9700",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631873387593,
+          "stop" : 1631873410880,
+          "duration" : 23287
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "456d5c7aed16dc02.json",
+  "parameterValues" : [ ]
+}

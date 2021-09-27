@@ -1,0 +1,274 @@
+{
+    "success": true,
+    "result": {
+        "PAGINATION": {
+            "PARAM": "page",
+            "COUNT": 1,
+            "CURRENT": 1,
+            "ROWS": 2
+        },
+        "ITEMS": [
+            {
+                "ID": "122886",
+                "DATE_INSERT": "09.09.2021 09:14:54",
+                "ACCOUNT_NUMBER": "05-122886",
+                "PRICE": 1050,
+                "CURRENCY": "RUB",
+                "PAYED": false,
+                "PAY_SYSTEM_IS_CASH": true,
+                "PAY_SYSTEM_FILE": "cash",
+                "PAY_SYSTEM_NAME": "Наличными при получении",
+                "DISCOUNT_VALUE": 0,
+                "PAYMENT_ACCOUNT_NUMBER": "05-122886/1",
+                "STATUS_ID": {
+                    "ID": "N",
+                    "NAME": "Новый",
+                    "COLOR": "#E26C04"
+                },
+                "BUYER_STORE_ADDRESS": null,
+                "LOCATION_NAME": null,
+                "STATUS_COLOR": "#E26C04",
+                "STATUS_NAME": "Новый",
+                "STATUS_DESCRIPTION": "Заказ ожидает обработки",
+                "DELIVERY_NAME": "Курьерская доставка 05.ru",
+                "PRODUCT_ID": "618523",
+                "PRODUCT_NAME": "Емкость кухонная Living кремовая 15х12,5 см",
+                "PRODUCT_PRICE": "950.0000",
+                "PROPERTY_CODE": "PHONE",
+                "PROPERTY_VALUE": "79996666666",
+                "PRODUCT_AMOUNT": "1.0000",
+                "PRICE_DELIVERY": 100,
+                "EVALUATED_RATE": null,
+                "USER_DESCRIPTION": "",
+                "CANCELED": false,
+                "REASON_CANCELED": null,
+                "USER_ID": "179534",
+                "UALIAS_2": "1091825",
+                "UALIAS_3": null,
+                "UALIAS_4": null,
+                "UALIAS_5": null,
+                "UALIAS_6": null,
+                "UALIAS_7": "95802",
+                "UALIAS_8": "1",
+                "UALIAS_9": "N",
+                "UALIAS_10": "ru",
+                "UALIAS_11": "N",
+                "UALIAS_12": "210750",
+                "UALIAS_13": "2662642",
+                "PRINT_PRICE": "1 050₽",
+                "PRINT_DISCOUNT_VALUE": "0₽",
+                "PRINT_PRICE_DELIVERY": "100₽",
+                "PAY_SYSTEM_ID": "Наличными при получении",
+                "DELIVERY_ID": "Курьерская доставка 05.ru",
+                "PAY_SYSTEM_LINK": null,
+                "USER_NAME": "Нет",
+                "USER_PHONE": "79996666666",
+                "USER_EMAIL": "",
+                "USER_LOCATION": "Махачкала",
+                "USER_ADDRESS": "Нет",
+                "EVALUATED": false,
+                "BONUSES_SPENT": 0,
+                "BONUSES_RECEIVED": 0,
+                "PRODUCTS_PRICE": 950,
+                "PRODUCTS": [
+                    {
+                        "ID": "618523",
+                        "NAME": "Емкость кухонная Living кремовая 15х12,5 см",
+                        "DETAIL_PAGE_PATH": "/catalog/remont/posuda/hranenie_produktov/113582/",
+                        "IMAGE": "https://img.stage.05.ru/resize/XoEBkqC-91rfcJF2QDt1i7DmGDKLqkzj0RZOYzSQ398//rs:fit:900:900:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84OTYvODk2NjlmYWNhYzhkYzNjOTgzNDNjOTAyY2Q0YjkyNzMuanBlZw",
+                        "THUMBNAILS": {
+                            "1X": "https://img.stage.05.ru/resize/xksBtgbhG3qD-9hq12P_J03Oc_kwJhvq5qRhzuS-Ns8//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84OTYvODk2NjlmYWNhYzhkYzNjOTgzNDNjOTAyY2Q0YjkyNzMuanBlZw",
+                            "2X": "https://img.stage.05.ru/resize/_9JW6KZ9fvUPFb11lKvgooWRrMNeJsEdWiRContSVeI//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84OTYvODk2NjlmYWNhYzhkYzNjOTgzNDNjOTAyY2Q0YjkyNzMuanBlZw"
+                        },
+                        "PRICES": [
+                            {
+                                "CODE": "DEFAULT",
+                                "NAME": null,
+                                "CROSSED": false,
+                                "PRICE_TYPE_ID": 5,
+                                "BONUS": 0,
+                                "PRICE": 950,
+                                "PRINT_PRICE": "950₽",
+                                "CURRENCY": "RUB"
+                            }
+                        ],
+                        "PRICE": 950,
+                        "PRINT_PRICE": "950₽",
+                        "IN_BASKET": true,
+                        "IN_FAVORITES": false,
+                        "IN_COMPARE": false,
+                        "DEFAULT_OFFERS": null,
+                        "STATUS": {
+                            "DEFAULT": 5,
+                            "NAME": "В наличии",
+                            "DESCRIPTION_PART": null,
+                            "ICON": false,
+                            "TEXT": "В наличии",
+                            "COLOR": "#008080",
+                            "CODE": "IN_STOCK",
+                            "CLASS": "bem-pseudo_green",
+                            "FREE_DELIVERY": false
+                        },
+                        "ACTIONS": null,
+                        "SECTION": {
+                            "ID": "4582",
+                            "NAME": "Хранение продуктов",
+                            "CODE": "hranenie_produktov",
+                            "PARENT_NAME": "Посуда",
+                            "CREDIT_BUY_UNAVAILABILITY": null,
+                            "SECTION_PAGE_PATH": "/catalog/remont/posuda/hranenie_produktov/",
+                            "IMAGE": "https://img.stage.05.ru/resize/v43PS6q3c82SR1pyFkxDagnFThf2ykzGJZ8d3yDQ6nY//rs:fit:700:700:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMTcvMTE3ZjUwNzJjYmRhNGNiYTkwZGJiNzI0YzMyYjdkOWUuanBlZw",
+                            "THUMBNAILS": {
+                                "1X": "https://img.stage.05.ru/resize/MXzb9GzOY6nZvZNnTLVGKlODuz8bdNa3v-DKczI4zPc//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMTcvMTE3ZjUwNzJjYmRhNGNiYTkwZGJiNzI0YzMyYjdkOWUuanBlZw",
+                                "2X": "https://img.stage.05.ru/resize/kYrt2IiQCFxtzwGS2AMXIllYYGlMrtsDY9KGs8uwMQU//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMTcvMTE3ZjUwNzJjYmRhNGNiYTkwZGJiNzI0YzMyYjdkOWUuanBlZw"
+                            }
+                        },
+                        "FREE_DELIVERY": false,
+                        "QUANTITY": 1,
+                        "AMOUNT": 1
+                    }
+                ]
+            },
+            {
+                "ID": "122885",
+                "DATE_INSERT": "09.09.2021 09:14:52",
+                "ACCOUNT_NUMBER": "05-122885",
+                "PRICE": 1900,
+                "CURRENCY": "RUB",
+                "PAYED": false,
+                "PAY_SYSTEM_IS_CASH": true,
+                "PAY_SYSTEM_FILE": "cash",
+                "PAY_SYSTEM_NAME": "Наличными при получении",
+                "DISCOUNT_VALUE": 0,
+                "PAYMENT_ACCOUNT_NUMBER": "05-122885/1",
+                "STATUS_ID": {
+                    "ID": "N",
+                    "NAME": "Новый",
+                    "COLOR": "#E26C04"
+                },
+                "BUYER_STORE_ADDRESS": null,
+                "LOCATION_NAME": null,
+                "STATUS_COLOR": "#E26C04",
+                "STATUS_NAME": "Новый",
+                "STATUS_DESCRIPTION": "Заказ ожидает обработки",
+                "DELIVERY_NAME": "Курьерская доставка 05.ru",
+                "PRODUCT_ID": "618523",
+                "PRODUCT_NAME": "Емкость кухонная Living кремовая 15х12,5 см",
+                "PRODUCT_PRICE": "950.0000",
+                "PROPERTY_CODE": "user1c",
+                "PROPERTY_VALUE": "",
+                "PRODUCT_AMOUNT": "2.0000",
+                "PRICE_DELIVERY": 0,
+                "EVALUATED_RATE": null,
+                "USER_DESCRIPTION": "",
+                "CANCELED": false,
+                "REASON_CANCELED": null,
+                "USER_ID": "179534",
+                "UALIAS_2": "1091793",
+                "UALIAS_3": null,
+                "UALIAS_4": null,
+                "UALIAS_5": null,
+                "UALIAS_6": null,
+                "UALIAS_7": "95801",
+                "UALIAS_8": "1",
+                "UALIAS_9": "N",
+                "UALIAS_10": "ru",
+                "UALIAS_11": "N",
+                "UALIAS_12": "210748",
+                "UALIAS_13": "2662640",
+                "PRINT_PRICE": "1 900₽",
+                "PRINT_DISCOUNT_VALUE": "0₽",
+                "PRINT_PRICE_DELIVERY": "0₽",
+                "PAY_SYSTEM_ID": "Наличными при получении",
+                "DELIVERY_ID": "Курьерская доставка 05.ru",
+                "PAY_SYSTEM_LINK": null,
+                "USER_NAME": "Test",
+                "USER_PHONE": "79996666666",
+                "USER_EMAIL": "test1101111@yandex.ru",
+                "USER_LOCATION": "Махачкала",
+                "USER_ADDRESS": "Test",
+                "EVALUATED": false,
+                "BONUSES_SPENT": 0,
+                "BONUSES_RECEIVED": 0,
+                "PRODUCTS_PRICE": 1900,
+                "PRODUCTS": [
+                    {
+                        "ID": "618523",
+                        "NAME": "Емкость кухонная Living кремовая 15х12,5 см",
+                        "DETAIL_PAGE_PATH": "/catalog/remont/posuda/hranenie_produktov/113582/",
+                        "IMAGE": "https://img.stage.05.ru/resize/XoEBkqC-91rfcJF2QDt1i7DmGDKLqkzj0RZOYzSQ398//rs:fit:900:900:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84OTYvODk2NjlmYWNhYzhkYzNjOTgzNDNjOTAyY2Q0YjkyNzMuanBlZw",
+                        "THUMBNAILS": {
+                            "1X": "https://img.stage.05.ru/resize/xksBtgbhG3qD-9hq12P_J03Oc_kwJhvq5qRhzuS-Ns8//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84OTYvODk2NjlmYWNhYzhkYzNjOTgzNDNjOTAyY2Q0YjkyNzMuanBlZw",
+                            "2X": "https://img.stage.05.ru/resize/_9JW6KZ9fvUPFb11lKvgooWRrMNeJsEdWiRContSVeI//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84OTYvODk2NjlmYWNhYzhkYzNjOTgzNDNjOTAyY2Q0YjkyNzMuanBlZw"
+                        },
+                        "PRICES": [
+                            {
+                                "CODE": "DEFAULT",
+                                "NAME": null,
+                                "CROSSED": false,
+                                "PRICE_TYPE_ID": 5,
+                                "BONUS": 0,
+                                "PRICE": 950,
+                                "PRINT_PRICE": "950₽",
+                                "CURRENCY": "RUB"
+                            }
+                        ],
+                        "PRICE": 950,
+                        "PRINT_PRICE": "950₽",
+                        "IN_BASKET": true,
+                        "IN_FAVORITES": false,
+                        "IN_COMPARE": false,
+                        "DEFAULT_OFFERS": null,
+                        "STATUS": {
+                            "DEFAULT": 5,
+                            "NAME": "В наличии",
+                            "DESCRIPTION_PART": null,
+                            "ICON": false,
+                            "TEXT": "В наличии",
+                            "COLOR": "#008080",
+                            "CODE": "IN_STOCK",
+                            "CLASS": "bem-pseudo_green",
+                            "FREE_DELIVERY": false
+                        },
+                        "ACTIONS": null,
+                        "SECTION": {
+                            "ID": "4582",
+                            "NAME": "Хранение продуктов",
+                            "CODE": "hranenie_produktov",
+                            "PARENT_NAME": "Посуда",
+                            "CREDIT_BUY_UNAVAILABILITY": null,
+                            "SECTION_PAGE_PATH": "/catalog/remont/posuda/hranenie_produktov/",
+                            "IMAGE": "https://img.stage.05.ru/resize/v43PS6q3c82SR1pyFkxDagnFThf2ykzGJZ8d3yDQ6nY//rs:fit:700:700:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMTcvMTE3ZjUwNzJjYmRhNGNiYTkwZGJiNzI0YzMyYjdkOWUuanBlZw",
+                            "THUMBNAILS": {
+                                "1X": "https://img.stage.05.ru/resize/MXzb9GzOY6nZvZNnTLVGKlODuz8bdNa3v-DKczI4zPc//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMTcvMTE3ZjUwNzJjYmRhNGNiYTkwZGJiNzI0YzMyYjdkOWUuanBlZw",
+                                "2X": "https://img.stage.05.ru/resize/kYrt2IiQCFxtzwGS2AMXIllYYGlMrtsDY9KGs8uwMQU//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMTcvMTE3ZjUwNzJjYmRhNGNiYTkwZGJiNzI0YzMyYjdkOWUuanBlZw"
+                            }
+                        },
+                        "FREE_DELIVERY": false,
+                        "QUANTITY": 2,
+                        "AMOUNT": 2
+                    }
+                ],
+                "PRODUCTS_PRINT_PRICE": "1 900₽"
+            }
+        ],
+        "FILTERS": [
+            {
+                "ID": "5f241c8c8f985b3c51e05d39cf030f4c",
+                "NAME": "Статус заказа",
+                "CODE": "d41d8cd98f00b204e9800998ecf8427e",
+                "SELECTED": false,
+                "EXPANDED": false,
+                "DISPLAY_TYPE": "F",
+                "VALUES": [
+                    {
+                        "VALUE": "Новый",
+                        "HTML_VALUE": "N",
+                        "SELECTED": false,
+                        "NAME": "STATUS_ID"
+                    }
+                ]
+            }
+        ]
+    }
+}

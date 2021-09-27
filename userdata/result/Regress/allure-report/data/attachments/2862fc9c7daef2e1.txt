@@ -1,0 +1,1 @@
+https://stage.05.ru/api/v2/bonus?name=Test&last_name=Test&second_name=Test

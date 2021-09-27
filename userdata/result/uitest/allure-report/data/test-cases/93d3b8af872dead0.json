@@ -1,0 +1,150 @@
+{
+  "uid" : "93d3b8af872dead0",
+  "name" : " test logo",
+  "fullName" : "test.TestRegister#test_base_home",
+  "historyId" : "a4c7795d384ddfeb107ef52e720f6db0",
+  "time" : {
+    "start" : 1632398207004,
+    "stop" : 1632398220361,
+    "duration" : 13357
+  },
+  "description" : "Test test logo",
+  "descriptionHtml" : "<p>Test test logo</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister",
+    "time" : {
+      "start" : 1632398197284,
+      "stop" : 1632398207004,
+      "duration" : 9720
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1632397549230,
+      "stop" : 1632397549249,
+      "duration" : 19
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister::0",
+    "time" : {
+      "start" : 1632398220362,
+      "stop" : 1632398220811,
+      "duration" : 449
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "9d2fc9ee43bb"
+  }, {
+    "name" : "thread",
+    "value" : "13-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 3,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "8582359833d8c061",
+        "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/8582359833d8c061",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631886178236,
+          "stop" : 1631886184415,
+          "duration" : 6179
+        }
+      }, {
+        "uid" : "b851e83277a5b9bd",
+        "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/b851e83277a5b9bd",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+        "time" : {
+          "start" : 1631881561963,
+          "stop" : 1631881596789,
+          "duration" : 34826
+        }
+      }, {
+        "uid" : "9acc64673a053d20",
+        "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/9acc64673a053d20",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+        "time" : {
+          "start" : 1631875703199,
+          "stop" : 1631875739620,
+          "duration" : 36421
+        }
+      }, {
+        "uid" : "6d06586d0de5610f",
+        "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/6d06586d0de5610f",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+        "time" : {
+          "start" : 1631873473141,
+          "stop" : 1631873507750,
+          "duration" : 34609
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "93d3b8af872dead0.json",
+  "parameterValues" : [ ]
+}

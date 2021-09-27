@@ -1,0 +1,1176 @@
+{
+    "success": true,
+    "result": {
+        "ID": "255320",
+        "CODE": "acer",
+        "DETAIL_PAGE_PATH": "/brands/acer",
+        "DETAIL_PAGE_URL": "https://stage.05.ru/brands/acer",
+        "NAME": "Acer",
+        "IMAGE": "https://img.dev.05.ru/resize/ND_TKPcJ4Kb8LfuFVhQdFFh-NLPMiAiedaAX2FxxtxE//rs:fit:3000:903:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzRiYS80YmEyMTIwZGJjYjU4ZGE5MGRhZWQxZDg2YjMzNGY1ZC5qcGc",
+        "UF_XML_ID": "aceb0f30-8f58-11e5-8110-003048d70791",
+        "DESCRIPTION": "асер ацер эйсер",
+        "FULL_DESCRIPTION": "",
+        "SECTIONS": [
+            {
+                "ID": "660",
+                "NAME": "Компьютерная техника",
+                "CODE": "computers",
+                "UPDATED": "2021-08-16",
+                "LEFT_MARGIN": "117",
+                "RIGHT_MARGIN": "234",
+                "UF_CAT_LIST": null,
+                "PARENT_ID": null,
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/catalog/computers/",
+                "IMAGE": "https://img.dev.05.ru/resize/WDkMc64rNXVH0WvdSWxYpmziiHTAp1JbdmNlFS_oqBo//rs:fit:1499:905:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMDcvMTA3Njk3MGE2NTkzOWExODdiMDFhZDBkOGFkYTFiNTUuanBn",
+                "ICON": "https://img.dev.05.ru/resize/4czX6h-BRnRx29ViSTU6FcgOxU2AfcvMlzdeu68mX9c//rs:fit:180:180:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2Q0MC9kNDBiZmFlOGFjNDYyOTUyODk2ZWMzNzgxMDMxMDBkYi5wbmc",
+                "THUMBNAILS": {
+                    "1X": "https://img.dev.05.ru/resize/ZbqgbZiQW6UjhDm3nUMCtbNLOQMqAbAx521cZU8f8IM//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMDcvMTA3Njk3MGE2NTkzOWExODdiMDFhZDBkOGFkYTFiNTUuanBn",
+                    "2X": "https://img.dev.05.ru/resize/COlsHuTxkPRlL_36_HnO5VSmBqKydONrgzKLRLsbdmI//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMDcvMTA3Njk3MGE2NTkzOWExODdiMDFhZDBkOGFkYTFiNTUuanBn"
+                },
+                "LINK": {
+                    "TYPE": "URI_CATALOG_PARAMETER",
+                    "VALUE": "prop_3492=Acer"
+                },
+                "CHILDREN": [
+                    {
+                        "ID": "661",
+                        "NAME": "Ноутбуки",
+                        "CODE": "notebook",
+                        "UPDATED": "2021-08-16",
+                        "LEFT_MARGIN": "150",
+                        "RIGHT_MARGIN": "151",
+                        "UF_CAT_LIST": "3647",
+                        "PARENT_ID": "660",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "SECTION_PAGE_PATH": "/catalog/computers/notebook/acer/",
+                        "IMAGE": "https://img.dev.05.ru/resize/43Ge5Hswp3VOj8kedt6wssCQa53xGn7U0OUBiu9Znts//rs:fit:1142:720:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn",
+                        "ICON": null,
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/1aGJgUqIaRGUDiOMD4YB05cp0Y2e_OgzNi_pqydq15M//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn",
+                            "2X": "https://img.dev.05.ru/resize/YbBO0AVDV3g0o2koI8gZxkb6gJ9JVj5jYmBChE3WM0w//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn"
+                        },
+                        "LINK": {
+                            "TYPE": "URI_CATALOG_PARAMETER",
+                            "VALUE": "prop_3492=Acer"
+                        }
+                    },
+                    {
+                        "ID": "662",
+                        "NAME": "Моноблоки",
+                        "CODE": "monoblok",
+                        "UPDATED": "2021-08-16",
+                        "LEFT_MARGIN": "196",
+                        "RIGHT_MARGIN": "197",
+                        "UF_CAT_LIST": "3717",
+                        "PARENT_ID": "660",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "SECTION_PAGE_PATH": "/catalog/computers/monoblok/acer/",
+                        "IMAGE": "https://img.dev.05.ru/resize/UyuZQHPuKQzr9Q5nVIgBjBHlfZXTtBxLVZ1yUXLyk_Q//rs:fit:1853:1880:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ZTAvOGUwYzM4MTEwMmE3MzQ5ZDdmOGE5YzlmZDVlMTVmNjUuanBn",
+                        "ICON": null,
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/g-_AckHmuHREKoXg8uBTMNAJ3kePtxR9n8uYS-_8ohw//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ZTAvOGUwYzM4MTEwMmE3MzQ5ZDdmOGE5YzlmZDVlMTVmNjUuanBn",
+                            "2X": "https://img.dev.05.ru/resize/ZQ-MfLIpBA6Y2zOHbzccny-5P4rjlDF5ku1FNpdCnk8//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ZTAvOGUwYzM4MTEwMmE3MzQ5ZDdmOGE5YzlmZDVlMTVmNjUuanBn"
+                        },
+                        "LINK": {
+                            "TYPE": "URI_CATALOG_PARAMETER",
+                            "VALUE": "prop_3492=Acer"
+                        }
+                    },
+                    {
+                        "ID": "685",
+                        "NAME": "Мониторы",
+                        "CODE": "monitor",
+                        "UPDATED": "2021-08-16",
+                        "LEFT_MARGIN": "198",
+                        "RIGHT_MARGIN": "199",
+                        "UF_CAT_LIST": "4243",
+                        "PARENT_ID": "660",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "SECTION_PAGE_PATH": "/catalog/computers/monitor/acer/",
+                        "IMAGE": "https://img.dev.05.ru/resize/fRSYLqAY60vBGlnOLGQj5_xguLQKO_o04tuxpWEeuCk//rs:fit:696:701:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                        "ICON": null,
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/4E0yd6X2ujbf3_RZBQgbRlSQ4mTzbQ0k_pyiFqLocCM//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                            "2X": "https://img.dev.05.ru/resize/hm3Kg6F6X9C4FApPJSWk6Nk4hBalPb4CW4G3mRNO1dE//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn"
+                        },
+                        "LINK": {
+                            "TYPE": "URI_CATALOG_PARAMETER",
+                            "VALUE": "prop_3492=Acer"
+                        }
+                    }
+                ]
+            }
+        ],
+        "ACTIONS": null,
+        "PRODUCTS": {
+            "PAGINATION": {
+                "PARAM": "page",
+                "COUNT": 2,
+                "CURRENT": 1,
+                "ROWS": 27
+            },
+            "ITEMS": [
+                {
+                    "ID": "645261",
+                    "NAME": "Монитор Acer Gaming 27HC5RPbiipx 27\" черный",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/monitor/131756/",
+                    "IMAGE": "https://img.dev.05.ru/resize/SeTKDsgkEh3MgEAdxvTKX4BhtsnfA0ynU8CBjoMtalg//rs:fit:598:454:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTMxNzU2LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/2Cczdc6snrXrmLWKDTC5p__fUx0Etl50eTeQZ3KeVwg//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTMxNzU2LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/_m2mKnfxlfaMbh6drKS2fBzrV6f03pGxV2zes86mpWE//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTMxNzU2LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 227,
+                            "PRICE": 18990,
+                            "PRINT_PRICE": "18 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 18990,
+                    "PRINT_PRICE": "18 990₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "NAME": "26 сентября",
+                        "DESCRIPTION": "Доставим",
+                        "DESCRIPTION_PART": "Доставим",
+                        "ICON": true,
+                        "TEXT": "Доставим 26 сентября",
+                        "COLOR": "#8616B8",
+                        "CODE": "UNDER_ORDER",
+                        "CLASS": "bem-icon-link_orange",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "685",
+                        "NAME": "Мониторы",
+                        "CODE": "monitor",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/monitor/",
+                        "IMAGE": "https://img.dev.05.ru/resize/fRSYLqAY60vBGlnOLGQj5_xguLQKO_o04tuxpWEeuCk//rs:fit:696:701:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/4E0yd6X2ujbf3_RZBQgbRlSQ4mTzbQ0k_pyiFqLocCM//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                            "2X": "https://img.dev.05.ru/resize/hm3Kg6F6X9C4FApPJSWk6Nk4hBalPb4CW4G3mRNO1dE//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "627399",
+                    "NAME": "Монитор Acer V226HQLbbd [UM.WV6EE.B01] 21,5\" черный",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/monitor/123455/",
+                    "IMAGE": "https://img.dev.05.ru/resize/TMXFVC9cHRo4eX13pC7mg7JdjsRe8K6jYHkTNlWkZd4//rs:fit:682:540:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTIzNDU1LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/KI_0TH4DE_ObD5ac3o7gQCx10alFQ8SwcdDL6ZLCR54//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTIzNDU1LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/eGV9Hl7Dr7SFqQeaieh0Kr_N28bLPKGB9Z1JTKJe_-Q//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTIzNDU1LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 104,
+                            "PRICE": 8690,
+                            "PRINT_PRICE": "8 690₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 8690,
+                    "PRINT_PRICE": "8 690₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "DEFAULT": 5,
+                        "NAME": "мало",
+                        "DESCRIPTION_PART": "Осталось",
+                        "ICON": false,
+                        "TEXT": "Осталось мало",
+                        "COLOR": "#E23512",
+                        "CODE": "FEW",
+                        "CLASS": "bem-pseudo_red",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "685",
+                        "NAME": "Мониторы",
+                        "CODE": "monitor",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/monitor/",
+                        "IMAGE": "https://img.dev.05.ru/resize/fRSYLqAY60vBGlnOLGQj5_xguLQKO_o04tuxpWEeuCk//rs:fit:696:701:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/4E0yd6X2ujbf3_RZBQgbRlSQ4mTzbQ0k_pyiFqLocCM//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                            "2X": "https://img.dev.05.ru/resize/hm3Kg6F6X9C4FApPJSWk6Nk4hBalPb4CW4G3mRNO1dE//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "606944",
+                    "NAME": "Монитор Acer SA240YAbi UM.QS0EE.A01 23,8\" черный",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/monitor/102904/",
+                    "IMAGE": null,
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 149,
+                            "PRICE": 12490,
+                            "PRINT_PRICE": "12 490₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 12490,
+                    "PRINT_PRICE": "12 490₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "DEFAULT": 5,
+                        "NAME": "мало",
+                        "DESCRIPTION_PART": "Осталось",
+                        "ICON": false,
+                        "TEXT": "Осталось мало",
+                        "COLOR": "#E23512",
+                        "CODE": "FEW",
+                        "CLASS": "bem-pseudo_red",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "685",
+                        "NAME": "Мониторы",
+                        "CODE": "monitor",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/monitor/",
+                        "IMAGE": "https://img.dev.05.ru/resize/fRSYLqAY60vBGlnOLGQj5_xguLQKO_o04tuxpWEeuCk//rs:fit:696:701:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/4E0yd6X2ujbf3_RZBQgbRlSQ4mTzbQ0k_pyiFqLocCM//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                            "2X": "https://img.dev.05.ru/resize/hm3Kg6F6X9C4FApPJSWk6Nk4hBalPb4CW4G3mRNO1dE//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "650022",
+                    "NAME": "Ноутбук Acer Extensa NX.EG9ER.00D (EX215-22-R1SJ) черный",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/notebook/135041/",
+                    "IMAGE": "https://img.dev.05.ru/resize/oI1PA1YoENt5u_T3XvVmlwSHl-0l8G8kFrkIEPd2lmM//rs:fit:1200:860:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1MDQxLzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/IgkJo20MxTeAUvOSMpcJBeaS-9iyp2fAUUHkJ1M3_Es//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1MDQxLzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/nKu1y4D6sqcNVE1gKpeDJ8bayr9Q0Y8LlBT_teVKVpc//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1MDQxLzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 385,
+                            "PRICE": 42190,
+                            "PRINT_PRICE": "42 190₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 42190,
+                    "PRINT_PRICE": "42 190₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "DEFAULT": 5,
+                        "NAME": "мало",
+                        "DESCRIPTION_PART": "Осталось",
+                        "ICON": false,
+                        "TEXT": "Осталось мало",
+                        "COLOR": "#E23512",
+                        "CODE": "FEW",
+                        "CLASS": "bem-pseudo_red",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "661",
+                        "NAME": "Ноутбуки",
+                        "CODE": "notebook",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/notebook/",
+                        "IMAGE": "https://img.dev.05.ru/resize/43Ge5Hswp3VOj8kedt6wssCQa53xGn7U0OUBiu9Znts//rs:fit:1142:720:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/1aGJgUqIaRGUDiOMD4YB05cp0Y2e_OgzNi_pqydq15M//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn",
+                            "2X": "https://img.dev.05.ru/resize/YbBO0AVDV3g0o2koI8gZxkb6gJ9JVj5jYmBChE3WM0w//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "659849",
+                    "NAME": "Моноблок 27\" Acer Aspire C27-962 (dq.bdper.00m)",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/monoblok/139855/",
+                    "IMAGE": "https://img.dev.05.ru/resize/WHBAYfRQJAb6prmrMqPy2AUU-QFCkvO4ytQXayxSl5Q//rs:fit:2000:1523:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM5ODU1LzMuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/OZ4prM3429Z-gXUYmINp7ADuys_EPjMDiGIHkCckMzo//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM5ODU1LzMuanBn",
+                        "2X": "https://img.dev.05.ru/resize/y5BDn3MdT3x8PnrIGba5s5b1aUdbLzMZvM24EC9r_rM//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM5ODU1LzMuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 941,
+                            "PRICE": 78490,
+                            "PRINT_PRICE": "78 490₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 78490,
+                    "PRINT_PRICE": "78 490₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "DEFAULT": 5,
+                        "NAME": "мало",
+                        "DESCRIPTION_PART": "Осталось",
+                        "ICON": false,
+                        "TEXT": "Осталось мало",
+                        "COLOR": "#E23512",
+                        "CODE": "FEW",
+                        "CLASS": "bem-pseudo_red",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "662",
+                        "NAME": "Моноблоки",
+                        "CODE": "monoblok",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/monoblok/",
+                        "IMAGE": "https://img.dev.05.ru/resize/UyuZQHPuKQzr9Q5nVIgBjBHlfZXTtBxLVZ1yUXLyk_Q//rs:fit:1853:1880:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ZTAvOGUwYzM4MTEwMmE3MzQ5ZDdmOGE5YzlmZDVlMTVmNjUuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/g-_AckHmuHREKoXg8uBTMNAJ3kePtxR9n8uYS-_8ohw//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ZTAvOGUwYzM4MTEwMmE3MzQ5ZDdmOGE5YzlmZDVlMTVmNjUuanBn",
+                            "2X": "https://img.dev.05.ru/resize/ZQ-MfLIpBA6Y2zOHbzccny-5P4rjlDF5ku1FNpdCnk8//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ZTAvOGUwYzM4MTEwMmE3MzQ5ZDdmOGE5YzlmZDVlMTVmNjUuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "593633",
+                    "NAME": "Монитор Acer VG270UPbmiipx 27\" черный",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/monitor/88342/",
+                    "IMAGE": "https://img.dev.05.ru/resize/ym1dJEpQx69IlMRqmAJ3TkHgodDQg-u_ug7zZsZPviU//rs:fit:1000:762:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDg4MzQyLzQuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/JCSCZyNqcZTt6_UHUcvMCEyYUXIlV2GMm-CdHBk1OFU//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDg4MzQyLzQuanBn",
+                        "2X": "https://img.dev.05.ru/resize/WjMRcymTN2iCdIKK7blW3OijOVqM-eBjOlreF8ULMxg//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDg4MzQyLzQuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 2000,
+                            "PRICE": 27990,
+                            "PRINT_PRICE": "27 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 27990,
+                    "PRINT_PRICE": "27 990₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "DEFAULT": 5,
+                        "NAME": "мало",
+                        "DESCRIPTION_PART": "Осталось",
+                        "ICON": false,
+                        "TEXT": "Осталось мало",
+                        "COLOR": "#E23512",
+                        "CODE": "FEW",
+                        "CLASS": "bem-pseudo_red",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "685",
+                        "NAME": "Мониторы",
+                        "CODE": "monitor",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/monitor/",
+                        "IMAGE": "https://img.dev.05.ru/resize/fRSYLqAY60vBGlnOLGQj5_xguLQKO_o04tuxpWEeuCk//rs:fit:696:701:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/4E0yd6X2ujbf3_RZBQgbRlSQ4mTzbQ0k_pyiFqLocCM//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                            "2X": "https://img.dev.05.ru/resize/hm3Kg6F6X9C4FApPJSWk6Nk4hBalPb4CW4G3mRNO1dE//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "640303",
+                    "NAME": "Монитор Acer Gaming [ED272Abix] 27\" черный",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/monitor/129656/",
+                    "IMAGE": "https://img.dev.05.ru/resize/4cDpG1KqPXBywiM6t4n65ONVekEDWim282nta0LQxqQ//rs:fit:1000:738:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTI5NjU2LzIuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/545f6pAb_gfnTUEQ8W6T_xYgFHfAE7rSGYWIDu4gwoA//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTI5NjU2LzIuanBn",
+                        "2X": "https://img.dev.05.ru/resize/nNtafcOa33_i2DIGhQYrZhoTlw-boVgT1K9prOloHXQ//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTI5NjU2LzIuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 182,
+                            "PRICE": 15190,
+                            "PRINT_PRICE": "15 190₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 15190,
+                    "PRINT_PRICE": "15 190₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "DEFAULT": 5,
+                        "NAME": "мало",
+                        "DESCRIPTION_PART": "Осталось",
+                        "ICON": false,
+                        "TEXT": "Осталось мало",
+                        "COLOR": "#E23512",
+                        "CODE": "FEW",
+                        "CLASS": "bem-pseudo_red",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "685",
+                        "NAME": "Мониторы",
+                        "CODE": "monitor",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/monitor/",
+                        "IMAGE": "https://img.dev.05.ru/resize/fRSYLqAY60vBGlnOLGQj5_xguLQKO_o04tuxpWEeuCk//rs:fit:696:701:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/4E0yd6X2ujbf3_RZBQgbRlSQ4mTzbQ0k_pyiFqLocCM//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                            "2X": "https://img.dev.05.ru/resize/hm3Kg6F6X9C4FApPJSWk6Nk4hBalPb4CW4G3mRNO1dE//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "602455",
+                    "NAME": "Монитор Acer SA270Abi [UM.HS0EE.A01] 27\" черный",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/monitor/99353/",
+                    "IMAGE": "https://img.dev.05.ru/resize/gXjzTRK_KKdqdMJ6bg2L_N6avHcBHY-ny2DnBrjHqKU//rs:fit:701:533:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDk5MzUzLzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/VBCe1tLf0gAUfO8-i9MveEXCZXFIjRWSMzWZt1pg0hs//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDk5MzUzLzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/hcNExcr6zLtcdNwJobVoizkizKl2SugAvn2BGdavJoA//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMDk5MzUzLzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 196,
+                            "PRICE": 16390,
+                            "PRINT_PRICE": "16 390₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 16390,
+                    "PRINT_PRICE": "16 390₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "DEFAULT": 5,
+                        "NAME": "мало",
+                        "DESCRIPTION_PART": "Осталось",
+                        "ICON": false,
+                        "TEXT": "Осталось мало",
+                        "COLOR": "#E23512",
+                        "CODE": "FEW",
+                        "CLASS": "bem-pseudo_red",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "685",
+                        "NAME": "Мониторы",
+                        "CODE": "monitor",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/monitor/",
+                        "IMAGE": "https://img.dev.05.ru/resize/fRSYLqAY60vBGlnOLGQj5_xguLQKO_o04tuxpWEeuCk//rs:fit:696:701:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/4E0yd6X2ujbf3_RZBQgbRlSQ4mTzbQ0k_pyiFqLocCM//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                            "2X": "https://img.dev.05.ru/resize/hm3Kg6F6X9C4FApPJSWk6Nk4hBalPb4CW4G3mRNO1dE//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "650020",
+                    "NAME": "Ноутбук Acer Extensa NX.EG9ER.00Z (EX215-22-R19H) черный",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/notebook/135038/",
+                    "IMAGE": "https://img.dev.05.ru/resize/QoYHkMmIVzX46HIUa0sIWZbIAwoTK9ArRz2JfXTT1RI//rs:fit:1200:860:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1MDM4LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/MM7BPwyA5LVpvn7SE2JTOEobEra8kogT_M2Rhie6gYE//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1MDM4LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/qSKjfGVoJy4dNzwcPIeK4eqJIhccYfCFEhflnZ3VwGE//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1MDM4LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 275,
+                            "PRICE": 42990,
+                            "PRINT_PRICE": "42 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 42990,
+                    "PRINT_PRICE": "42 990₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "DEFAULT": 5,
+                        "NAME": "мало",
+                        "DESCRIPTION_PART": "Осталось",
+                        "ICON": false,
+                        "TEXT": "Осталось мало",
+                        "COLOR": "#E23512",
+                        "CODE": "FEW",
+                        "CLASS": "bem-pseudo_red",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "661",
+                        "NAME": "Ноутбуки",
+                        "CODE": "notebook",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/notebook/",
+                        "IMAGE": "https://img.dev.05.ru/resize/43Ge5Hswp3VOj8kedt6wssCQa53xGn7U0OUBiu9Znts//rs:fit:1142:720:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/1aGJgUqIaRGUDiOMD4YB05cp0Y2e_OgzNi_pqydq15M//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn",
+                            "2X": "https://img.dev.05.ru/resize/YbBO0AVDV3g0o2koI8gZxkb6gJ9JVj5jYmBChE3WM0w//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "651356",
+                    "NAME": "Монитор Acer [UM.WV6EE.B08] V226HQLBb 21,5\" черный",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/monitor/136045/",
+                    "IMAGE": "https://img.dev.05.ru/resize/_HJZWDgcefIjZ-4OIPuNouT-Mej0OUW5j1snhBPDtsQ//rs:fit:701:555:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM2MDQ1LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/dNevQ5NRWFjDghk2o4UEhru8ustrk0VbdnJ10xHgUwo//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM2MDQ1LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/-CXHJ7sXAYS99WZH-wBDnImnXj_PJ70uAb3syT2LG6s//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM2MDQ1LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 101,
+                            "PRICE": 8490,
+                            "PRINT_PRICE": "8 490₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 8490,
+                    "PRINT_PRICE": "8 490₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "DEFAULT": 5,
+                        "NAME": "мало",
+                        "DESCRIPTION_PART": "Осталось",
+                        "ICON": false,
+                        "TEXT": "Осталось мало",
+                        "COLOR": "#E23512",
+                        "CODE": "FEW",
+                        "CLASS": "bem-pseudo_red",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "685",
+                        "NAME": "Мониторы",
+                        "CODE": "monitor",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/monitor/",
+                        "IMAGE": "https://img.dev.05.ru/resize/fRSYLqAY60vBGlnOLGQj5_xguLQKO_o04tuxpWEeuCk//rs:fit:696:701:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/4E0yd6X2ujbf3_RZBQgbRlSQ4mTzbQ0k_pyiFqLocCM//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                            "2X": "https://img.dev.05.ru/resize/hm3Kg6F6X9C4FApPJSWk6Nk4hBalPb4CW4G3mRNO1dE//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "650391",
+                    "NAME": "Ноутбук Acer NX.EG9ER.013 (EX215-22-R927) черный",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/notebook/135236/",
+                    "IMAGE": "https://img.dev.05.ru/resize/dad6_Rqm3bpuiJCcWuobQq5WOC26er-MGH3RTxVHtJY//rs:fit:1200:860:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1MjM2LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/xPbhR40_NOf0bKK0qQAX0hHoYY0mIBLwZ1Mld0wZs4w//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1MjM2LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/PGy_VBDqNLm0Z8Pes9lCqwLIVQ_0WloKwWTLl7g514I//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1MjM2LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 283,
+                            "PRICE": 38490,
+                            "PRINT_PRICE": "38 490₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 38490,
+                    "PRINT_PRICE": "38 490₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "DEFAULT": 5,
+                        "NAME": "мало",
+                        "DESCRIPTION_PART": "Осталось",
+                        "ICON": false,
+                        "TEXT": "Осталось мало",
+                        "COLOR": "#E23512",
+                        "CODE": "FEW",
+                        "CLASS": "bem-pseudo_red",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "661",
+                        "NAME": "Ноутбуки",
+                        "CODE": "notebook",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/notebook/",
+                        "IMAGE": "https://img.dev.05.ru/resize/43Ge5Hswp3VOj8kedt6wssCQa53xGn7U0OUBiu9Znts//rs:fit:1142:720:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/1aGJgUqIaRGUDiOMD4YB05cp0Y2e_OgzNi_pqydq15M//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn",
+                            "2X": "https://img.dev.05.ru/resize/YbBO0AVDV3g0o2koI8gZxkb6gJ9JVj5jYmBChE3WM0w//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "650415",
+                    "NAME": "Ноутбук Acer Extensa NX.EG9ER.012 (EX215-22-R06J) черный",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/notebook/135257/",
+                    "IMAGE": "https://img.dev.05.ru/resize/OP4brbxRMP9zBnG3ji6bja-rXIWnDhuPzgRWG9825TA//rs:fit:1200:860:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1MjU3LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/HNgnNpM-AriWbFpE0RFs_yC32tI59kwV_pQ_jvgU50Y//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1MjU3LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/2Hb6AFhmuONMVLPAslp640L4NKaRTFmBXy-ZlPXGefY//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1MjU3LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 391,
+                            "PRICE": 43190,
+                            "PRINT_PRICE": "43 190₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 43190,
+                    "PRINT_PRICE": "43 190₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "DEFAULT": 5,
+                        "NAME": "мало",
+                        "DESCRIPTION_PART": "Осталось",
+                        "ICON": false,
+                        "TEXT": "Осталось мало",
+                        "COLOR": "#E23512",
+                        "CODE": "FEW",
+                        "CLASS": "bem-pseudo_red",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "661",
+                        "NAME": "Ноутбуки",
+                        "CODE": "notebook",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/notebook/",
+                        "IMAGE": "https://img.dev.05.ru/resize/43Ge5Hswp3VOj8kedt6wssCQa53xGn7U0OUBiu9Znts//rs:fit:1142:720:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/1aGJgUqIaRGUDiOMD4YB05cp0Y2e_OgzNi_pqydq15M//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn",
+                            "2X": "https://img.dev.05.ru/resize/YbBO0AVDV3g0o2koI8gZxkb6gJ9JVj5jYmBChE3WM0w//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "662177",
+                    "NAME": "Моноблок 23.8\" Acer Aspire C24-420 (DQ.BFXER.004)",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/monoblok/141128/",
+                    "IMAGE": "https://img.dev.05.ru/resize/DuOl0lSQL0Gf_PiCWsOLABw_SOaj5hWVxM1-w7R73_U//rs:fit:2000:1602:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTQxMTI4LzcuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/MzEG4UUpeetE2K8BxFLJYLhlz2DvYBMICnm_nqZzLEg//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTQxMTI4LzcuanBn",
+                        "2X": "https://img.dev.05.ru/resize/c60DG8dh1_pmZHAMObZrl4buZAn9-h-YTm-2iLTUwNM//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTQxMTI4LzcuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 499,
+                            "PRICE": 41590,
+                            "PRINT_PRICE": "41 590₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 41590,
+                    "PRINT_PRICE": "41 590₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "NAME": "26 сентября",
+                        "DESCRIPTION": "Доставим",
+                        "DESCRIPTION_PART": "Доставим",
+                        "ICON": true,
+                        "TEXT": "Доставим 26 сентября",
+                        "COLOR": "#8616B8",
+                        "CODE": "UNDER_ORDER",
+                        "CLASS": "bem-icon-link_orange",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "662",
+                        "NAME": "Моноблоки",
+                        "CODE": "monoblok",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/monoblok/",
+                        "IMAGE": "https://img.dev.05.ru/resize/UyuZQHPuKQzr9Q5nVIgBjBHlfZXTtBxLVZ1yUXLyk_Q//rs:fit:1853:1880:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ZTAvOGUwYzM4MTEwMmE3MzQ5ZDdmOGE5YzlmZDVlMTVmNjUuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/g-_AckHmuHREKoXg8uBTMNAJ3kePtxR9n8uYS-_8ohw//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ZTAvOGUwYzM4MTEwMmE3MzQ5ZDdmOGE5YzlmZDVlMTVmNjUuanBn",
+                            "2X": "https://img.dev.05.ru/resize/ZQ-MfLIpBA6Y2zOHbzccny-5P4rjlDF5ku1FNpdCnk8//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ZTAvOGUwYzM4MTEwMmE3MzQ5ZDdmOGE5YzlmZDVlMTVmNjUuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "626486",
+                    "NAME": "Монитор Acer VG270Kbmiipx [UM.HV0EE.010] 27\" черный",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/monitor/122298/",
+                    "IMAGE": "https://img.dev.05.ru/resize/D3sOpVY2zAO70odVCxpo9LSHJTtX95czajnvhr-meuo//rs:fit:1000:756:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTIyMjk4LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/0Ltq8MhafaqHH7mB--ufBJqpbbnKqwCTzDup0QxbQeU//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTIyMjk4LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/CVjFHOoYbNAbQnhtVkF7z5uxTkiHwv8ll5YJjzkjZv8//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTIyMjk4LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 2000,
+                            "PRICE": 31050,
+                            "PRINT_PRICE": "31 050₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 31050,
+                    "PRINT_PRICE": "31 050₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "DEFAULT": 5,
+                        "NAME": "мало",
+                        "DESCRIPTION_PART": "Осталось",
+                        "ICON": false,
+                        "TEXT": "Осталось мало",
+                        "COLOR": "#E23512",
+                        "CODE": "FEW",
+                        "CLASS": "bem-pseudo_red",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "685",
+                        "NAME": "Мониторы",
+                        "CODE": "monitor",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/monitor/",
+                        "IMAGE": "https://img.dev.05.ru/resize/fRSYLqAY60vBGlnOLGQj5_xguLQKO_o04tuxpWEeuCk//rs:fit:696:701:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/4E0yd6X2ujbf3_RZBQgbRlSQ4mTzbQ0k_pyiFqLocCM//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                            "2X": "https://img.dev.05.ru/resize/hm3Kg6F6X9C4FApPJSWk6Nk4hBalPb4CW4G3mRNO1dE//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "605071",
+                    "NAME": "Монитор Acer K272HLEbd 27\" черный",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/monitor/101483/",
+                    "IMAGE": "https://img.dev.05.ru/resize/fDh9Si45nya11s82JFZf9DNHUym4e63Anz0YuVblvqA//rs:fit:701:538:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wMDAwMDEwMTQ4My8xLmpwZw",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/kJiOXTH2TmsDfkJkSClbSZ5jlNb6LX8EwHb3JoRVO5I//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wMDAwMDEwMTQ4My8xLmpwZw",
+                        "2X": "https://img.dev.05.ru/resize/257GMVb7W-pquo0V-xK3qskFhPrOb73AJniYJuIfaSQ//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8wMDAwMDEwMTQ4My8xLmpwZw"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 89,
+                            "PRICE": 11990,
+                            "PRINT_PRICE": "11 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 11990,
+                    "PRINT_PRICE": "11 990₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "DEFAULT": 5,
+                        "NAME": "мало",
+                        "DESCRIPTION_PART": "Осталось",
+                        "ICON": false,
+                        "TEXT": "Осталось мало",
+                        "COLOR": "#E23512",
+                        "CODE": "FEW",
+                        "CLASS": "bem-pseudo_red",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "685",
+                        "NAME": "Мониторы",
+                        "CODE": "monitor",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/monitor/",
+                        "IMAGE": "https://img.dev.05.ru/resize/fRSYLqAY60vBGlnOLGQj5_xguLQKO_o04tuxpWEeuCk//rs:fit:696:701:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/4E0yd6X2ujbf3_RZBQgbRlSQ4mTzbQ0k_pyiFqLocCM//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                            "2X": "https://img.dev.05.ru/resize/hm3Kg6F6X9C4FApPJSWk6Nk4hBalPb4CW4G3mRNO1dE//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "673634",
+                    "NAME": "Моноблок Acer Aspire C27-962 (DQ.BDPER.005) i5 1035G1/8/1Tb+256SSD/MX130/WiFi/BT/Win10/27\", (после замены видеокарты)",
+                    "DETAIL_PAGE_PATH": "/catalog/ucenka/uc_computers/monobloki/147572/",
+                    "IMAGE": "https://img.dev.05.ru/resize/DdheVRk2V0uA5kaGV0I-b3dgZqmEsRMwggw6_tcFL2w//rs:fit:700:548:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTQ3NTcyLzUuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/wtmC5Xgr7GqVVo8lyzeBymqKXAcjm84QXC-_RskiOmA//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTQ3NTcyLzUuanBn",
+                        "2X": "https://img.dev.05.ru/resize/Wr1zJ29vfxp9PVFTrUI4YAXe3Gmt7XmLrtM09WiYn1g//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTQ3NTcyLzUuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 0,
+                            "PRICE": 53190,
+                            "PRINT_PRICE": "53 190₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 53190,
+                    "PRINT_PRICE": "53 190₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "DEFAULT": 5,
+                        "NAME": "мало",
+                        "DESCRIPTION_PART": "Осталось",
+                        "ICON": false,
+                        "TEXT": "Осталось мало",
+                        "COLOR": "#E23512",
+                        "CODE": "FEW",
+                        "CLASS": "bem-pseudo_red",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "4598",
+                        "NAME": "Моноблоки",
+                        "CODE": "monobloki",
+                        "PARENT_NAME": "Компьютеры и ноутбуки",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/ucenka/uc_computers/monobloki/",
+                        "IMAGE": null
+                    }
+                },
+                {
+                    "ID": "649313",
+                    "NAME": "Ноутбук игровой Acer Aspire 7 NH.Q8QER.004 (A715-41G-R4FD) черный",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/notebook/134309/",
+                    "IMAGE": "https://img.dev.05.ru/resize/-z5Pe_fiR7yRXIv4IrUGtjvEV7SmNDgH2nJ8gnABIss//rs:fit:1200:892:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM0MzA5LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/JeVk5S_ErmhnvylKe6va7mcfYmqTbJIlte9d-Kvp2uc//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM0MzA5LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/vI-EtVBxaq7Vr0oyrBYssLN8mNkk6lNMjrJuZsC82MM//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM0MzA5LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 324,
+                            "PRICE": 67990,
+                            "PRINT_PRICE": "67 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 67990,
+                    "PRINT_PRICE": "67 990₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "DEFAULT": 5,
+                        "NAME": "мало",
+                        "DESCRIPTION_PART": "Осталось",
+                        "ICON": false,
+                        "TEXT": "Осталось мало",
+                        "COLOR": "#E23512",
+                        "CODE": "FEW",
+                        "CLASS": "bem-pseudo_red",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "661",
+                        "NAME": "Ноутбуки",
+                        "CODE": "notebook",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/notebook/",
+                        "IMAGE": "https://img.dev.05.ru/resize/43Ge5Hswp3VOj8kedt6wssCQa53xGn7U0OUBiu9Znts//rs:fit:1142:720:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/1aGJgUqIaRGUDiOMD4YB05cp0Y2e_OgzNi_pqydq15M//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn",
+                            "2X": "https://img.dev.05.ru/resize/YbBO0AVDV3g0o2koI8gZxkb6gJ9JVj5jYmBChE3WM0w//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "618090",
+                    "NAME": "Монитор Acer Predator X34Pbmiphzx 34\" черный",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/monitor/113252/",
+                    "IMAGE": "https://img.dev.05.ru/resize/B-07eG26XGILusYl3_VSMXrHG-zVwRjeE4Jw_QRuXHU//rs:fit:1000:668:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzMjUyLzguanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/SFa0NlRgmDpJ6FU-kkALVNBnjXNnh47qzA1HRJ7NbsM//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzMjUyLzguanBn",
+                        "2X": "https://img.dev.05.ru/resize/z745k-b0vskA0IPkSdz89H7qu9EdBTqg4bW7m7L_0Fc//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTEzMjUyLzguanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 1000,
+                            "PRICE": 99990,
+                            "PRINT_PRICE": "99 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 99990,
+                    "PRINT_PRICE": "99 990₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "DEFAULT": 5,
+                        "NAME": "мало",
+                        "DESCRIPTION_PART": "Осталось",
+                        "ICON": false,
+                        "TEXT": "Осталось мало",
+                        "COLOR": "#E23512",
+                        "CODE": "FEW",
+                        "CLASS": "bem-pseudo_red",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "685",
+                        "NAME": "Мониторы",
+                        "CODE": "monitor",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/monitor/",
+                        "IMAGE": "https://img.dev.05.ru/resize/fRSYLqAY60vBGlnOLGQj5_xguLQKO_o04tuxpWEeuCk//rs:fit:696:701:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/4E0yd6X2ujbf3_RZBQgbRlSQ4mTzbQ0k_pyiFqLocCM//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn",
+                            "2X": "https://img.dev.05.ru/resize/hm3Kg6F6X9C4FApPJSWk6Nk4hBalPb4CW4G3mRNO1dE//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODgvODg4YmM1MWMyM2FiZWMyNTU1OTZkNmM4ZjY0MjFiYTMuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "608553",
+                    "NAME": "Ноутбук Acer Aspire A315-42-R5E3 (NX.HF9ER.03R) черный",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/notebook/104286/",
+                    "IMAGE": "https://img.dev.05.ru/resize/JOjqrnIt48jAQcbo3vEZ1RHM2ANYK-WVHcb74dhRVpM//rs:fit:1100:798:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0Mjg2LzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/DbZ3mxJ49AhtBzq5H36CNwSyxyi1vxk8cwA6lfETnHI//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0Mjg2LzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/JTJilS6j2Sdf6Dw9nisP5a6A9DQmCYLJp_PIAifs9ms//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTA0Mjg2LzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 295,
+                            "PRICE": 29990,
+                            "PRINT_PRICE": "29 990₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 29990,
+                    "PRINT_PRICE": "29 990₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "NAME": "26 сентября",
+                        "DESCRIPTION": "Доставим",
+                        "DESCRIPTION_PART": "Доставим",
+                        "ICON": true,
+                        "TEXT": "Доставим 26 сентября",
+                        "COLOR": "#8616B8",
+                        "CODE": "UNDER_ORDER",
+                        "CLASS": "bem-icon-link_orange",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "661",
+                        "NAME": "Ноутбуки",
+                        "CODE": "notebook",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/notebook/",
+                        "IMAGE": "https://img.dev.05.ru/resize/43Ge5Hswp3VOj8kedt6wssCQa53xGn7U0OUBiu9Znts//rs:fit:1142:720:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/1aGJgUqIaRGUDiOMD4YB05cp0Y2e_OgzNi_pqydq15M//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn",
+                            "2X": "https://img.dev.05.ru/resize/YbBO0AVDV3g0o2koI8gZxkb6gJ9JVj5jYmBChE3WM0w//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn"
+                        }
+                    }
+                },
+                {
+                    "ID": "650385",
+                    "NAME": "Ноутбук Acer Extensa NX.EG9ER.01E (EX215-22-R964) черный",
+                    "DETAIL_PAGE_PATH": "/catalog/computers/notebook/135231/",
+                    "IMAGE": "https://img.dev.05.ru/resize/QPvzOVCQBNNKZHp61KlxfqZKOkNgTV8XhKvyR-MxvCQ//rs:fit:1200:860:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1MjMxLzEuanBn",
+                    "THUMBNAILS": {
+                        "1X": "https://img.dev.05.ru/resize/irUkbpWAWGgqmsoRw-5Yh7T3TZ46zuYEsy29IrKharY//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1MjMxLzEuanBn",
+                        "2X": "https://img.dev.05.ru/resize/D6ze01GA8OsTf--4GJXDx287r1-AQ7m0HSVvCC_LH2g//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkLzAwMDAwMTM1MjMxLzEuanBn"
+                    },
+                    "PRICES": [
+                        {
+                            "CODE": "DEFAULT",
+                            "NAME": null,
+                            "CROSSED": false,
+                            "PRICE_TYPE_ID": 5,
+                            "BONUS": 318,
+                            "PRICE": 34890,
+                            "PRINT_PRICE": "34 890₽",
+                            "CURRENCY": "RUB"
+                        }
+                    ],
+                    "PRICE": 34890,
+                    "PRINT_PRICE": "34 890₽",
+                    "IN_BASKET": false,
+                    "IN_FAVORITES": false,
+                    "IN_COMPARE": false,
+                    "STATUS": {
+                        "DEFAULT": 5,
+                        "NAME": "мало",
+                        "DESCRIPTION_PART": "Осталось",
+                        "ICON": false,
+                        "TEXT": "Осталось мало",
+                        "COLOR": "#E23512",
+                        "CODE": "FEW",
+                        "CLASS": "bem-pseudo_red",
+                        "FREE_DELIVERY": true
+                    },
+                    "SECTION": {
+                        "ID": "661",
+                        "NAME": "Ноутбуки",
+                        "CODE": "notebook",
+                        "PARENT_NAME": "Компьютерная техника",
+                        "CREDIT_BUY_UNAVAILABILITY": null,
+                        "SECTION_PAGE_PATH": "/catalog/computers/notebook/",
+                        "IMAGE": "https://img.dev.05.ru/resize/43Ge5Hswp3VOj8kedt6wssCQa53xGn7U0OUBiu9Znts//rs:fit:1142:720:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn",
+                        "THUMBNAILS": {
+                            "1X": "https://img.dev.05.ru/resize/1aGJgUqIaRGUDiOMD4YB05cp0Y2e_OgzNi_pqydq15M//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn",
+                            "2X": "https://img.dev.05.ru/resize/YbBO0AVDV3g0o2koI8gZxkb6gJ9JVj5jYmBChE3WM0w//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay80NjUvNDY1NzUwZmI0ZTI1MGU3NjcxMTMwODJlNjVlNDU3ZWIuanBn"
+                        }
+                    }
+                }
+            ],
+            "SORT_TYPES": [
+                {
+                    "TYPE": "sort",
+                    "NAME": "популярные",
+                    "BY": "asc",
+                    "DEFAULT": true,
+                    "SORT": {
+                        "TYPE": "sort",
+                        "BY": "view"
+                    },
+                    "URL": "/api/v2/brand/acer?sort=view",
+                    "ACTIVE": "Y"
+                },
+                {
+                    "TYPE": "catalog_PRICE_5",
+                    "NAME": "дешевые",
+                    "BY": "asc",
+                    "SORT": {
+                        "TYPE": "sort",
+                        "BY": "price_asc"
+                    },
+                    "URL": "/api/v2/brand/acer?sort=price_asc",
+                    "ACTIVE": "N"
+                },
+                {
+                    "TYPE": "catalog_PRICE_5",
+                    "NAME": "дорогие",
+                    "BY": "desc",
+                    "SORT": {
+                        "TYPE": "sort",
+                        "BY": "price_desk"
+                    },
+                    "URL": "/api/v2/brand/acer?sort=price_desk",
+                    "ACTIVE": "N"
+                },
+                {
+                    "TYPE": "new",
+                    "NAME": "новые",
+                    "BY": "desc",
+                    "SORT": {
+                        "TYPE": "sort",
+                        "BY": "new"
+                    },
+                    "URL": "/api/v2/brand/acer?sort=new",
+                    "ACTIVE": "N"
+                }
+            ]
+        }
+    }
+}

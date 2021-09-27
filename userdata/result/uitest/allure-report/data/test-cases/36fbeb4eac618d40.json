@@ -1,0 +1,151 @@
+{
+  "uid" : "36fbeb4eac618d40",
+  "name" : "Header shipping_and_payment",
+  "fullName" : "test.TestRegister#test_shipping_and_payment",
+  "historyId" : "9722779975b58fec038a751e6032ed3b",
+  "time" : {
+    "start" : 1632397962010,
+    "stop" : 1632397983141,
+    "duration" : 21131
+  },
+  "description" : "Test shipping_and_payment",
+  "descriptionHtml" : "<p>Test shipping_and_payment</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister",
+    "time" : {
+      "start" : 1632397951332,
+      "stop" : 1632397962009,
+      "duration" : 10677
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1632397549230,
+      "stop" : 1632397549249,
+      "duration" : 19
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister::0",
+    "time" : {
+      "start" : 1632397983142,
+      "stop" : 1632397984274,
+      "duration" : 1132
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "9d2fc9ee43bb"
+  }, {
+    "name" : "thread",
+    "value" : "13-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 4,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "7009125117b45785",
+        "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/7009125117b45785",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: False\nassert ['https://sta.../about/corp/'] == ['https://sta.../about/corp/']\n  At index 5 diff: 'https://05.ru/about/corp/' != 'https://stage.05.ru/about/corp/'\n  Use -v to get the full diff",
+        "time" : {
+          "start" : 1631886026957,
+          "stop" : 1631886042918,
+          "duration" : 15961
+        }
+      }, {
+        "uid" : "66a526c9419ea6e0",
+        "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/66a526c9419ea6e0",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: False\nassert ['https://sta.../about/corp/'] == ['https://sta.../about/corp/']\n  At index 5 diff: 'https://05.ru/about/corp/' != 'https://stage.05.ru/about/corp/'\n  Use -v to get the full diff",
+        "time" : {
+          "start" : 1631881384794,
+          "stop" : 1631881400302,
+          "duration" : 15508
+        }
+      }, {
+        "uid" : "bd7c826252807b8f",
+        "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/bd7c826252807b8f",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: False\nassert ['https://sta.../about/corp/'] == ['https://sta.../about/corp/']\n  At index 5 diff: 'https://05.ru/about/corp/' != 'https://stage.05.ru/about/corp/'\n  Use -v to get the full diff",
+        "time" : {
+          "start" : 1631875514421,
+          "stop" : 1631875531586,
+          "duration" : 17165
+        }
+      }, {
+        "uid" : "e08a3cd20d67d9c9",
+        "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/e08a3cd20d67d9c9",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: False\nassert ['https://sta.../about/corp/'] == ['https://05....bout/kredit/']\n  At index 0 diff: 'https://stage.05.ru/about/delivery/' != 'https://05.ru/about/delivery/'\n  Use -v to get the full diff",
+        "time" : {
+          "start" : 1631873253905,
+          "stop" : 1631873271382,
+          "duration" : 17477
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "36fbeb4eac618d40.json",
+  "parameterValues" : [ ]
+}

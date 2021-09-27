@@ -1,0 +1,1 @@
+https://stage.05.ru/api/v2/installment?product_price=40800&period=6&guarantors=4

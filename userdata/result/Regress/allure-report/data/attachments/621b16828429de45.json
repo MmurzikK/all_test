@@ -1,0 +1,10 @@
+{
+    "success": false,
+    "error": {
+        "type": "error",
+        "message": "code_was_not_sent_to_phone",
+        "messages": null,
+        "description": "Код потверждения не был отправлен",
+        "fields": null
+    }
+}

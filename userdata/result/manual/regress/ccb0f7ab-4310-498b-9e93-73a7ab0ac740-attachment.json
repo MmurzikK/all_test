@@ -1,0 +1,84 @@
+{
+    "success": true,
+    "result": [
+        {
+            "ID": "608961",
+            "NAME": "Развивайся с нами",
+            "ENTITY_ID": "608962",
+            "TYPE": "sales",
+            "SECTIONS": [
+                "801"
+            ],
+            "IMAGE": "https://img.stage.05.ru/resize/bE8NX6tA9rJTvk5-7zpEJvuAU6j2T5Wn7Z6PtiwxDig//rs:fit:960:345:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8zN2UvMzdlMTcxZGJmNjU5M2FjMzg3YzQwMTI3ZTVmNTZiNjkuanBn",
+            "IMAGE_TYPE": "image/jpeg",
+            "MOBILE_IMAGE": null,
+            "CODE": "razvivaysya-s-nami",
+            "LINK": {
+                "TYPE": "BANNER",
+                "VALUE": "608961"
+            }
+        },
+        {
+            "ID": "621077",
+            "NAME": "Dyson Airwrap",
+            "ENTITY_ID": "622439",
+            "TYPE": "uri",
+            "SECTIONS": [
+                "4202"
+            ],
+            "IMAGE": "https://img.stage.05.ru/resize/aVId1fGS4r9WRS9Gl7ClwljDPGzqNxqQUeWGl90Hvds//rs:fit:960:345:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8zZWIvM2ViOTgzOTc4MzExNmI1Y2UwYmJlYzExYjFmYzVlZDMucG5n",
+            "IMAGE_TYPE": "image/png",
+            "MOBILE_IMAGE": null,
+            "CODE": "115280",
+            "LINK": {
+                "TYPE": "PRODUCT",
+                "VALUE": "621077"
+            }
+        },
+        {
+            "ID": "635848",
+            "NAME": "Новый гипермаркет",
+            "ENTITY_ID": "636296",
+            "TYPE": "sales",
+            "SECTIONS": null,
+            "IMAGE": "https://img.stage.05.ru/resize/6SG5rG1tiqc3V3nZo9NJoPU_QlQL_4rmmQK4HxeEP-g//rs:fit:960:345:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9iNGEvYjRhYmQ1YzBkZDU3MjdkYzdlNzc4ZWIwZmUzYjc5ZGMucG5n",
+            "IMAGE_TYPE": "image/png",
+            "MOBILE_IMAGE": null,
+            "CODE": "u-nas-popolnenie",
+            "LINK": {
+                "TYPE": "BANNER",
+                "VALUE": "635848"
+            }
+        },
+        {
+            "ID": "623048",
+            "NAME": "Философия спорта - Философия жизни",
+            "ENTITY_ID": "623048",
+            "TYPE": "uri",
+            "SECTIONS": null,
+            "IMAGE": "https://stage.05.ru/upload/iblock/801/80198b46b8c8d6f8b81168e97bd3fad2.jpg",
+            "IMAGE_TYPE": "application/octet-stream",
+            "MOBILE_IMAGE": null,
+            "CODE": "garmin",
+            "LINK": {
+                "TYPE": "CATALOG",
+                "VALUE": "https://05.ru/catalog/portativ/smart_chasy_i_braslety/garmin/"
+            }
+        },
+        {
+            "ID": "612026",
+            "NAME": "Бытовая химия",
+            "ENTITY_ID": "612026",
+            "TYPE": "uri",
+            "SECTIONS": null,
+            "IMAGE": "https://img.stage.05.ru/resize/83XKqovrriaTx24Q0wqog1tJiczpgFecOB8UxWURYfQ//rs:fit:960:345:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84ODYvODg2OTc2NjU0MDRlMGY4ZGQwY2JjOWE3NjA0MDc1OTMuanBn",
+            "IMAGE_TYPE": "image/jpeg",
+            "MOBILE_IMAGE": null,
+            "CODE": "bytovaya_himiya_i_gigiena",
+            "LINK": {
+                "TYPE": "CATALOG",
+                "VALUE": "https://05.ru/catalog/bytovaya_himiya_i_gigiena/"
+            }
+        }
+    ]
+}

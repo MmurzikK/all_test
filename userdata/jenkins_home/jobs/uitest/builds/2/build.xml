@@ -1,0 +1,63 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>admin</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <ru.yandex.qatools.allure.jenkins.AllureReportBuildAction plugin="allure-jenkins-plugin@2.29.0">
+      <run class="build" reference="../../.."/>
+      <buildSummary>
+        <referent class="ru.yandex.qatools.allure.jenkins.utils.BuildSummary">
+          <statistics>
+            <entry>
+              <string>broken</string>
+              <int>6</int>
+            </entry>
+            <entry>
+              <string>passed</string>
+              <int>15</int>
+            </entry>
+            <entry>
+              <string>failed</string>
+              <int>3</int>
+            </entry>
+            <entry>
+              <string>skipped</string>
+              <int>0</int>
+            </entry>
+            <entry>
+              <string>unknown</string>
+              <int>0</int>
+            </entry>
+          </statistics>
+        </referent>
+        <queue class="java.lang.ref.ReferenceQueue$Null">
+          <lock/>
+          <queueLength>0</queueLength>
+        </queue>
+      </buildSummary>
+      <reportPath>allure-report</reportPath>
+    </ru.yandex.qatools.allure.jenkins.AllureReportBuildAction>
+  </actions>
+  <queueId>181</queueId>
+  <timestamp>1631875077621</timestamp>
+  <startTime>1631875077627</startTime>
+  <result>UNSTABLE</result>
+  <duration>730106</duration>
+  <charset>US-ASCII</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>/var/jenkins_home/workspace/uitest</workspace>
+  <hudsonVersion>2.303.1</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="java.util.Collections$UnmodifiableSet">
+    <c class="sorted-set"/>
+  </culprits>
+</build>

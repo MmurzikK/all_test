@@ -1,0 +1,151 @@
+{
+  "uid" : "36dde59581ff3e07",
+  "name" : "Catalog test_ordering",
+  "fullName" : "test.TestRegister#test_ordering",
+  "historyId" : "db6e9bf1f5b3838b78d2abd989014445",
+  "time" : {
+    "start" : 1632397993895,
+    "stop" : 1632398024139,
+    "duration" : 30244
+  },
+  "description" : "Test test_ordering",
+  "descriptionHtml" : "<p>Test test_ordering</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1632397549230,
+      "stop" : 1632397549249,
+      "duration" : 19
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "xunit_setup_method_fixture_TestRegister",
+    "time" : {
+      "start" : 1632397984284,
+      "stop" : 1632397993894,
+      "duration" : 9610
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister::0",
+    "time" : {
+      "start" : 1632398024140,
+      "stop" : 1632398024542,
+      "duration" : 402
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "9d2fc9ee43bb"
+  }, {
+    "name" : "thread",
+    "value" : "13-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 4,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "dac47feec75a1f00",
+        "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/dac47feec75a1f00",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.StaleElementReferenceException: Message: The element reference of <input class=\"order-detail__input\" name=\"ORDER_PROP_3\" type=\"text\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed",
+        "time" : {
+          "start" : 1631886051255,
+          "stop" : 1631886070456,
+          "duration" : 19201
+        }
+      }, {
+        "uid" : "8a066a196219c85b",
+        "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/8a066a196219c85b",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+        "time" : {
+          "start" : 1631881418344,
+          "stop" : 1631881445188,
+          "duration" : 26844
+        }
+      }, {
+        "uid" : "f5016dd1373f89d5",
+        "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/f5016dd1373f89d5",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+        "time" : {
+          "start" : 1631875546608,
+          "stop" : 1631875575198,
+          "duration" : 28590
+        }
+      }, {
+        "uid" : "60c3f0f988712c3d",
+        "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/60c3f0f988712c3d",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.StaleElementReferenceException: Message: The element reference of <input class=\"order-detail__input\" name=\"ORDER_PROP_3\" type=\"text\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed",
+        "time" : {
+          "start" : 1631873282133,
+          "stop" : 1631873303067,
+          "duration" : 20934
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "36dde59581ff3e07.json",
+  "parameterValues" : [ ]
+}

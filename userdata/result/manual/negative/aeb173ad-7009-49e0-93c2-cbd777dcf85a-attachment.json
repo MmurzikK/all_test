@@ -1,0 +1,9 @@
+{
+    "User-Agent": "python-requests/2.25.1",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Authorization": "Bearer 2c8f68ca-1135-11ec-b6e0-8a36c8533520",
+    "Content-Length": "118",
+    "Content-Type": "application/x-www-form-urlencoded"
+}

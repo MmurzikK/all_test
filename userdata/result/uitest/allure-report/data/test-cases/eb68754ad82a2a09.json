@@ -1,0 +1,151 @@
+{
+  "uid" : "eb68754ad82a2a09",
+  "name" : "Кнопка Забыл пароль",
+  "fullName" : "test.TestRegister#test_forgot_password",
+  "historyId" : "cb799317b91272378bae10e0f59a521d",
+  "time" : {
+    "start" : 1632398251622,
+    "stop" : 1632398268771,
+    "duration" : 17149
+  },
+  "description" : "Кнопка Забыл пароль",
+  "descriptionHtml" : "<p>Кнопка Забыл пароль</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1632397549230,
+      "stop" : 1632397549249,
+      "duration" : 19
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "xunit_setup_method_fixture_TestRegister",
+    "time" : {
+      "start" : 1632398242858,
+      "stop" : 1632398251622,
+      "duration" : 8764
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister::0",
+    "time" : {
+      "start" : 1632398268772,
+      "stop" : 1632398269179,
+      "duration" : 407
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "9d2fc9ee43bb"
+  }, {
+    "name" : "thread",
+    "value" : "13-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 4,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "c438e71759b88d2c",
+        "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/c438e71759b88d2c",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: Element <input class=\"bem-button bem-button_red bem-button_large bem-button_wide\" type=\"submit\"> is not clickable at point (488,358) because another element <iframe name=\"c-hi3xd2yfb6at\" src=\"https://www.google.com/recaptcha/api2/bframe?hl=en&v=tftmXwdbgCvrXiHxr5HGbIaL&k=6Lds3E8UAAAAAI3xcPwzDeNP-bmLdIxnxBL55Or3&cb=nfcju6am5roj\"> obscures it",
+        "time" : {
+          "start" : 1631886213004,
+          "stop" : 1631886226112,
+          "duration" : 13108
+        }
+      }, {
+        "uid" : "b17f02bd56926665",
+        "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/b17f02bd56926665",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: Element <input class=\"bem-button bem-button_red bem-button_large bem-button_wide\" type=\"submit\"> is not clickable at point (488,358) because another element <iframe name=\"c-kj2jrjspsd85\" src=\"https://www.google.com/recaptcha/api2/bframe?hl=en&v=wxAi4AKLXL2kBAvXqI4XLSWS&k=6Lds3E8UAAAAAI3xcPwzDeNP-bmLdIxnxBL55Or3&cb=ykam04mts1cl\"> obscures it",
+        "time" : {
+          "start" : 1631881619205,
+          "stop" : 1631881631718,
+          "duration" : 12513
+        }
+      }, {
+        "uid" : "6a726d4a29959010",
+        "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/6a726d4a29959010",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: Element <input class=\"bem-button bem-button_red bem-button_large bem-button_wide\" type=\"submit\"> is not clickable at point (488,358) because another element <iframe name=\"c-26yrw314v5b2\" src=\"https://www.google.com/recaptcha/api2/bframe?hl=en&v=wxAi4AKLXL2kBAvXqI4XLSWS&k=6Lds3E8UAAAAAI3xcPwzDeNP-bmLdIxnxBL55Or3&cb=5ndx3obyvdk2\"> obscures it",
+        "time" : {
+          "start" : 1631875768871,
+          "stop" : 1631875782850,
+          "duration" : 13979
+        }
+      }, {
+        "uid" : "99554503907b45ac",
+        "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/99554503907b45ac",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: Element <input class=\"bem-button bem-button_red bem-button_large bem-button_wide\" type=\"submit\"> is not clickable at point (488,358) because another element <iframe name=\"c-r1xqpdx3my2j\" src=\"https://www.google.com/recaptcha/api2/bframe?hl=en&v=wxAi4AKLXL2kBAvXqI4XLSWS&k=6Lds3E8UAAAAAI3xcPwzDeNP-bmLdIxnxBL55Or3&cb=a9yb8gotfyy7\"> obscures it",
+        "time" : {
+          "start" : 1631873535139,
+          "stop" : 1631873550544,
+          "duration" : 15405
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "eb68754ad82a2a09.json",
+  "parameterValues" : [ ]
+}

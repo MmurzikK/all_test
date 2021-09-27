@@ -1,0 +1,147 @@
+{
+  "uid" : "3f2c0a573096430d",
+  "name" : "Header Catalog",
+  "fullName" : "test.TestRegister#test_catalog_in_header",
+  "historyId" : "326e82b2db026146ba0dd26e9a51c688",
+  "time" : {
+    "start" : 1632397923798,
+    "stop" : 1632397950892,
+    "duration" : 27094
+  },
+  "description" : "Test Catalog",
+  "descriptionHtml" : "<p>Test Catalog</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1632397549230,
+      "stop" : 1632397549249,
+      "duration" : 19
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "xunit_setup_method_fixture_TestRegister",
+    "time" : {
+      "start" : 1632397913394,
+      "stop" : 1632397923797,
+      "duration" : 10403
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister::0",
+    "time" : {
+      "start" : 1632397950893,
+      "stop" : 1632397951330,
+      "duration" : 437
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "9d2fc9ee43bb"
+  }, {
+    "name" : "thread",
+    "value" : "13-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "ac1d19a35046c761",
+        "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/ac1d19a35046c761",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631885996530,
+          "stop" : 1631886017593,
+          "duration" : 21063
+        }
+      }, {
+        "uid" : "b34267481521bb2e",
+        "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/b34267481521bb2e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631881359902,
+          "stop" : 1631881375855,
+          "duration" : 15953
+        }
+      }, {
+        "uid" : "a626c26c06957797",
+        "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/a626c26c06957797",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631875479177,
+          "stop" : 1631875497905,
+          "duration" : 18728
+        }
+      }, {
+        "uid" : "86c32c8fc8b6acfc",
+        "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/86c32c8fc8b6acfc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631873223158,
+          "stop" : 1631873243054,
+          "duration" : 19896
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "3f2c0a573096430d.json",
+  "parameterValues" : [ ]
+}

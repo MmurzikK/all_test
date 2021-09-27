@@ -1,0 +1,10 @@
+{
+    "success": false,
+    "error": {
+        "type": "error",
+        "message": "user_already_exist",
+        "messages": null,
+        "description": "Пользователь уже существует!",
+        "fields": null
+    }
+}

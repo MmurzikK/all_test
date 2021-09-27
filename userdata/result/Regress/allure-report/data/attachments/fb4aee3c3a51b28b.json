@@ -1,0 +1,10 @@
+{
+    "success": false,
+    "error": {
+        "type": "error",
+        "message": "phone_auth",
+        "messages": null,
+        "description": "Неверный номер телефона или пароль",
+        "fields": null
+    }
+}

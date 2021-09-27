@@ -1,0 +1,123 @@
+{
+    "success": true,
+    "result": {
+        "PAGINATION": {
+            "PARAM": "page",
+            "COUNT": 35,
+            "CURRENT": 1,
+            "ROWS": 69
+        },
+        "ITEMS": [
+            {
+                "ID": "126030221",
+                "UF_DATE": "18.04.2021 00:00:00",
+                "UF_USER_NAME": "алексей д.",
+                "UF_USER_MAIL": "",
+                "UF_REVIEW_TEXT": "Взял что хотел по нормальной цене.Парень что продавал мне телевизор ещё помог мне его в машину запихать , при этом я его нечаянно пару раз коробкой по голове ударил. Он стойко это терпел и помогал дальше.Молодец.",
+                "UF_PRODUCT_ID": "589375",
+                "UF_REVIEW_ID": "0",
+                "UF_NEGATIVE_RATES": "0",
+                "UF_POSITIVE_RATES": "0",
+                "UF_ADVANTAGES": "IPS матрица . HDR для PS4 - это вообще другие цвета.Пульт мышь .",
+                "UF_LIMITATIONS": "Приставку телевидения не законнектить к пульта от телевизора",
+                "UF_PRODUCT_RATE": "5",
+                "UF_REVIEW_RATE": "5",
+                "UF_LIKED": false,
+                "UF_DISLIKED": false,
+                "UF_REACTION": {
+                    "LIKES": "0",
+                    "DISLIKES": "0",
+                    "LIKED": false,
+                    "DISLIKED": false
+                },
+                "UF_REVIEW_IMAGES": [
+                    "https://ugc-media.shoppilot.ru/media_files/6082/646d/79a3/5a00/019a/63ae/large.?1619158125"
+                ],
+                "UF_COMMENTS_COUNT": 0,
+                "UF_REVIEW_COMMENTS": null
+            },
+            {
+                "ID": "124460978",
+                "UF_DATE": "27.03.2021 00:00:00",
+                "UF_USER_NAME": "Валя О",
+                "UF_USER_MAIL": "",
+                "UF_REVIEW_TEXT": "Телевизор хорошего качества, работает без нареканий",
+                "UF_PRODUCT_ID": "589375",
+                "UF_REVIEW_ID": "0",
+                "UF_NEGATIVE_RATES": "0",
+                "UF_POSITIVE_RATES": "0",
+                "UF_ADVANTAGES": "Качество",
+                "UF_LIMITATIONS": "Нет",
+                "UF_PRODUCT_RATE": "5",
+                "UF_REVIEW_RATE": "5",
+                "UF_LIKED": false,
+                "UF_DISLIKED": false,
+                "UF_REACTION": {
+                    "LIKES": "0",
+                    "DISLIKES": "0",
+                    "LIKED": false,
+                    "DISLIKED": false
+                },
+                "UF_REVIEW_IMAGES": null,
+                "UF_COMMENTS_COUNT": 0,
+                "UF_REVIEW_COMMENTS": null
+            }
+        ],
+        "SORT_TYPES": [
+            {
+                "TYPE": "photos",
+                "NAME": "Присутствие фотографии",
+                "BY": "desc",
+                "SORT": {
+                    "TYPE": "sort",
+                    "BY": "photos"
+                },
+                "URL": "/api/v2/review/589375?page=1&size=2&comments_size=2&sort=photos",
+                "ACTIVE": "N"
+            },
+            {
+                "TYPE": "created_at",
+                "NAME": "Новые",
+                "BY": "desc",
+                "DEFAULT": true,
+                "SORT": {
+                    "TYPE": "sort",
+                    "BY": "date"
+                },
+                "URL": "/api/v2/review/589375?page=1&size=2&comments_size=2&sort=date",
+                "ACTIVE": "Y"
+            },
+            {
+                "TYPE": "rating",
+                "NAME": "Популярные",
+                "BY": "desc",
+                "SORT": {
+                    "TYPE": "sort",
+                    "BY": "rating"
+                },
+                "URL": "/api/v2/review/589375?page=1&size=2&comments_size=2&sort=rating",
+                "ACTIVE": "N"
+            },
+            {
+                "TYPE": "likes",
+                "NAME": "Количество лайков",
+                "BY": "desc",
+                "SORT": {
+                    "TYPE": "sort",
+                    "BY": "likes"
+                },
+                "URL": "/api/v2/review/589375?page=1&size=2&comments_size=2&sort=likes",
+                "ACTIVE": "N"
+            }
+        ],
+        "RATES": {
+            "RATING": 4,
+            "MIDDLE": 4.8,
+            "ITEMS": {
+                "5": 55,
+                "4": 14
+            },
+            "MAX": 100
+        }
+    }
+}

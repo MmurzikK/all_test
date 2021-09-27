@@ -1,0 +1,150 @@
+{
+  "uid" : "81658f7c6bed1fd5",
+  "name" : "Добавление в корзину ",
+  "fullName" : "test.TestRegister#test_addbasket_bottom_slider",
+  "historyId" : "c544291590a649f49602a9f9fa18b56a",
+  "time" : {
+    "start" : 1632397766112,
+    "stop" : 1632397808069,
+    "duration" : 41957
+  },
+  "description" : "Переход через нижний слайдер",
+  "descriptionHtml" : "<p>Переход через нижний слайдер</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister",
+    "time" : {
+      "start" : 1632397754771,
+      "stop" : 1632397766112,
+      "duration" : 11341
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1632397549230,
+      "stop" : 1632397549249,
+      "duration" : 19
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister::0",
+    "time" : {
+      "start" : 1632397808069,
+      "stop" : 1632397808608,
+      "duration" : 539
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "9d2fc9ee43bb"
+  }, {
+    "name" : "thread",
+    "value" : "13-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 3,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "77c6dd2c4e22ce06",
+        "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/77c6dd2c4e22ce06",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631885789662,
+          "stop" : 1631885811789,
+          "duration" : 22127
+        }
+      }, {
+        "uid" : "415ad173d0b7bfd5",
+        "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/415ad173d0b7bfd5",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+        "time" : {
+          "start" : 1631881157304,
+          "stop" : 1631881183715,
+          "duration" : 26411
+        }
+      }, {
+        "uid" : "9c8b1df3cf1ff413",
+        "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/9c8b1df3cf1ff413",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+        "time" : {
+          "start" : 1631875260173,
+          "stop" : 1631875285782,
+          "duration" : 25609
+        }
+      }, {
+        "uid" : "b48f749687574c5",
+        "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/b48f749687574c5",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.StaleElementReferenceException: Message: The element reference of <a class=\"bem-icon-link bem-icon-link_without-underline bem-icon-link_pseudo bem-icon-link_to-cart bem-icon-link_cart-added\" href=\"/personal/cart/\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed",
+        "time" : {
+          "start" : 1631873026951,
+          "stop" : 1631873040917,
+          "duration" : 13966
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "81658f7c6bed1fd5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,59 @@
+{
+    "success": true,
+    "result": {
+        "PAGINATION": {
+            "PARAM": "page",
+            "COUNT": 0,
+            "CURRENT": 1,
+            "ROWS": 0
+        },
+        "ITEMS": null,
+        "SORT_TYPES": [
+            {
+                "TYPE": "sort",
+                "NAME": "популярные",
+                "BY": "asc",
+                "DEFAULT": true,
+                "SORT": {
+                    "TYPE": "sort",
+                    "BY": "view"
+                },
+                "URL": "/api/v2/favorite?sort=view",
+                "ACTIVE": "Y"
+            },
+            {
+                "TYPE": "catalog_PRICE_5",
+                "NAME": "дешевые",
+                "BY": "asc",
+                "SORT": {
+                    "TYPE": "sort",
+                    "BY": "price_asc"
+                },
+                "URL": "/api/v2/favorite?sort=price_asc",
+                "ACTIVE": "N"
+            },
+            {
+                "TYPE": "catalog_PRICE_5",
+                "NAME": "дорогие",
+                "BY": "desc",
+                "SORT": {
+                    "TYPE": "sort",
+                    "BY": "price_desk"
+                },
+                "URL": "/api/v2/favorite?sort=price_desk",
+                "ACTIVE": "N"
+            },
+            {
+                "TYPE": "new",
+                "NAME": "новые",
+                "BY": "desc",
+                "SORT": {
+                    "TYPE": "sort",
+                    "BY": "new"
+                },
+                "URL": "/api/v2/favorite?sort=new",
+                "ACTIVE": "N"
+            }
+        ]
+    }
+}

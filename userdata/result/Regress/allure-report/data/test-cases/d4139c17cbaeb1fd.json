@@ -1,0 +1,305 @@
+{
+  "uid" : "d4139c17cbaeb1fd",
+  "name" : "Получить поля о бонусной карте",
+  "fullName" : "tests.regress.test.Test#test_bonus_fields",
+  "historyId" : "9947e56cde1312f8064dff23755b29f6",
+  "time" : {
+    "start" : 1632397430451,
+    "stop" : 1632397430541,
+    "duration" : 90
+  },
+  "description" : "Получить поля о бонусной карте",
+  "descriptionHtml" : "<p>Получить поля о бонусной карте</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1632397422109,
+      "stop" : 1632397422140,
+      "duration" : 31
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Получить поля о бонусной карте",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dc476262c7de8394",
+      "name" : "Request url",
+      "source" : "dc476262c7de8394.txt",
+      "type" : "text/plain",
+      "size" : 39
+    }, {
+      "uid" : "82c02854bfdb5576",
+      "name" : "Request method",
+      "source" : "82c02854bfdb5576.txt",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "784f7687ed6f0260",
+      "name" : "Request headers",
+      "source" : "784f7687ed6f0260.json",
+      "type" : "application/json",
+      "size" : 207
+    }, {
+      "uid" : "76f2a1eecb55e102",
+      "name" : "Response headers",
+      "source" : "76f2a1eecb55e102.json",
+      "type" : "application/json",
+      "size" : 727
+    }, {
+      "uid" : "b9bd00093e745e73",
+      "name" : "Response",
+      "source" : "b9bd00093e745e73.json",
+      "type" : "application/json",
+      "size" : 441
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests.regress"
+  }, {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test"
+  }, {
+    "name" : "host",
+    "value" : "233b021353de"
+  }, {
+    "name" : "thread",
+    "value" : "12-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.regress.test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 48,
+        "unknown" : 0,
+        "total" : 48
+      },
+      "items" : [ {
+        "uid" : "c5fe86e8573a3abf",
+        "reportUrl" : "http://localhost:8080/job/Regress/90/allure/#testresult/c5fe86e8573a3abf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631538818261,
+          "stop" : 1631538818383,
+          "duration" : 122
+        }
+      }, {
+        "uid" : "49fe90e10eb775e1",
+        "reportUrl" : "http://localhost:8080/job/Regress/89/allure/#testresult/49fe90e10eb775e1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631538147379,
+          "stop" : 1631538147486,
+          "duration" : 107
+        }
+      }, {
+        "uid" : "34153f3631a00f01",
+        "reportUrl" : "http://localhost:8080/job/Regress/88/allure/#testresult/34153f3631a00f01",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631192658468,
+          "stop" : 1631192658551,
+          "duration" : 83
+        }
+      }, {
+        "uid" : "c37aeb33c9fdd1f7",
+        "reportUrl" : "http://localhost:8080/job/Regress/87/allure/#testresult/c37aeb33c9fdd1f7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631192658468,
+          "stop" : 1631192658551,
+          "duration" : 83
+        }
+      }, {
+        "uid" : "8ee2e5ba896a817a",
+        "reportUrl" : "http://localhost:8080/job/Regress/82/allure/#testresult/8ee2e5ba896a817a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631170846654,
+          "stop" : 1631170846745,
+          "duration" : 91
+        }
+      }, {
+        "uid" : "b3546ea951f8d0ae",
+        "reportUrl" : "http://localhost:8080/job/Regress/81/allure/#testresult/b3546ea951f8d0ae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631085130082,
+          "stop" : 1631085130167,
+          "duration" : 85
+        }
+      }, {
+        "uid" : "58b77837ebb80389",
+        "reportUrl" : "http://localhost:8080/job/Regress/80/allure/#testresult/58b77837ebb80389",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631001704751,
+          "stop" : 1631001704837,
+          "duration" : 86
+        }
+      }, {
+        "uid" : "64ecc5aa238cbaba",
+        "reportUrl" : "http://localhost:8080/job/Regress/79/allure/#testresult/64ecc5aa238cbaba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630914237215,
+          "stop" : 1630914237300,
+          "duration" : 85
+        }
+      }, {
+        "uid" : "93589ce1f544fa99",
+        "reportUrl" : "http://localhost:8080/job/Regress/78/allure/#testresult/93589ce1f544fa99",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630650732810,
+          "stop" : 1630650732891,
+          "duration" : 81
+        }
+      }, {
+        "uid" : "385ddaabaffe18c1",
+        "reportUrl" : "http://localhost:8080/job/Regress/77/allure/#testresult/385ddaabaffe18c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630583694167,
+          "stop" : 1630583694242,
+          "duration" : 75
+        }
+      }, {
+        "uid" : "6a92726205b5e00c",
+        "reportUrl" : "http://localhost:8080/job/Regress/76/allure/#testresult/6a92726205b5e00c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630478857034,
+          "stop" : 1630478857150,
+          "duration" : 116
+        }
+      }, {
+        "uid" : "a823dc9bc6a18b9d",
+        "reportUrl" : "http://localhost:8080/job/Regress/75/allure/#testresult/a823dc9bc6a18b9d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630404730111,
+          "stop" : 1630404730190,
+          "duration" : 79
+        }
+      }, {
+        "uid" : "eb13a699bb34ac6a",
+        "reportUrl" : "http://localhost:8080/job/Regress/74/allure/#testresult/eb13a699bb34ac6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630309066311,
+          "stop" : 1630309066409,
+          "duration" : 98
+        }
+      }, {
+        "uid" : "c2616f0ffb78b505",
+        "reportUrl" : "http://localhost:8080/job/Regress/73/allure/#testresult/c2616f0ffb78b505",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630049162187,
+          "stop" : 1630049162271,
+          "duration" : 84
+        }
+      }, {
+        "uid" : "530a5de211afb880",
+        "reportUrl" : "http://localhost:8080/job/Regress/72/allure/#testresult/530a5de211afb880",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629965428815,
+          "stop" : 1629965428918,
+          "duration" : 103
+        }
+      }, {
+        "uid" : "7f2534153803d0cb",
+        "reportUrl" : "http://localhost:8080/job/Regress/71/allure/#testresult/7f2534153803d0cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629894349249,
+          "stop" : 1629894349325,
+          "duration" : 76
+        }
+      }, {
+        "uid" : "9e09694e83e30d03",
+        "reportUrl" : "http://localhost:8080/job/Regress/70/allure/#testresult/9e09694e83e30d03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629807378897,
+          "stop" : 1629807378999,
+          "duration" : 102
+        }
+      }, {
+        "uid" : "183b206f72a48e32",
+        "reportUrl" : "http://localhost:8080/job/Regress/69/allure/#testresult/183b206f72a48e32",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629704847091,
+          "stop" : 1629704847172,
+          "duration" : 81
+        }
+      }, {
+        "uid" : "edccfdff3298c4cb",
+        "reportUrl" : "http://localhost:8080/job/Regress/68/allure/#testresult/edccfdff3298c4cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629468077314,
+          "stop" : 1629468077401,
+          "duration" : 87
+        }
+      }, {
+        "uid" : "ef9aead8214bc456",
+        "reportUrl" : "http://localhost:8080/job/Regress/67/allure/#testresult/ef9aead8214bc456",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629465978047,
+          "stop" : 1629465978127,
+          "duration" : 80
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "d4139c17cbaeb1fd.json",
+  "parameterValues" : [ ]
+}

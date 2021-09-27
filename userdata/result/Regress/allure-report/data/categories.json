@@ -1,0 +1,332 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 302 == 200\n +  where 302 = <Response [302]>.status_code\n +    where <Response [302]> = <tests.regress.test_register_code.TestRegisterCode object at 0x7f65bc964a90>.response",
+      "children" : [ {
+        "name" : "Отправка кода подтверждения",
+        "uid" : "13a37d7b80d23c4a",
+        "parentUid" : "00edaabd038d7d8cb89cd534193defe3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397422142,
+          "stop" : 1632397422419,
+          "duration" : 277
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "00edaabd038d7d8cb89cd534193defe3"
+    }, {
+      "name" : "AssertionError: assert 424 == 200\n +  where 424 = <Response [424]>.status_code\n +    where <Response [424]> = <tests.regress.test_confirm_code.TestConfirmCode object at 0x7f65bc0fbee0>.response",
+      "children" : [ {
+        "name" : "Проверка кода подтверждения",
+        "uid" : "66017ff2be3f2a20",
+        "parentUid" : "c4e906d1864b94cb599b508063f1f7d2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397422541,
+          "stop" : 1632397422635,
+          "duration" : 94
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c4e906d1864b94cb599b508063f1f7d2"
+    }, {
+      "name" : "AssertionError: assert 424 == 200\n +  where 424 = <Response [424]>.status_code\n +    where <Response [424]> = <tests.regress.test_register_user.TestRegisterUser object at 0x7f65bc0f0ee0>.response",
+      "children" : [ {
+        "name" : "Регистрация пользователя",
+        "uid" : "f041ef1707fb2ca0",
+        "parentUid" : "bcd74173ee21163c84022488ed710983",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397422774,
+          "stop" : 1632397422883,
+          "duration" : 109
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bcd74173ee21163c84022488ed710983"
+    }, {
+      "name" : "AssertionError: assert 424 == 200\n +  where 424 = <Response [424]>.status_code\n +    where <Response [424]> = <tests.regress.test_auth_user.TestAuthUser object at 0x7f65bc147820>.response",
+      "children" : [ {
+        "name" : "Авторизация пользователя",
+        "uid" : "82662c7b42e405bb",
+        "parentUid" : "9648562a8f002aa660706b44961e7fb0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397422913,
+          "stop" : 1632397423024,
+          "duration" : 111
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9648562a8f002aa660706b44961e7fb0"
+    }, {
+      "name" : "AssertionError: assert 401 == 200\n +  where 401 = <Response [401]>.status_code\n +    where <Response [401]> = <tests.regress.test_user_verify_email.TestUserVerifyEmail object at 0x7f65bc14d190>.response",
+      "children" : [ {
+        "name" : "Подтвердить электронную почту",
+        "uid" : "18c882f7d7afb942",
+        "parentUid" : "11132d29fe71e33aed0863df72b37738",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397423399,
+          "stop" : 1632397423500,
+          "duration" : 101
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "11132d29fe71e33aed0863df72b37738"
+    }, {
+      "name" : "AssertionError: assert 401 == 200\n +  where 401 = <Response [401]>.status_code\n +    where <Response [401]> = <tests.regress.test_change_personal_data_user.TestChangePersonalDataUser object at 0x7f65bc0bb310>.response",
+      "children" : [ {
+        "name" : "Изменение личных данных пользователя",
+        "uid" : "59abbcebf11adacc",
+        "parentUid" : "971ee162cc777a7664085a10aa11fdea",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397423532,
+          "stop" : 1632397423649,
+          "duration" : 117
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "971ee162cc777a7664085a10aa11fdea"
+    }, {
+      "name" : "AssertionError: assert 401 == 200\n +  where 401 = <Response [401]>.status_code\n +    where <Response [401]> = <tests.regress.test_personal_area.TestPersonalArea object at 0x7f65bc0b14c0>.response",
+      "children" : [ {
+        "name" : "Личный кабинет",
+        "uid" : "21051d56a5a99cd8",
+        "parentUid" : "7352a591fb4f98c3978173dbd42189e8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397423681,
+          "stop" : 1632397423780,
+          "duration" : 99
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7352a591fb4f98c3978173dbd42189e8"
+    }, {
+      "name" : "AssertionError: assert 401 == 200\n +  where 401 = <Response [401]>.status_code\n +    where <Response [401]> = <tests.regress.test_favorite_product.TestFavoriteProduct object at 0x7f65bc147880>.response",
+      "children" : [ {
+        "name" : "Добавление в избранное",
+        "uid" : "4e4d587ff7e6a742",
+        "parentUid" : "56120b147b3a45e9ef5ee40af9db5a3b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397423803,
+          "stop" : 1632397423882,
+          "duration" : 79
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "56120b147b3a45e9ef5ee40af9db5a3b"
+    }, {
+      "name" : "AssertionError: assert 401 == 200\n +  where 401 = <Response [401]>.status_code\n +    where <Response [401]> = <tests.regress.test_favorite_product_double.TestFavoriteProductDouble object at 0x7f65bc1d3880>.response",
+      "children" : [ {
+        "name" : "Добавить в избранное дубль",
+        "uid" : "218e566de1c66116",
+        "parentUid" : "78978e6efdf6d337375e3a1bbb00a89d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397423906,
+          "stop" : 1632397423991,
+          "duration" : 85
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "78978e6efdf6d337375e3a1bbb00a89d"
+    }, {
+      "name" : "AssertionError: assert 401 == 200\n +  where 401 = <Response [401]>.status_code\n +    where <Response [401]> = <tests.regress.test_favorite_product_del.TestFavoriteProductDel object at 0x7f65bc14d490>.response",
+      "children" : [ {
+        "name" : "Удаление из избранного",
+        "uid" : "f729fd51614785a",
+        "parentUid" : "52ebb237c44e79daf71f154ec05f2270",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397424015,
+          "stop" : 1632397424101,
+          "duration" : 86
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "52ebb237c44e79daf71f154ec05f2270"
+    }, {
+      "name" : "AssertionError: assert 401 == 200\n +  where 401 = <Response [401]>.status_code\n +    where <Response [401]> = <tests.regress.test_favorite_product_all_del.TestFavoriteProductAllDel object at 0x7f65bc1d63a0>.response",
+      "children" : [ {
+        "name" : "Удалить все из избранного",
+        "uid" : "29bc6e1ed0d88e54",
+        "parentUid" : "7591a21bc971b8bef25c1927932845fc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397424128,
+          "stop" : 1632397424231,
+          "duration" : 103
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7591a21bc971b8bef25c1927932845fc"
+    }, {
+      "name" : "AssertionError: assert 401 == 200\n +  where 401 = <Response [401]>.status_code\n +    where <Response [401]> = <tests.regress.test_favorite_list.TestFavoriteList object at 0x7f65bc10ea00>.response",
+      "children" : [ {
+        "name" : "Список избранных",
+        "uid" : "fafa5c05b6a8282a",
+        "parentUid" : "a8cfc137cfd5db69e974d5566ba02120",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397424267,
+          "stop" : 1632397424347,
+          "duration" : 80
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a8cfc137cfd5db69e974d5566ba02120"
+    }, {
+      "name" : "AssertionError: assert 401 == 200\n +  where 401 = <Response [401]>.status_code\n +    where <Response [401]> = <tests.regress.test_reg_bonus.TestRegBonus object at 0x7f65bc135a90>.response",
+      "children" : [ {
+        "name" : "Зарегистрировать бонусную карту",
+        "uid" : "6610a49ed2b90fda",
+        "parentUid" : "7c6d25212a27663093e984efb3700b22",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397430326,
+          "stop" : 1632397430417,
+          "duration" : 91
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7c6d25212a27663093e984efb3700b22"
+    }, {
+      "name" : "AssertionError: assert 401 == 200\n +  where 401 = <Response [401]>.status_code\n +    where <Response [401]> = <tests.regress.test_push_events.TestPushEvents object at 0x7f65bc0aa340>.response",
+      "children" : [ {
+        "name" : "Получить список",
+        "uid" : "bea57560c0917a86",
+        "parentUid" : "6c8e6a0b39ab8f15159922b15265db32",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397431682,
+          "stop" : 1632397431773,
+          "duration" : 91
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6c8e6a0b39ab8f15159922b15265db32"
+    }, {
+      "name" : "AssertionError: assert 401 == 200\n +  where 401 = <Response [401]>.status_code\n +    where <Response [401]> = <tests.regress.test_del_push.TestDelPush object at 0x7f65bc0b8a60>.response",
+      "children" : [ {
+        "name" : "Удалить PUSH",
+        "uid" : "f334db330e00ab16",
+        "parentUid" : "7ec1cacb0addae7cf4ca0d3f65049fb9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397431814,
+          "stop" : 1632397431896,
+          "duration" : 82
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7ec1cacb0addae7cf4ca0d3f65049fb9"
+    }, {
+      "name" : "AssertionError: assert 401 == 200\n +  where 401 = <Response [401]>.status_code\n +    where <Response [401]> = <tests.regress.test_events_viewed.TestEventsViewed object at 0x7f65bc0aa6a0>.response",
+      "children" : [ {
+        "name" : "Установить статус просмотра",
+        "uid" : "e354ecd776d7b6f3",
+        "parentUid" : "4c376cd6b1db4a5b53aa88dd7915fe5d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397431957,
+          "stop" : 1632397432055,
+          "duration" : 98
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4c376cd6b1db4a5b53aa88dd7915fe5d"
+    }, {
+      "name" : "AssertionError: assert 401 == 200\n +  where 401 = <Response [401]>.status_code\n +    where <Response [401]> = <tests.regress.test_user_orders.TestUserOrders object at 0x7f65bbfecac0>.response",
+      "children" : [ {
+        "name" : "Получить заказы",
+        "uid" : "d077c0a96d7b5f49",
+        "parentUid" : "0790f44586447fdca17fa3815261e407",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397434590,
+          "stop" : 1632397434677,
+          "duration" : 87
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0790f44586447fdca17fa3815261e407"
+    }, {
+      "name" : "AssertionError: assert 401 == 200\n +  where 401 = <Response [401]>.status_code\n +    where <Response [401]> = <tests.regress.test_favorite.TestFavorite object at 0x7f65bc14d310>.response",
+      "children" : [ {
+        "name" : "Список избранных",
+        "uid" : "63c80315e44ffe60",
+        "parentUid" : "ac02f162082830597119ef38628bd0ef",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397434705,
+          "stop" : 1632397434813,
+          "duration" : 108
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ac02f162082830597119ef38628bd0ef"
+    }, {
+      "name" : "AssertionError: assert 401 == 200\n +  where 401 = <Response [401]>.status_code\n +    where <Response [401]> = <tests.regress.test_order_cancel.TestOrderCancel object at 0x7f65bbfeca60>.response",
+      "children" : [ {
+        "name" : "Отменить Заказ",
+        "uid" : "95992a9e68fd47a1",
+        "parentUid" : "0b8ed981b564bd7aa4d40fcb4a90e142",
+        "status" : "failed",
+        "time" : {
+          "start" : 1632397436848,
+          "stop" : 1632397436935,
+          "duration" : 87
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0b8ed981b564bd7aa4d40fcb4a90e142"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}

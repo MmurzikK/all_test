@@ -1,0 +1,351 @@
+[ {
+  "uid" : "e7191f41291aefe2",
+  "name" : "Смена города",
+  "time" : {
+    "start" : 1632397853982,
+    "stop" : 1632397881385,
+    "duration" : 27403
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12a146a8ccebf8af",
+  "name" : "Проверка удаления всех товаров",
+  "time" : {
+    "start" : 1632398526201,
+    "stop" : 1632398556151,
+    "duration" : 29950
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2b6893bc7a92a7e",
+  "name" : "Добавление в корзину",
+  "time" : {
+    "start" : 1632397733434,
+    "stop" : 1632397753984,
+    "duration" : 20550
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "42322f6ffbfbf220",
+  "name" : " test request_a_call_back",
+  "time" : {
+    "start" : 1632398230089,
+    "stop" : 1632398242253,
+    "duration" : 12164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e50f2a3c7289329",
+  "name" : "Add to favoutites",
+  "time" : {
+    "start" : 1632397829956,
+    "stop" : 1632397830275,
+    "duration" : 319
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b7563d842d479efd",
+  "name" : "Проверка отображения наименования",
+  "time" : {
+    "start" : 1632398325760,
+    "stop" : 1632398356686,
+    "duration" : 30926
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79f1ed1e68a45128",
+  "name" : "Header shop",
+  "time" : {
+    "start" : 1632397893111,
+    "stop" : 1632397912677,
+    "duration" : 19566
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1ddb49f4481ad62",
+  "name" : "Add to favoutites",
+  "time" : {
+    "start" : 1632398605613,
+    "stop" : 1632398606045,
+    "duration" : 432
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "321c88c08ba08418",
+  "name" : "Проверка удаления всех товаров",
+  "time" : {
+    "start" : 1632398489287,
+    "stop" : 1632398516617,
+    "duration" : 27330
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9db9b3ecd97da48b",
+  "name" : "Проверка окрытия карточки товара",
+  "time" : {
+    "start" : 1632398615476,
+    "stop" : 1632398677533,
+    "duration" : 62057
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55220a7b07ef8272",
+  "name" : "Add to favoutites",
+  "time" : {
+    "start" : 1632397818625,
+    "stop" : 1632397819013,
+    "duration" : 388
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "456d5c7aed16dc02",
+  "name" : " test profile Order list",
+  "time" : {
+    "start" : 1632398121858,
+    "stop" : 1632398147170,
+    "duration" : 25312
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "81658f7c6bed1fd5",
+  "name" : "Добавление в корзину ",
+  "time" : {
+    "start" : 1632397766112,
+    "stop" : 1632397808069,
+    "duration" : 41957
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93f328b216acf01a",
+  "name" : "Sravnenie",
+  "time" : {
+    "start" : 1632398565590,
+    "stop" : 1632398593238,
+    "duration" : 27648
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad91bbf5a4bb4a75",
+  "name" : "Add to favoutites",
+  "time" : {
+    "start" : 1632397842361,
+    "stop" : 1632397843827,
+    "duration" : 1466
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "93d3b8af872dead0",
+  "name" : " test logo",
+  "time" : {
+    "start" : 1632398207004,
+    "stop" : 1632398220361,
+    "duration" : 13357
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9becf992e29e7541",
+  "name" : "Close choose sity click yes",
+  "time" : {
+    "start" : 1632397583932,
+    "stop" : 1632397595664,
+    "duration" : 11732
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9869c6bf2f264efd",
+  "name" : "Проверка удаления товара",
+  "time" : {
+    "start" : 1632398452030,
+    "stop" : 1632398479979,
+    "duration" : 27949
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ddfe685621b6c7f2",
+  "name" : "Проверка увелечение цены всех товаров",
+  "time" : {
+    "start" : 1632398688210,
+    "stop" : 1632398798780,
+    "duration" : 110570
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e23d263acfc451f",
+  "name" : " test stocks",
+  "time" : {
+    "start" : 1632398033553,
+    "stop" : 1632398070861,
+    "duration" : 37308
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c354a4890ce7b35",
+  "name" : "Autorizationr",
+  "time" : {
+    "start" : 1632397655762,
+    "stop" : 1632397679134,
+    "duration" : 23372
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "36dde59581ff3e07",
+  "name" : "Catalog test_ordering",
+  "time" : {
+    "start" : 1632397993895,
+    "stop" : 1632398024139,
+    "duration" : 30244
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f131469303105255",
+  "name" : "Проверка отображения фотографий товара",
+  "time" : {
+    "start" : 1632398278373,
+    "stop" : 1632398314973,
+    "duration" : 36600
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb68754ad82a2a09",
+  "name" : "Кнопка Забыл пароль",
+  "time" : {
+    "start" : 1632398251622,
+    "stop" : 1632398268771,
+    "duration" : 17149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36fbeb4eac618d40",
+  "name" : "Header shipping_and_payment",
+  "time" : {
+    "start" : 1632397962010,
+    "stop" : 1632397983141,
+    "duration" : 21131
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c2169f40afe5bc9",
+  "name" : " test profile personal_information",
+  "time" : {
+    "start" : 1632398159346,
+    "stop" : 1632398196773,
+    "duration" : 37427
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3d8525f27c7e3d82",
+  "name" : "Sravnenie",
+  "time" : {
+    "start" : 1632397695970,
+    "stop" : 1632397723896,
+    "duration" : 27926
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4c1e295e5604b70b",
+  "name" : "Проверка отображения наименования",
+  "time" : {
+    "start" : 1632398809569,
+    "stop" : 1632398837533,
+    "duration" : 27964
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d964bbd9c1001476",
+  "name" : "Проверка отображения информации наличия товара",
+  "time" : {
+    "start" : 1632398411189,
+    "stop" : 1632398442573,
+    "duration" : 31384
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7b89b0bd840851cd",
+  "name" : " test profile",
+  "time" : {
+    "start" : 1632398083481,
+    "stop" : 1632398112030,
+    "duration" : 28549
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e9c9041365f4b1ca",
+  "name" : "Close choose sity click no",
+  "time" : {
+    "start" : 1632397607305,
+    "stop" : 1632397622147,
+    "duration" : 14842
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2515fac69ff4882a",
+  "name" : "Close choose sity",
+  "time" : {
+    "start" : 1632397561735,
+    "stop" : 1632397574781,
+    "duration" : 13046
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f2c0a573096430d",
+  "name" : "Header Catalog",
+  "time" : {
+    "start" : 1632397923798,
+    "stop" : 1632397950892,
+    "duration" : 27094
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36e4767b8ec261f3",
+  "name" : "Register",
+  "time" : {
+    "start" : 1632397633758,
+    "stop" : 1632397643273,
+    "duration" : 9515
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cb2a4a356a7794c7",
+  "name" : "Проверка отображения цены",
+  "time" : {
+    "start" : 1632398367942,
+    "stop" : 1632398401580,
+    "duration" : 33638
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

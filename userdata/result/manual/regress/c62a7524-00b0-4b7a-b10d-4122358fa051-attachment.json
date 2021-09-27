@@ -1,0 +1,30 @@
+{
+    "success": true,
+    "result": [
+        {
+            "TYPE": "DELIVERY",
+            "TITLE": "Курьерская доставка 05.ru",
+            "ITEMS": [
+                {
+                    "ID": 52,
+                    "NAME": "Курьерская доставка 05.ru",
+                    "DESCRIPTION": "Курьерская доставка 05.ru",
+                    "PRICE": 0,
+                    "LOCATION": "Махачкала",
+                    "ADDRESS": "Нет",
+                    "PRINT_PRICE": "0₽",
+                    "IS_SELFDELIVERY": false,
+                    "IS_DPD": false,
+                    "PARENT_NAME": "Дагестан",
+                    "PARENT_CODE": "DELIVERY",
+                    "CHECKED": true,
+                    "PERIOD": "сегодня",
+                    "STORE": null,
+                    "LOGOTIP": null,
+                    "TYPE": "DELIVERY",
+                    "LAST_ADDRESSES": null
+                }
+            ]
+        }
+    ]
+}

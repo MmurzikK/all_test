@@ -1,0 +1,155 @@
+{
+  "uid" : "3d8525f27c7e3d82",
+  "name" : "Sravnenie",
+  "fullName" : "test.TestRegister#test_sravnenie",
+  "historyId" : "9a70904e075036beb85014ff3e7d68c5",
+  "time" : {
+    "start" : 1632397695970,
+    "stop" : 1632397723896,
+    "duration" : 27926
+  },
+  "description" : "Проверка на сравнение",
+  "descriptionHtml" : "<p>Проверка на сравнение</p>\n",
+  "status" : "broken",
+  "statusMessage" : "ValueError: invalid literal for int() with base 10: ''",
+  "statusTrace" : "self = <test.TestRegister object at 0x7ff08a436a00>\n\n    @allure.title(\"Sravnenie\")\n    @allure.description(\"Проверка на сравнение\")\n    def test_sravnenie(self):\n    \n        self.driver.get(self.base_url)\n        timeout = 30\n        self.close_modal_city()\n        element_present = EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.main-slider__slide-wrapper'))\n        WebDriverWait(self.driver, timeout).until(element_present)\n        new_catalog = self.new_catalog\n        t = 0\n        for link in self.new_catalog:\n    \n            self.driver.get(link)\n            products = WebDriverWait(self.driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, \"div.product-card\")))\n    \n            for i in range(len(new_catalog)):\n                section = random.randint(1, len(products) - 1)\n                self.driver.execute_script(\"arguments[0].scrollIntoView();\",\n                                           products[section])\n                t = t + 1\n                button = products[section].find_element_by_css_selector(\".js-tool-product-cart__content-wrapper\")  #добавить проверку появления нижнего слайдера\n                button.click()\n                added_to_comparison =  WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR,\"div.p.p_fz11.p_tac\")))\n    \n    \n        button_for_basket =  WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR,\"div.tippy-content > div > a\")))\n    \n        button_for_basket.click()\n    \n        srav_chek = WebDriverWait(self.driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, \".tabs-row__tab\")))\n        check = 0\n        for one_chek in srav_chek:\n            nubmer_tovarov = one_chek.find_element_by_class_name(\"tabs-row__sup\").text\n>           check = check + int(nubmer_tovarov)\nE           ValueError: invalid literal for int() with base 10: ''\n\ntest.py:237: ValueError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister",
+    "time" : {
+      "start" : 1632397679612,
+      "stop" : 1632397695970,
+      "duration" : 16358
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1632397549230,
+      "stop" : 1632397549249,
+      "duration" : 19
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister::0",
+    "time" : {
+      "start" : 1632397723934,
+      "stop" : 1632397724361,
+      "duration" : 427
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "9d2fc9ee43bb"
+  }, {
+    "name" : "thread",
+    "value" : "13-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 3,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "fab47712804e8721",
+        "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/fab47712804e8721",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.StaleElementReferenceException: Message: The element reference of <a class=\"bem-button bem-button_fluid bem-button_h24 bem-button_red mt-7 mx-auto\" href=\"/personal/compare/\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed",
+        "time" : {
+          "start" : 1631885728153,
+          "stop" : 1631885747503,
+          "duration" : 19350
+        }
+      }, {
+        "uid" : "d26cb50b31de0925",
+        "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/d26cb50b31de0925",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631881104825,
+          "stop" : 1631881122225,
+          "duration" : 17400
+        }
+      }, {
+        "uid" : "b5303ab34d1534f0",
+        "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/b5303ab34d1534f0",
+        "status" : "broken",
+        "statusDetails" : "ValueError: invalid literal for int() with base 10: ''",
+        "time" : {
+          "start" : 1631875195646,
+          "stop" : 1631875216581,
+          "duration" : 20935
+        }
+      }, {
+        "uid" : "b14faa03fe5706f5",
+        "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/b14faa03fe5706f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631872962992,
+          "stop" : 1631872987775,
+          "duration" : 24783
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "3d8525f27c7e3d82.json",
+  "parameterValues" : [ ]
+}

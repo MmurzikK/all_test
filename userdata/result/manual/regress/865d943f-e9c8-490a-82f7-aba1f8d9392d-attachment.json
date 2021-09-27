@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "result": {
+        "ID": "623277",
+        "NAME": "Сетевое ЗУ Apple MHJE3ZM/A белый",
+        "DETAIL_PAGE_PATH": "/catalog/portativ/aksessuary_dlya_gadghetov/zaryadnye_ustroystva_i_kabeli/ph_charger/118067/",
+        "IMAGE": "https://img.stage.05.ru/resize/OuIclD1AruLKgdzH4O44YU58rtA50aVDQgwwsk6z2WA//rs:fit:440:884:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9hMzEvYTMxOWVlMzEzNjkwZWY4Mzg5MjM3Y2Y4NGU0MDIzMDkuanBn",
+        "THUMBNAILS": {
+            "1X": "https://img.stage.05.ru/resize/5wOYnJ6Z9GZ3zwX5n6Mhy68Lu57vfgBkCpQroZ-y7OM//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9hMzEvYTMxOWVlMzEzNjkwZWY4Mzg5MjM3Y2Y4NGU0MDIzMDkuanBn",
+            "2X": "https://img.stage.05.ru/resize/XgL3EvkxITgeVVo0GzEGI2Qi0FrbQV0TP2Y9MvcHXsQ//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay9hMzEvYTMxOWVlMzEzNjkwZWY4Mzg5MjM3Y2Y4NGU0MDIzMDkuanBn"
+        },
+        "PRICES": [
+            {
+                "CODE": "DEFAULT",
+                "NAME": null,
+                "CROSSED": false,
+                "PRICE_TYPE_ID": 5,
+                "BONUS": 0,
+                "PRICE": 1990,
+                "PRINT_PRICE": "1 990₽",
+                "CURRENCY": "RUB"
+            }
+        ],
+        "PRICE": 1990,
+        "PRINT_PRICE": "1 990₽",
+        "IN_BASKET": false,
+        "IN_FAVORITES": false,
+        "IN_COMPARE": false,
+        "STATUS": {
+            "DEFAULT": 5,
+            "NAME": "В наличии",
+            "DESCRIPTION_PART": null,
+            "ICON": false,
+            "TEXT": "В наличии",
+            "COLOR": "#008080",
+            "CODE": "IN_STOCK",
+            "CLASS": "bem-pseudo_green",
+            "FREE_DELIVERY": true
+        },
+        "ACTIONS": null,
+        "SECTION": {
+            "ID": "718",
+            "NAME": "Зарядные устройства",
+            "CODE": "ph_charger",
+            "PARENT_NAME": "Зарядные устройства и кабели",
+            "CREDIT_BUY_UNAVAILABILITY": null,
+            "SECTION_PAGE_PATH": "/catalog/portativ/aksessuary_dlya_gadghetov/zaryadnye_ustroystva_i_kabeli/ph_charger/",
+            "IMAGE": "https://img.stage.05.ru/resize/7zBmg1KPEA55Tot-KeUozaomaNXFgTxlilDTbB4BFiU//rs:fit:600:322:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay81MzAvNTMwZThkMzYxZDUyMmM1N2Y4OWFjOTA1N2UyNzY4ODUucG5n",
+            "THUMBNAILS": {
+                "1X": "https://img.stage.05.ru/resize/vqrB7_Wc_JQEX8XCmPFKWLuvV_y30BgJdR5hXUZ2d9s//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay81MzAvNTMwZThkMzYxZDUyMmM1N2Y4OWFjOTA1N2UyNzY4ODUucG5n",
+                "2X": "https://img.stage.05.ru/resize/NVIQyE6cikkHQla9p4yYVx_9KxtEJoAbBPVzz9HIWtE//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay81MzAvNTMwZThkMzYxZDUyMmM1N2Y4OWFjOTA1N2UyNzY4ODUucG5n"
+            }
+        }
+    }
+}

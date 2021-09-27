@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "result": {
+        "PAGINATION": {
+            "PARAM": "page",
+            "COUNT": 0,
+            "CURRENT": 1,
+            "ROWS": 0
+        },
+        "ITEMS": null,
+        "SECTIONS_BLOCK": null
+    }
+}

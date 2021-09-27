@@ -1,0 +1,2675 @@
+{
+    "success": true,
+    "result": [
+        {
+            "ID": "608716",
+            "SEARCHABLE_CONTENT": "РАЗРАБОТЧИК PHP DEVELOPER(SYMFONY)\r\n\r\n",
+            "NAME": "Разработчик PHP Developer(Symfony)",
+            "REQUIREMENTS": [
+                "Опыт работы с highload проектами, понимание построения оптимальной архитектуры приложений;",
+                "Знание и понимание ООП: шаблоны проектирования, принципы SOLID",
+                "Практический опыт реализации проектов на Symfony",
+                "Продвинутые знания Symfony framework",
+                "Знание SQL в связке с ORM (Doctrine)",
+                "Опыт реализации RESTful API",
+                "Опыт работы с системами контроля версий, Git",
+                "Опыт командной разработки, Agile(Scrum)"
+            ],
+            "RESPONSIBILITY": [
+                "Разработка и поддержка highload проекта в сфере e-commerce",
+                "Участие в проектировании масштабируемой архитектуры для будущего проекта",
+                "Писать чистый, лаконичный код, соблюдать стандарты написания кода",
+                "Проводить code review, писать тесты для своего кода"
+            ],
+            "OFFERS": [
+                "Погружение в изучение и использование различных практик и инструментов современной разработки;",
+                "молодую, дружную и целеустремленную команду профессионалов;",
+                "График работы: 5/2, с 9.00 до 18.00",
+                "Работа в стабильной компании",
+                "Заработная плата: по итогам собеседования в зависимости от опыта и знаний",
+                "Возможность развиваться и получать новый опыт",
+                "Бесплатный обед в корпоративной столовой",
+                "Премиальные за квартал, в зависимости от выполненной работы",
+                "Дружный коллектив"
+            ],
+            "WELCOME": null,
+            "SALARY": "По результатам собеседования",
+            "SECTION": null,
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел web-разработки",
+            "TEXT": null
+        },
+        {
+            "ID": "651084",
+            "SEARCHABLE_CONTENT": "MIDDLE/SENIOR GOLANG DEVELOPER\r\n\r\n",
+            "NAME": "Middle/Senior Golang developer",
+            "REQUIREMENTS": [
+                "У вас есть опыт разработки и проектирования микросервисной архитектуры с 0",
+                "Знаете, как организовать взаимодействие микросервисов.",
+                "У Вас опыт разработки от 2-х лет",
+                "Есть опыт удаленной работы с командой",
+                "Вы понимаете ограничений серверной и клиентской разработки;",
+                "Есть опыт работы с Git",
+                "Навыки работы с асинхронным кодом",
+                "Написание unit-тестов и интеграционных тестов",
+                "Писать легковесный, лаконичный код - Будет плюсом",
+                "Опыт работы с gRPC",
+                "Опыт работы с шинами данных (Rabbit mq, pub/sub)"
+            ],
+            "RESPONSIBILITY": [
+                "Разработка приложений с нуля в микро сервисной архитектуре",
+                "Работа в продуктовой команде"
+            ],
+            "OFFERS": [
+                "Работа удалённо/ или в офисе г. Махачкала(геолокация)",
+                "График работы: 5/2",
+                "Предпочтительно фулл тайм. Можем начать с парт-тайм, чтобы нам понять готовность к плотной совместной работе, а вам не терять текущее рабочее место;",
+                "Работа в команде",
+                "Заработная плата: от 100 тыс руб"
+            ],
+            "WELCOME": null,
+            "SALARY": "От 100 000 руб.",
+            "SECTION": null,
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел web-разработки",
+            "TEXT": null
+        },
+        {
+            "ID": "651088",
+            "SEARCHABLE_CONTENT": "QA TEAM LEAD/QA SENIOR ENGINEER\r\n\r\n",
+            "NAME": "QA Team Lead/QA Senior engineer",
+            "REQUIREMENTS": [
+                "Желание стать лучшим в своем деле!",
+                "Знание и навык построения процесса разработки и тестирования на профессиональном уровне (составления тест-планов, чек-листов, тест-кейсов).",
+                "​​​​​​​Готовым развиваться в профессиональной сфере!!",
+                "Опыт функционального, интеграционного тестирования.",
+                "Знание основных техник тест дизайна",
+                "Умение ввести документацию",
+                "Опыт работы с языками программирования: Python, Java, JS",
+                "Большим плюсом будет: Опыт тестирования приложений в микро сервисной архитектуре: тестирование контрактов, интеграционное тестирование, end-to-end тесты"
+            ],
+            "RESPONSIBILITY": [
+                "Контроль и обеспечение качества продуктов компании",
+                "Выстроить процессы тестирования веб, мобильных приложений, rest api",
+                "Планирование процесса тестирования вместе с командой разработчиков",
+                "Разработка, review, согласование тест-планов, чек-листов, тест-кейсов, методик тестирования (функциональных, регрессионных и интеграционных тестов)",
+                "Создание и поддержание документации по тестированию, пользовательской документации.",
+                "Организация работы команды тестирования, наставничество"
+            ],
+            "OFFERS": [
+                "Работа над интересным IT-проектом",
+                "Гибкий график работы: 5/2",
+                "Профессиональный рост: обучение/повышение квалификации за счет компании",
+                "Оплачиваемый отпуск",
+                "Бесплатный обед в корпоративной столовой",
+                "Конкурентоспособная зарплата",
+                "Корпоративные и тимбилдинговые мероприятия",
+                "Приятная атмосфера и дружный коллектив"
+            ],
+            "WELCOME": null,
+            "SALARY": "По результатам собеседования",
+            "SECTION": null,
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел web-разработки",
+            "TEXT": null
+        },
+        {
+            "ID": "586221",
+            "SEARCHABLE_CONTENT": "ПРИЕМЩИК В СЕРВИСНЫЙ ЦЕНТР\r\n\r\n&lt;DIV CLASS=&quot;CAPTION&quot;&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;ЧТО ТРЕБУЕТСЯ ОТ ВАС?&lt;/B&gt;&lt;/SPAN&gt;&lt;/I&gt;&lt;/SPAN&gt;\r\n&lt;/DIV&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL CLASS=&quot;STANDART&quot;&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОБРАЗОВАНИЕ НЕ НИЖЕ СРЕДНЕ-СПЕЦИАЛЬНОГО, ЖЕЛАТЕЛЬНО ТЕХНИЧЕСКОЕ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ЗНАНИЕ КОМПЬЮТЕРНОЙ ТЕХНИКИ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;УВЕРЕННЫЙ ПОЛЬЗОВАТЕЛЬ ПК&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;УМЕНИЕ ГРАМОТНО ОБЩАТЬСЯ С КЛИЕНТАМИ И РЕШАТЬ КОНФЛИКТНЫЕ СИТУАЦИИ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;АКТИВНОСТЬ, ЖЕЛАНИЕ ОБУЧАТЬСЯ, ОТВЕТСТВЕННОСТЬ, ПОРЯДОЧНОСТЬ, СТРЕССОУСТОЙЧИВОСТЬ&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;DIV CLASS=&quot;CAPTION&quot;&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;I&gt;&lt;BR&gt;\r\n &lt;/I&gt;&lt;/SPAN&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;ВАШИ ОБЯЗАННОСТИ:&lt;/B&gt;&lt;/SPAN&gt;&lt;/I&gt; &lt;/SPAN&gt;\r\n&lt;/DIV&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL CLASS=&quot;STANDART&quot;&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПРИЕМ ЗАЯВОК НА РЕМОНТ И ОБРАЩЕНИЙ КЛИЕНТОВ, ИХ УЧЕТ И ОБРАБОТКА&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПРОВЕДЕНИЕ ПЕРВИЧНОЙ ДИАГНОСТИКИ И ОТРАЖЕНИЕ РЕЗУЛЬТАТОВ ДИАГНОСТИКИ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПЕРЕДАЧА ОБОРУДОВАНИЯ В РЕМОНТ (СТАЦИОНАРНЫЙ) И СОГЛАСОВАНИЕ ЕГО СТОИМОСТИ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ВЫДАЧА ПОДМЕННОГО ОБОРУДОВАНИЯ И ОФОРМЛЕНИЕ ЗАМЕНЫ ОБОРУДОВАНИЯ ПРИ НЕОБХОДИМОСТИ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПРИЕМ ОБОРУДОВАНИЯ ИЗ РЕМОНТА&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ВЫДАЧА ОТРЕМОНТИРОВАННОГО ТОВАРА И КОНСУЛЬТАЦИЯ КЛИЕНТА&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;DIV CLASS=&quot;CAPTION&quot;&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;/DIV&gt;\r\n &lt;SPAN STYLE=&quot;FONT-SIZE: 14PT; FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES;&quot;&gt;&lt;BR&gt;\r\n &lt;/SPAN&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 18.6667PX;&quot;&gt;&lt;B&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT; FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES;&quot;&gt;ЧТО ПРЕДЛАГАЕМ МЫ:&lt;/SPAN&gt;&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT; FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES;&quot;&gt; &lt;/SPAN&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 14PT;&quot;&gt; &lt;/SPAN&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT; FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL CLASS=&quot;STANDART&quot;&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ГРАФИК РАБОТЫ: 5/2, 10.00-19.00&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОПЛАТА ОТПУСКА&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОБЕД ЗА СЧЕТ ОРГАНИЗАЦИИ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ЗАРАБОТНАЯ ПЛАТА: СДЕЛЬНАЯ, В СРЕДНЕМ 15 000 - 18 000&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;",
+            "NAME": "Приемщик в сервисный центр",
+            "REQUIREMENTS": [
+                "Образование не ниже средне-специального, желательно техническое",
+                "Знание компьютерной техники",
+                "Уверенный пользователь ПК",
+                "Умение грамотно общаться с клиентами и решать конфликтные ситуации",
+                "Активность, желание обучаться, ответственность, порядочность, стрессоустойчивость."
+            ],
+            "RESPONSIBILITY": [
+                "Прием заявок на ремонт и обращений клиентов, их учет и обработка",
+                "Проведение первичной диагностики и отражение результатов диагностики",
+                "Передача оборудования в ремонт (стационарный) и согласование его стоимости",
+                "Выдача подменного оборудования и оформление замены оборудования при необходимости",
+                "Прием оборудования из ремонта",
+                "Выдача отремонтированного товара и консультация клиента"
+            ],
+            "OFFERS": [
+                "График работы: 5/2, 10.00-19.00;",
+                "Оплата отпуска;",
+                "Обед за счет организации",
+                "Заработная плата: сдельная, в среднем 15 000 - 18 000 руб."
+            ],
+            "WELCOME": null,
+            "SALARY": "15 000 - 18 000 руб.",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В Сервисном центре",
+            "GROUP": "Сервисный центр",
+            "TEXT": null
+        },
+        {
+            "ID": "586222",
+            "SEARCHABLE_CONTENT": "КАССИР\r\n\r\n&lt;DIV CLASS=&quot;CAPTION&quot;&gt;\r\n &lt;I&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;B&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;ТРЕБОВАНИЯ:&lt;/SPAN&gt;&lt;/B&gt; &lt;/SPAN&gt;&lt;/I&gt;\r\n&lt;/DIV&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL CLASS=&quot;STANDART&quot;&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОБРАЗОВАНИЕ ВЫСШЕЕ, НЕОКОНЧЕННОЕ ВЫСШЕЕ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ВНИМАТЕЛЬНАЯ, ОТВЕТСТВЕННАЯ, ВЕЖЛИВАЯ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;УВЕРЕННЫЙ ПОЛЬЗОВАТЕЛЬ ПК;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;МОЖНО БЕЗ ОПЫТА РАБОТЫ.&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;DIV CLASS=&quot;CAPTION&quot;&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;&lt;BR&gt;\r\n &lt;/B&gt;&lt;/SPAN&gt;&lt;/I&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;ОБЯЗАННОСТИ:&lt;/B&gt;&lt;/SPAN&gt;&lt;/I&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;/DIV&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL CLASS=&quot;STANDART&quot;&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПРИЕМ ДЕНЕЖНЫХ СРЕДСТВ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОСУЩЕСТВЛЕНИЕ РАСЧЕТНО-КАССОВЫХ ОПЕРАЦИЙ С ПОКУПАТЕЛЯМИ И ПОСТАВЩИКАМИ.&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;DIV CLASS=&quot;CAPTION&quot;&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;BR&gt;\r\n &lt;/SPAN&gt;&lt;/I&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;B&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;УСЛОВИЯ РАБОТЫ:&lt;/SPAN&gt;&lt;/B&gt;&lt;/SPAN&gt;&lt;/I&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;/DIV&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL CLASS=&quot;STANDART&quot;&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ГРАФИК РАБОТЫ: 5/2, (8-ЧАСОВОЙ РАБОЧИЙ ДЕНЬ);&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОПЛАТА ОТПУСКА;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОБЕД ЗА СЧЕТ КОМПАНИИ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;НОВЫЕ ЗНАНИЯ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ВОЗМОЖНОСТЬ ПРОФЕССИОНАЛЬНОГО И КАРЬЕРНОГО РОСТА.&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;",
+            "NAME": "Кассир",
+            "REQUIREMENTS": [
+                "Образование не ниже среднего специального",
+                "Внимательная, ответственная, вежливая",
+                "Пользователь ПК",
+                "Можно без опыта работы"
+            ],
+            "RESPONSIBILITY": [
+                "Прием денежных средств",
+                "Осуществление расчетно-кассовых операций с покупателями",
+                "Обучение за счет компании"
+            ],
+            "OFFERS": [
+                "График работы: 5/2, (8-часовой рабочий день)",
+                "Оплата отпуска",
+                "Обед за счет компании",
+                "Возможность профессионального и карьерного роста"
+            ],
+            "WELCOME": null,
+            "SALARY": "в среднем 22 000 - 30 000 руб.",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": null,
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В магазине",
+            "GROUP": "Касса",
+            "TEXT": null
+        },
+        {
+            "ID": "586231",
+            "SEARCHABLE_CONTENT": "ДИЗАЙНЕР\r\n\r\n&lt;STRONG&gt; ТРЕБОВАНИЯ:&lt;/STRONG&gt;&lt;BR&gt;\r\n ЭРУДИРОВАННОСТЬ, ЛЕГКООБУЧАЕМОСТЬ, СТРЕССОУСТОЙЧИВОСТЬ, КРЕАТИВНОСТЬ;&lt;BR&gt;\r\n ПОНИМАНИЕ ОСНОВ ГРАФИЧЕСКОГО ДИЗАЙНА;&lt;BR&gt;\r\n ВЛАДЕНИЕ ИНСТРУМЕНТАМИ (ADOBE PHOTOSHOP, ADOBE ILLUSTRATOR); &lt;BR&gt;\r\n ГОТОВНОСТЬ К ПОСТОЯННОМУ ОБУЧЕНИЮ; &lt;BR&gt;\r\n ГРАМОТНАЯ УСТНАЯ И ПИСЬМЕННАЯ РЕЧЬ. &lt;BR&gt;\r\n &lt;BR&gt;\r\n &lt;STRONG&gt; ОБЯЗАННОСТИ:&lt;/STRONG&gt;&lt;BR&gt;\r\n УЧАСТИЕ В СОЗДАНИИ ИДЕЙ РЕКЛАМНЫХ КАМПАНИЙ/МАТЕРИАЛОВ;&lt;BR&gt;\r\n ВИЗУАЛИЗАЦИЯ ИДЕЙ РЕКЛАМНЫХ СООБЩЕНИЙ;&lt;BR&gt;\r\n СОЗДАНИЕ ГРАФИЧЕСКОЙ ЧАСТИ ОРИГИНАЛ - МАКЕТОВ И АДАПТАЦИЯ ПОД НОСИТЕЛЬ (НАРУЖНАЯ РЕКЛАМА, РЕКЛАМА В ПРЕССЕ, ЛИСТОВКИ, БУКЛЕТЫ, ИНТЕРНЕТ-САЙТЫ, ИНТЕРНЕТ-БАННЕРЫ, БЛАНКИ, КОНВЕРТЫ, КАЛЕНДАРИ, ПАПКИ, ЛИСТОВКИ, ВИЗИТКИ, КАТАЛОГИ И Т.Д.);&lt;BR&gt;\r\n ПРОВЕРКА РЕКЛАМНЫХ МАТЕРИАЛОВ НА СООТВЕТСТВИЕ СУЩЕСТВУЮЩЕМУ ФИРМЕННОМУ СТИЛЮ.&lt;BR&gt;\r\n &lt;BR&gt;\r\n &lt;STRONG&gt; УСЛОВИЯ:&lt;/STRONG&gt;&lt;BR&gt;\r\n ГРАФИК РАБОТЫ: 5/2, 09:00-18:00;&lt;BR&gt;\r\nОПЛАЧИВАЕМЫЙ ОТПУСК;&lt;BR&gt;\r\n БЕСПЛАТНЫЙ ОБЕД. ДРУЖНЫЙ КОЛЛЕКТИВ.&lt;BR&gt;",
+            "NAME": "Дизайнер",
+            "REQUIREMENTS": [
+                "Эрудированность, легкая обучаемость, стрессоустойчивость, креативность;",
+                "Понимание основ графического дизайна;",
+                "Владение инструментами (Adobe Photoshop, Adobe Illustrator);",
+                "Готовность к постоянному обучению;",
+                "Грамотная устная и письменная речь."
+            ],
+            "RESPONSIBILITY": [
+                "Участие в создании идей рекламных кампаний/материалов;",
+                "Визуализация идей рекламных сообщений;",
+                "Создание графической части оригинал - макетов и адаптация под носитель (наружная реклама, реклама в прессе, листовки, буклеты, интернет-сайты, интернет-баннеры, бланки, конверты, календари, визитки, каталоги и т.д.);",
+                "Проверка рекламных материалов на соответствие существующему фирменному стилю."
+            ],
+            "OFFERS": [
+                "рафик работы: 5/2, время обсуждаемо;",
+                "Оплачиваемый отпуск;",
+                "Вкусный обед в корпоративной столовой;",
+                "Дружный коллектив;",
+                "Интересные задачи и большие возможности для профессионального роста;",
+                "Заработная плата: по результатам собеседования."
+            ],
+            "WELCOME": null,
+            "SALARY": "По результатам собеседования",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": null,
+            "PLACEMENT": null,
+            "GROUP": "Отдел маркетинга",
+            "TEXT": null
+        },
+        {
+            "ID": "586236",
+            "SEARCHABLE_CONTENT": "ПОМОЩНИК БУХГАЛТЕРА\r\n\r\n&lt;DIV CLASS=&quot;CAPTION&quot;&gt;\r\n &lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;&lt;I&gt;&lt;B&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;ТРЕБОВАНИЯ:&lt;/SPAN&gt;&lt;/B&gt;&lt;/I&gt; &lt;/SPAN&gt;\r\n&lt;/DIV&gt;\r\n &lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt; &lt;/SPAN&gt;\r\n&lt;UL CLASS=&quot;STANDART&quot;&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;ОБРАЗОВАНИЕ ВЫСШЕЕ (ПРОФИЛЬНОЕ);&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt; &lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;АНАЛИТИЧЕСКИЕ СПОСОБНОСТИ;&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;УСИДЧИВОСТЬ, ВНИМАТЕЛЬНОСТЬ;&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt; &lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;ИСПОЛНИТЕЛЬНОСТЬ, ОТВЕТСТВЕННОСТЬ;&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt; &lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;УМЕНИЕ БЫСТРО АДАПТИРОВАТЬСЯ;&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt; &lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;УВЕРЕННЫЙ ПОЛЬЗОВАТЕЛЬ ПК;&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt; &lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;ЗНАНИЕ ПРОГРАММЫ 1С, EXCEL, WORD.&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt; &lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt; &lt;/SPAN&gt;\r\n&lt;DIV CLASS=&quot;CAPTION&quot;&gt;\r\n &lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;&lt;I&gt;&lt;BR&gt;\r\n &lt;/I&gt;&lt;/SPAN&gt;&lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;&lt;I&gt;&lt;B&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;ОБЯЗАННОСТИ:&lt;/SPAN&gt;&lt;/B&gt; &lt;/I&gt;&lt;/SPAN&gt;\r\n&lt;/DIV&gt;\r\n &lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt; &lt;/SPAN&gt;\r\n&lt;UL CLASS=&quot;STANDART&quot;&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;РАБОТА С БАНКОВСКОЙ ДОКУМЕНТАЦИЕЙ;&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt; &lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;ВЫПОЛНЕНИЕ ПОРУЧЕНИЙ ФИНАНСОВОГО ДИРЕКТОРА;&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt; &lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;РАБОТА С ДОЛЖНИКАМИ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;ВЗАИМОДЕЙСТВИЕ С ДРУГИМИ ОТДЕЛАМИ ПО ВОПРОСАМ ИСПРАВЛЕНИЯ ОШИБОК&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt; &lt;/SPAN&gt;\r\n&lt;DIV CLASS=&quot;CAPTION&quot;&gt;\r\n &lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;&lt;I&gt;&lt;B&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;BR&gt;\r\n &lt;/SPAN&gt;&lt;/B&gt;&lt;/I&gt;&lt;/SPAN&gt;&lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;&lt;I&gt;&lt;B&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;УСЛОВИЯ РАБОТЫ:&lt;/SPAN&gt;&lt;/B&gt; &lt;/I&gt;&lt;/SPAN&gt;\r\n&lt;/DIV&gt;\r\n &lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt; &lt;/SPAN&gt;\r\n&lt;UL CLASS=&quot;STANDART&quot;&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;ГРАФИК РАБОТЫ: 5/2, С 9.00 ДО 18.00&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt; &lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;ОПЛАЧИВАЕМЫЙ ОТПУСК;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE='FONT-FAMILY: &quot;TIMES NEW ROMAN&quot;, TIMES; FONT-SIZE: 13PT;'&gt;ЗАРАБОТНАЯ ПЛАТА: ОТ 15.000 ДО 22.000 РУБЛЕЙ&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;",
+            "NAME": "Помощник бухгалтера",
+            "REQUIREMENTS": [
+                "Вы имеете высшее профильное образование (бухгалтерский учет, экономическое);",
+                "Любите бухгалтерию и готовы постоянно развиваться в этой сфере;",
+                "Внимательны, умеете принимать четкие решения;",
+                "Умение передавать знания и планировать свою работу;",
+                "Коммуникабельны в общении, обладаете грамотной устной и письменной речью.",
+                "Опыт работы станет Вашим явным преимуществом!"
+            ],
+            "RESPONSIBILITY": [
+                "Учет расчётов с поставщиками и заказчиками, проверка правильности входящих документов, акты сверок бухгалтерский учет в программе 1С;",
+                "Работа с банковской документацией",
+                "Выполнение поручений финансового директора.",
+                "Взаимодействие с другими отделами по вопросам исправления ошибок.",
+                "Ведение базы данных; обработка, ввод данных и разнесение информации в 1С 8.3"
+            ],
+            "OFFERS": [
+                "График работы: 5/2, с 9.00 до 18.00.",
+                "Оплачиваемый отпуск.",
+                "Бесплатный обед в корпоративной столовой.",
+                "Бесплатное питание",
+                "Возможность карьерного и профессионального роста.",
+                "Заработная плата: оклад + премия"
+            ],
+            "WELCOME": null,
+            "SALARY": "От 15000 до 22000 руб.",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Финансовый отдел",
+            "TEXT": null
+        },
+        {
+            "ID": "586242",
+            "SEARCHABLE_CONTENT": "ДОСТАВЩИК\r\n\r\n&lt;DIV CLASS=&quot;CAPTION&quot;&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;I&gt;&lt;B&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;ТРЕБОВАНИЯ:&lt;/SPAN&gt;&lt;/B&gt; &lt;/I&gt;&lt;/SPAN&gt;\r\n&lt;/DIV&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL CLASS=&quot;STANDART&quot;&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;КРЕПКАЯ ФИЗИЧЕСКАЯ ФОРМА;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПУНКТУАЛЬНОСТЬ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОТВЕТСТВЕННОСТЬ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;БЕЗ ВРЕДНЫХ ПРИВЫЧЕК.&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;DIV CLASS=&quot;CAPTION&quot;&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;I&gt;&lt;BR&gt;\r\n &lt;/I&gt;&lt;/SPAN&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;ОБЯЗАННОСТИ:&lt;/B&gt;&lt;/SPAN&gt;&lt;/I&gt; &lt;/SPAN&gt;\r\n&lt;/DIV&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL CLASS=&quot;STANDART&quot;&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПОГРУЗКА, ВЫГРУЗКА ТОВАРА;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ВЫЕЗД С ВОДИТЕЛЕМ НА ДОСТАВКУ ТОВАРА, ПОДЪЕМ ТОВАРА.&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;DIV CLASS=&quot;CAPTION&quot;&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;I&gt;&lt;BR&gt;\r\n &lt;/I&gt;&lt;/SPAN&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;I&gt;&lt;B&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;УСЛОВИЯ РАБОТЫ:&lt;/SPAN&gt;&lt;/B&gt;&lt;/I&gt; &lt;/SPAN&gt;\r\n&lt;/DIV&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL CLASS=&quot;STANDART&quot;&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ГРАФИК РАБОТЫ: 6/1, С 10.00 ДО 19.00;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;БЕСПЛАТНЫЙ ОБЕД ЗА СЧЕТ КОМПАНИИ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОПЛАЧИВАЕМЫЙ ОТПУСК;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ЗАРАБОТНАЯ ПЛАТА: 15000 РУБ.&NBSP;&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;/LI&gt;\r\n&lt;/UL&gt;",
+            "NAME": "Доставщик",
+            "REQUIREMENTS": [
+                "Крепкая физическая форма",
+                "Пунктуальность, трудолюбие",
+                "Ответственное отношение к работе"
+            ],
+            "RESPONSIBILITY": [
+                "Погрузка, выгрузка товара",
+                "Выезд с водителем на доставку товара, подъем товара"
+            ],
+            "OFFERS": [
+                "График работы: 6/1, с 10.00 до 19.00",
+                "Бесплатный обед за счет компании",
+                "Оплачиваемый отпуск",
+                "Заработная плата: 18000 руб"
+            ],
+            "WELCOME": null,
+            "SALARY": "18000 руб.",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": null,
+            "GROUP": "Транспортный отдел",
+            "TEXT": null
+        },
+        {
+            "ID": "586247",
+            "SEARCHABLE_CONTENT": "МЕРЧЕНДАЙЗЕР\r\n\r\nТРЕБОВАНИЯ: \r\n\r\n- ВНИМАТЕЛЬНОСТЬ, ОТВЕТСТВЕННОСТЬ, СТРЕССОУСТОЙЧИВОСТЬ; \r\n- ЗНАНИЕ ПК ИЛИ КАКОЙ ЛИБО ДРУГОЙ ТЕХНИКИ; \r\n- ПРЕДПРИИМЧИВОСТЬ, ЭНЕРГИЧНОСТЬ; \r\n- ОТВЕТСТВЕННЫЙ ПОДХОД К РАБОТЕ; \r\n- ОПЫТ РАБОТЫ ЗНАЧЕНИЯ НЕ ИМЕЕТ. \r\n\r\nОБЯЗАННОСТИ: \r\n\r\n- ПРИЕМ И ОПРИХОДОВАНИЕ ТОВАРА; \r\n- ВЫКЛАДКА ТОВАРА НА ВИТРИНЫ; \r\n- РАССТАНОВКА ЦЕННИКОВ НА ТОВАР; \r\n- ПОРЯДОК НА ВИТРИНАХ. \r\n\r\nУСЛОВИЯ РАБОТЫ: \r\n\r\n- ГРАФИК РАБОТЫ: 8-ЧАСОВОЙ РАБОЧИЙ ДЕНЬ; \r\n- ОПЛАЧИВАЕМЫЙ ОТПУСК; \r\n- ОБЕД ЗА СЧЕТ КОМПАНИИ; \r\n- ОБУЧЕНИЕ ЗА СЧЕТ КОМПАНИИ.",
+            "NAME": "Мерчендайзер",
+            "REQUIREMENTS": [
+                "Внимательность, ответственность, стрессоустойчивость",
+                "Знание ПК или какой либо другой техники",
+                "Предприимчивость, энергичность",
+                "Ответственный подход к работе",
+                "Опыт работы значения не имеет"
+            ],
+            "RESPONSIBILITY": [
+                "Прием и оприходование товара",
+                "Выкладка товара на витрины",
+                "Расстановка ценников на товар",
+                "Порядок на витринах"
+            ],
+            "OFFERS": [
+                "График работы: 8-часовой рабочий день",
+                "Оплачиваемый отпуск",
+                "Обед за счет компании",
+                "Обучение за счет компании"
+            ],
+            "WELCOME": null,
+            "SALARY": "сдельная (в среднем 15 000 - 25 000 руб.)",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": null,
+            "EMPLOYMENT": null,
+            "SHEDULE": null,
+            "PLACEMENT": null,
+            "GROUP": "Отдел продаж",
+            "TEXT": null
+        },
+        {
+            "ID": "586248",
+            "SEARCHABLE_CONTENT": "СВЕРЩИК-АНАЛИТИК\r\n\r\n&lt;DIV CLASS=&quot;CAPTION&quot;&gt;\r\n\t ТРЕБОВАНИЯ:\r\n&lt;/DIV&gt;\r\n&lt;UL CLASS=&quot;STANDART&quot;&gt;\r\n\t&lt;LI&gt;ОБРАЗОВАНИЕ ВЫСШЕЕ/НЕОКОНЧЕННОЕ МАТЕМАТИЧЕСКОЕ ИЛИ ЭКОНОМИЧЕСКОЕ;&lt;/LI&gt;\r\n\t&lt;LI&gt;ОТВЕТСТВЕННЫЙ ПОДХОД К РАБОТЕ;&lt;/LI&gt;\r\n\t&lt;LI&gt;АНАЛИТИЧЕСКИЙ СКЛАД УМА.&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n&lt;DIV CLASS=&quot;CAPTION&quot;&gt;\r\n\t ОБЯЗАННОСТИ:\r\n&lt;/DIV&gt;\r\n&lt;UL CLASS=&quot;STANDART&quot;&gt;\r\n\t&lt;LI&gt;СВЕРКА ОСТАТКОВ ТМЦ НА СКЛАДАХ ПО СЕРИЙНЫМ НОМЕРАМ;&lt;/LI&gt;\r\n\t&lt;LI&gt;ИСПРАВЛЕНИЕ ОШИБОК;&lt;/LI&gt;\r\n\t&lt;LI&gt;СОСТАВЛЕНИЕ ОТЧЕТНОСТИ ПО ПРОДЕЛАННОЙ РАБОТЕ.&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n&lt;DIV CLASS=&quot;CAPTION&quot;&gt;\r\n\t УСЛОВИЯ:\r\n&lt;/DIV&gt;\r\n&lt;UL CLASS=&quot;STANDART&quot;&gt;\r\n\t&lt;LI&gt;ОПЛАЧИВАЕМЫЙ ОТПУСК;&lt;/LI&gt;\r\n\t&lt;LI&gt;ОБЕД ЗА СЧЕТ КОМПАНИИ;&lt;/LI&gt;\r\n\t&lt;LI&gt;ПРИОБРЕТЕНИЕ ОПЫТА, ПРОФЕССИОНАЛЬНЫЙ РОСТ.&lt;/LI&gt;\r\n&lt;/UL&gt;",
+            "NAME": "Сверщик-аналитик",
+            "REQUIREMENTS": [
+                "Образование высшее (неоконченное) математическое или экономическое;",
+                "Ответственный подход к работе;",
+                "Аналитический склад ума."
+            ],
+            "RESPONSIBILITY": [
+                "Сверка остатков ТМЦ на складах по серийным номерам;",
+                "Исправление ошибок;",
+                "Составление отчетности по проделанной работе."
+            ],
+            "OFFERS": [
+                "График работы: 5/2, с 10.00 до 19.00;",
+                "Оплачиваемый отпуск;",
+                "Обучение за счет компании;",
+                "Приобретение опыта, профессиональный рост;",
+                "Зарплата: от 16 000 руб. на испытат. срок. После испытат. срока обсуждается на собеседовании."
+            ],
+            "WELCOME": null,
+            "SALARY": null,
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": null,
+            "GROUP": "Финансовый отдел",
+            "TEXT": null
+        },
+        {
+            "ID": "586286",
+            "SEARCHABLE_CONTENT": "ПОМОЩНИК  МЕНЕДЖЕРА ПО ЗАКУПКАМ ДИВИЗИОНА\r\n\r\n&lt;DIV CLASS=&quot;CAPTION&quot;&gt;\r\n\t&lt;P&gt;\r\n &lt;B&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;ЧТО ТРЕБУЕТСЯ ОТ ВАС:&lt;/SPAN&gt;&lt;/I&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n\t&lt;/P&gt;\r\n\t&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n\t&lt;UL&gt;\r\n\t\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;АКТИВНАЯ ЖИЗНЕННАЯ ПОЗИЦИЯ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ИНИЦИАТИВНОСТЬ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПОЛЬЗОВАТЕЛЬ ПК;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ВНИМАТЕЛЬНОСТЬ, ОТВЕТСТВЕННОСТЬ, ПУНКТУАЛЬНОСТЬ.&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;/UL&gt;\r\n\t&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n\t&lt;P&gt;\r\n\t\t&lt;B&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;BR&gt;\r\n\t\t&lt;/SPAN&gt;&lt;/I&gt;&lt;/SPAN&gt;&lt;/B&gt;\r\n\t&lt;/P&gt;\r\n\t&lt;P&gt;\r\n\t\t&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;&lt;B&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;ВАШИ ОБЯЗАННОСТИ:&lt;/SPAN&gt;&lt;/I&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n\t&lt;/P&gt;\r\n\t&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n\t&lt;UL&gt;\r\n\t\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ЦЕНООБРАЗОВАНИЕ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;СОЗДАНИЕ И ПРОСЛЕЖИВАНИЕ ДОКУМЕНТОВ В БАЗЕ 1С&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;МОНИТОРИНГ РЫНКА.&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;/UL&gt;\r\n\t&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n\t&lt;UL&gt;\r\n\t&lt;/UL&gt;\r\n\t&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n\t&lt;P&gt;\r\n\t\t&lt;B&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 14PT;&quot;&gt;&lt;I&gt;&lt;BR&gt;\r\n\t\t&lt;/I&gt;&lt;/SPAN&gt;&lt;/B&gt;\r\n\t&lt;/P&gt;\r\n\t&lt;P&gt;\r\n\t\t&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;&lt;B&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 14PT;&quot;&gt;&lt;I&gt;ЧТО ПРЕДЛАГАЕМ МЫ:&lt;/I&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n\t&lt;/P&gt;\r\n\t&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n\t&lt;UL&gt;\r\n\t\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ГРАФИК РАБОТЫ: 5/2, С 9.00 ДО 18.00;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОПЛАЧИВАЕМЫЙ ОТПУСК;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ВОЗМОЖНОСТЬ ПРОФЕССИОНАЛЬНОГО РОСТА;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОБЕД ЗА СЧЕТ КОМПАНИИ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ЗАРАБОТНАЯ ПЛАТА: 18000 РУБ.&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;/UL&gt;\r\n&lt;/DIV&gt;\r\n&lt;UL CLASS=&quot;STANDART&quot;&gt;\r\n&lt;/UL&gt;",
+            "NAME": "Помощник  менеджера по закупкам дивизиона",
+            "REQUIREMENTS": [
+                "Активная жизненная позиция, ответственность, исполнительность,",
+                "Опыт работы в сфере закупок не обязателен, но будет преимуществом при отклике)))",
+                "Продвинутый пользователь ПК;",
+                "Готовность учится и работать с большим объемом информации;",
+                "Желание развиваться в сфере закупок."
+            ],
+            "RESPONSIBILITY": [
+                "Документооборот по клиентам",
+                "Работа в 1С8, Excel",
+                "Подготовка отчетов по запросу руководителя",
+                "Создание и прослеживание документов в базе 1С",
+                "Мониторинг рынка."
+            ],
+            "OFFERS": [
+                "Бесплатная корпоративная библиотека лучших книг по развитию, менеджменту",
+                "В шаговой доступности столовая с домашней кухней",
+                "Удобное рабочее место",
+                "Работу в интересных проектах в команде талантливых коллег;",
+                "График работы: 5/2, с 9.00 до 18.00",
+                "Вкусный обед в корпоративной столовой",
+                "Стабильная заработная плата + премии",
+                "Просторный open-space в центре",
+                "Возможность профессионального и карьерного развития: Перспектива - Переход в закупщика!!!"
+            ],
+            "WELCOME": null,
+            "SALARY": "По результатам собеседования",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел продаж",
+            "TEXT": null
+        },
+        {
+            "ID": "586299",
+            "SEARCHABLE_CONTENT": "КОНСУЛЬТАНТ 1С\r\n\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;&lt;I&gt;ОБЯЗАННОСТИ:&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt; &lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПОДДЕРЖКА И КОНСУЛЬТАЦИИ ПОЛЬЗОВАТЕЛЕЙ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ВЫЯВЛЕНИЕ ТРЕБОВАНИЙ ПО ДОРАБОТКЕ ПРОГРАММНОГО ПРОДУКТА&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПРОРАБОТКА ЗАДАЧ ДЛЯ ПЕРЕДАЧИ ПРОГРАММИСТАМ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ТЕСТИРОВАНИЕ ФУНКЦИОНАЛА&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;НАПИСАНИЕ ИНСТРУКЦИЙ ДЛЯ ПОЛЬЗОВАТЕЛЕЙ.&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;P&gt;\r\n &lt;BR&gt;\r\n&lt;/P&gt;\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;&lt;I&gt;ТРЕБОВАНИЯ:&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОПЫТ РАБОТЫ С 1С ОТ 1 ГОДА&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ЗНАНИЕ КОНФИГУРАЦИЙ 1С УТ11&lt;/SPAN&gt;&NBSP;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;АНАЛИТИЧЕСКОЕ МЫШЛЕНИЕ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;НАЦЕЛЕННОСТЬ НА РЕЗУЛЬТАТ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;УМЕНИЕ РАБОТАТЬ В КОМАНДЕ И С ПОЛЬЗОВАТЕЛЯМИ&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n&lt;P&gt;\r\n\t&lt;I&gt;&lt;U&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;BR&gt;\r\n &lt;/SPAN&gt;&lt;/U&gt;&lt;/I&gt;\r\n&lt;/P&gt;\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;&lt;I&gt;&lt;U&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПРИВЕТСТВУЕТСЯ&lt;/SPAN&gt;&lt;/U&gt;&lt;/I&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОПЫТ ПРОГРАММИРОВАНИЯ И ДОРАБОТКИ ТИПОВЫХ 1С&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОПЫТ РАБОТЫ С УФ, БСП, СКД&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ЗНАНИЕ КОНФИГУРАЦИЙ 1С УТ11 И МЕХАНИЗМОВ ТИПОВЫХ КОНФИГУРАЦИЙ В ЦЕЛОМ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОПЫТ АНАЛИЗА ТРЕБОВАНИЙ И ПОДГОТОВКИ ТЕХНИЧЕСКИХ ЗАДАНИЙ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОПЫТ СОВМЕСТНОЙ РАЗРАБОТКИ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;НАЛИЧИЕ СЕРТИФИКАТОВ 1С&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;P&gt;\r\n &lt;BR&gt;\r\n&lt;/P&gt;\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;B&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;I&gt;УСЛОВИЯ: &lt;/I&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;B&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;I&gt; &lt;/I&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ГРАФИК РАБОТЫ: 5/2, 10:00 - 19:00 (ИЛИ С 9:00 ДО 18:00)&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОПЛАТА ОТПУСКА&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОБЕД ЗА СЧЕТ КОМПАНИИ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПЕРСПЕКТИВЫ КАРЬЕРНОГО И ПРОФЕССИОНАЛЬНОГО РОСТА&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;УЧАСТИЕ В ИНТЕРЕСНЫХ ПРОЕКТАХ&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;",
+            "NAME": "Консультант 1С",
+            "REQUIREMENTS": [
+                "Опыт работы с 1с от 1 года",
+                "Знание конфигураций 1С УТ11",
+                "Аналитическое мышление",
+                "Нацеленность на результат",
+                "Умение работать в команде и с пользователями"
+            ],
+            "RESPONSIBILITY": [
+                "Поддержка и консультации пользователей",
+                "Выявление требований по доработке программного продукта",
+                "Проработка задач для передачи программистам",
+                "Тестирование функционала",
+                "Написание инструкций для пользователей"
+            ],
+            "OFFERS": [
+                "График работы: 5/2, 10:00 - 19:00 (или с 9:00 до 18:00)",
+                "Оплата отпуска",
+                "Обед за счет компании",
+                "Перспективы карьерного и профессионального роста",
+                "Участие в интересных проектах"
+            ],
+            "WELCOME": [
+                "Опыт программирования и доработки типовых 1с",
+                "Опыт работы с УФ, БСП, СКД",
+                "Знание конфигураций 1С УТ11 и механизмов типовых конфигураций в целом",
+                "Опыт анализа требований и подготовки технических заданий",
+                "Опыт совместной разработки",
+                "Наличие сертификатов 1с"
+            ],
+            "SALARY": "От 15 000 до 25 000 руб",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": null,
+            "GROUP": "Отдел разработки",
+            "TEXT": null
+        },
+        {
+            "ID": "586302",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ГАРАНТИЙНОГО ОТДЕЛА\r\n\r\nЕСЛИ ВАША ТЕХНИКА РАБОТАЕТ НЕ &QUOT;КАК ЧАСЫ&QUOT;, ТО ВЫ ВСЕГДА МОЖЕТЕ ОБРАТИТЬСЯ В ГАРАНТИЙНЫЙ ОТДЕЛ. НАШИ МЕНЕДЖЕРЫ ЗДЕСЬ НЕ ТОЛЬКО ПРИМУТ ТОВАР НА РЕМОНТ, НО И СДЕЛАЮТ ВСЕ ВОЗМОЖНОЕ, ЧТОБЫ БЫСТРО РЕШИТЬ ВОЗНИКШУЮ ПРОБЛЕМУ.&lt;BR /&gt;\r\n&lt;BR /&gt;\r\nЧТО ТРЕБУЕТСЯ ОТ ВАС:&lt;BR /&gt;\r\n- ДОБРОСОВЕСТНОЕ И ОТВЕТСТВЕННОЕ ОТНОШЕНИЕ К РАБОТЕ&lt;BR /&gt;\r\n- ИНТЕРЕС К ТЕХНИКЕ, В ЧАСТНОСТИ К ТЕЛЕФОНАМ ИЛИ КОМПЬЮТЕРАМ&lt;BR /&gt;\r\n- АКТИВНОСТЬ И УМЕНИЕ ОПЕРАТИВНО РЕШАТЬ ВОЗНИКШИЕ ПРОБЛЕМЫ&lt;BR /&gt;\r\n- СПОСОБНОСТЬ СОХРАНЯТЬ ХЛАДНОКРОВИЕ В ЛЮБОЙ СИТУАЦИИ&lt;BR /&gt;\r\n- ЗНАТЬ БАЗОВЫЕ ХАРАКТЕРИСТИКИ ТЕХНИКИ&lt;BR /&gt;\r\n- ЗНАНИЕ &QUOT;ЗАКОНА О ЗАЩИТЕ ПРАВ ПОТРЕБИТЕЛЕЙ&QUOT; ЖЕЛАТЕЛЬНО.&lt;BR /&gt;\r\n&lt;BR /&gt;\r\nВАШИ ОБЯЗАННОСТИ:&lt;BR /&gt;\r\n- ПРИЕМ НА РЕМОНТ ТОВАРА ОТ КЛИЕНТОВ&lt;BR /&gt;\r\n- ПРОВЕСТИ ПЕРВИЧНУЮ ДИАГНОСТИКУ ТОВАРА&lt;BR /&gt;\r\n- РАБОТАТЬ С ВОЗРАЖЕНИЕМИ, ПОСТУПАЮЩИМИ ОТ КЛИЕНТОВ&lt;BR /&gt;\r\n&lt;BR /&gt;\r\nЧТО ПРЕДЛАГАЕМ МЫ:&lt;BR /&gt;\r\n- РАБОЧИЙ ГРАФИК: 5/2, 8-МИ ЧАСОВОЙ РАБОЧИЙ ДЕНЬ&lt;BR /&gt;\r\n- ДРУЖНАЯ АТМОСФЕРА В КОЛЛЕКТИВЕ&lt;BR /&gt;\r\n- ОБЕД В КОРПОРАТИВНОЙ СТОЛОВОЙ&lt;BR /&gt;\r\n- ОПЛАЧИВАЕМЫЙ ОТПУСК&lt;BR /&gt;\r\n- ЗАРАБОТНАЯ ПЛАТА: В СРЕДНЕМ 20000 - 25000 РУБ. И ВЫШЕ",
+            "NAME": "Менеджер гарантийного отдела",
+            "REQUIREMENTS": [
+                "Добросовестное и ответственное отношение к работе﻿",
+                "Интерес к технике, в частности к телефонам или компьютерам",
+                "Активность и умение оперативно решать возникшие проблемы",
+                "Способность сохранять хладнокровие в любой ситуации",
+                "Знать базовые характеристики техники",
+                "Знать &quot;Закон о защите прав потребителя&quot;"
+            ],
+            "RESPONSIBILITY": [
+                "Прием на ремонт товара от клиентов",
+                "Провести первичную диагностику товара",
+                "Работать с возражениеми, поступающими от клиентов"
+            ],
+            "OFFERS": [
+                "Рабочий график: 5/2, 8-ми часовой рабочий ден",
+                "Дружная атмосфера в коллективе",
+                "Обед в корпоративной столовой",
+                "Оплачиваемый отпуск",
+                "Заработная плата: в среднем 25000 - 35000 руб. и выше"
+            ],
+            "WELCOME": null,
+            "SALARY": "25000-35000 руб.",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": null,
+            "EMPLOYMENT": null,
+            "SHEDULE": null,
+            "PLACEMENT": null,
+            "GROUP": "Гарантийный отдел",
+            "TEXT": null
+        },
+        {
+            "ID": "586304",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ПО ПРОДАЖАМ БЫТОВОЙ ТЕХНИКИ \r\n\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;&lt;I&gt;МИКРОВОЛНОВКИ, СТИРАЛЬНЫЕ МАШИНКИ, ХОЛОДИЛЬНИКИ - ТЕХНИКА, КОТОРАЯ ОБЛЕГЧАЕТ НАШУ КАЖДОДНЕВНУЮ ЖИЗНЬ. ВЕДЬ ОТ ВЫБОРА БЫТОВОЙ ТЕХНИКИ ЗАВИСИТ УДОБСТВО КАЖДОГО ВАШЕГО ДНЯ. ИМЕННО С ЭТИМ ВЫБОРОМ ВАМ ПОМОГУТ НАШИ МЕНЕДЖЕРЫ БЫТОВОГО ОТДЕЛА.&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt; &lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;B&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;BR&gt;\r\n &lt;/SPAN&gt;&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;B&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;ЧТО ТРЕБУЕТСЯ ОТ ВАС?&lt;/SPAN&gt;&lt;/I&gt;&lt;/B&gt; &lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;&lt;BR&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;КОММУНИКАБЕЛЬНОСТЬ, УМЕНИЕ НАЙТИ ПОДХОД К КЛИЕНТУ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;АКТИВНОСТЬ И ИНИЦИАТИВНОСТЬ В РАБОТЕ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ЖЕЛАНИЕ РАЗВИВАТЬСЯ, ИСКАТЬ НОВЫЕ ПОДХОДЫ В РАБОТЕ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ГРАМОТНО ПОСТАВЛЕННАЯ РЕЧЬ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ЖЕЛАНИЕ РАБОТАТЬ И ДОСТИГАТЬ ВЫСОКИХ РЕЗУЛЬТАТОВ&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;BR&gt;\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;&lt;I&gt;ВАШИ ОБЯЗАННОСТИ:&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt; &lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;КОНСУЛЬТИРОВАНИЕ КЛИЕНТОВ, ОЗНАКОМЛЕНИЕ С ТЕХНИЧЕСКИМ ХАРАКТЕРИСТИКАМИ ТОВАРОВ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;УСПЕШНАЯ ПРОДАЖА БЫТОВОЙ ТЕХНИКИ&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;B&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;BR&gt;\r\n &lt;/SPAN&gt;&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;B&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;ЧТО ПРЕДЛАГАЕМ МЫ?&lt;/SPAN&gt;&lt;/I&gt;&lt;/B&gt; &lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ГРАФИК РАБОТЫ: СКОЛЬЗЯЩИЙ, 6/1, 8-МИ ЧАСОВОЙ РАБОЧИЙ ДЕНЬ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОПЛАЧИВАЕМЫЙ ОТПУСК&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ВКУСНЫЙ ОБЕД В КОРПОРАТИВНОЙ СТОЛОВОЙ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ВОЗМОЖНОСТЬ ПРОЯВИТЬ СЕБЯ В РАБОТЕ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ЗАРАБОТНАЯ ПЛАТА: СДЕЛЬНАЯ, 25&NBSP;000 - 40 000 РУБ. И ВЫШЕ&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;",
+            "NAME": "Менеджер по продажам бытовой техники ",
+            "REQUIREMENTS": [
+                "Коммуникабельность, умение найти подход к клиенту",
+                "Активность и инициативность в работе",
+                "Желание развиваться, искать новые подходы в работе",
+                "Грамотно поставленная речь",
+                "Желание работать и достигать высоких результатов"
+            ],
+            "RESPONSIBILITY": [
+                "Консультирование клиентов, ознакомление с техническим характеристиками товаров",
+                "Успешная продажа бытовой техники"
+            ],
+            "OFFERS": [
+                "График работы: скользящий, 6/1, 8-ми часовой рабочий день",
+                "Оплачиваемый отпуск",
+                "Вкусный обед в корпоративной столовой",
+                "Возможность проявить себя в работе",
+                "Заработная плата: сдельная, 25 000 - 40 000 руб. и выше"
+            ],
+            "WELCOME": null,
+            "SALARY": "25 000 - 40 000 руб. и выше ",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": null,
+            "EMPLOYMENT": null,
+            "SHEDULE": null,
+            "PLACEMENT": null,
+            "GROUP": "Отдел продаж",
+            "TEXT": null
+        },
+        {
+            "ID": "586305",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ПО ПРОДАЖАМ ПОРТАТИВНОЙ ТЕХНИКИ \r\n\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;B&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;МЫ ТОЧНО ЗНАЕМ, ЧТО ТЕЛЕФОН - БОЛЬШЕ ЧЕМ СРЕДСТВО СВЯЗИ. ВЕДЬ В НЕМ ВЫ НАЙДЕТЕ ВСЕ ДЛЯ УСПЕШНОЙ РАБОТЫ: ТОПОВЫЕ ПРОГРАММЫ ДЛЯ БИЗНЕСА ИЛИ ХОРОШУЮ КАМЕРУ ДЛЯ СЕМЕЙНЫХ ФОТО. ПОМОЧЬ НАЙТИ ТО, ЧТО НУЖНО - ВОТ ГЛАВНАЯ ЗАДАЧА НАШИХ МЕНЕДЖЕРОВ.&lt;/SPAN&gt;&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;BR&gt;\r\n &lt;/SPAN&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&NBSP;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;&lt;I&gt;ЧТО ТРЕБУЕТСЯ ОТ ВАС?&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;АКТИВНОСТЬ И ИНИЦИАТИВНОСТЬ В РАБОТЕ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tГРАМОТНАЯ РЕЧЬ, УМЕНИЕ НАЙТИ ПОДХОД К КЛИЕНТУ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tТЕХНИЧЕСКИЕ ЗНАНИЯ ТЕЛЕФОНОВ И ПОРТАТИВНОЙ ТЕХНИКИ ПРИВЕТСТВУЕТСЯ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tГОТОВНОСТЬ ПРОЯВЛЯТЬ ИНИЦИАТИВУ И БРАТЬ НА СЕБЯ ОТВЕТСТВЕННОСТЬ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tГОЛОД НОВЫХ ЗНАНИЙ И ЖЕЛАНИЕ РАЗВИВАТЬСЯ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tИНТЕРЕС И ЛЮБОВЬ К ТЕХНИКЕ - ВОТ ЧТО МЫ ХОТИМ ВИДЕТЬ В МЕНЕДЖЕРЕ!&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;BR&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;B&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;I&gt;\r\nВАШИ ОБЯЗАННОСТИ:&lt;/I&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОБСЛУЖИВАНИЕ И КОНСУЛЬТИРОВАНИЕ КЛИЕНТОВ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tПОМОЩЬ В ВЫБОРЕ ПОРТАТИВНОЙ ТЕХНИКИ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tПРОДАЖА ПОРТАТИВНОЙ ТЕХНИКИ&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;BR&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;I&gt;&lt;B&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;ЧТО ПРЕДЛАГАЕМ МЫ?&lt;/SPAN&gt;&lt;/B&gt;&lt;/I&gt;&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ГРАФИК: 6/1, СКОЛЬЗЯЩИЙ (8 ЧАСОВОЙ РАБОЧИЙ ДЕНЬ)&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tОПЛАТА ОТПУСКА&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tВКУСНЫЙ ОБЕД В КОРПОРАТИВНОЙ СТОЛОВОЙ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tЗАРПЛАТА СДЕЛЬНАЯ: В СРЕДНЕМ 25 000 - 40 000 РУБ. И ВЫШЕ (% ОТ ПРОДАЖ)&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;BR&gt;",
+            "NAME": "Менеджер по продажам портативной техники ",
+            "REQUIREMENTS": [
+                "Активность и инициативность в работе",
+                "Грамотная речь, умение найти подход к клиенту",
+                "Технические знания телефонов и портативной техники приветствуется",
+                "Готовность проявлять инициативу и брать на себя ответственность",
+                "Голод новых знаний и желание развиваться",
+                "Интерес и любовь к технике - вот что мы хотим видеть в менеджере!"
+            ],
+            "RESPONSIBILITY": [
+                "Обслуживание и консультирование клиентов",
+                "Помощь в выборе портативной техники",
+                "Продажа портативной техники"
+            ],
+            "OFFERS": [
+                "График: 6/1, скользящий (8 часовой рабочий день)",
+                "Оплата отпуска",
+                "Вкусный обед в корпоративной столовой",
+                "Зарплата сдельная: в среднем 25 000 - 40 000 руб. и выше (% от продаж)"
+            ],
+            "WELCOME": null,
+            "SALARY": "25 000 - 40 000 руб. и выше",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": null,
+            "EMPLOYMENT": null,
+            "SHEDULE": null,
+            "PLACEMENT": null,
+            "GROUP": "Отдел продаж",
+            "TEXT": null
+        },
+        {
+            "ID": "586306",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ПО ПРОДАЖАМ КОМПЬЮТЕРНОЙ ТЕХНИКИ\r\n\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;&lt;I&gt;МАТЕРИНСКАЯ ПЛАТА, ВИДЕОКАРТА, ЖЕСТКИЙ ДИСК - СЛОВА ПРИВЫЧНЫЕ ДЛЯ ЛЮБИТЕЛЕЙ КОМПЬЮТЕРОВ. ТЕ, КТО ЛЮБИТ СОБИРАТЬ И РАЗБИРАТЬ СВОЙ ПК СОБСТВЕННОРУЧНО, ЗНАЕТ, ДЛЯ ЧЕГО НУЖЕН КАЖДЫЙ МИКРОЧИП И ВИНТИК, - СТАНОВЯТСЯ НАШИМИ МЕНЕДЖЕРАМИ. ИМЕННО ОНИ В ОБИЛИИ ТЕХНИЧЕСКИХ НОВИНОК СОБЕРУТ ТОТ ПК, КОТОРЫЙ СТАНЕТ ВАШИМ НАДЕЖНЫМ И ВЕРНЫМ ДРУГОМ. &lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;&lt;I&gt; &lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;&lt;I&gt; &lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;&lt;I&gt; &lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;\r\n&lt;P&gt;\r\n &lt;BR&gt;\r\n&lt;/P&gt;\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;&lt;I&gt;\r\n\tЧТО ТРЕБУЕТСЯ ОТ ВАС?&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt; &lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ЗНАНИЕ КОМПЬЮТЕРНОГО ЖЕЛЕЗА И КОМПЛЕКТУЮЩИХ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ЖЕЛАНИЕ СТАТЬ ЧАСТЬЮ КОМАНДЫ И ВНЕСТИ СВОЙ ВКЛАД&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПРОЯВЛЕНИЕ ИНИЦИАТИВНОСТИ, ПОИСК НОВЫХ ПОДХОДОВ В РАБОТЕ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;УМЕНИЕ НАЙТИ ПОДХОД К КЛИЕНТУ И БЫСТРО УСТАНОВИТЬ КОНТАКТ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ГРАМОТНАЯ, ХОРОШО ПОСТАВЛЕННАЯ РЕЧЬ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;НАЦЕЛЕННОСТЬ НА ДОСТИЖЕНИЕ ВЫСОКИХ РЕЗУЛЬТАТОВ&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;P&gt;\r\n &lt;BR&gt;\r\n&lt;/P&gt;\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;&lt;I&gt;ВАШИ ОБЯЗАННОСТИ:&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt; &lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОБСЛУЖИВАНИЕ И КОНСУЛЬТИРОВАНИЕ КЛИЕНТОВ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПОДБОР ТОВАРА ПОД ЗАПРОС КЛИЕНТА&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;СОПРОВОЖДЕНИЕ И ОФОРМЛЕНИЕ ЗАКАЗА&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;P&gt;\r\n &lt;BR&gt;\r\n&lt;/P&gt;\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;I&gt;&lt;B&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;ЧТО ПРЕДЛАГАЕМ МЫ?&lt;/SPAN&gt;&lt;/B&gt;&lt;/I&gt; &lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ГРАФИК РАБОТЫ: 6/1, 8-МИ ЧАСОВОЙ РАБОЧИЙ ДЕНЬ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ВКУСНЫЙ ОБЕД В КОРПОРАТИВНОЙ СТОЛОВОЙ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОПЛАЧИВАЕМЫЙ ОТПУСК&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ВОЗМОЖНОСТЬ РАЗВИВАТЬСЯ ВМЕСТЕ С НАМИ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ЗАРАБОТНАЯ ПЛАТА: СДЕЛЬНАЯ ( В СРЕДНЕМ 25 000 - 40 000 РУБ. И ВЫШЕ)&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;",
+            "NAME": "Менеджер по продажам компьютерной техники",
+            "REQUIREMENTS": [
+                "Знание компьютерного железа и комплектующих",
+                "Желание стать частью команды и внести свой вклад",
+                "Проявление инициативности, поиск новых подходов в работе",
+                "Умение найти подход к клиенту и быстро установить контакт",
+                "Грамотная, хорошо поставленная речь",
+                "Нацеленность на достижение высоких результатов"
+            ],
+            "RESPONSIBILITY": [
+                "Обслуживание и консультирование клиентов",
+                "Подбор товара под запрос клиента",
+                "Сопровождение и оформление заказа"
+            ],
+            "OFFERS": [
+                "График работы: 6/1, 8-ми часовой рабочий день",
+                "Вкусный обед в корпоративной столовой",
+                "Оплачиваемый отпуск",
+                "Возможность развиваться вместе с нами",
+                "Заработная плата: сдельная ( в среднем 25 000 - 40 000 руб. и выше)"
+            ],
+            "WELCOME": null,
+            "SALARY": "25 000 - 40 000 руб. и выше",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": null,
+            "EMPLOYMENT": null,
+            "SHEDULE": null,
+            "PLACEMENT": null,
+            "GROUP": "Отдел продаж",
+            "TEXT": null
+        },
+        {
+            "ID": "586308",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ПО КАДРАМ\r\n\r\nВ СВЯЗИ С РАСШИРЕНИЕМ ШТАТА В КОМПАНИЮ 05.RU ТРЕБУЕТСЯ ПОМОЩНИК МЕНЕДЖЕРА ПО ПОДБОРУ ПЕРСОНАЛА.&lt;BR&gt;\r\n &lt;B&gt;&lt;I&gt;ЧТО ТРЕБУЕТСЯ ОТ ВАС:&lt;/I&gt;&lt;/B&gt;&lt;BR&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;ВЫСШЕЕ ОБРАЗОВАНИЕ (ЖЕЛАТЕЛЬНО ПСИХОЛОГИЧЕСКОЕ);&lt;/LI&gt;\r\n\t&lt;LI&gt;\r\n\tПОЛЬЗОВАТЕЛЬ ПК;&lt;/LI&gt;\r\n\t&lt;LI&gt;\r\n\tНАВЫКИ ДЕЛОВОГО ОБЩЕНИЯ И ЗНАНИЯ В ОБЛАСТИ ПСИХОЛОГИИ;&lt;/LI&gt;\r\n\t&lt;LI&gt;\r\n\tЖЕЛАНИЕ РАБОТАТЬ С ЛЮДЬМИ, УМЕНИЕ НАЙТИ ПОДХОД К ЛЮДЯМ;&lt;/LI&gt;\r\n\t&lt;LI&gt;\r\n\tНАЛИЧИЕ ОРГАНИЗАТОРСКИХ СПОСОБНОСТЕЙ;&lt;/LI&gt;\r\n\t&lt;LI&gt;\r\n\tОПЫТ РАБОТЫ В СФЕРЕ ПОДБОРА ПЕРСОНАЛА ПРИВЕТСТВУЕТСЯ;&lt;/LI&gt;\r\n\t&lt;LI&gt;\r\n\tЛИЧНЫЕ КАЧЕСТВА: САМОСТОЯТЕЛЬНОСТЬ, ОТВЕТСТВЕННОСТЬ, СТРЕССОУСТОЙЧИВОСТЬ, ВЫСОКАЯ РАБОТОСПОСОБНОСТЬ, РАЗВИТЫЕ КОММУНИКАБЕЛЬНЫЕ НАВЫКИ, СПОСОБНОСТЬ РАЗБИРАТЬСЯ В ЛЮДЯХ.&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;BR&gt;\r\n &lt;B&gt;&lt;I&gt;ВАШИ О&lt;/I&gt;&lt;I&gt;БЯЗАННОСТИ:&lt;/I&gt;&lt;/B&gt;&lt;BR&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;ПОИСК, ПОДБОР И ОТБОР ПО ВСЕМ ПОЗИЦИЯМ, ПРОВЕДЕНИЕ СОБЕСЕДОВАНИЙ;&lt;/LI&gt;\r\n\t&lt;LI&gt;\r\n\tСОВЕРШАТЬ ОБЗВОН СОИСКАТЕЛЕЙ;&lt;/LI&gt;\r\n\t&lt;LI&gt;\r\n\tВЗАИМОДЕЙСТВИЕ С УЧЕБНЫМИ ЗАВЕДЕНИЯМИ;&lt;/LI&gt;\r\n\t&lt;LI&gt;\r\n\tПРОВЕДЕНИЕ КОРПОРАТИВНЫХ МЕРОПРИЯТИЙ И ДР.&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;BR&gt;\r\n &lt;B&gt;&lt;I&gt;ЧТО ПРЕДЛАГАЕМ МЫ:&lt;/I&gt;&lt;/B&gt;&lt;BR&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;ГРАФИК РАБОТЫ: 5/2, С 9.00 ДО 18.00&lt;/LI&gt;\r\n\t&lt;LI&gt;\r\n\tОПЛАЧИВАЕМЫЙ ОТПУСК,&lt;/LI&gt;\r\n\t&lt;LI&gt;\r\n\tВКУСНЫЙ ОБЕД В КОРПОРАТИВНОЙ СТОЛОВОЙ;&lt;/LI&gt;\r\n\t&lt;LI&gt;\r\n\tПЕРСПЕКТИВА ПРОФЕССИОНАЛЬНОГО РОСТА;&lt;/LI&gt;\r\n\t&lt;LI&gt;\r\n\tЗАРАБОТНАЯ ПЛАТА: ПО РЕЗУЛЬТАТАМ СОБЕСЕДОВАНИЯ.&lt;/LI&gt;\r\n&lt;/UL&gt;",
+            "NAME": "Менеджер по кадрам",
+            "REQUIREMENTS": [
+                "Высшее или средне специальное образование;",
+                "Опыт от 1 года;",
+                "Грамотная устная и письменная речь;",
+                "Умение работать в команде;",
+                "Коммуникабельность, дисциплина, усидчивость.",
+                "Знание ПК, (преимуществом будет работа в Битриксе)."
+            ],
+            "RESPONSIBILITY": [
+                "Отбор и приглашение претендентов на собеседование;",
+                "Проведение собеседований и подбор персонала;",
+                "Ведение электронного документооборота (отпуска, отпрашиваний, подсчет БП, реестр звонков и данных по анкетам соискателей,проверка табелей рабочего времени);",
+                "Кадровое администрирование (своевременное и корректное оформление документов, проверка информации о персональных данных, формирование кадрового резерва, архивирование кадровых документов)"
+            ],
+            "OFFERS": [
+                "График работы: 5/2, с 9.00 до 18.00",
+                "Оплачиваемый отпуск",
+                "Вкусный обед в корпоративной столовой",
+                "Перспектива профессионального роста",
+                "Заработная плата: по результатам собеседования"
+            ],
+            "WELCOME": null,
+            "SALARY": "От 20 000 до 30 000 руб.",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел кадров",
+            "TEXT": null
+        },
+        {
+            "ID": "586320",
+            "SEARCHABLE_CONTENT": "РАБОТНИК СКЛАДА \r\n\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;&lt;I&gt;ЧТО ТРЕБУЕТСЯ ОТ ВАС?&NBSP;&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;&lt;BR&gt;\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПУНКТУАЛЬНОСТЬ; ВЫНОСЛИВОСТЬ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tВНИМАТЕЛЬНОСТЬ; ОТВЕТСТВЕННОЕ ОТНОШЕНИЕ К РАБОТЕ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tУМЕНИЕ ПОЛЬЗОВАТЬСЯ ПК;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tУМЕНИЕ РАБОТАТЬ В КОМАНДЕ.&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n&lt;BR&gt;\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;&lt;BR&gt;\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;I&gt;&lt;B&gt;ВАШИ ОБЯЗАННОСТИ:&NBSP;&lt;/B&gt;&lt;/I&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;BR&gt;\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;СБОР ТОВАРА ПО СКЛАДУ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tСБОР ТОВАРА ПО ЗАКАЗАМ НА ПЕРЕМЕЩЕНИЯ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 17.3333PX;&quot;&gt;УКОМПЛЕКТОВКА&lt;/SPAN&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 13PT;&quot;&gt;&NBSP;ТОВАРА НА ПОДДОН, ПРОВЕРКА НА ВНЕШНИЕ ПОВРЕЖДЕНИЯ ПРИ ПЕРЕДАЧЕ.&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tРАБОТА С ПРОГРАММОЙ 1С.&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n&lt;BR&gt;\r\n&lt;BR&gt;\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;B&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;ЧТО ПРЕДЛАГАЕМ МЫ:&lt;/SPAN&gt;&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;&lt;BR&gt;\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ГРАФИК РАБОТЫ: 5/2, 8-МИ ЧАСОВОЙ РАБОЧИЙ ДЕНЬ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tОПЛАТА ОТПУСКА;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tДРУЖНЫЙ КОЛЛЕКТИВ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tВЕСЕЛЫЙ НАЧАЛЬНИК;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tДУШЕВАЯ, МОЛЕЛЬНАЯ КОМНАТА;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;\r\n\tЗАРАБОТНАЯ ПЛАТА: 15000 РУБ.&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;",
+            "NAME": "Работник склада ",
+            "REQUIREMENTS": [
+                "Пунктуальность, выносливость",
+                "Внимательность, ответственное отношение к работе",
+                "Умение пользоваться ПК",
+                "Умение работать в команде"
+            ],
+            "RESPONSIBILITY": [
+                "Сбор товара по складу",
+                "Сбор товара по заказам на перемещения",
+                "Укомплектовка товара на поддон, проверка на внешние повреждения при передаче",
+                "Работа с программой 1С"
+            ],
+            "OFFERS": [
+                "График работы: 5/2, 8-ми часовой рабочий день",
+                "Оплата отпуска",
+                "Дружный коллектив",
+                "Карьерный рост",
+                "Душевая, молельная комната, библиотека.",
+                "Заработная плата: 20 000 - 30 000 руб"
+            ],
+            "WELCOME": null,
+            "SALARY": "20 000 - 30 000 руб.",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "На складе",
+            "GROUP": "Склад",
+            "TEXT": null
+        },
+        {
+            "ID": "586324",
+            "SEARCHABLE_CONTENT": "МАРКЕТОЛОГ\r\n\r\n&lt;P&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;B&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;ЧТО ТРЕБУЕТСЯ ОТ ВАС: &lt;/SPAN&gt;&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;B&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt; &lt;/SPAN&gt;&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;МАРКЕТИНГОВОЕ МЫШЛЕНИЕ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПОНИМАНИЕ СПЕЦИФИКИ DIGITAL-ИНСТРУМЕНТОВ И ОПЫТ ИХ ИСПОЛЬЗОВАНИЯ ДЛЯ ПРОДВИЖЕНИЯ УСЛУГ/ТОВАРОВ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;АНАЛИТИЧЕСКИЙ СКЛАД УМА, ВНИМАНИЕ К ДЕТАЛЯМ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ЭРУДИРОВАННОСТЬ, ЛЕГКООБУЧАЕМОСТЬ, СТРЕССОУСТОЙЧИВОСТЬ, КРЕАТИВНОСТЬ, КОММУНИКАБЕЛЬНОСТЬ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ГРАМОТНАЯ УСТНАЯ И ПИСЬМЕННАЯ РЕЧЬ.&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;P&gt;\r\n\t&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;&lt;BR&gt;\r\n\t&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;P&gt;\r\n\t&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;&lt;I&gt;ВАШИ ОБЯЗАННОСТИ: &lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;&lt;I&gt; &lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;РАЗРАБОТКА СТРАТЕГИИ ПРОДВИЖЕНИЯ&NBSP;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОРГАНИЗАЦИЯ МАРКЕТИНГОВЫХ АКТИВНОСТЕЙ&NBSP;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;РЕГУЛЯРНАЯ ОТЧЕТНОСТЬ И АНАЛИТИКА ЭФФЕКТИВНОСТИ ВСЕХ КАНАЛОВ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ВЗАИМОДЕЙСТВИЕ С &NBSP;ДИЗАЙНЕРАМИ, SMM-СПЕЦИАЛИСТАМИ И КОНТЕНТ МЕНЕДЖЕРАМИ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ВЗАИМОДЕЙСТВИЕ СО СПЕЦИАЛИСТАМИ ПО SEO И КОНТЕКСТНОЙ РЕКЛАМЕ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПОИСК И ПРИМЕНЕНИЕ НОВЫХ КАНАЛОВ ПРОДВИЖЕНИЯ.&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОРГАНИЗАЦИЯ МАРКЕТИНГОВЫХ МЕРОПРИЯТИЙ&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;РАБОТА С ОБРАТНОЙ СВЯЗЬЮ.&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;P&gt;\r\n\t&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;&lt;BR&gt;\r\n\t&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;P&gt;\r\n\t&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;B&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;ЧТО ПРЕДЛАГАЕМ МЫ: &lt;/SPAN&gt;&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;\r\n&lt;/P&gt;\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;B&gt;&lt;I&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt; &lt;/SPAN&gt;&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;РАБОТА В НАДЕЖНОЙ, СОЦИАЛЬНО-ОТВЕТСТВЕННОЙ КОМПАНИИ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ГРАФИК РАБОТЫ: 5/2, ВРЕМЯ ОБСУЖДАЕМО;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОПЛАЧИВАЕМЫЙ ОТПУСК - 28 КАЛЕНДАРНЫХ ДНЕЙ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;СОБСТВЕННАЯ КУХНЯ В ОФИСЕ, У НАС ВСЕГДА ЕСТЬ ЧЕМ ПОДКРЕПИТЬСЯ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;РАБОТА В СОВРЕМЕННОМ ОФИСЕ В ЦЕНТРЕ ГОРОДА;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ДРУЖНЫЙ, ПРОФЕССИОНАЛЬНЫЙ КОЛЛЕКТИВ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ВОЗМОЖНОСТИ ДЛЯ ЛИЧНОГО И ПРОФЕССИОНАЛЬНОГО РОСТА И РАЗВИТИЯ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ЗАРАБОТНАЯ ПЛАТА: ПО РЕЗУЛЬТАТАМ СОБЕСЕДОВАНИЯ.&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;\r\n&lt;P&gt;\r\n &lt;BR&gt;\r\n&lt;/P&gt;",
+            "NAME": "Маркетолог",
+            "REQUIREMENTS": [
+                "Желательно, чтобы история про МАРКЕТИНГ была тебе близка!",
+                "ГЛАВНОЕ! Мы ищем максимально коммуникабельного и заряженного идеями человека!",
+                "Креативность, коммуникабельность, инициативность;",
+                "Аналитический склад ума, нацеленность на результат;",
+                "Умение прогнозировать рынок;",
+                "Уверенный пользователь ПК."
+            ],
+            "RESPONSIBILITY": [
+                "Взаимодействие и заключение маркетинговых договоров",
+                "Медиа-планирование",
+                "Реализация маркетинговой стратегии с командой (по оформлению торгового зала Pos- материалами и т.д )",
+                "Оценка эффективности рекламных кампаний и выбранных инструментов",
+                "Подготовка гипотез по улучшению ключевых метрик и оптимизация конверсии",
+                "Планирование, Генерация акций и их реализация"
+            ],
+            "OFFERS": [
+                "Увлекательную работу в современной компании.",
+                "Работу в команде профессионалов - ведь это возможность «прокачать» свои навыки​​​​​​​ - Всегда поддержим! !",
+                "График работы: 5/2, 8-ми часовой рабочий день;",
+                "Оплачиваемый отпуск - 28 календарных дней;",
+                "Собственная кухня в офисе, у нас всегда есть чем подкрепиться;",
+                "Работа в современном офисе в центре города;",
+                "Возможности для личного и профессионального роста и развития",
+                "Дружный, профессиональный коллектив;",
+                "Стабильный и конкурентный уровень дохода: по результатам собеседования (оклад + премии)."
+            ],
+            "WELCOME": null,
+            "SALARY": "По результатам собеседования",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел маркетинга",
+            "TEXT": null
+        },
+        {
+            "ID": "587664",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ПО ПРОДАЖАМ ИНТЕРНЕТ МАГАЗИНА\r\n\r\n",
+            "NAME": "Менеджер по продажам интернет магазина",
+            "REQUIREMENTS": [
+                "Умение поддержать беседу, грамотная устная и письменная речь",
+                "Желание развиваться и получать полезный опыт",
+                "Способность легко усваивать новую информацию",
+                "Умение работать с компьютером",
+                "Знание или опыт работы в продажах приветствуется",
+                "Умение найти выход в самой нестандартной ситуации и работать на результат."
+            ],
+            "RESPONSIBILITY": [
+                "Принимать и обрабатывать поступающие звонки и чаты",
+                "Проконсультировать клиента, помочь с выбором товара",
+                "Оформить и провести заказ"
+            ],
+            "OFFERS": [
+                "График работы: скользящий, 5/2, с 9.00 до 18.00 или с 12.00 до 21.00",
+                "Оплачиваемый отпуск",
+                "Обед в корпоративной столовой",
+                "Офис в центре города",
+                "Комфортное и уютное рабочее место",
+                "Заработная плата в среднем от 17 000 до 30 000 руб. и выше"
+            ],
+            "WELCOME": null,
+            "SALARY": "От 17 000 до 30 000 руб. и выше",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Интернет-Магазин",
+            "TEXT": null
+        },
+        {
+            "ID": "587747",
+            "SEARCHABLE_CONTENT": "MIDDLE PHP DEVELOPER\r\n\r\n",
+            "NAME": "Middle PHP Developer",
+            "REQUIREMENTS": [
+                "Опыт разработки не менее 2 лет",
+                "Знание Bitrix API",
+                "Умение работать в команде и опыт управления проектами"
+            ],
+            "RESPONSIBILITY": [
+                "Администрирование cайта компании",
+                "Доработка функционала сайта",
+                "Подготовка технических заданий по видоизменению сайта",
+                "Работа по оптимизации и настройке сайта"
+            ],
+            "OFFERS": [
+                "Работа в стабильной компании",
+                "Возможность развиваться и получать новый опыт",
+                "Кофе, чай и печеньки в неограниченном количестве",
+                "График работы: 5/2, с 9.00 до 18.00",
+                "Заработная плата: 50 000 - 75 000 руб., в зависимости от опыта и знаний  ",
+                "Обмен знаниями внутри компании - мы организуем внутренние митапы и являемся площадкой для различных IT сообществ;",
+                "Возможность посещать конференции в качестве слушателей и докладчиков (для желающих профессионально подготовиться к выступлениям с докладами или презентациями",
+                "Вовлеченный в процессы менеджмент: наше руководство понимает и учитывает все особенности IT-разработки и готово услышать ваши крутые идеи;",
+                "Уютный офис с настольным теннисом и комнатой отдыха!!"
+            ],
+            "WELCOME": null,
+            "SALARY": "50 000 - 75 000 руб.",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Гибкий",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел web-разработки",
+            "TEXT": null
+        },
+        {
+            "ID": "587796",
+            "SEARCHABLE_CONTENT": "SENIOR PHP DEVELOPER\r\n\r\n",
+            "NAME": "Senior PHP Developer",
+            "REQUIREMENTS": [
+                "Отличное знание PHP5+, MySQL, API «1C-Битрикс», Javascript",
+                "Опыт разработки сложных высоконагруженных проектов",
+                "Опыт работы с системами контроля версий (GIT)",
+                "DevOps-skills + свободное использование ОС семейства Linux",
+                "Умение планировать и распределять ресурсы",
+                "Опыт применения Agile-практик, планирование спринтов"
+            ],
+            "RESPONSIBILITY": [
+                "Организация работы команды разработчиков сайта ",
+                "Работа с командой: планирование спринтов, постановка задач, контроль сроков и качества выполненных работ",
+                "Code-review и выстраивание Pipelines",
+                "Документация: написание ТЗ, участие в проектировании, декомпозиция работ, формирования плана реализации проекта"
+            ],
+            "OFFERS": [
+                "Работа в стабильной компании",
+                "Возможность развиваться и получать новый опыт",
+                "Кофе, чай и печеньки в неограниченном количестве",
+                "График работы: гибкий, 5/2",
+                "Заработная плата: от 80 000 руб. и более, в зависимости от опыта и знаний  ",
+                "Премиальные за квартал, в зависимости от выполненной работы"
+            ],
+            "WELCOME": null,
+            "SALARY": "От 80 000 руб. и более",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Гибкий",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел web-разработки",
+            "TEXT": null
+        },
+        {
+            "ID": "601144",
+            "SEARCHABLE_CONTENT": "ИНТЕРНЕТ-МАРКЕТОЛОГ / СПЕЦИАЛИСТ ПО КОНТЕКСТНОЙ РЕКЛАМЕ\r\n\r\n",
+            "NAME": "Интернет-маркетолог / специалист по контекстной рекламе",
+            "REQUIREMENTS": [
+                "Знание контекстной и таргетированной рекламы;",
+                "Знание Яндекс.Метрики и Google Analytics;",
+                "Умение анализировать, оптимизировать кампании;",
+                "Умение вести одновременно несколько рекламных кампаний;",
+                "Дружба и любовь с Интернетом;",
+                "Огромное желание развиваться в сфере контекстной рекламы и Digital-маркетинга;",
+                "Умение работать в режиме многозадачности."
+            ],
+            "RESPONSIBILITY": [
+                "Ежедневно работать с кампаниями в Яндекс.Директ, Google AdWords: составлять крутые тексты объявлений, управлять позициями и ставками.",
+                "Экспериментировать с новыми инструментами и возможностями рекламных систем.",
+                "Анализировать результаты своей работы и оптимизировать их.",
+                "Составление медиапланов и отчетов по рекламным кампаниям."
+            ],
+            "OFFERS": [
+                "Приятные коллеги, которые готовы прийти на помощь;",
+                "Развитая корпоративная культура;",
+                "Работа в офисе, без разъездов;",
+                "Работа с 9.00 до 18.00;",
+                "Оплачиваемый отпуск + все праздники;",
+                "Обеды в корпоративной столовой от компании;",
+                "Заработная плата: оклад (обсуждается с кандидатом) + %, и премии по итогам квартала."
+            ],
+            "WELCOME": [
+                "Всегда включаешь свой пытливый мозг;",
+                "Умеешь и любишь работать с текстами;",
+                "Умеешь креативить;",
+                "Можешь смотреть на задачу под разным углом и выдавать новые решения."
+            ],
+            "SALARY": null,
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел web-аналитики",
+            "TEXT": null
+        },
+        {
+            "ID": "601746",
+            "SEARCHABLE_CONTENT": "РУКОВОДИТЕЛЬ ИНТЕРНЕТ - МАГАЗИНА\r\n\r\n",
+            "NAME": "Руководитель интернет - магазина",
+            "REQUIREMENTS": [
+                "Образование высшее (профильное или техническое);",
+                "Успешный опыт руководства людьми и построения online-продаж;",
+                "Знание маркетинговых принципов ",
+                "Понимание принципов оптимизации интернет-ресурсов ",
+                "Понимание рынка e-commerce, его особенностей и специфики, каналов онлайн-маркетинга и продвижения, а также тенденций развития онлайн продаж ",
+                "Грамотность, инициативность, способность принимать решения, нацеленность на результат.",
+                "Знание принципов SEO",
+                "Опыт работы с CMS Битрикс и Webasist или аналогичными продуктами ",
+                "Опыт работы с Яндекс Директ, Яндекс Метрика, Google AdWords, Google Analytics.",
+                "Продвинутый пользователь ПК, интернет, пакеты MS Office, 1С УТ (желательно);"
+            ],
+            "RESPONSIBILITY": [
+                "Стратегическое планирование развития интернет-магазина  ",
+                "Разработка инструкций, скриптов, создание &quot;базы знаний&quot;;",
+                "Доработка и автоматизация процессов контакт-центра, внедрение crm;",
+                "Подбор и обучение персонала",
+                "Написание ТЗ для программистов",
+                "Постановка задач и курирование тех. разработки сайта ",
+                "Улучшение usability ",
+                "Управление контекстной рекламой",
+                "SEO оптимизация ",
+                "Разработка маркетингового планирования ",
+                "Оптимизация всех бизнес-процессов от обработки заказа до доставки товара клиенту ",
+                "Разработка мероприятий, направленных на увеличение продаж",
+                "Управление call-центром",
+                "Контроль показателей эффективности работы сайта",
+                "Анализ трафика, конверсий, повторных покупок ",
+                "Постоянный поиск инновационных решений для улучшения работы интернет магазина и сайта в целом;",
+                "Управление пулом проектов и задач по развитию сайта (Bitrix), координация работы с внешними и внутренними техническими подрядчиками;",
+                "Разработка и выполнение планов продаж",
+                "Разработка мероприятий по продвижению интернет-магазина, анализ эффективности ",
+                "Разработка и проведение специальных акций и мероприятий по увеличению продаж"
+            ],
+            "OFFERS": [
+                "Интересная творческая работа с возможностью реализовать свои идеи;   ",
+                "Работа в стабильной компании (более 17 лет на рынке), ориентированной на долговременное сотрудничество и развитие своего персонала;",
+                "График работы: 5/2, с 9.00 до 18.00",
+                "Оплачиваемый отпуск;",
+                "Уровень заработной платы обсуждается по результатам собеседования."
+            ],
+            "WELCOME": null,
+            "SALARY": null,
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Интернет-Магазин",
+            "TEXT": null
+        },
+        {
+            "ID": "602217",
+            "SEARCHABLE_CONTENT": "JUNIOR ПРОГРАММИСТ 1C\r\n\r\n",
+            "NAME": "Junior программист 1C",
+            "REQUIREMENTS": [
+                "Понимание базовых структур (ООП, блок схемы);",
+                "Знание конфигураций 1С УТ11 и механизмов типовых конфигураций в целом;",
+                "Знание архитектуры платформы 1С: Предприятие 8.3;",
+                "Опыт доработки конфигураций;",
+                "Желание и готовность обучаться;",
+                "Аналитическое мышление, нацеленность на результат."
+            ],
+            "RESPONSIBILITY": [
+                "Участие в оптимизации существующих процессов;",
+                "Обслуживание и сопровождение 1С."
+            ],
+            "OFFERS": [
+                "График работы: 5/2, 8 часовой рабочий день",
+                "Обед за счет компании",
+                "Оплачиваемый отпуск",
+                "Перспективы карьерного и профессионального роста",
+                "Участие в интересных проектах",
+                "Заработная плата: по результатам собеседования."
+            ],
+            "WELCOME": null,
+            "SALARY": "От 25 000 до 45 000 руб.",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел разработки",
+            "TEXT": null
+        },
+        {
+            "ID": "603224",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ПО ПРОДАЖАМ ТВ ТЕХНИКИ\r\n\r\n",
+            "NAME": "Менеджер по продажам ТВ техники",
+            "REQUIREMENTS": [
+                "Грамотная речь, умение легко найти общий язык с клиентом",
+                "Инициативность и активное участие в продажах",
+                "Открытость новым знаниям и желание обучаться",
+                "Желание ставить собственные профессиональные цели и достигать высоких результатов"
+            ],
+            "RESPONSIBILITY": [
+                "Консультирование клиентов по товару",
+                "Помощь клиенту в выборе интересующей его техники",
+                "Продажа ТВ техники",
+                "Выполнение поручений руководителя внутри отдела"
+            ],
+            "OFFERS": [
+                "Рабочий график: скользящий, 8-ми часовой рабочий день",
+                "Оплачиваемый отпуск",
+                "Вкусный обед в корпоративной столовой",
+                "Личностное развитие и реализация профессиональных целей",
+                "Корпоративные мероприятия и поездки в хорошей компании",
+                "Заработная плата: сдельная, 25 000 - 40 000 и выше"
+            ],
+            "WELCOME": null,
+            "SALARY": "25 000 - 40 000 и выше",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В магазине",
+            "GROUP": "Отдел продаж",
+            "TEXT": null
+        },
+        {
+            "ID": "604301",
+            "SEARCHABLE_CONTENT": "СПЕЦИАЛИСТ ФИНАНСОВОГО ОТДЕЛА\r\n\r\n",
+            "NAME": "Специалист финансового отдела",
+            "REQUIREMENTS": [
+                "Высшее профильное образование;",
+                "Знание и понимание основ бухгалтерского учета обязательно;",
+                "Опыт работы в сфере финансов будет преимуществом;",
+                "Хорошее знание Еxcel, ПК;",
+                "Внимательность, обучаемость, желание развиваться в данной сфере.",
+                "Высокая степень ответственности, стрессоустойчивость, точность и внимательность к деталям;",
+                "Самостоятельность, хорошие аналитические способности."
+            ],
+            "RESPONSIBILITY": [
+                "Формирование анализа ФХД, подготовка аналитических отчетов и справок;",
+                "Формирование сводной управленческой отчетности об исполнении бюджетов;",
+                "Подготовка и контроль бюджетов для проектов открытий магазинов (сбор данных по сметам, проверка на соответствие нормативам, подготовка материалов к утверждению руководством);",
+                "Выполнение расчетов по материальным, трудовым и финансовым затратам;",
+                "Контроль дебиторской задолженности;",
+                "Учет поступлений денежных средств;",
+                "Моделирование и прогнозирование, анализ эффективности бизнес-процессов.",
+                "Работа с расчетными счетами."
+            ],
+            "OFFERS": [
+                "График работы: 5/2,с 10:00 до 19:00.",
+                "Оплачиваемый отпуск + все праздники;",
+                "Стабильная заработная плата;",
+                "Возможность карьерного и профессионального роста;",
+                "Обед за счет компании",
+                "Работа в динамично развивающейся компании"
+            ],
+            "WELCOME": null,
+            "SALARY": null,
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Финансовый отдел",
+            "TEXT": null
+        },
+        {
+            "ID": "604304",
+            "SEARCHABLE_CONTENT": "ПОВАР\r\n\r\n",
+            "NAME": "Повар",
+            "REQUIREMENTS": [
+                "Опыт работы поваром приветствуется",
+                "Специальное образование желательно",
+                "Умение вкусно и с душой готовить",
+                "Наличие медицинской книжки"
+            ],
+            "RESPONSIBILITY": [
+                "Приготовление обедов (готовить первые, вторые блюда, салаты)",
+                "Составлять заказы для закупки продуктов, разделывать мясо."
+            ],
+            "OFFERS": [
+                "График работы: 2/2, с 8.00 до 18.00",
+                "Заработная плата: 20 000 руб."
+            ],
+            "WELCOME": null,
+            "SALARY": "20 000 руб.",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": null,
+            "GROUP": "Хозяйственный отдел",
+            "TEXT": null
+        },
+        {
+            "ID": "604305",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ПО ПРОДАЖАМ НА АКУШИНСКОГО\r\n\r\n",
+            "NAME": "Менеджер по продажам на Акушинского",
+            "REQUIREMENTS": [
+                "Активность и инициативность в работе",
+                "Грамотная речь, умение найти подход к клиенту",
+                "Технические знания телефонов и портативной техники приветствуется",
+                "Голод новых знаний и желание развиваться",
+                "Интерес и любовь к технике - вот что мы хотим видеть в менеджере!"
+            ],
+            "RESPONSIBILITY": [
+                "Обслуживание и консультирование клиентов",
+                "Помощь в выборе портативной техники ",
+                "Продажа портативной техники"
+            ],
+            "OFFERS": [
+                "График: 6/1, скользящий, 8-ми часовой рабочий день",
+                "Оплачиваемый отпуск",
+                "Возможность развиваться и получать новые знания",
+                "Зарплата: сдельная, в среднем 30 000 - 50 000 руб. и выше (% от продаж)"
+            ],
+            "WELCOME": null,
+            "SALARY": "30 000 - 50 000 руб. и выше",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В магазине",
+            "GROUP": "Отдел продаж",
+            "TEXT": null
+        },
+        {
+            "ID": "604819",
+            "SEARCHABLE_CONTENT": "SENIOR PYTHON DEVELOPER\r\n\r\n",
+            "NAME": "Senior Python Developer",
+            "REQUIREMENTS": [
+                "Опыт разработки на Python 3-х и более трех лет",
+                "Опыт разработки сложных высоконагруженных проектов",
+                "Экспертные навыки в работе с базами данных (MySql, PostgreSql)",
+                "Опыт работы с системами контроля версий (GIT)",
+                "DevOps-skills + свободное использование ОС семейства Linux",
+                "Умение планировать и распределять ресурсы",
+                "Опыт применения Agile-практик, планирование спринтов"
+            ],
+            "RESPONSIBILITY": [
+                "Проектирование архитектуры новых сервисов компании",
+                "Разработка API сервисов и их интеграция",
+                "Проведение code review и написание тестов",
+                "Организация работы команды разработчиков"
+            ],
+            "OFFERS": [
+                "График работы: гибкий, 5/2",
+                "Профессиональный рост",
+                "Премиальные за квартал, в зависимости от выполненной работы",
+                "Оплачиваемый отпуск",
+                "Бесплатный обед в корпоративной столовой",
+                "Интересные проекты",
+                "Дружный коллектив",
+                "Заработная плата: от 80 000 руб. и более, в зависимости от опыта и знаний"
+            ],
+            "WELCOME": null,
+            "SALARY": "От 80 000 руб. и более, в зависимости от опыта и знаний",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Гибкий",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел web-разработки",
+            "TEXT": null
+        },
+        {
+            "ID": "604820",
+            "SEARCHABLE_CONTENT": "MIDDLE PYTHON DEVELOPER\r\n\r\n",
+            "NAME": "Middle Python Developer",
+            "REQUIREMENTS": [
+                "Опыт работы от 2-х и более лет в разработке на Python",
+                "Опыт работы с операционными системами семейства *nix",
+                "Опыт работы с реляционной СУБД (MySQL, Postgre SQL)",
+                "Опыт работы с web-фреймворками (Django, Flask, aiohttp)",
+                "Опыт работы с highload проектами, понимание построения оптимальной архитектуры приложений",
+                "Опыт работы с системами контроля версий, Git",
+                "Опыт командной разработки, Agile(Scrum)"
+            ],
+            "RESPONSIBILITY": [
+                "Участие в разработке и поддержке внутренних сервисов и новых проектов компании",
+                "Разработка REST API",
+                "Проводить code review, писать unit тесты для своего кода",
+                "Оптимизация и рефакторинг кода"
+            ],
+            "OFFERS": [
+                "График работы: гибкий, 5/2",
+                "Профессиональный рост",
+                "Интересные проекты",
+                "Премиальные за квартал, в зависимости от выполненной работы",
+                "Оплачиваемый отпуск",
+                "Бесплатный обед в корпоративной столовой",
+                "Дружный коллектив",
+                "Заработная плата: 50 000 - 75 000 руб."
+            ],
+            "WELCOME": null,
+            "SALARY": "50 000 - 75 000 руб.",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Гибкий",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел web-разработки",
+            "TEXT": null
+        },
+        {
+            "ID": "606978",
+            "SEARCHABLE_CONTENT": "IOS DEVELOPER\r\n\r\n",
+            "NAME": "iOS Developer",
+            "REQUIREMENTS": [
+                "Опыт разработки мобильных приложений более 1 года",
+                "Уверенное знание Swift",
+                "Знание архитектур Viper, MVP, MVVM",
+                "Умение работать с Alamofire, Realm или Core Data и т.д.",
+                "Знать особенности жизненного цикла ViewController, AutoLayout, Xib, чем отличается frame от bounds",
+                "Опыт работы с XCode платформой",
+                "Наличие опубликованных приложений в AppStore",
+                "Умение оценивать объем и сроки работ",
+                "Понимание основных структур данных и алгоритмов, принципов ООП",
+                "Опыт работы с системами контроля версий (GIT) Опыт командной разработки"
+            ],
+            "RESPONSIBILITY": [
+                "Проектирование архитектуры разрабатываемого продукта",
+                "Программная реализация бизнес-логики и вспомогательного (работа с БД, сетью и т. д.) функционала",
+                "Командная работа с дизайнером над созданием GUI",
+                "Участвовать в принятии технических решений и планировании процесса разработки",
+                "Проектирование архитектуры IOS приложений",
+                "Самостоятельное тестирование и отладка разрабатываемых продуктов"
+            ],
+            "OFFERS": [
+                "График работы: гибкий, 5/2",
+                "Профессиональный рост",
+                "Премиальные за квартал, в зависимости от выполненной работы",
+                "Оплачиваемый отпуск",
+                "Бесплатный обед в корпоративной столовой Интересные проекты",
+                "Дружный коллектив",
+                "Заработная плата: от 35 000 - до 100 000 руб. и более, в зависимости от опыта и знаний"
+            ],
+            "WELCOME": null,
+            "SALARY": "От 35 000 - до 100 000 руб. ",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Гибкий",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел web-разработки",
+            "TEXT": null
+        },
+        {
+            "ID": "607596",
+            "SEARCHABLE_CONTENT": "КАТЕГОРИЙНЫЙ МЕНЕДЖЕР\r\n\r\n",
+            "NAME": "Категорийный менеджер",
+            "REQUIREMENTS": [
+                "Образование высшее (профильное или техническое);",
+                "Аналитический склад ума, внимание к деталям",
+                "Маркетинговое мышление",
+                "Понимание принципов оптимизации интернет-ресурсов",
+                "Понимание рынка e-commerce, его особенностей и специфики, каналов онлайн-маркетинга и продвижения, а также тенденций развития онлайн продаж",
+                "Грамотность, инициативность, способность принимать решения, нацеленность на результат.",
+                "Продвинутый пользователь ПК, интернет, пакеты MS Office, 1С УТ (желательно);"
+            ],
+            "RESPONSIBILITY": [
+                "Исследование рынка по новой категории",
+                "Участие в маркетинговом продвижении, планирование маркетинговых бюджетов.",
+                "Подготовка отчетов по запросу руководителя",
+                "Поиск поставщиков, переговоры по условиям работы, подписание договоров. Анализ конкурентов по новой категории",
+                "Взаиморасчеты с поставщиками, акты сверок",
+                "Ценообразование по новой категории и формирование складских запасов",
+                "Взаимодействие с контент-менеджерами сайта и формирование каталога на сайте",
+                "Построение бизнес-процессов по развитию новой категории."
+            ],
+            "OFFERS": [
+                "Бесплатная корпоративная библиотека лучших книг по развитию, менеджменту",
+                "В шаговой доступности столовая с домашней кухней",
+                "Удобное рабочее место",
+                "Работу в интересных проектах в команде талантливых коллег;",
+                "График работы: 5/2, с 9.00 до 18.00",
+                "Стабильная заработная плата + премии",
+                "Просторный open-space в центре",
+                "Уровень заработной платы обсуждается по результатам собеседования"
+            ],
+            "WELCOME": null,
+            "SALARY": "От 25 000 руб.",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел продаж",
+            "TEXT": null
+        },
+        {
+            "ID": "607775",
+            "SEARCHABLE_CONTENT": "MIDDLE ПРОГРАММИСТ 1С\r\n\r\n",
+            "NAME": "Middle программист 1С",
+            "REQUIREMENTS": [
+                "Опыт разработки на платформе 1с 8.3, понимание всех инструментов",
+                "Знание особенностей клиент-серверного взаимодействия",
+                "Уверенное знание настроек СКД",
+                "Знание и использование библиотек 1С (БСП, БПО и др.)",
+                "Умение разбираться в чужом коде",
+                "Умение работать в команде и коммуницировать с заказчиком",
+                "Высокий профессионализм и работоспособность",
+                "Наличие сертификатов 1С приветствуется "
+            ],
+            "RESPONSIBILITY": [
+                "Программирование и конфигурирование на базе платформы 1С 8.3",
+                "Доработка типовых и не типовых конфигураций",
+                "Написание сложных запросов с нуля и их доработка",
+                "Оптимизация кода имеющихся конфигураций 1С",
+                "Участие в разработке архитектуры и и протоколов интеграции, их реализация",
+                "Участие в разработке ТЗ, работа на задачах без готовой ТЗ"
+            ],
+            "OFFERS": [
+                "График работы: 5/2, 8 часовой рабочий день",
+                "Обед за счет компании",
+                "Оплачиваемый отпуск",
+                "Перспективы карьерного и профессионального роста",
+                "Участие в интересных проектах",
+                "Заработная плата: от 60 000 до 80 000 руб."
+            ],
+            "WELCOME": null,
+            "SALARY": "От 60 000 до 80 000 руб.",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел разработки",
+            "TEXT": null
+        },
+        {
+            "ID": "607776",
+            "SEARCHABLE_CONTENT": "SENIOR ПРОГРАММИСТ 1С\r\n\r\n",
+            "NAME": "Senior программист 1С",
+            "REQUIREMENTS": [
+                "Уверенное знание и использование алгоритмов и структур ",
+                "Оптимизация клиент-серверного взаимодействия, умение создавать формы кодом",
+                "Уверенное знание настроек СКД, решение задач без доработок",
+                "Редактирование и внесение изменений в механизмы существующих конфигураций",
+                "Знание и использование библиотек 1С (БСП, БПО и др.)",
+                "Умение работать в команде и коммуницировать с заказчиком",
+                "Высокий профессионализм и работоспособность",
+                "Наличие сертификатов 1С приветствуется"
+            ],
+            "RESPONSIBILITY": [
+                "Программирование и конфигурирование на базе платформы 1С 8.3",
+                "Редактирование и внесение изменений в механизмы существующих конфигураций",
+                "Разработка архитектуры и протоколов интеграции, их реализация",
+                "Разработка ТЗ по доработке в системе 1С",
+                "Построение удобных для пользователя интерфейсов",
+                "Написание сложных запросов без конструктора"
+            ],
+            "OFFERS": [
+                "График работы: 5/2, 8 часовой рабочий день",
+                "Обед за счет компании",
+                "Оплачиваемый отпуск",
+                "Перспективы карьерного и профессионального роста",
+                "Участие в интересных проектах",
+                "Заработная плата: по результатам собеседования."
+            ],
+            "WELCOME": null,
+            "SALARY": "По результатам собеседования",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел разработки",
+            "TEXT": null
+        },
+        {
+            "ID": "609179",
+            "SEARCHABLE_CONTENT": "МАСТЕР ПО РЕМОНТУ КОМПЬЮТЕРНОЙ ТЕХНИКИ\r\n\r\n",
+            "NAME": "Мастер по ремонту компьютерной техники",
+            "REQUIREMENTS": [
+                "Отличные знания компьютеров‚ ноутбуков и комплектующих к ним;",
+                "Умение быстро выявить компьютерную неисправность для ее устранения;",
+                "Честность; Пунктуальность; Ответственность;",
+                "Порядочность; Аккуратность; Опрятность;",
+                "Умение работать с клиентами;",
+                "Опыт работы в аналогичной сфере обязателен."
+            ],
+            "RESPONSIBILITY": [
+                "Диагностика, технологический и программный ремонт компьютерной техники;",
+                "Профессиональное консультирование клиентов;",
+                "Согласование стоимости с клиентами."
+            ],
+            "OFFERS": [
+                "График работы: 5/2, с 10:00-19:00",
+                "Передовое оборудование,",
+                "Оплачиваемый отпуск,",
+                "Обед за счет организации.",
+                "Заработная плата: сдельная, от 30000 рублей и выше (зависит от объема)"
+            ],
+            "WELCOME": null,
+            "SALARY": "от 30 000",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В Сервисном центре",
+            "GROUP": "Сервисный центр",
+            "TEXT": null
+        },
+        {
+            "ID": "614030",
+            "SEARCHABLE_CONTENT": "ТЕХНИЧКА В ОФИС НА БУГАНОВА 15Б\r\n\r\n",
+            "NAME": "Техничка в офис на Буганова 15Б",
+            "REQUIREMENTS": [
+                "Чистоплотность",
+                "Аккуратность ",
+                "Трудолюбие"
+            ],
+            "RESPONSIBILITY": [
+                "Уборка офисного помещения",
+                "Поддержание помещения в чистоте"
+            ],
+            "OFFERS": [
+                "График работы: 6/1, с 9.00 до 17.00",
+                "Заработная плата: 900 руб. за смену"
+            ],
+            "WELCOME": null,
+            "SALARY": "900 руб. за смену",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Хозяйственный отдел",
+            "TEXT": null
+        },
+        {
+            "ID": "619009",
+            "SEARCHABLE_CONTENT": "РУКОВОДИТЕЛЬ ОТДЕЛА МАРКЕТИНГА\r\n\r\n",
+            "NAME": "Руководитель отдела маркетинга",
+            "REQUIREMENTS": [
+                "Вы имеете опыт от 3 лет в качестве интернет маркетолога",
+                "Ориентируетесь всегда на достижение результата, есть успешный опыт разработки и реализации маркетинговых проектов с готовностью их подтвердить;",
+                "Имеете высокий уровень само организованности и про активности;",
+                "Умете работать в команде и в режиме многозадачности, организовывать и координировать ее .",
+                "Обладаете системным мышлением и умеете проводить анализ инструментов, подсчитывать эффективность трафика;",
+                "Есть опыт работы с разными инструментами привлечения клиентов при помощи современных маркетинговых технологий и инструментов",
+                "Профильное образование или курсы повышения квалификации в области маркетинга, копирайтинга, контекстной рекламы, SMM, дизайна (как преимущество)",
+                "Знание гибких методологий разработки, опыт организации работы по гибким методологиям",
+                "Знание принципов и опыт работы с интернет-рекламой и ее аналитикой;",
+                "Владение графическими редакторами будет преимуществом!!",
+                "Английский язык (как преимущество)"
+            ],
+            "RESPONSIBILITY": [
+                "Организация маркетингового планирования",
+                "Взаимодействие с отделом продаж в создании эффективных маркетинг-инструментов, помогающих выполнять поставленные планы продаж",
+                "Анализ рекламных кампаний конкурентов",
+                "Формулирование бизнес-задач, определение основных целей для рекламных кампаний",
+                "Организация креативных процессов для решения бизнес-задач",
+                "Оперативный контроль за работой отдела",
+                "Управление смм-командой и формирование смм-стратегии",
+                "Организация взаимодействия с лидерами мнений в социальных сетях. Контроль процесса",
+                "Управление дизайн-командой и контроль за соблюдением фирменного стиля",
+                "Взаимодействие с веб-маркетологами",
+                "Определение рекламных каналов и управление ими.",
+                "Организация работы с рекламными агентствами и подрядчиками",
+                "Организация процесса сбора и обработки фидбэка",
+                "Организация процесса контроля качества обслуживания в компании",
+                "Определение ключевых метрик для отслеживания результатов работы команды",
+                "Формирование команды, привлечение лучших в команду"
+            ],
+            "OFFERS": [
+                "Дружный коллектив, в котором всегда поддержат и подскажут;",
+                "Работу с интересным продуктом;",
+                "Вкусные обеды.",
+                "Возможны курсы повышения квалификации за счет компании.",
+                "Работа с интересным продуктом.",
+                "Живая, дружная, современная команда, которая хочет завоевать рынок.",
+                "Офис в современном бизнес-центре, оборудованный всем необходимым для эффективной работы.",
+                "Продолжительность рабочего дня: с 9.00 до 18.00",
+                "Зарплата по итогам собеседования!!!"
+            ],
+            "WELCOME": null,
+            "SALARY": "По результатам собеседования",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел маркетинга",
+            "TEXT": null
+        },
+        {
+            "ID": "620482",
+            "SEARCHABLE_CONTENT": "МОНТАЖНИК СЛАБОТОЧНЫХ СИСТЕМ\r\n\r\n",
+            "NAME": "Монтажник слаботочных систем",
+            "REQUIREMENTS": [
+                "Опыт монтажных работ не менее 2-х лет;",
+                "Среднее-техническое образование;",
+                "Понимание принципов работы основного оборудования сетей связи, систем видеонаблюдения, СКУД, СОТС, СКС;",
+                "Работа с проектной и технической документацией на объектах;",
+                "Быстрое и качественное выполнение объемов работ;",
+                "Навык работы с электроинструментом (дрель, перфоратор, УШМ и т.д.), измерительным инструментом (мультиметр, LAN тестер и т.д.)",
+                "Готовность выезда в командировки;",
+                "Пунктуальность, желание работать и обучаться, ответственность;",
+                "Работа в команде, активная жизненная позиция",
+                "Группа по электробезопасности II, III - как преимущество"
+            ],
+            "RESPONSIBILITY": [
+                "Ведение полного цикла монтажа систем безопасности и видеонаблюдения: СОТ, СКУД, СКС, СОТ,ВОЛС;",
+                "Выполнение прокладки провода, установка оборудования согласно требованиям инженера и т.д;",
+                "Работа на объектах различной сложности;",
+                "Выполнение работ по ремонту и обслуживанию объектов и оборудования."
+            ],
+            "OFFERS": [
+                "Работу на постоянной или сдельной основе;",
+                "Зарплата: оклад + процент.",
+                "Возможность карьерного роста;",
+                "Испытательный срок 1-3 месяц"
+            ],
+            "WELCOME": null,
+            "SALARY": "По результатам собеседования",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": null,
+            "SHEDULE": "Полный",
+            "PLACEMENT": null,
+            "GROUP": "Корпоративный отдел",
+            "TEXT": {
+                "TEXT": "Мы приглашаем в свою команду - монтажников слаботочников!! Вам предстоит работать в области проектирования и монтажа противопожарных систем и видеонаблюдения, а так же комплексного обслуживания (объекты в разных частях города).",
+                "TYPE": "TEXT"
+            }
+        },
+        {
+            "ID": "622736",
+            "SEARCHABLE_CONTENT": "UX-АНАЛИТИК/ИССЛЕДОВАТЕЛЬ\r\n\r\n",
+            "NAME": "UX-аналитик/исследователь",
+            "REQUIREMENTS": [
+                "Опыт работы на аналогичной должности от 1 года",
+                "Опыт работы в продуктовой команде, желательно по Agile",
+                "Понимание UX метрик и ключевых UX принципов",
+                "Опыт в проектировании и проведении качественных и количественных UX-исследований",
+                "Опыт внедрения CustDev в команды, формирования общей картины пользовательских задач",
+                "Навыки построения CJM",
+                "Навыки проведения юзабилити тестирования",
+                "Навыки презентации результатов исследования",
+                "Умение описать и визуализировать пользовательские сценарии",
+                "Умение составлять прототипы исследуемых интерфейсов",
+                "Навыки работы с инструментами прототипирования(Moqups, Figma и т.п.)",
+                "Способность пояснить другим участникам команды предложенные сценарные и интерфейсные решения: дизайнерам, аналитикам, разработчикам;"
+            ],
+            "RESPONSIBILITY": [
+                "Проработка дизайн-решений вместе с командой дизайна",
+                "Составлять прототипы исследуемых интерфейсов",
+                "Проведение А/B тестов",
+                "Проведение юзабилити-тестирований, CustDev",
+                "Построение CJM",
+                "Оформление и презентация результатов исследований",
+                "Изучать имеющуюся информацию о клиентах, конкурентах, бэклог и потенциал развития продукта",
+                "Определять потребности, ожидания и проблемы клиентов на каждом этапе развития продукта",
+                "Вместе с командами разработки и аналитики развивать продукт, помогать формировать и приоритизировать бэклог на основе этой информации"
+            ],
+            "OFFERS": [
+                "График работы: гибкий, 5/2",
+                "Профессиональный рост",
+                "Интересные проекты",
+                "Премиальные за квартал, в зависимости от выполненной работы",
+                "Оплачиваемый отпуск",
+                "Бесплатный обед в корпоративной столовой",
+                "Дружный коллектив",
+                "Заработная плата: по результатам собеседования"
+            ],
+            "WELCOME": null,
+            "SALARY": "По результатам собеседования",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел web-аналитики",
+            "TEXT": null
+        },
+        {
+            "ID": "630229",
+            "SEARCHABLE_CONTENT": "ЗАМЕСТИТЕЛЬ РУКОВОДИТЕЛЯ ОТДЕЛА ПО ПРОДАЖАМ БЫТОВОЙ ТЕХНИКИ\r\n\r\n",
+            "NAME": "Заместитель руководителя отдела по продажам бытовой техники",
+            "REQUIREMENTS": [
+                "Высшее образование ( экономическое, психологическое, социальное )",
+                "Основы управления и труда;",
+                "Опыт не менее 3-х лет в сфере продаж (на управляющей должности будет преимуществом)."
+            ],
+            "RESPONSIBILITY": [
+                "увеличение товарооборота магазина посредством организации эффективной продажи товаров;",
+                "организация и контроль процесса набора и обучения сотрудников;",
+                "организация делопроизводства и обмена информацией как внутри магазина, так и с офисом или внешними организациями;",
+                "организация и оптимизация торгового процесса при взаимодействии всех структурных подразделений компании;",
+                "решение текущих вопросов отдела."
+            ],
+            "OFFERS": [
+                "График работы: 5/2, 8 часовой рабочий день",
+                "Оплата отпуска",
+                "Обед за счет компании",
+                "Заработная плата: по результатам собеседования"
+            ],
+            "WELCOME": null,
+            "SALARY": "По результатам собеседования",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": null,
+            "GROUP": "Отдел продаж",
+            "TEXT": null
+        },
+        {
+            "ID": "635430",
+            "SEARCHABLE_CONTENT": "РАБОТНИК СКЛАДА СЦ\r\n\r\n",
+            "NAME": "Работник склада СЦ",
+            "REQUIREMENTS": [
+                "Пунктуальность, аккуратность, порядочность",
+                "Внимательность, чистоплотность, опрятный внешний вид,",
+                "Умение работать в коллективе",
+                "Знание программы 1С приветствуется"
+            ],
+            "RESPONSIBILITY": [
+                "Прием оборудования, товара и деталей на склад",
+                "Поиск поставщиков и анализ цен на товары",
+                "Заказ деталей на склад",
+                "Выдача оборудования, деталей и товара со склада",
+                "Возвраты товара поставщику по гарантии",
+                "Реализация залежавшегося товара на складе и не кондиции (Начисляется % с продаж к заработной плате)"
+            ],
+            "OFFERS": [
+                "График работы 5\\2, с 10:00 до 19:00 (8-ми часовой рабочий день)",
+                "Обед за счет организации",
+                "Оплачиваемый отпуск - 28 календарных дней",
+                "Дружный коллектив",
+                "Заработная плата: 15000 руб. + %"
+            ],
+            "WELCOME": null,
+            "SALARY": "От 15 000 руб. (+ % от продаж)",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В Сервисном центре",
+            "GROUP": "Сервисный центр",
+            "TEXT": null
+        },
+        {
+            "ID": "637368",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ПО РАЗВИТИЮ ТЕРРИТОРИЙ\r\n\r\n",
+            "NAME": "Менеджер по развитию территорий",
+            "REQUIREMENTS": [
+                "Высшее (желательно техническое) образование;",
+                "Опыт работы региональным менеджером/региональным представителем от 3-х лет - будет как преимущество",
+                "По направление занимается проработкой уникальных решений в части системной интеграции (видеонаблюдения, видео-аналитики, Мини АТС, IP-телефония, Wi-Fi , СКУД, СОТС, СКС, СОТ, ВОЛС) для крупных клиентов.",
+                "Опыт личных продаж не менее 2-х лет в",
+                "Знание 1С, Битрикс24, Excel - как преимущество!!",
+                "Развивать продажи на выделенной территории, посредством работы контрагентами;"
+            ],
+            "RESPONSIBILITY": [
+                "Управление разработкой и реализацией индивидуальных решений для проектов системной интеграции ПО;",
+                "Формирование команды по разработке и реализации индивидуальных решений из компетентных работников Компании и привлекаемых подрядных организаций;",
+                "Распределение задач между участниками команды (видеонаблюдение, СКУД, СОТС, СКС, СОТ, ВОЛС) и разработка план-графика;",
+                "Выполнение корректирующих мероприятий при отклонении от план-графика;",
+                "Проведение переговоров и презентаций по телефону и на встречах с клиентами",
+                "Заключение договоров, сопровождение клиентов ,Формирование полного комплект документов для технико-коммерческих предложений (включая контрактную документацию);",
+                "Выстраивание долгосрочных взаимоотношений с клиентами;",
+                "Контроль и приемка результатов работы участников команды (по проектам видеонаблюдение, СКУД, СОТС, СКС, СОТ, ВОЛС);",
+                "Осуществление авторского надзора при реализации решений."
+            ],
+            "OFFERS": [
+                "Современный офис и поддержку профессионалов - Всегда рядом и поддержим!!",
+                "Возможность профессионального роста в стабильной компании",
+                "График работы: 5/2, 8-часовой рабочий день, частично в офисе, частично в полях (60/40)",
+                "Вкусные обеды за счет компании",
+                "Оплачиваемый отпуск.",
+                "Заработная плата: по результатам собеседования.",
+                "Возможности для развития, роста и увеличения заработной платы;",
+                "Работа разъездного характера, компания не предоставляет автомобиль."
+            ],
+            "WELCOME": null,
+            "SALARY": "По результатам собеседования",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Интернет-Магазин",
+            "TEXT": null
+        },
+        {
+            "ID": "637369",
+            "SEARCHABLE_CONTENT": "ЗАМЕСТИТЕЛЬ НАЧАЛЬНИКА ФИНАНСОВОГО ОТДЕЛА\r\n\r\n",
+            "NAME": "Заместитель начальника финансового отдела",
+            "REQUIREMENTS": [
+                "Знание 1С УТ 11 (или возможность изучить в короткие сроки)",
+                "Владение ПК и отличное владение 1С и БИТ Финанс, MS Excel, Word, Power Point, Консультант+;",
+                "Высшее образование (преимуществом будет если Вы выпускник математического, юридический или экономического факультета).",
+                "Возможность работать по ненормированному графику (в силу задач на выходные )).",
+                "Ответственность и нацеленность на конечный результат.",
+                "Организаторские способности лидера в команде, а аналитические способности будут для Вас плюсом при работе с цифрами!!",
+                "Стрессоустойчивость",
+                "Многозадачность и исполнительность, деньги любят счет!",
+                "Знание бухгалтерского учета, аудита."
+            ],
+            "RESPONSIBILITY": [
+                "Проведение аудита по направлениям компании и отделам",
+                "Проведение и контроль сверок по подразделениям",
+                "Контроль и Исправление ошибок в отчетности и документах",
+                "Обучение и адаптация сотрудников финансового отдела.",
+                "Создание и внедрение бизнес-процессов для компании, модификация и изменение действующих.",
+                "Бюджетирование организации",
+                "Контроль и ведение бухгалтерской отчетности",
+                "Проведение выездных ревизий."
+            ],
+            "OFFERS": [
+                "График: 5/2 с 9:00 до 18:00",
+                "Отпуск 28 календарных дней 1 раз в году.",
+                "Обучение за счет компании.",
+                "Бесплатный обед.",
+                "Корпоративный отдых.",
+                "Зарплата по итогам собеседования"
+            ],
+            "WELCOME": null,
+            "SALARY": "По результатам собеседования",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Финансовый отдел",
+            "TEXT": null
+        },
+        {
+            "ID": "640430",
+            "SEARCHABLE_CONTENT": "QA TEAM LEAD/QA SENIOR ENGINEER\r\n\r\n",
+            "NAME": "QA Team Lead/QA Senior engineer",
+            "REQUIREMENTS": [
+                "Желание стать лучшим в своем деле!",
+                "Знание и навык построения процесса разработки и тестирования на профессиональном уровне (составления тест-планов, чек-листов, тест-кейсов).",
+                "Быть ​готовым развиваться в профессиональной сфере!!",
+                "Опыт функционального, интеграционного тестирования.",
+                "Знание основных техник тест дизайна",
+                "Умение ввести документацию",
+                "Опыт работы с языками программирования: Python, Java, JS",
+                "Большим плюсом будет: Опыт тестирования приложений в микро сервисной архитектуре: тестирование контрактов, интеграционное тестирование, end-to-end тесты"
+            ],
+            "RESPONSIBILITY": [
+                "Контроль и обеспечение качества продуктов компании",
+                "Выстроить процессы тестирования веб, мобильных приложений, rest api",
+                "Планирование процесса тестирования вместе с командой разработчиков",
+                "Разработка, review, согласование тест-планов, чек-листов, тест-кейсов, методик тестирования (функциональных, регрессионных и интеграционных тестов)",
+                "Создание и поддержание документации по тестированию, пользовательской документации.",
+                "Организация работы команды тестирования, наставничество"
+            ],
+            "OFFERS": [
+                "Работа над интересным IT-проектом",
+                "Гибкий график работы: 5/2",
+                "Профессиональный рост: обучение/повышение квалификации за счет компании",
+                "Оплачиваемый отпуск",
+                "Бесплатный обед в корпоративной столовой",
+                "Конкурентоспособная зарплата",
+                "Корпоративные и тимбилдинговые мероприятия",
+                "Приятная атмосфера и дружный коллектив"
+            ],
+            "WELCOME": null,
+            "SALARY": "По результатам собеседования",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел web-разработки",
+            "TEXT": null
+        },
+        {
+            "ID": "645361",
+            "SEARCHABLE_CONTENT": "СВЕРЩИК РЦ (СКЛАД)\r\n\r\n",
+            "NAME": "Сверщик РЦ (склад)",
+            "REQUIREMENTS": [
+                "Умение работать в 1С;",
+                "Умение пользоваться ТСД;",
+                "Опыт работы на складе или оператором 1С"
+            ],
+            "RESPONSIBILITY": [
+                "Пересчет товара по складу",
+                "Поиск товара - работа в 1с.",
+                "Информируешь рукoводcтво o выявленных пpи ревизияx наpушениях;"
+            ],
+            "OFFERS": [
+                "Возможность роста в компании;",
+                "Современные технологии для выполнения работы;",
+                "Своевременная оплата за проделанную работу.",
+                "График работы с 9:00 до 18:00, 5/2",
+                "Бесплатный обед в собственной столовой",
+                "Душевая"
+            ],
+            "WELCOME": null,
+            "SALARY": "От 20 000 руб.",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "На складе",
+            "GROUP": "Склад",
+            "TEXT": null
+        },
+        {
+            "ID": "650159",
+            "SEARCHABLE_CONTENT": "РЕСЕЧЕР\r\n\r\n",
+            "NAME": "Ресечер",
+            "REQUIREMENTS": [
+                "Опыт работы в сфере подбора персонала от 1 года ",
+                "Высшее образование ( психологическое как преимущество);",
+                "Готов к активному общению, узнавать и запоминать новую информацию;",
+                "Позитивен. Есть Желание работать с людьми - если не готовы, то Вы не наш кандидат)))",
+                "Нацелен на результат и умеешь найти решение в самых разных ситуациях;",
+                "С компьютером «на ты»;",
+                "Навыки и знания делового общения и переписки;",
+                "Наличие организаторских способностей - и командной работы;"
+            ],
+            "RESPONSIBILITY": [
+                "Изучить все тонкости эффективного размещения вакансий и поиска резюме на работных сайтах, соц сетях;",
+                "Быстро и точно оценивать кандидата по резюме;",
+                "Правильно презентовать вакансию",
+                "Взаимодействие с Вузами и Университетами, и мы были студентами!",
+                "Участвовать в подготовке и проведении корпоративных мероприятий. Мы умеем отдыхать!!",
+                "Узнать все секреты успешного рекрутера, отработать их на практике и стать профи."
+            ],
+            "OFFERS": [
+                "График работы: 5/2, с 9.00 до 18.00",
+                "Оплачиваемый отпуск,",
+                "Вкусный обед в корпоративной столовой;",
+                "Профессиональный и рост и развитие в сфере HR",
+                "Заработная плата: по результатам собеседования."
+            ],
+            "WELCOME": null,
+            "SALARY": "От 20 000 до 35 000 рублей",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел кадров",
+            "TEXT": null
+        },
+        {
+            "ID": "651089",
+            "SEARCHABLE_CONTENT": "РАЗРАБОТЧИК PHP DEVELOPER(SYMFONY)\r\n\r\n",
+            "NAME": "Разработчик PHP Developer(Symfony)",
+            "REQUIREMENTS": [
+                "Опыт работы с highload проектами, понимание построения оптимальной архитектуры приложений;",
+                "Знание и понимание ООП: шаблоны проектирования, принципы SOLID",
+                "Практический опыт реализации проектов на Symfony",
+                "Продвинутые знания Symfony framework"
+            ],
+            "RESPONSIBILITY": [
+                "Разработка и поддержка highload проекта в сфере e-commerce",
+                "Участие в проектировании масштабируемой архитектуры для будущего проекта",
+                "Писать чистый, лаконичный код, соблюдать стандарты написания кода",
+                "Проводить code review, писать тесты для своего кода",
+                "Знание SQL в связке с ORM (Doctrine)",
+                "Опыт реализации RESTful API",
+                "Опыт работы с системами контроля версий, Git",
+                "Опыт реализации RESTful API"
+            ],
+            "OFFERS": [
+                "Погружение в изучение и использование различных практик и инструментов современной разработки;",
+                "молодую, дружную и целеустремленную команду профессионалов;",
+                "График работы: 5/2, с 9.00 до 18.00",
+                "Работа в стабильной компании",
+                "Заработная плата: по итогам собеседования в зависимости от опыта и знаний",
+                "Возможность развиваться и получать новый опыт",
+                "Бесплатный обед в корпоративной столовой",
+                "Премиальные за квартал, в зависимости от выполненной работы",
+                "Дружный коллектив"
+            ],
+            "WELCOME": null,
+            "SALARY": "По результатам собеседования",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Отдел web-разработки",
+            "TEXT": null
+        },
+        {
+            "ID": "651104",
+            "SEARCHABLE_CONTENT": "ТЕХНИЧКА В МАГАЗИН НА ШАМИЛЯ 31\r\n\r\n",
+            "NAME": "Техничка в магазин на Шамиля 31",
+            "REQUIREMENTS": [
+                "Чистоплотность",
+                "Аккуратность ",
+                "Трудолюбие"
+            ],
+            "RESPONSIBILITY": [
+                "Уборка торгового помещения",
+                "Поддержание помещения в чистоте"
+            ],
+            "OFFERS": [
+                "График работы: 2/2, с 8.00 до 20.00",
+                "Заработная плата: 1000 рублей за смену"
+            ],
+            "WELCOME": null,
+            "SALARY": "1000 за смену",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В магазине",
+            "GROUP": "Хозяйственный отдел",
+            "TEXT": null
+        },
+        {
+            "ID": "651127",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ГАРАНТИЙНОГО ОТДЕЛА ПО РАБОТЕ С ПОСТАВЩИКАМИ\r\n\r\n",
+            "NAME": "Менеджер гарантийного отдела по работе с поставщиками",
+            "REQUIREMENTS": [
+                "Честность, порядочность, ориентация на результат;",
+                "При принятии рабочих решений готовность ставить интересы компании и ее клиентов выше личных;",
+                "Гибкое и позитивное мышление, готовность меняться, изучать новое, здоровый энтузиазм;",
+                "Пунктуальность и ответственность;",
+                "Инициативность и самостоятельность;",
+                "Эмпатия;",
+                "Коммуникабельность",
+                "Общее представление о товаре с которым предстоит работать (в основном компьютерные комплектующие и периферия);",
+                "Грамотная письменная и устная речь;",
+                "Уверенный пользователь ПК и офисных программ."
+            ],
+            "RESPONSIBILITY": [
+                "Прием бракованного товара от других отделов;",
+                "Обеспечение доставки бракованного товара на гарантийный ремонт через транспортную компанию и иными способами;",
+                "Обеспечение возврата отремонтированного товара либо получения компенсации;  ",
+                "Передача отремонтированного товара на тестирование;",
+                "Обеспечение сохранности товара, принятого на склад и переданного в СЦ и поставщикам, посредством проведения сверок и своевременного принятия мер в случае обнаружения расхождений;",
+                "Оформление сопутствующей документации."
+            ],
+            "OFFERS": [
+                "8-часовой рабочий день, 5-дневная рабочая неделя пн-пт. Можем рассмотреть возможность гибкого графика;",
+                "З/п - оклад 17 тыс. + сдельная часть, зависящая от объема обработанного товара + премиальная часть по результатам оценки за квартал. В среднем общее вознаграждение составляет ~ 26 тыс. руб.;",
+                "Приятная рабочая атмосфера, дружелюбные и понимающие коллеги, всегда готовые помочь словом и делом;",
+                "Работа в условиях самоорганизации, простор для самореализации, раскрытия своих талантов и лучших качеств."
+            ],
+            "WELCOME": null,
+            "SALARY": "От 17 000 руб. и выше (оклад+премия)",
+            "SECTION": {
+                "ID": "4007",
+                "NAME": "Махачкала",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/makhachkala/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": null,
+            "GROUP": "Гарантийный отдел",
+            "TEXT": null
+        },
+        {
+            "ID": "586187",
+            "SEARCHABLE_CONTENT": "КАССИР В Г.ХАСАВЮРТ\r\n\r\n&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 14PT;&quot;&gt;&lt;I&gt;&lt;B&gt;ЧТО ТРЕБУЕТСЯ ОТ ВАС?&lt;/B&gt;&lt;/I&gt;&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;I&gt;&lt;B&gt; &lt;/B&gt;&lt;/I&gt;&lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОБРАЗОВАНИЕ НЕ НИЖЕ СРЕДНЕГО СПЕЦИАЛЬНОГО;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ВНИМАТЕЛЬНАЯ, ОТВЕТСТВЕННАЯ, ВЕЖЛИВАЯ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПОЛЬЗОВАТЕЛЬ ПК;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;МОЖНО БЕЗ ОПЫТА РАБОТЫ.&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;BR&gt;\r\n &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;&lt;I&gt;ВАШИ ОБЯЗАННОСТИ:&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;B&gt;&lt;I&gt; &lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ПРИЕМ ДЕНЕЖНЫХ СРЕДСТВ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОСУЩЕСТВЛЕНИЕ РАСЧЕТНО-КАССОВЫХ ОПЕРАЦИЙ С ПОКУПАТЕЛЯМИ.&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt; &lt;SPAN STYLE=&quot;FONT-SIZE: 14PT;&quot;&gt;&lt;B&gt;&lt;I&gt;ЧТО ПРЕДЛАГАЕМ МЫ:&lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;BR&gt;\r\n &lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;&lt;B&gt;&lt;I&gt; &lt;/I&gt;&lt;/B&gt;&lt;/SPAN&gt;\r\n&lt;UL&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ГРАФИК РАБОТЫ: СМЕННЫЙ, 2/2, С 9.00 ДО 19.00;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОПЛАТА ОТПУСКА;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОПЛАТА ЗА ПИТАНИЕ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ОБУЧЕНИЕ ЗА СЧЕТ КОМПАНИИ;&lt;/SPAN&gt;&lt;/LI&gt;\r\n\t&lt;LI&gt;&lt;SPAN STYLE=&quot;FONT-FAMILY: &QUOT;TIMES NEW ROMAN&QUOT;, TIMES; FONT-SIZE: 13PT;&quot;&gt;ЗАРАБОТНАЯ ПЛАТА: 10 000 -&NBSP;15&NBSP;000 РУБ.&lt;/SPAN&gt;&lt;/LI&gt;\r\n&lt;/UL&gt;",
+            "NAME": "Кассир в г.Хасавюрт",
+            "REQUIREMENTS": [
+                "Образование не ниже среднего специального",
+                "Внимательная, ответственная, вежливая",
+                "Пользователь ПК",
+                "Можно без опыта работы"
+            ],
+            "RESPONSIBILITY": [
+                "Прием денежных средств",
+                "Осуществление расчетно-кассовых операций с покупателями"
+            ],
+            "OFFERS": [
+                "График работы: сменный, 5\\2, с 9.00 до 20.00",
+                "Оплата отпуска",
+                "Оплата за питание",
+                "Обучение за счет компании",
+                "Заработная плата: 16 000 - 19 000 руб"
+            ],
+            "WELCOME": null,
+            "SALARY": "16000-19000",
+            "SECTION": {
+                "ID": "4008",
+                "NAME": "Хасавюрт",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/khasavyurt/",
+                "IMAGE": null
+            },
+            "STATUS": null,
+            "EMPLOYMENT": null,
+            "SHEDULE": null,
+            "PLACEMENT": null,
+            "GROUP": "Касса",
+            "TEXT": null
+        },
+        {
+            "ID": "587125",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ГАРАНТИЙНОГО ОТДЕЛА В Г.ХАСАВЮРТ\r\n\r\n",
+            "NAME": "Менеджер гарантийного отдела в г.Хасавюрт",
+            "REQUIREMENTS": [
+                "Добросовестное и ответственное отношение к работе",
+                "Интерес к технике, в частности к телефонам или компьютерам",
+                "Активность и умение оперативно решать возникшие проблемы",
+                "Способность сохранять хладнокровие в любой ситуации",
+                "Знать базовые характеристики техники."
+            ],
+            "RESPONSIBILITY": [
+                "Прием на ремонт товара от клиентов",
+                "Провести первичную диагностику товара",
+                "Работать с возражениями, поступающими от клиентов."
+            ],
+            "OFFERS": [
+                "Рабочий график: 6/1, с 9:00 до 19:00;",
+                "Оплачиваемый отпуск;",
+                "Обучение за счет компании;",
+                "Заработная плата: 16 000 - 18 000 руб."
+            ],
+            "WELCOME": null,
+            "SALARY": "16 000 - 18 000 руб. ",
+            "SECTION": {
+                "ID": "4008",
+                "NAME": "Хасавюрт",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/khasavyurt/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В офисе",
+            "GROUP": "Гарантийный отдел",
+            "TEXT": null
+        },
+        {
+            "ID": "587127",
+            "SEARCHABLE_CONTENT": "МЕРЧЕНДАЙЗЕР В Г.ХАСАВЮРТ\r\n\r\n",
+            "NAME": "Мерчендайзер в г.Хасавюрт",
+            "REQUIREMENTS": [
+                "Внимательность, ответственность;",
+                "Предприимчивый, энергичный;",
+                "Знание ПК или какой либо другой техники приветствуется;",
+                "Желание работать и развиваться в растущей компании;",
+                "Опыт работы значения не имеет."
+            ],
+            "RESPONSIBILITY": [
+                "Прием и оприходование товара;",
+                "Выкладка товара на витрины;",
+                "Расстановка ценников на товар;",
+                "Порядок на витринах."
+            ],
+            "OFFERS": [
+                "График работы: 6/1, 8 часовой рабочий день ",
+                "Оплата отпуска;",
+                "Обучение за счет компании;",
+                "Возможность карьерного и профессионального роста;",
+                "Заработная плата:  15000 +премия "
+            ],
+            "WELCOME": null,
+            "SALARY": "15 000 руб+премия .",
+            "SECTION": {
+                "ID": "4008",
+                "NAME": "Хасавюрт",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/khasavyurt/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В магазине",
+            "GROUP": "Отдел продаж",
+            "TEXT": null
+        },
+        {
+            "ID": "590067",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ПО ПРОДАЖАМ TV ТЕХНИКИ Г .ХАСАВЮРТ\r\n\r\n",
+            "NAME": "Менеджер по продажам TV техники г .Хасавюрт",
+            "REQUIREMENTS": [
+                "Грамотная речь;",
+                "Пользователь ПК;",
+                "Коммуникабельность, инициативность, нацеленность на достижение результата."
+            ],
+            "RESPONSIBILITY": [
+                "Консультирование покупателей по техническим характеристикам товара в торговом зале;",
+                "Продажа техники."
+            ],
+            "OFFERS": [
+                "Рабочий график: 6/1, сменный  с 9.00 до 18.00 ,10:00 до19:00 , 11:00 до 20 :00",
+                "Оплата отпуска;",
+                "Возможность карьерного и профессионального роста;"
+            ],
+            "WELCOME": null,
+            "SALARY": "Сдельная, % от продаж (в среднем 20 000-30 000 руб. и выше).",
+            "SECTION": {
+                "ID": "4008",
+                "NAME": "Хасавюрт",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/khasavyurt/",
+                "IMAGE": null
+            },
+            "STATUS": null,
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": null,
+            "GROUP": "Отдел продаж",
+            "TEXT": null
+        },
+        {
+            "ID": "590488",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ПО ПРОДАЖАМ ПОРТАТИВНОЙ ТЕХНИКИ Г.ХАСАВЮРТ\r\n\r\n",
+            "NAME": "Менеджер по продажам портативной техники г.Хасавюрт",
+            "REQUIREMENTS": [
+                "Активность и инициативность в работе",
+                "Грамотная речь, умение найти подход к клиенту",
+                "Технические знания телефонов и портативной техники приветствуется",
+                "Готовность проявлять инициативу и брать на себя ответственность",
+                "Голод новых знаний и желание развиваться",
+                "Интерес и любовь к технике - вот что мы хотим видеть в менеджере!"
+            ],
+            "RESPONSIBILITY": [
+                "Обслуживание и консультирование клиентов",
+                "Помощь в выборе портативной техники",
+                "Продажа портативной техники"
+            ],
+            "OFFERS": [
+                "График работы: 6/1, 8-ми часовой рабочий день",
+                "Оплата отпуска",
+                "Зарплата сдельная: в среднем 20 000 - 30 000 руб. и выше (% от продаж)"
+            ],
+            "WELCOME": null,
+            "SALARY": "Сдельная, % от продаж (в среднем 20000-30000 руб. и выше).",
+            "SECTION": {
+                "ID": "4008",
+                "NAME": "Хасавюрт",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/khasavyurt/",
+                "IMAGE": null
+            },
+            "STATUS": null,
+            "EMPLOYMENT": null,
+            "SHEDULE": "Полный",
+            "PLACEMENT": null,
+            "GROUP": "Отдел продаж",
+            "TEXT": null
+        },
+        {
+            "ID": "590490",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ПО ПРОДАЖАМ БЫТОВОЙ ТЕХНИКИ (Г.ХАСАВЮРТ)\r\n\r\n",
+            "NAME": "Менеджер по продажам бытовой техники (г.Хасавюрт)",
+            "REQUIREMENTS": [
+                "Коммуникабельность, умение найти подход к клиенту",
+                "Активность и инициативность в работе",
+                "Желание развиваться, искать новые подходы в работе",
+                "Грамотно поставленная речь",
+                "Желание работать и достигать высоких результатов"
+            ],
+            "RESPONSIBILITY": [
+                "Консультирование клиентов, ознакомление с техническим характеристиками товаров",
+                "Успешная продажа бытовой техники"
+            ],
+            "OFFERS": [
+                "График работы: скользящий, 6/1, 8-ми часовой рабочий день",
+                "Оплачиваемый отпуск",
+                "Возможность проявить себя в работе",
+                "Заработная плата: сдельная, 15 000 - 30 000 руб. и выше"
+            ],
+            "WELCOME": null,
+            "SALARY": "Сдельная, % от продаж (в среднем 15000-30000 руб. и выше).",
+            "SECTION": {
+                "ID": "4008",
+                "NAME": "Хасавюрт",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/khasavyurt/",
+                "IMAGE": null
+            },
+            "STATUS": null,
+            "EMPLOYMENT": null,
+            "SHEDULE": "Полный",
+            "PLACEMENT": null,
+            "GROUP": "Отдел продаж",
+            "TEXT": null
+        },
+        {
+            "ID": "586210",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ГАРАНТИЙНОГО ОТДЕЛА\r\n\r\nЧТО ТРЕБУЕТСЯ ОТ ВАС:&lt;BR /&gt;\r\n- ДОБРОСОВЕСТНОЕ И ОТВЕТСТВЕННОЕ ОТНОШЕНИЕ К РАБОТЕ&lt;BR /&gt;\r\n- ИНТЕРЕС К ТЕХНИКЕ, В ЧАСТНОСТИ К ТЕЛЕФОНАМ ИЛИ КОМПЬЮТЕРАМ&lt;BR /&gt;\r\n- АКТИВНОСТЬ И УМЕНИЕ ОПЕРАТИВНО РЕШАТЬ ВОЗНИКШИЕ ПРОБЛЕМЫ&lt;BR /&gt;\r\n- СПОСОБНОСТЬ СОХРАНЯТЬ ХЛАДНОКРОВИЕ В ЛЮБОЙ СИТУАЦИИ&lt;BR /&gt;\r\n- ЗНАТЬ БАЗОВЫЕ ХАРАКТЕРИСТИКИ ТЕХНИКИ&lt;BR /&gt;\r\n- ЗНАНИЕ &QUOT;ЗАКОНА О ЗАЩИТЕ ПРАВ ПОТРЕБИТЕЛЕЙ&QUOT; ЖЕЛАТЕЛЬНО.&lt;BR /&gt;\r\n&lt;BR /&gt;\r\nВАШИ ОБЯЗАННОСТИ:&lt;BR /&gt;\r\n- ПРИЕМ НА РЕМОНТ ТОВАРА ОТ КЛИЕНТОВ&lt;BR /&gt;\r\n- ПРОВЕСТИ ПЕРВИЧНУЮ ДИАГНОСТИКУ ТОВАРА&lt;BR /&gt;\r\n- РАБОТАТЬ С ВОЗРАЖЕНИЯМИ, ПОСТУПАЮЩИМИ ОТ КЛИЕНТОВ&lt;BR /&gt;\r\n&lt;BR /&gt;\r\nЧТО ПРЕДЛАГАЕМ МЫ:&lt;BR /&gt;\r\n- РАБОЧИЙ ГРАФИК: 6/1, С 9:00 ДО 19:00;&lt;BR /&gt;\r\n- ОПЛАЧИВАЕМЫЙ ОТПУСК;&lt;BR /&gt;\r\n- ОБУЧЕНИЕ ЗА СЧЕТ КОМПАНИИ;&lt;BR /&gt;\r\n- ЗАРАБОТНАЯ ПЛАТА: 16 000 - 18 000 РУБ.",
+            "NAME": "Менеджер гарантийного отдела",
+            "REQUIREMENTS": [
+                "Добросовестное и ответственное отношение к работе",
+                "Интерес к технике, в частности к телефонам или компьютерам",
+                "Активность и умение оперативно решать возникшие проблемы",
+                "Способность сохранять хладнокровие в любой ситуации",
+                "Знать базовые характеристики техники"
+            ],
+            "RESPONSIBILITY": [
+                " Прием на ремонт товара от клиентов",
+                "Провести первичную диагностику товара",
+                "Работать с возражениями, поступающими от клиентов"
+            ],
+            "OFFERS": [
+                "Рабочий график: 6/1, с 9.00 до 19.00 или с 10:00 до 20:00",
+                "Оплачиваемый отпуск",
+                "Обучение за счет компании",
+                "Заработная плата: 16 000 - 18 000 руб"
+            ],
+            "WELCOME": null,
+            "SALARY": "16 000 - 18 000",
+            "SECTION": {
+                "ID": "4009",
+                "NAME": "Дербент",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/derbent/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В магазине",
+            "GROUP": "Гарантийный отдел",
+            "TEXT": null
+        },
+        {
+            "ID": "586213",
+            "SEARCHABLE_CONTENT": "МЕРЧЕНДАЙЗЕР\r\n\r\n&lt;B&gt;&lt;I&gt;ЧТО ТРЕБУЕТСЯ ОТ ВАС?&lt;/I&gt;&lt;/B&gt;&lt;BR&gt;\r\n ВНИМАТЕЛЬНОСТЬ, ОТВЕТСТВЕННОСТЬ;&lt;BR&gt;\r\n ПРЕДПРИИМЧИВЫЙ, ЭНЕРГИЧНЫЙ;&lt;BR&gt;\r\n ЗНАНИЕ ПК ИЛИ КАКОЙ ЛИБО ДРУГОЙ ТЕХНИКИ ПРИВЕТСТВУЕТСЯ;&lt;BR&gt;\r\n ЖЕЛАНИЕ РАБОТАТЬ И РАЗВИВАТЬСЯ В РАСТУЩЕЙ КОМПАНИИ;&lt;BR&gt;\r\n ОПЫТ РАБОТЫ ЗНАЧЕНИЯ НЕ ИМЕЕТ.&lt;BR&gt;\r\n &lt;BR&gt;\r\n &lt;B&gt;&lt;I&gt;ВАШИ ОБЯЗАННОСТИ:&lt;/I&gt;&lt;/B&gt;&lt;BR&gt;\r\n ПРИЕМ И ОПРИХОДОВАНИЕ ТОВАРА;&lt;BR&gt;\r\n ВЫКЛАДКА ТОВАРА НА ВИТРИНЫ;&lt;BR&gt;\r\n РАССТАНОВКА ЦЕННИКОВ НА ТОВАР;&lt;BR&gt;\r\n ПОРЯДОК НА ВИТРИНАХ.&lt;BR&gt;\r\n &lt;BR&gt;\r\n &lt;B&gt;&lt;I&gt;ЧТО ПРЕДЛАГАЕМ МЫ:&lt;/I&gt;&lt;/B&gt;&lt;BR&gt;\r\n ГРАФИК РАБОТЫ: 6/1 С 9.00 ДО 19.00&lt;BR&gt;\r\n ОПЛАТА ОТПУСКА;&lt;BR&gt;\r\n ОБУЧЕНИЕ ЗА СЧЕТ КОМПАНИИ;&lt;BR&gt;\r\n ВОЗМОЖНОСТЬ КАРЬЕРНОГО И ПРОФЕССИОНАЛЬНОГО РОСТА;&lt;BR&gt;\r\nЗАРАБОТНАЯ ПЛАТА: В СРЕДНЕМ 15000 РУБЛЕЙ",
+            "NAME": "Мерчендайзер",
+            "REQUIREMENTS": [
+                "Внимательность, ответственность;",
+                "Предприимчивый, энергичный;",
+                "Знание ПК или какой либо другой техники приветствуется;",
+                "Желание работать и развиваться в растущей компании;",
+                "Опыт работы значения не имеет"
+            ],
+            "RESPONSIBILITY": [
+                "Прием и оприходование товара;",
+                "Выкладка товара на витрины;",
+                "Расстановка ценников на товар;",
+                "Порядок на витринах"
+            ],
+            "OFFERS": [
+                "График работы: 6/1 с 9.00 до 19.00 или с 10.00 до 20.00;",
+                "Оплата отпуска;",
+                "Обучение за счет компании;",
+                "Возможность карьерного и профессионального роста;",
+                "Заработная плата: 15 000 рублей + премия, в среднем 16.000-20 000 и выше"
+            ],
+            "WELCOME": null,
+            "SALARY": "15 000 руб+ премия",
+            "SECTION": {
+                "ID": "4009",
+                "NAME": "Дербент",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/derbent/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В магазине",
+            "GROUP": "Отдел продаж",
+            "TEXT": null
+        },
+        {
+            "ID": "591739",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ПО ПРОДАЖАМ TV ТЕХНИКИ\r\n\r\n",
+            "NAME": "Менеджер по продажам TV техники",
+            "REQUIREMENTS": [
+                "Грамотная речь;",
+                "Активность и инициативность в работе;",
+                "Желание развиваться, искать новые подходы в работе."
+            ],
+            "RESPONSIBILITY": [
+                "Консультирование покупателей по техническим характеристикам товара в торговом зале;",
+                "Успешная продажа TV техники."
+            ],
+            "OFFERS": [
+                "Рабочий график: 6/1, с 9.00 до 19.00 или с 10.00 до 20.00;",
+                "Оплата отпуска;",
+                "Возможность развиваться вместе с нами;",
+                "Заработная плата: сдельная, % от продаж (в среднем 15 000-30 000 руб. и выше)."
+            ],
+            "WELCOME": null,
+            "SALARY": "сдельная, % от продаж (в среднем 15 000-30 000 руб. и выше);",
+            "SECTION": {
+                "ID": "4009",
+                "NAME": "Дербент",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/derbent/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В магазине",
+            "GROUP": "Отдел продаж",
+            "TEXT": null
+        },
+        {
+            "ID": "591740",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ПО ПРОДАЖАМ ПОРТАТИВНОЙ ТЕХНИКИ\r\n\r\n",
+            "NAME": "Менеджер по продажам портативной техники",
+            "REQUIREMENTS": [
+                "Грамотная речь, умение найти подход к клиенту;",
+                "Голод новых знаний и желание развиваться;",
+                "Интерес и любовь к технике - вот что мы хотим видеть в менеджере!"
+            ],
+            "RESPONSIBILITY": [
+                "Обслуживание и консультирование клиентов;",
+                "Помощь в выборе портативной техники."
+            ],
+            "OFFERS": [
+                "Рабочий график: 6/1, с 9.00 до 19.00 или с 10.00 до 20.00;",
+                "Оплата отпуска;",
+                "Возможность развиваться вместе с нами;",
+                "Заработная плата: сдельная, % от продаж (в среднем 20 000-40 000 руб. и выше)."
+            ],
+            "WELCOME": [
+                "Технические знания телефонов и портативной техники"
+            ],
+            "SALARY": "сдельная, % от продаж (в среднем 20 000-40 000 руб. и выше);",
+            "SECTION": {
+                "ID": "4009",
+                "NAME": "Дербент",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/derbent/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В магазине",
+            "GROUP": "Отдел продаж",
+            "TEXT": null
+        },
+        {
+            "ID": "591741",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР ПО ПРОДАЖАМ КОМПЬЮТЕРНОЙ ТЕХНИКИ\r\n\r\n",
+            "NAME": "Менеджер по продажам компьютерной техники",
+            "REQUIREMENTS": [
+                "Знание компьютерного железа и комплектующих;",
+                "Желание стать частью команды и внести свой вклад;",
+                "Грамотная речь, умение найти подход к клиенту;",
+                "Проявление инициативности, поиск новых подходов в работе;",
+                "Нацеленность на достижение высоких результатов."
+            ],
+            "RESPONSIBILITY": [
+                "Обслуживание и консультирование клиентов;",
+                "Продажа компьютерной техники."
+            ],
+            "OFFERS": [
+                "График работы: 6/1, скользящий график :с 9.00 до 19.00 или с 10.00 - 20.00;",
+                "Оплачиваемый отпуск;",
+                "Возможность развиваться вместе с нами;",
+                "работная плата: сдельная (в среднем 15 000 – 30 000 руб. и выше)."
+            ],
+            "WELCOME": null,
+            "SALARY": "сдельная, % от продаж (в среднем 15 000-30 000 руб. и выше);",
+            "SECTION": {
+                "ID": "4009",
+                "NAME": "Дербент",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/derbent/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В магазине",
+            "GROUP": "Отдел продаж",
+            "TEXT": {
+                "TEXT": "Материнская плата, видеокарта, жесткий диск - слова привычные для любителей компьютеров. Те, кто любит собирать и разбирать свой ПК собственноручно, знает, для чего нужен каждый микрочип и винтик, - становятся нашими менеджерами. Именно они в обилии технических новинок соберут тот ПК, который станет вашим надежным и верным другом.",
+                "TYPE": "TEXT"
+            }
+        },
+        {
+            "ID": "596031",
+            "SEARCHABLE_CONTENT": "МЕНЕДЖЕР КОРПОРАТИВНОГО ОТДЕЛА\r\n\r\n",
+            "NAME": "Менеджер корпоративного отдела",
+            "REQUIREMENTS": [
+                "Коммуникабельность, умение общаться с людьми;",
+                "Дисциплинированность. Ответственность. Инициативность;",
+                "Умение работать в различных офисных программах;",
+                "Аналитический склад ума;"
+            ],
+            "RESPONSIBILITY": [
+                "Работа с юридическими лицами;",
+                "Оформление договоров, товарных накладных, счет-фактур, проверка доверенностей и т.д.",
+                "Оформление заказа;",
+                "Поиск товара в интернете."
+            ],
+            "OFFERS": [
+                "График работы: 5/2, с 9.00 до 18.00; ",
+                "Возможность профессионального и карьерного роста;",
+                "Оплачиваемый отпуск - 28 календарных дней;",
+                "Заработная плата: сдельная, в среднем 20000 - 40000 руб. и выше (% от продаж)."
+            ],
+            "WELCOME": [
+                "Желательно знание компьютерной техники."
+            ],
+            "SALARY": "сдельная, в среднем 20000 - 40000 руб. и выше (% от продаж).",
+            "SECTION": {
+                "ID": "4009",
+                "NAME": "Дербент",
+                "IBLOCK_ID": "91",
+                "PARENT_NAME": null,
+                "SECTION_PAGE_PATH": "/vacancy/derbent/",
+                "IMAGE": null
+            },
+            "STATUS": "Активная",
+            "EMPLOYMENT": "Полная",
+            "SHEDULE": "Полный",
+            "PLACEMENT": "В магазине",
+            "GROUP": "Корпоративный отдел",
+            "TEXT": null
+        }
+    ]
+}

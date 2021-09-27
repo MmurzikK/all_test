@@ -1,0 +1,14 @@
+Started by user [8mha:////4DRpa0kXQGGYEuvzHr4UTCyIOAqVnu6LLAYerEmt6IPiAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/uitest
+[uitest] $ /bin/sh -xe /tmp/jenkins11755198588367914018.sh
++ curl -d ["rm -rf /result/uitest", "cd /auto_test", "python -m pytest -s /auto_test/test.py --alluredir /result/uitest/results", "chmod -R 777 /result/uitest"] -X POST http://pythonui
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   150    0     0  100   150      0    123  0:00:01  0:00:01 --:--:--   123100   150    0     0  100   150      0    120  0:00:01  0:00:01 --:--:--   120
+[uitest] $ /var/jenkins_home/tools/ru.yandex.qatools.allure.jenkins.tools.AllureCommandlineInstallation/Allure/bin/allure generate /var/jenkins_home/workspace/uitest/results -c -o /var/jenkins_home/workspace/uitest/allure-report
+Report successfully generated to /var/jenkins_home/workspace/uitest/allure-report
+Allure report was successfully generated.
+Creating artifact for the build.
+Artifact was added to the build.
+Finished: SUCCESS

@@ -1,0 +1,1 @@
+https://stage.05.ru/api/v2/register/code/check/111111

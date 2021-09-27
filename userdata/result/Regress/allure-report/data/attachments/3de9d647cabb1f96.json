@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "result": [
+        {
+            "ID": 1,
+            "NAME": "Наличными при получении",
+            "DESCRIPTION": "Оплата наличными при получении заказа курьеру.",
+            "PRICE": 0,
+            "PRINT_PRICE": "0₽",
+            "CHECKED": true,
+            "LOGOTIP": "https://img.dev.05.ru/resize/hD9d6Tbebu85-hrPJqRQBTkF-xd53VoOYy-q8qkd5RM//rs:fit:36:31:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3NhbGUvcGF5c3lzdGVtL2xvZ290aXAvMzdhLzM3YTBmZTBkNDdiNGU4ZTJmNzgxYjY0MDU0NzNlYmM0LnBuZw"
+        }
+    ]
+}

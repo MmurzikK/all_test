@@ -1,0 +1,145 @@
+{
+    "success": true,
+    "result": [
+        {
+            "ID": "255701",
+            "UF_NAME": "Apple",
+            "UF_XML_ID": "4ac7e251-9d8f-11e5-8110-003048d70791",
+            "UF_LINK": "apple",
+            "UF_FILE": "https://img.stage.05.ru/resize/nq6trz9VH1Db_6GA5HwYKOXhKMfvIXbukRYXK90AoPo//rs:fit:90:90:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzc3YS83N2FlNTA2OWZhZDNmYTVmZDM5MjllMmZiNzZhN2E0MS5wbmc",
+            "UF_DESCRIPTION": "эпл эйпл aple  aplle",
+            "UF_FULL_DESCRIPTION": "",
+            "IMAGE": "https://img.stage.05.ru/resize/nq6trz9VH1Db_6GA5HwYKOXhKMfvIXbukRYXK90AoPo//rs:fit:90:90:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzc3YS83N2FlNTA2OWZhZDNmYTVmZDM5MjllMmZiNzZhN2E0MS5wbmc",
+            "THUMBNAILS": {
+                "1X": "https://img.stage.05.ru/resize/zbHprwWqNPatJ2tdLVYVCRlRJ3dNr5mSCHbEhjbVfWE//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzc3YS83N2FlNTA2OWZhZDNmYTVmZDM5MjllMmZiNzZhN2E0MS5wbmc",
+                "2X": "https://img.stage.05.ru/resize/LA1-GiJ8iaFaHoqXE3uP6fLVyqyvWtfl6yZdPC3rtgg//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzc3YS83N2FlNTA2OWZhZDNmYTVmZDM5MjllMmZiNzZhN2E0MS5wbmc"
+            },
+            "NAME": "Apple",
+            "CODE": "apple",
+            "DESCRIPTION": "эпл эйпл aple  aplle",
+            "FULL_DESCRIPTION": null,
+            "DETAIL_PAGE_PATH": "https://stage.05.ru/brands/apple",
+            "DETAIL_PAGE_URL": "https://stage.05.ru/brands/apple"
+        },
+        {
+            "ID": "257609",
+            "UF_NAME": "BioMio",
+            "UF_XML_ID": "53429244-d1a7-11ea-bb9e-0cc47a5976ad",
+            "UF_LINK": "biomio",
+            "UF_FILE": "https://img.stage.05.ru/resize/H6ZZkhrGSojxQdY19fdQHUHnRfst52_xWm6XgWstL-k//rs:fit:1024:417:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzg0NC84NDRlNDdjNDQzOTdlNzI4Y2VlYTRkNjdmNjY4NWQwOS5wbmc",
+            "UF_DESCRIPTION": "",
+            "UF_FULL_DESCRIPTION": "",
+            "IMAGE": "https://img.stage.05.ru/resize/H6ZZkhrGSojxQdY19fdQHUHnRfst52_xWm6XgWstL-k//rs:fit:1024:417:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzg0NC84NDRlNDdjNDQzOTdlNzI4Y2VlYTRkNjdmNjY4NWQwOS5wbmc",
+            "THUMBNAILS": {
+                "1X": "https://img.stage.05.ru/resize/za3pdepJ-6Ven7xce1dVhR7gAHL395TVF5mVbGirXoY//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzg0NC84NDRlNDdjNDQzOTdlNzI4Y2VlYTRkNjdmNjY4NWQwOS5wbmc",
+                "2X": "https://img.stage.05.ru/resize/PBHbfDxPSH_HTwo2iZ9t4BORJYuDN3ZDbZ9y4ScmGnw//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzg0NC84NDRlNDdjNDQzOTdlNzI4Y2VlYTRkNjdmNjY4NWQwOS5wbmc"
+            },
+            "NAME": "BioMio",
+            "CODE": "biomio",
+            "DESCRIPTION": null,
+            "FULL_DESCRIPTION": null,
+            "DETAIL_PAGE_PATH": "https://stage.05.ru/brands/biomio",
+            "DETAIL_PAGE_URL": "https://stage.05.ru/brands/biomio"
+        },
+        {
+            "ID": "257636",
+            "UF_NAME": "Dolce milk",
+            "UF_XML_ID": "9c9f3c4c-d6ed-11ea-bb9e-0cc47a5976ad",
+            "UF_LINK": "dolce_milk",
+            "UF_FILE": "https://img.stage.05.ru/resize/UnZOzMWVMFeDW180tZ7mAsHfF_ig7sJKlevMGlxyAQM//rs:fit:60:60:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzQ3Mi80NzI4YTNiMzY5OGU3Mzg5ZTYzZTZkM2Y5MThiOWIyNC5qcGc",
+            "UF_DESCRIPTION": "",
+            "UF_FULL_DESCRIPTION": "",
+            "IMAGE": "https://img.stage.05.ru/resize/UnZOzMWVMFeDW180tZ7mAsHfF_ig7sJKlevMGlxyAQM//rs:fit:60:60:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzQ3Mi80NzI4YTNiMzY5OGU3Mzg5ZTYzZTZkM2Y5MThiOWIyNC5qcGc",
+            "THUMBNAILS": {
+                "1X": "https://img.stage.05.ru/resize/69xQcxLBmiHMPBSJFdbDOHFV9nKU2OP-0Yln75NDxfM//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzQ3Mi80NzI4YTNiMzY5OGU3Mzg5ZTYzZTZkM2Y5MThiOWIyNC5qcGc",
+                "2X": "https://img.stage.05.ru/resize/Jq9rr5iJMVGhtoZFqrSk0HCEdJka93AiCyScN_XIaCE//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzQ3Mi80NzI4YTNiMzY5OGU3Mzg5ZTYzZTZkM2Y5MThiOWIyNC5qcGc"
+            },
+            "NAME": "Dolce milk",
+            "CODE": "dolce_milk",
+            "DESCRIPTION": null,
+            "FULL_DESCRIPTION": null,
+            "DETAIL_PAGE_PATH": "https://stage.05.ru/brands/dolce_milk",
+            "DETAIL_PAGE_URL": "https://stage.05.ru/brands/dolce_milk"
+        },
+        {
+            "ID": "257956",
+            "UF_NAME": "Natura Siberica",
+            "UF_XML_ID": "8104f1f4-024b-11eb-bb9e-0cc47a5976ad",
+            "UF_LINK": "natura_siberica",
+            "UF_FILE": "https://img.stage.05.ru/resize/Fhzvg0aCs7oPsnpcPBMTHzGxeESwnf4hYqESFrWEXdw//rs:fit:192:238:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2Y5OS9mOTlhNzBhNDA4Y2IxZmI2YjNlYTk5NDYyNDAzMzZjOS5qcGc",
+            "UF_DESCRIPTION": "",
+            "UF_FULL_DESCRIPTION": "",
+            "IMAGE": "https://img.stage.05.ru/resize/Fhzvg0aCs7oPsnpcPBMTHzGxeESwnf4hYqESFrWEXdw//rs:fit:192:238:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2Y5OS9mOTlhNzBhNDA4Y2IxZmI2YjNlYTk5NDYyNDAzMzZjOS5qcGc",
+            "THUMBNAILS": {
+                "1X": "https://img.stage.05.ru/resize/G6pSvV7Jrg_8Om4PHX1HhLKx8VjbftgNUJI1PeIB5u8//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2Y5OS9mOTlhNzBhNDA4Y2IxZmI2YjNlYTk5NDYyNDAzMzZjOS5qcGc",
+                "2X": "https://img.stage.05.ru/resize/2Rer-qIaSdBiEl0qpnqsLbIYnk-RRIW9b1p4gK6gO9U//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2Y5OS9mOTlhNzBhNDA4Y2IxZmI2YjNlYTk5NDYyNDAzMzZjOS5qcGc"
+            },
+            "NAME": "Natura Siberica",
+            "CODE": "natura_siberica",
+            "DESCRIPTION": null,
+            "FULL_DESCRIPTION": null,
+            "DETAIL_PAGE_PATH": "https://stage.05.ru/brands/natura_siberica",
+            "DETAIL_PAGE_URL": "https://stage.05.ru/brands/natura_siberica"
+        },
+        {
+            "ID": "257955",
+            "UF_NAME": "Organic Kitchen",
+            "UF_XML_ID": "dde8905c-024a-11eb-bb9e-0cc47a5976ad",
+            "UF_LINK": "organic_kitchen",
+            "UF_FILE": "https://img.stage.05.ru/resize/SzV1VaORJWv5YL3ZD7Ienf4TA6eltDF8xlv4uTiIxh8//rs:fit:1680:503:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzE3OC8xNzgxYzlkMjRkY2NjZGI1NzA2NDU3YzVjZjJhNmNlYy5qcGc",
+            "UF_DESCRIPTION": "",
+            "UF_FULL_DESCRIPTION": "",
+            "IMAGE": "https://img.stage.05.ru/resize/SzV1VaORJWv5YL3ZD7Ienf4TA6eltDF8xlv4uTiIxh8//rs:fit:1680:503:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzE3OC8xNzgxYzlkMjRkY2NjZGI1NzA2NDU3YzVjZjJhNmNlYy5qcGc",
+            "THUMBNAILS": {
+                "1X": "https://img.stage.05.ru/resize/BSxTZwVsx-ZueFZeXC0hIffUkvtNqrGMQozjZf8QoTQ//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzE3OC8xNzgxYzlkMjRkY2NjZGI1NzA2NDU3YzVjZjJhNmNlYy5qcGc",
+                "2X": "https://img.stage.05.ru/resize/5mK9XITqmcg4SUSC-rodGP4MDoH_y-ozyD-GpHqInAg//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmLzE3OC8xNzgxYzlkMjRkY2NjZGI1NzA2NDU3YzVjZjJhNmNlYy5qcGc"
+            },
+            "NAME": "Organic Kitchen",
+            "CODE": "organic_kitchen",
+            "DESCRIPTION": null,
+            "FULL_DESCRIPTION": null,
+            "DETAIL_PAGE_PATH": "https://stage.05.ru/brands/organic_kitchen",
+            "DETAIL_PAGE_URL": "https://stage.05.ru/brands/organic_kitchen"
+        },
+        {
+            "ID": "258066",
+            "UF_NAME": "Planeta Organica",
+            "UF_XML_ID": "387ac56b-0c79-11eb-bb9e-0cc47a5976ad",
+            "UF_LINK": "planeta_organica",
+            "UF_FILE": "https://img.stage.05.ru/resize/dJUVg2Z_bqUeA9NwnqA7mY8zZOOY6K9vL8pGT77P50w//rs:fit:450:450:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2VhYi9lYWIwOGZmMzkwOWQzZDU2YTZlYTE4MzI1MTAyODk4Zi5wbmc",
+            "UF_DESCRIPTION": "",
+            "UF_FULL_DESCRIPTION": "",
+            "IMAGE": "https://img.stage.05.ru/resize/dJUVg2Z_bqUeA9NwnqA7mY8zZOOY6K9vL8pGT77P50w//rs:fit:450:450:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2VhYi9lYWIwOGZmMzkwOWQzZDU2YTZlYTE4MzI1MTAyODk4Zi5wbmc",
+            "THUMBNAILS": {
+                "1X": "https://img.stage.05.ru/resize/-9wSE6ZKc4WFYnVZDYLEgkF-ezDNhRniR4DJqo9zhHA//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2VhYi9lYWIwOGZmMzkwOWQzZDU2YTZlYTE4MzI1MTAyODk4Zi5wbmc",
+                "2X": "https://img.stage.05.ru/resize/7SZNITVFqjlzJfV0MrGHRSMIdc6DGZ6ymajdIyp4sFs//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2VhYi9lYWIwOGZmMzkwOWQzZDU2YTZlYTE4MzI1MTAyODk4Zi5wbmc"
+            },
+            "NAME": "Planeta Organica",
+            "CODE": "planeta_organica",
+            "DESCRIPTION": null,
+            "FULL_DESCRIPTION": null,
+            "DETAIL_PAGE_PATH": "https://stage.05.ru/brands/planeta_organica",
+            "DETAIL_PAGE_URL": "https://stage.05.ru/brands/planeta_organica"
+        },
+        {
+            "ID": "256593",
+            "UF_NAME": "FINISH",
+            "UF_XML_ID": "e45df8a5-572f-11e7-8100-003048c130e1",
+            "UF_LINK": "finish",
+            "UF_FILE": "https://img.stage.05.ru/resize/zC-B55_fKsdkcMJu86Q57C-GWQhp0WD3sCmLLpa33AQ//rs:fit:2194:1499:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2U2ZC9lNmRmYzEwNDc4NDJiYTQxODk5YjAyOTFjYjIxOTY4NC5wbmc",
+            "UF_DESCRIPTION": "",
+            "UF_FULL_DESCRIPTION": "",
+            "IMAGE": "https://img.stage.05.ru/resize/zC-B55_fKsdkcMJu86Q57C-GWQhp0WD3sCmLLpa33AQ//rs:fit:2194:1499:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2U2ZC9lNmRmYzEwNDc4NDJiYTQxODk5YjAyOTFjYjIxOTY4NC5wbmc",
+            "THUMBNAILS": {
+                "1X": "https://img.stage.05.ru/resize/Ke860RxDxxfh9abBMU40DsXUhAj0wYHfkdqPO1hJCpY//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2U2ZC9lNmRmYzEwNDc4NDJiYTQxODk5YjAyOTFjYjIxOTY4NC5wbmc",
+                "2X": "https://img.stage.05.ru/resize/D_HAZZAC1aXpwjNWh1GPmaQdIW4-n0IG6r9ve1MAYx0//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL3VmL2U2ZC9lNmRmYzEwNDc4NDJiYTQxODk5YjAyOTFjYjIxOTY4NC5wbmc"
+            },
+            "NAME": "FINISH",
+            "CODE": "finish",
+            "DESCRIPTION": null,
+            "FULL_DESCRIPTION": null,
+            "DETAIL_PAGE_PATH": "https://stage.05.ru/brands/finish",
+            "DETAIL_PAGE_URL": "https://stage.05.ru/brands/finish"
+        }
+    ]
+}

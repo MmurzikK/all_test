@@ -1,0 +1,155 @@
+{
+  "uid" : "79f1ed1e68a45128",
+  "name" : "Header shop",
+  "fullName" : "test.TestRegister#test_shop",
+  "historyId" : "4a0e3bcdef942f9300dc792cf6895da5",
+  "time" : {
+    "start" : 1632397893111,
+    "stop" : 1632397912677,
+    "duration" : 19566
+  },
+  "description" : "Проверка на Header shop",
+  "descriptionHtml" : "<p>Проверка на Header shop</p>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: тест на ссылки на странице магазины не прошел\nassert ['https://05....am.com/05ru/'] == ['https://05....ounts/login/']\n  At index 4 diff: 'https://www.instagram.com/05ru/' != 'https://www.instagram.com/accounts/login/'\n  Use -v to get the full diff",
+  "statusTrace" : "self = <test.TestRegister object at 0x7ff088d8e520>\n\n    @allure.title(\"Header shop\")\n    @allure.description(\"Проверка на Header shop\")\n    def test_shop(self):\n    \n        self.driver.get(self.base_url)\n        timeout = 30\n        self.close_modal_city()\n        element_present = EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.main-slider__slide-wrapper'))\n        WebDriverWait(self.driver, timeout).until(element_present)\n        test_social_url = []\n    \n        social_url = [self.base_url+'/about/contacts/', 'https://teleg.run/www05ru_bot',\n                      'https://vk.com/05ru.shop', 'https://www.youtube.com/user/The05ru',\n                      'https://www.instagram.com/accounts/login/']\n    \n        self.driver.find_element_by_css_selector(\".header__sub-nav > .row-list > .row-list__el:nth-child(2) > a\").click()\n        all_social_network = self.driver.find_elements_by_css_selector(\".contact-page__contact-col > .social-block\")\n    \n        test_shop_location = self.findElement(url=self.base_url +'/about/contacts/',tag='a', attributes={'href': 'javascript:;','class': ['bem-link ymap-store-el-js']})\n        shop_location = ['42.9685-47.4955','42.971384-47.419259','42.9802-47.4763',\n                        '55.6845-37.6219','43.2389-46.5788','42.0619-48.2896',\n                        '42.0434-48.2942','43.231528-46.594865']\n        assert shop_location ==test_shop_location ,\"локации не прошли\"\n    \n        for block in all_social_network:\n            in_block_element =block.find_elements_by_css_selector(\".bem-link\")\n            if int(len(in_block_element)) == 1:\n                in_block_element[0].send_keys(Keys.CONTROL + Keys.RETURN)\n            else:\n                for element in in_block_element:\n                    element.send_keys(Keys.CONTROL + Keys.RETURN)\n    \n        for windows in range(len(social_url)):\n            window_after = self.driver.window_handles[windows]\n            self.driver.switch_to_window(window_after)\n            time.sleep(1)\n            test_social_url.append(self.driver.current_url)\n>       assert test_social_url == social_url ,\"тест на ссылки на странице магазины не прошел\"\nE       AssertionError: тест на ссылки на странице магазины не прошел\nE       assert ['https://05....am.com/05ru/'] == ['https://05....ounts/login/']\nE         At index 4 diff: 'https://www.instagram.com/05ru/' != 'https://www.instagram.com/accounts/login/'\nE         Use -v to get the full diff\n\ntest.py:517: AssertionError",
+  "flaky" : true,
+  "newFailed" : true,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister",
+    "time" : {
+      "start" : 1632397882327,
+      "stop" : 1632397893110,
+      "duration" : 10783
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1632397549230,
+      "stop" : 1632397549249,
+      "duration" : 19
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestRegister::0",
+    "time" : {
+      "start" : 1632397912729,
+      "stop" : 1632397913384,
+      "duration" : 655
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "9d2fc9ee43bb"
+  }, {
+    "name" : "thread",
+    "value" : "13-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 3,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "413e028bdbce9244",
+        "reportUrl" : "http://localhost:8080/job/uitest/4/allure/#testresult/413e028bdbce9244",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631885971649,
+          "stop" : 1631885987473,
+          "duration" : 15824
+        }
+      }, {
+        "uid" : "a2384875419cc33b",
+        "reportUrl" : "http://localhost:8080/job/uitest/3/allure/#testresult/a2384875419cc33b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631881337086,
+          "stop" : 1631881352987,
+          "duration" : 15901
+        }
+      }, {
+        "uid" : "4efca1c922f5e2ec",
+        "reportUrl" : "http://localhost:8080/job/uitest/2/allure/#testresult/4efca1c922f5e2ec",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: True\nassert ['https://sta...om/05ru.shop'] == ['https://05....am.com/05ru/']\n  At index 0 diff: 'https://stage.05.ru/about/contacts/' != 'https://05.ru/about/contacts/'\n  Right contains 2 more items, first extra item: 'https://www.youtube.com/user/The05ru'\n  Use -v to get the full diff",
+        "time" : {
+          "start" : 1631875452195,
+          "stop" : 1631875468720,
+          "duration" : 16525
+        }
+      }, {
+        "uid" : "7b118e14953d0ced",
+        "reportUrl" : "http://localhost:8080/job/uitest/1/allure/#testresult/7b118e14953d0ced",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: True\nassert ['https://sta...om/05ru.shop'] == ['https://05....am.com/05ru/']\n  At index 0 diff: 'https://stage.05.ru/about/contacts/' != 'https://05.ru/about/contacts/'\n  Right contains 2 more items, first extra item: 'https://www.youtube.com/user/The05ru'\n  Use -v to get the full diff",
+        "time" : {
+          "start" : 1631873198367,
+          "stop" : 1631873213807,
+          "duration" : 15440
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "79f1ed1e68a45128.json",
+  "parameterValues" : [ ]
+}

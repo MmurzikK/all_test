@@ -1,0 +1,40 @@
+{
+    "success": true,
+    "result": [
+        {
+            "ID": "587747",
+            "NAME": "Middle PHP Developer",
+            "UALIAS_0": "587747"
+        },
+        {
+            "ID": "587796",
+            "NAME": "Senior PHP Developer",
+            "UALIAS_0": "587796"
+        },
+        {
+            "ID": "604819",
+            "NAME": "Senior Python Developer",
+            "UALIAS_0": "604819"
+        },
+        {
+            "ID": "604820",
+            "NAME": "Middle Python Developer",
+            "UALIAS_0": "604820"
+        },
+        {
+            "ID": "606100",
+            "NAME": "Android Developer",
+            "UALIAS_0": "606100"
+        },
+        {
+            "ID": "607775",
+            "NAME": "Middle программист 1С",
+            "UALIAS_0": "607775"
+        },
+        {
+            "ID": "607776",
+            "NAME": "Senior программист 1С",
+            "UALIAS_0": "607776"
+        }
+    ]
+}

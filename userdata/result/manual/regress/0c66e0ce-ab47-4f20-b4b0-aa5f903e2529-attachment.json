@@ -1,0 +1,82 @@
+{
+    "success": true,
+    "result": {
+        "BASKET": {
+            "TOTAL": {
+                "ROWS": 0,
+                "BONUS_CARD": null,
+                "FREE_DELIVERY_PRICE": 1000,
+                "QUANTITY": 0,
+                "FREE_DELIVERY": false,
+                "BONUSES_RECEIVED": 0,
+                "PRICE_DELIVERY": 0,
+                "DISCOUNT_VALUE": 0,
+                "PRODUCTS_PRICE": 0,
+                "PRODUCTS_PRINT_PRICE": "0₽",
+                "PRICE": 0,
+                "PRINT_DISCOUNT_VALUE": "0₽",
+                "PRINT_PRICE_DELIVERY": "0₽",
+                "PRINT_PRICE": "0₽",
+                "OLD": 0,
+                "DISCOUNT": 0
+            },
+            "WARNINGS": null,
+            "PRODUCT": {
+                "ID": "618523",
+                "NAME": "Емкость кухонная Living кремовая 15х12,5 см",
+                "DETAIL_PAGE_PATH": "/catalog/remont/posuda/hranenie_produktov/113582/",
+                "IMAGE": "https://img.stage.05.ru/resize/XoEBkqC-91rfcJF2QDt1i7DmGDKLqkzj0RZOYzSQ398//rs:fit:900:900:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84OTYvODk2NjlmYWNhYzhkYzNjOTgzNDNjOTAyY2Q0YjkyNzMuanBlZw",
+                "THUMBNAILS": {
+                    "1X": "https://img.stage.05.ru/resize/xksBtgbhG3qD-9hq12P_J03Oc_kwJhvq5qRhzuS-Ns8//rs:fit:250:250:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84OTYvODk2NjlmYWNhYzhkYzNjOTgzNDNjOTAyY2Q0YjkyNzMuanBlZw",
+                    "2X": "https://img.stage.05.ru/resize/_9JW6KZ9fvUPFb11lKvgooWRrMNeJsEdWiRContSVeI//rs:fit:500:500:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay84OTYvODk2NjlmYWNhYzhkYzNjOTgzNDNjOTAyY2Q0YjkyNzMuanBlZw"
+                },
+                "PRICES": [
+                    {
+                        "CODE": "DEFAULT",
+                        "NAME": null,
+                        "CROSSED": false,
+                        "PRICE_TYPE_ID": 5,
+                        "BONUS": 0,
+                        "PRICE": 950,
+                        "PRINT_PRICE": "950₽",
+                        "CURRENCY": "RUB"
+                    }
+                ],
+                "PRICE": 950,
+                "PRINT_PRICE": "950₽",
+                "IN_BASKET": false,
+                "IN_FAVORITES": false,
+                "IN_COMPARE": false,
+                "DEFAULT_OFFERS": null,
+                "STATUS": {
+                    "DEFAULT": 5,
+                    "NAME": "В наличии",
+                    "DESCRIPTION_PART": null,
+                    "ICON": false,
+                    "TEXT": "В наличии",
+                    "COLOR": "#008080",
+                    "CODE": "IN_STOCK",
+                    "CLASS": "bem-pseudo_green",
+                    "FREE_DELIVERY": false
+                },
+                "ACTIONS": null,
+                "SECTION": {
+                    "ID": "4582",
+                    "NAME": "Хранение продуктов",
+                    "CODE": "hranenie_produktov",
+                    "PARENT_NAME": "Посуда",
+                    "CREDIT_BUY_UNAVAILABILITY": null,
+                    "SECTION_PAGE_PATH": "/catalog/remont/posuda/hranenie_produktov/",
+                    "IMAGE": "https://img.stage.05.ru/resize/v43PS6q3c82SR1pyFkxDagnFThf2ykzGJZ8d3yDQ6nY//rs:fit:700:700:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMTcvMTE3ZjUwNzJjYmRhNGNiYTkwZGJiNzI0YzMyYjdkOWUuanBlZw",
+                    "THUMBNAILS": {
+                        "1X": "https://img.stage.05.ru/resize/MXzb9GzOY6nZvZNnTLVGKlODuz8bdNa3v-DKczI4zPc//rs:fit:50:50:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMTcvMTE3ZjUwNzJjYmRhNGNiYTkwZGJiNzI0YzMyYjdkOWUuanBlZw",
+                        "2X": "https://img.stage.05.ru/resize/kYrt2IiQCFxtzwGS2AMXIllYYGlMrtsDY9KGs8uwMQU//rs:fit:100:100:0:0/q:100/bG9jYWw6Ly8vdXBsb2FkL2libG9jay8xMTcvMTE3ZjUwNzJjYmRhNGNiYTkwZGJiNzI0YzMyYjdkOWUuanBlZw"
+                    }
+                },
+                "FREE_DELIVERY": false,
+                "QUANTITY": null,
+                "PRODUCT_ID": "618523"
+            }
+        }
+    }
+}

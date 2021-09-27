@@ -1,0 +1,8 @@
+access_token: 2c8f68ca-1135-11ec-b6e0-8a36c8533520
+client_id: main
+client_secret: ac178876-b829-11e9-b8c8-ac1f6b94fd9c
+headers:
+  Authorization: Bearer 2c8f68ca-1135-11ec-b6e0-8a36c8533520
+host: https://test.05.ru/api/v2
+refresh_token: 2c8fa314-1135-11ec-b6e0-8a36c8533520
+variables: null

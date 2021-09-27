@@ -1,0 +1,1 @@
+https://stage.05.ru/api/v2/service/delete/users/79996666666?access_token=b0e90087-f447-11eb-9c0e-f2dfe89e1ff8

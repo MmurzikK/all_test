@@ -1,0 +1,53 @@
+version: "3"
+
+services:
+    jenkins:
+        build: ./modules/jenkins
+        container_name: api-test-jenkins
+        volumes:
+            - ./userdata/result:/var/jenkins_home/workspace:consistent
+            - ./userdata/jenkins_home:/var/jenkins_home:consistent
+            - ./userdata/environment:/environment
+        ports:
+            - 8080:8080
+    python:
+        build: ./modules/python
+        container_name: api-test-python
+        environment:
+            DIRECTORY: /api_test
+            SUCCESS: 200
+            ERROR: 424
+            PORT: 80
+        volumes:
+            - ./userdata/api_test:/api_test:consistent
+            - ./userdata/result:/result:consistent
+            - ./userdata/environment:/environment
+    pythonui:
+        build: ./modules/pythonui
+        container_name: ui-test-python
+        environment:
+            DIRECTORY: /auto_test
+            SUCCESS: 200
+            ERROR: 424
+            PORT: 80
+        volumes:
+            - ./userdata/result:/result:consistent
+            - ./userdata/environment:/environment
+            - ./userdata/auto_test:/auto_test:consistent
+    jmeter:
+        build: ./modules/jmeter
+        container_name: jmeter-test-python
+        environment:
+            DIRECTORY: /apache_jmeter
+            SUCCESS: 200
+            ERROR: 424
+            PORT: 80
+        volumes:
+            - ./userdata/apache_jmeter:/apache_jmeter:consistent
+            - ./userdata/result:/result:consistent                  
+networks:
+  static-network:
+    ipam:
+      config:
+        - subnet: 172.24.0.0/16
+                         
